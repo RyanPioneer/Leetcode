@@ -10,13 +10,18 @@ using namespace std;
 
 class Solution {
 public:
-    int searchInsert(vector<int>& nums, int target) {
-        return lower_bound(nums.begin(), nums.end(), target) - nums.begin();
-    }
-
     /*int searchInsert(vector<int>& nums, int target) {
+        return lower_bound(nums.begin(), nums.end(), target) - nums.begin();
+    }*/
+
+    int searchInsert(vector<int>& nums, int target) {
+        if (nums.back() < target) //Returns a reference to the last element in the vector.
+            return nums.size();
+        if (nums[0] > target)
+            return 0;
         int ans = (nums.size()-1)/2, upperBound = nums.size()-1, lowerBound = 0;
         while (1) {
+            //cout<<ans<<endl;
             if (nums[ans] == target)
                 return ans;
             else if (nums[ans] > target) {
@@ -35,7 +40,7 @@ public:
                 }
             }
         }
-    }*/
+    }
 
     /*int searchInsert(vector<int>& nums, int target) {
         if (nums.back() < target) return nums.size();
@@ -51,5 +56,13 @@ public:
 };
 
 int main () {
-
+    vector<int> nums;
+    int a, target;
+    for (int i=0; i<4; i++) {
+        cin>>a;
+        nums.push_back(a);
+    }
+    cin>>target;
+    Solution s;
+    cout<<s.searchInsert(nums,target);
 }
