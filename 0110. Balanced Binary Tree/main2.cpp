@@ -17,14 +17,13 @@ struct TreeNode {
 
 class Solution {
 private:
-    bool helper(TreeNode* root, int &height){
-        if(!root){
+    bool helper(TreeNode* root, int &height) {
+        if(!root) {
             height = 0;
             return true;
         }
-        int l_h = -1, r_h = -1;
-        if(helper(root -> left, l_h) && helper(root -> right, r_h)){
-            // 此时l_h和r_h已被正确赋值为左右子树的高
+        int l_h = -1, r_h = -1; // Note!
+        if(helper(root -> left, l_h) && helper(root -> right, r_h)) {
             height = 1 + max(l_h, r_h);
             return abs(l_h - r_h) <= 1;
         }

@@ -1,5 +1,5 @@
 // Source: https://leetcode.com/problems/remove-nth-node-from-end-of-list/
-// Date: 2021/7/9
+// Date: 2021/7/10
 
 #include<iostream>
 using namespace std;
