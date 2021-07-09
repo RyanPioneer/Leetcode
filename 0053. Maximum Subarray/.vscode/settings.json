@@ -1,0 +1,38 @@
+{
+    "workbench.iconTheme": "eq-material-theme-icons-darker",
+    "workbench.colorTheme": "Material Theme Darker High Contrast",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "java.semanticHighlighting.enabled": true,
+    "editor.fontSize": 16,
+    "C_Cpp.updateChannel": "Insiders",
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter.notebook.ipynb"
+    },
+    "C_Cpp.default.cppStandard": "c++17",
+    "security.workspace.trust.untrustedFiles": "open",
+    "java.project.importOnFirstTimeStartup": "automatic",
+    "C_Cpp.default.cStandard": "c17",
+    "C_Cpp.experimentalFeatures": "Enabled",
+    "C_Cpp.configurationWarnings": "Disabled",
+    "C_Cpp.errorSquiggles": "Disabled",
+    "[cpp]": {
+    
+        "editor.wordBasedSuggestions": false,
+        "editor.suggest.insertMode": "replace",
+        "editor.semanticHighlighting.enabled": true
+    },
+    "terminal.integrated.inheritEnv": false,
+    "files.associations": {
+        "*.cpp": "cpp"
+    },
+    "liveServer.settings.AdvanceCustomBrowserCmdLine": "",
+    "clang.cxxflags": ["-std=c++2a"]
+    
+}
