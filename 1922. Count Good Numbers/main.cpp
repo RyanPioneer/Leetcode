@@ -11,8 +11,8 @@ using namespace std;
 class Solution {
 public:
     int countGoodNumbers(long long n) {
-        long long a = n/2;  //even
-        long long b = n-a;  //odd
+        long long a = n/2;  //odd
+        long long b = n-a;  //even
         return myPow(a,4)*myPow(b,5)%MOD;
     }
 
