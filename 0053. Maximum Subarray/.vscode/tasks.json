@@ -14,7 +14,7 @@
                 "main", // executable
                 "main.cpp", // main file
                 //"function.cpp", 
-                "-g", 
+                "-g",
                 "-v"
             ],
             "problemMatcher": ["$gcc"]
