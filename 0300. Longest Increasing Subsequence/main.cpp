@@ -1,7 +1,7 @@
 // Source: https://leetcode.com/problems/longest-increasing-subsequence/
 // Date: 2021/7/10
 // Dynamic Programming
-// O(n log(n))
+// O(nlog(n))
 
 #include<iostream>
 #include<vector>
@@ -9,12 +9,28 @@ using namespace std;
 
 class Solution {
 public:
-    int ans[2501] = {0};
     int lengthOfLIS(vector<int>& nums) {
-        int len = nums.size();
-
+        int sz = nums.size(), len = 1;
+        vector<int>ans(sz+1,-10001);
+        if(sz == 0)
+            return 0;
+        ans[len] = nums[0];
+        for(int i=1; i<sz; i++) {
+            if(nums[i] > ans[len]) 
+                ans[++len] = nums[i];
+            else {
+                vector<int>::iterator it = lower_bound(ans.begin(), ans.begin()+len+1, nums[i]);
+                if(*it != nums[i]) 
+                    *it = nums[i];
+            }
+        }
+        return len;
     }
 };
+
+int main() {
+  
+}
 
 
 

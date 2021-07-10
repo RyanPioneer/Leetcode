@@ -8,7 +8,7 @@
             "type": "shell",
             "command": "clang++",
             "args": [
-                "-std=c++17",
+                "-std=c++2a",
                 "-stdlib=libc++",
                 "-o",
                 "main", // executable
