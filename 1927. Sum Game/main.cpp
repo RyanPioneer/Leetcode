@@ -1,5 +1,6 @@
 // Source: https://leetcode.com/problems/sum-game/
 // Date: 2021/7/11
+// num.length is even.
 
 #include <iostream>
 #include <string>
@@ -8,7 +9,8 @@ using namespace std;
 class Solution {
 public:
     bool sumGame(string num) {
-        
+        int len = num.length();
+
     }
 };
 
