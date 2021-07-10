@@ -1,21 +1,16 @@
-// Source: https://leetcode.com/problems/maximum-subarray/
+// Source: https://leetcode.com/problems/sum-game/
 // Date: 2021/7/11
-// Topic: DP, divide and conquer
 
 #include <iostream>
-#include <vector>
+#include <string>
 using namespace std;
 
 class Solution {
 public:
-    int maxSubArray(vector<int> &nums) {
+    bool sumGame(string num) {
         
     }
 };
-
-int main() {
-    
-}
 
 static const auto io_sync_off = []() {
     // turn off sync
