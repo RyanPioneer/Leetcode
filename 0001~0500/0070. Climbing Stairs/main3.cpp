@@ -1,13 +1,15 @@
 // Source: https://leetcode.com/problems/climbing-stairs/
 // Date: 2021/7/11
 // Constraints: 1 <= n <= 45
+// Reference: https://medium.com/@andrew.chamberlain/the-linear-algebra-view-of-the-fibonacci-sequence-4e81f78935a3
+// Reference: https://math.stackexchange.com/questions/867394/how-to-compute-the-nth-number-of-a-general-fibonacci-sequence-with-matrix-multip
+// Skill: Any linear recurrence relation can be solved using matrix exponentiation
 
 #include<iostream>
 #include<vector>
 using namespace std;
 
 class Solution {
-
 public:
     int climbStairs(int n) {
         if(n == 1)
