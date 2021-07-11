@@ -1,6 +1,6 @@
-// Source: https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
+// Source: https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/
 // Date: 2021/7/11
-// Constraints: preorder and inorder consist of unique values.
+// Constraints: inorder and postorder consist of unique values.
 
 #include<iostream>
 #include<string>
@@ -19,28 +19,43 @@ struct TreeNode {
 
 class Solution {
 public:
-    int index = 0, i;
-    TreeNode* buildTree(vector<int>& preorder, vector<int>& inorder) {
+    int index;
+    TreeNode* buildTree(vector<int>& inorder, vector<int>& postorder) {
+        index = postorder.size()-1;
+        return buildTree2(inorder, postorder);
+    }
+
+    TreeNode* buildTree2(vector<int>& inorder, vector<int>& postorder) {
         if(inorder.size() == 0) 
             return NULL;
         if(inorder.size() == 1) {
-            TreeNode* curNode = new TreeNode(preorder[index++]);
+            TreeNode* curNode = new TreeNode(postorder[index--]);
             return curNode;
         }
-        TreeNode* curNode = new TreeNode(preorder[index]);
+        TreeNode* curNode = new TreeNode(postorder[index]);
+        int i;
         for(i = 0; i < inorder.size(); i++) {
-            if(inorder[i] == preorder[index]) {
-                index++;
+            if(inorder[i] == postorder[index]) {
+                index--;
                 break;
             }
         }
         vector<int>leftHalf(inorder.begin(), inorder.begin()+i);
         vector<int>rightHalf(inorder.begin()+i+1, inorder.end());
-        curNode->left = buildTree(preorder, leftHalf);
-        curNode->right = buildTree(preorder, rightHalf);
+        curNode->right = buildTree2(rightHalf, postorder);
+        curNode->left = buildTree2(leftHalf, postorder);
         return curNode;
     }
+
 };
+
+int main() {
+    vector v1{9,3,15,20,7};
+    vector v2{9,15,7,20,3};
+    Solution s;
+    TreeNode* head = s.buildTree(v1, v2);
+    cout<<head->val;
+}
 
 static const auto io_sync_off = []() {
     // turn off sync
