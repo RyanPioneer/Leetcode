@@ -1,6 +1,5 @@
 {
     "clang.cxxflags": [
         "-std=c++2a"
-    ],
-    "C_Cpp.errorSquiggles": "Disabled"
+    ]
 }
