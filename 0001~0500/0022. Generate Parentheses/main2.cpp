@@ -15,7 +15,7 @@ using namespace std;
 
 class Solution {
 public:
-    vector<string> generateParenthesis(int n){
+    vector<string> generateParenthesis(int n) {
         if(n == 0)
             return {};
         vector<vector<string>> res(n + 1);
