@@ -16,10 +16,6 @@ using namespace std;
 class Solution {
 public:
     bool containsNearbyDuplicate(vector<int>& nums, int k) {
-        if(nums.size() <= 1)
-            return false;
-        if(k <= 0)
-            return false;
         unordered_set<int> record;
         for(int i = 0 ; i < nums.size() ; i ++) {
             if(record.find(nums[i]) != record.end())
