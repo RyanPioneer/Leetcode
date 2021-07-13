@@ -20,4 +20,4 @@ int equalSubstring(string s, string t, int k) {
                 k += abs(s[i] - t[i++]);
         }
         return j - i;
-    }
+}
