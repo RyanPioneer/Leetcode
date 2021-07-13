@@ -17,17 +17,12 @@ using namespace std;
 class Solution {
 public:
     int equalSubstring(string s, string t, int maxCost) {
-        int right = 0, left = 0, sum = 0, ans = 0;
-        while(right < s.length()) {
-            sum += abs(s[right] - t[right]);
-            right++;
-            while(sum > maxCost) {
-                sum -= abs(s[left] - t[left]);
-                left++;
-            }
-            ans = (ans > (right - left))?ans:(right - left);
+        int right = 0, left = 0;
+        for(; right<s.length(); right++) {
+            if((maxCost -= abs(s[right] - t[right])) < 0)
+                maxCost += abs(s[left] - t[left++]);
         }
-        return ans;
+        return right - left;
     }
 };
 
