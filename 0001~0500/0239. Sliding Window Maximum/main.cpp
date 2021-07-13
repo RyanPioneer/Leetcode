@@ -6,6 +6,7 @@
  *    1 <= nums.length <= 10^5
  *    -10^4 <= nums[i] <= 10^4
  * Reference: https://www.geeksforgeeks.org/sliding-window-maximum-maximum-of-all-subarrays-of-size-k/
+ * Reference: https://iter01.com/521975.html
  * Time Complexity: O(n). 
  * It seems more than O(n) at first look. It can be observed that
  * every element of array is added and removed at most once.
