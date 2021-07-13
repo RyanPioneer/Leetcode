@@ -4,6 +4,7 @@
  * Skill: Dynamic Programming
  * Time Complexity: O(n)
  * Space Complexity: O(n)
+ * Reference: https://leetcode.com/problems/sliding-window-maximum/discuss/65881/O(n)-solution-in-Java-with-two-simple-pass-in-the-array
  */
 
 #include<iostream>
@@ -39,6 +40,16 @@ public:
         return res;
     }
 };
+
+int main() {
+   vector v1{1,3,1,2,0,5};
+   Solution s;
+   vector ans = s.maxSlidingWindow(v1, 3);
+   for(auto i:ans)
+    cout<<i<<' ';
+}
+
+
 static const auto io_sync_off = []() {
     // turn off sync
     std::ios::sync_with_stdio(false);
