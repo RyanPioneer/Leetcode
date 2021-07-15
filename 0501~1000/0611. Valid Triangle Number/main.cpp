@@ -6,6 +6,8 @@
  *      1 <= nums.length <= 1000
  *      0 <= nums[i] <= 1000
  * Runtime: 128 ms
+ * Time complexity: O(n^2)
+ * Space complexity: Sorting takes O(log n) space
  */
 
 #include<iostream>
