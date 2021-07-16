@@ -3,7 +3,7 @@
  * Date: 2021/7/16
  * Skill: DP
  * Runtime: 8 ms
- * Time complexity: O(max(n, m))
+ * Time complexity: O(n*m)
  * Space complexity: O(n)
  * Constraints: 
  *      0 <= word1.length, word2.length <= 500
