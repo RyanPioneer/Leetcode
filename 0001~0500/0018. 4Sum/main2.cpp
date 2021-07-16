@@ -4,8 +4,8 @@
  * Skill: Two Pointers
  * Runtime: 8 ms, faster than 98.53% of C++ online submissions
  * Memory Usage: 13.6 MB, less than 19.86% of C++ online submissions
- * Time complexity: 
- * Space complexity: 
+ * Time complexity: O(n^3)
+ * Space complexity: O(n) for recursion
  * Constraints: 
  *      1 <= nums.length <= 200
  *      -10^9 <= nums[i], target <= 10^9

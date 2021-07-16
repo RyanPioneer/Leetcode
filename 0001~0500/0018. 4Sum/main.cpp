@@ -2,10 +2,10 @@
  * Source: https://leetcode.com/problems/4sum/
  * Date: 2021/7/17
  * Skill: Two Pointers
- * Runtime: 116 ms, faster than 24.91% of C++ online submissions
- * Memory Usage: 12.9 MB, less than 83.39% of C++ online submissions
- * Time complexity: 
- * Space complexity: 
+ * Runtime: 32 ms, faster than 88.88% of C++ online submissions
+ * Memory Usage: 12.9 MB, less than 83.37% of C++ online submissions
+ * Time complexity: O(n^3)
+ * Space complexity: O(1)
  * Constraints: 
  *      1 <= nums.length <= 200
  *      -10^9 <= nums[i], target <= 10^9
@@ -24,7 +24,11 @@ public:
         sort(nums.begin(), nums.end());
         int n = nums.size();
         vector<vector<int>> ans;
+        if(n < 4 || target > nums.back() * 4)
+            return ans;
         for (int i = 0; i < n-3; i++) {
+            if (nums[i] * 4 > target)
+                return ans;
             if (i && nums[i] == nums[i-1])
                 continue;
             for (int j = i+1; j < n-2; j++) {
