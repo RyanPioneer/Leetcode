@@ -1,7 +1,7 @@
 /** 
  * Source: https://leetcode.com/problems/unique-binary-search-trees-ii/
  * Date: 2021/7/16
- * Skill: Recursion
+ * Skill: Divid & conquer, Recursion
  * Recursion: Trees(n) = Trees(0)*Trees(n-1) + Trees(1)*Trees(n-2) + … + Tress(n-1)*Trees(0)
  * Runtime: 16 ms, faster than 79.00% of C++ online submissions
  * Memory Usage: 16.7 MB, less than 5.80% of C++ online submissions
