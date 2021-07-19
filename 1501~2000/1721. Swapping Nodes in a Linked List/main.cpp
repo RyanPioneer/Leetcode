@@ -39,9 +39,7 @@ public:
             if (i == rightNum) right = temp;
             temp = temp->next;
         }
-        int t = left->val;
-        left->val = right->val;
-        right->val = t;
+        swap(left->val, right->val);
         return head;
     }
 };
