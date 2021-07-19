@@ -3,7 +3,7 @@
  * Date: 2021/7/19
  * Skill: 
  * Runtime:  524 ms, faster than 99.95% of C++ online submissions
- * Memory Usage: 180.3 MB, less than 15.24% of C++ online submissions
+ * Memory Usage: 180 MB, less than 90.85% of C++ online submissions
  * Time complexity: O(n)
  * Space complexity: O(1)
  * Constraints: 
@@ -29,7 +29,7 @@ class Solution {
 public:
     ListNode* swapNodes(ListNode* head, int k) {
         int sz = 1;
-        ListNode* temp = head, *left, *right;
+        ListNode* temp = head, *left = NULL, *right = NULL;
         while ((temp = temp->next)) sz++;
         if (sz == 1)  return head;
         int leftNum = k, rightNum = sz-k+1;
@@ -37,6 +37,7 @@ public:
         for (int i = 1; i <= sz; i++) {
             if (i == leftNum) left = temp;
             if (i == rightNum) right = temp;
+            if (left && right) break;
             temp = temp->next;
         }
         swap(left->val, right->val);
