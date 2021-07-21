@@ -4,8 +4,8 @@
  * Skill: Sorting
  * Runtime: 40 ms, faster than 99.75% of C++ online submissions
  * Memory Usage: 32.4 MB, less than 97.61% of C++ online submissions
- * Time complexity:
- * Space complexity: 
+ * Time complexity: O(n * log n) (for sorting
+ * Space complexity: O(log n) (for sorting
  * Constraints: 
  *      1 <= nums.length <= 2 * 10^4
  *      -10^9 <= nums[i] <= 10^9
