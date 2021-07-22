@@ -22,6 +22,7 @@ public:
         for (int i = 1; i < n; i++) 
             for (int j = 1; j < 5; j++) 
                 cur[j] = cur[j] + cur[j-1];
+        //* accumulate: https://www.geeksforgeeks.org/accumulate-and-partial_sum-in-c-stl-numeric-header/
         return accumulate(cur.begin(), cur.end(), 0);
     }
 };
