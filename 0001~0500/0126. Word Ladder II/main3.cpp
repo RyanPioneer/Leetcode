@@ -1,7 +1,7 @@
 /** 
  * Source: https://leetcode.com/problems/word-ladder-ii/
  * Date: 2021/7/25
- * Skill: BFS + Backtracking
+ * * Skill: Bidirectional Breadth-First Search (BFS) + Backtracking
  * Runtime: 0 ms, faster than 100.00% of C++ online submissions
  * Memory Usage: 9 MB, less than 81.36% of C++ online submissions
  * Time complexity:
