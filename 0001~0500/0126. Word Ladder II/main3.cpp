@@ -2,6 +2,14 @@
  * Source: https://leetcode.com/problems/word-ladder-ii/
  * Date: 2021/7/25
  * * Skill: Bidirectional Breadth-First Search (BFS) + Backtracking
+ * *    Perform a bidirectional BFS. Initialize two queues, 
+ * *    forwardQueue with beginWord and backwardQueue with endWord. 
+ * *    At each iteration add the edges to the adjacency list adjList 
+ * *    by extending the shorter queue. 
+ * *    The parameter direction is used to decide in which direction 
+ * *    the edges should be connected, where 1 indicates towards endWord 
+ * *    (down the ladder) and vice versa. Also once a level is finished, 
+ * *    remove the forwardQueue words from the wordList.
  * Runtime: 0 ms, faster than 100.00% of C++ online submissions
  * Memory Usage: 9 MB, less than 81.36% of C++ online submissions
  * Time complexity:
