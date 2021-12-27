@@ -11,7 +11,7 @@
                 "-std=c++2a",
                 "-o",
                 "main", // executable
-                "main2.cpp", // main file
+                "main.cpp", // main file
                 //"function.cpp", 
                 "-g", 
                 "-v"
