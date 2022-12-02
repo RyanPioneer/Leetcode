@@ -2,8 +2,8 @@
 Source: https://leetcode.com/problems/determine-if-two-strings-are-close/
 Date: 2022/12/2
 Skill: 
-Runtime: 
-Memory Usage: 
+Runtime: 141 ms, faster than 97.60%
+Memory Usage: 15.3 MB, less than 43.60% 
 Time complexity: 
 Space complexity: 
 Constraints: 
@@ -12,7 +12,9 @@ Constraints:
 """
 
 from typing import List
+from collections import Counter
 
 class Solution:
     def closeStrings(self, word1: str, word2: str) -> bool:
-        
+        return set(word1) == set(word2) and Counter(Counter(word1).values())\
+                == Counter(Counter(word2).values())
