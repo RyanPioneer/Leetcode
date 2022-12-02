@@ -1,7 +1,15 @@
-// Source: https://leetcode.com/problems/min-cost-climbing-stairs/
-// Date: 2021/7/11
-// 2 <= cost.length <= 1000
-// 0 <= cost[i] <= 999
+/**
+ * Source: https://leetcode.com/problems/min-cost-climbing-stairs/
+ * Date: 2022/7/11
+ * Skill:
+ * Runtime:
+ * Memory Usage:
+ * Time complexity:
+ * Space complexity:
+ * Constraints:
+ *
+ */
+
 #include<iostream>
 #include<vector>
 using namespace std;
@@ -16,3 +24,11 @@ public:
         return minCost[cost.size()];
     }
 };
+
+static const auto io_sync_off = []() {
+    //* turn off sync
+    std::ios::sync_with_stdio(false);
+    //* untie in/out streams
+    std::cin.tie(nullptr);
+    return nullptr;
+}();

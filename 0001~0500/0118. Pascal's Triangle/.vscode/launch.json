@@ -1,0 +1,16 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": true,
+      "externalConsole": false,
+      "cwd": "/Users/ryanpionee2/Github/Leetcode/0001~0500/0118. Pascal's Triangle",
+      "program": "/Users/ryanpionee2/Github/Leetcode/0001~0500/0118. Pascal's Triangle/build/Debug/outDebug",
+      "MIMode": "gdb"
+    }
+  ]
+}

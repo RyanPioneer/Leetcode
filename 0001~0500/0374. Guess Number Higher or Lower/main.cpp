@@ -2,13 +2,14 @@
  * Source: https://leetcode.com/problems/guess-number-higher-or-lower/
  * Date: 2021/7/15
  * Skill: Binary Search
- * Runtime: 
+ * Runtime: 0 ms, faster than 100.00%
+ * Memory Usage: 5.7 MB, less than 89.06%
  * Time complexity: O(log n)
  * Space complexity: 
  * Constraints: 
  *      1 <= pick <= n
  *      1 <= n <= 2^31 - 1
- * Note: Do NOT use (n+left)/2 in case of overflow!!!
+ * ! Note: Do NOT use (n+left)/2 in case of overflow!!!
  */
 
 #include<iostream>

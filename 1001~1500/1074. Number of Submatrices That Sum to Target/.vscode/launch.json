@@ -1,0 +1,16 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": true,
+      "externalConsole": false,
+      "cwd": "/Users/ryanpionee2/Github/Leetcode/1001~1500/1074. Number of Submatrices That Sum to Target",
+      "program": "/Users/ryanpionee2/Github/Leetcode/1001~1500/1074. Number of Submatrices That Sum to Target/build/Debug/outDebug",
+      "MIMode": "gdb"
+    }
+  ]
+}

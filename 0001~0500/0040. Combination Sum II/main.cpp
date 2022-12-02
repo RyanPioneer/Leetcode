@@ -1,6 +1,6 @@
 /** 
  * Source: https://leetcode.com/problems/combination-sum-ii/
- * Date: 2021/7/19
+ * Date: 2022/7/12
  * Skill: 
  * Runtime: 
  * Memory Usage: 
@@ -12,13 +12,15 @@
  *      The solution set must not contain duplicate combinations.
  */
 
-#include<iostream>
-#include<vector>
+#include <iostream>
+#include <vector>
+#include <algorithm>
 using namespace std;
 
 class Solution {
 public:
     vector<vector<int>> combinationSum2(vector<int>& candidates, int target) {
+        sort(candidates.begin(), candidates.end());
         
     }
 };

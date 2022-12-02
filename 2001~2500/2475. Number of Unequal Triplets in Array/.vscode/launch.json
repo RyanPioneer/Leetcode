@@ -1,0 +1,16 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": true,
+      "externalConsole": false,
+      "cwd": "/Users/ryanpionee2/Github/Leetcode/2001~2500/2475. Number of Unequal Triplets in Array",
+      "program": "/Users/ryanpionee2/Github/Leetcode/2001~2500/2475. Number of Unequal Triplets in Array/build/Debug/outDebug",
+      "MIMode": "gdb"
+    }
+  ]
+}

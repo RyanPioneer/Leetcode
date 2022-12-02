@@ -1,6 +1,14 @@
-// Source: https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
-// Date: 2021/7/11
-// Constraints: preorder and inorder consist of unique values.
+/** 
+ * Source: https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
+ * Date: 2021/7/11
+ * Skill: 
+ * Runtime: 
+ * Memory Usage: 
+ * Time complexity: 
+ * Space complexity: 
+ * Constraints: 
+ *     
+ */
 
 #include<iostream>
 #include<string>

@@ -1,6 +1,14 @@
-// Source: https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/
-// Date: 2021/7/11
-// BFS
+/** 
+ * Source: https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/
+ * Date: 2021/7/11
+ * Skill: 
+ * Runtime: 
+ * Memory Usage: 
+ * Time complexity: 
+ * Space complexity: 
+ * Constraints: 
+ *      
+ */
 
 #include<iostream>
 #include<vector>

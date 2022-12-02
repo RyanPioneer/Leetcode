@@ -1,0 +1,16 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": true,
+      "externalConsole": false,
+      "cwd": "/Users/ryanpionee2/Github/Leetcode/0501~1000/0746. Min Cost Climbing Stairs",
+      "program": "/Users/ryanpionee2/Github/Leetcode/0501~1000/0746. Min Cost Climbing Stairs/build/Debug/outDebug",
+      "MIMode": "gdb"
+    }
+  ]
+}
