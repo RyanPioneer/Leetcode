@@ -23,19 +23,19 @@ class Solution:
     def rangeSumBST(self, root: Optional[TreeNode], low: int, high: int) -> int:
         self.res=0
         
-        def pre_order(root):
+        def in_order(root):
             if root.val < low and root.right:
-                pre_order(root.right)
+                in_order(root.right)
             elif root.val >= low and root.val <= high:
                 if root.left:
-                     pre_order(root.left)
+                     in_order(root.left)
                 self.res += root.val
                 if root.right:
-                    pre_order(root.right)
+                    in_order(root.right)
             else:
                 if root.left:
-                     pre_order(root.left)
+                     in_order(root.left)
         
-        pre_order(root)
+        in_order(root)
         return self.res
                 
