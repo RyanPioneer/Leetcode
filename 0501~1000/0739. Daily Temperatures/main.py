@@ -7,7 +7,8 @@ Memory Usage:
 Time complexity: 
 Space complexity: 
 Constraints: 
-    
+    1 <= temperatures.length <= 10^5
+    30 <= temperatures[i] <= 100
 """
 
 from typing import List
