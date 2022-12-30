@@ -1,6 +1,6 @@
 /** 
  * Source: https://leetcode.com/problems/combination-sum-ii/
- * Date: 2022/7/12
+ * Date: 2022/12/24
  * Skill: 
  * Runtime: 
  * Memory Usage: 
@@ -19,8 +19,13 @@ using namespace std;
 
 class Solution {
 public:
+    vector<vector<int>> res; 
     vector<vector<int>> combinationSum2(vector<int>& candidates, int target) {
         sort(candidates.begin(), candidates.end());
+        
+    }
+    
+    void backTracking(vector<int>& candidates, int target, int index, vector<int>& members) {
         
     }
 };
