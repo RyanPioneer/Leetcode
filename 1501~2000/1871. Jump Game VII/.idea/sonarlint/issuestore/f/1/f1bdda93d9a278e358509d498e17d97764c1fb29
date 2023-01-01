@@ -1,0 +1,4 @@
+
+jpython:S117"SRename this parameter "maxJump" to match the regular expression ^[_a-z][a-z0-9_]*$.( Ù´€
+jpython:S117"SRename this parameter "minJump" to match the regular expression ^[_a-z][a-z0-9_]*$.( Ù´€
+cpython:S100"LRename method "canReach" to match the regular expression ^[a-z_][a-z0-9_]*$.( Ù´€

@@ -2,8 +2,8 @@
 Source: https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
 Date: 2022/12/31
 Skill: Iterative without parent pointers
-Runtime: 70 ms, faster than 92.28%
-Memory Usage: 18.7 MB, less than 93.71%
+Runtime: 75 ms, faster than 84.40%
+Memory Usage: 18.3 MB, less than 97.76%
 Time complexity:
 Space complexity:
 Constraints:
@@ -21,20 +21,36 @@ class TreeNode:
         self.left = None
         self.right = None
 
+
 class Solution:
-
-    # Three static flags to keep track of post-order traversal.
-
-    # Both left and right traversal pending for a node.
-    # Indicates the nodes children are yet to be traversed.
     BOTH_PENDING = 2
-    # Left traversal done.
     LEFT_DONE = 1
-    # Both left and right traversal done for a node.
-    # Indicates the node can be popped off the stack.
     BOTH_DONE = 0
 
-    def lowestCommonAncestor(self, root, p, q):
+    def lowestCommonAncestor(self, root: 'TreeNode', p: 'TreeNode', q: 'TreeNode') -> 'TreeNode':
+        stack = [(root, Solution.BOTH_PENDING)]
+        one_node_found = False
+        LCA_index = -1
+        while stack:
+            cur_node, cur_state = stack.pop()
+            if cur_state != Solution.BOTH_DONE:
+                if cur_state == Solution.BOTH_PENDING:
+                    if cur_node == p or cur_node == q:
+                        if one_node_found:
+                            return stack[LCA_index][0]
+                        else:
+                            one_node_found = True
+                            LCA_index = len(stack)
+                    next_node = cur_node.left
+                else:
+                    next_node = cur_node.right
+                stack.append((cur_node, cur_state - 1))
+                if next_node: stack.append((next_node, Solution.BOTH_PENDING))
+            else:
+                if one_node_found and LCA_index == len(stack):
+                    LCA_index -= 1
+
+        return None
 
 
 # if __name__ == "__main__":

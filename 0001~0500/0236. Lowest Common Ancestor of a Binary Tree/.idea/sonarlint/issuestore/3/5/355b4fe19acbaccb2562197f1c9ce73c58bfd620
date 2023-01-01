@@ -1,0 +1,4 @@
+
+xpython:S117!"ZRename this local variable "LCA_index" to match the regular expression ^[_a-z][a-z0-9_]*$.(ûÁüî8Üîë´Ö0
+tpython:S100"XRename method "lowestCommonAncestor" to match the regular expression ^[a-z_][a-z0-9_]*$.(Ş¨ùÿÿÿÿ
+qpython:S3776"TRefactor this function to reduce its Cognitive Complexity from 26 to the 15 allowed.(Ş¨ùÿÿÿÿ
