@@ -1,0 +1,6 @@
+
+jpython:S117"TRename this parameter "colCosts" to match the regular expression ^[_a-z][a-z0-9_]*$.(µ´Æ
+ipython:S117"SRename this parameter "homePos" to match the regular expression ^[_a-z][a-z0-9_]*$.(µ´Æ
+jpython:S117"TRename this parameter "rowCosts" to match the regular expression ^[_a-z][a-z0-9_]*$.(µ´Æ
+jpython:S117"TRename this parameter "startPos" to match the regular expression ^[_a-z][a-z0-9_]*$.(µ´Æ
+apython:S100"KRename method "minCost" to match the regular expression ^[a-z_][a-z0-9_]*$.(µ´Æ
