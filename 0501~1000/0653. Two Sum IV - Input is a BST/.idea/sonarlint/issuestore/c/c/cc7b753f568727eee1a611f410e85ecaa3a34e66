@@ -1,0 +1,6 @@
+
+qpython:S100"NRename method "findTarget" to match the regular expression ^[a-z_][a-z0-9_]*$.(­û¶Ûýÿÿÿÿ8­”Â­Ø0
+mpython:S1542"NRename function "pushLeft" to match the regular expression ^[a-z_][a-z0-9_]*$.(þÒàÛ8­”Â­Ø0
+qpython:S1542!"MRename function "getLeft" to match the regular expression ^[a-z_][a-z0-9_]*$.(ÀÀŽ¢ýÿÿÿÿ8­”Â­Ø0
+spython:S1542("ORename function "pushRight" to match the regular expression ^[a-z_][a-z0-9_]*$.(öÞü™øÿÿÿÿ8­”Â­Ø0
+fpython:S1542-"NRename function "getRight" to match the regular expression ^[a-z_][a-z0-9_]*$.(´ü®‰
