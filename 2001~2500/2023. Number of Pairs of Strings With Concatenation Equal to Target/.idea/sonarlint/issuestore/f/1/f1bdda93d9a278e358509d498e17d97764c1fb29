@@ -1,0 +1,3 @@
+
+npython:S117"WRename this local variable "myDict" to match the regular expression ^[_a-z][a-z0-9_]*$.(όΊν”
+jpython:S100"NRename method "numOfPairs" to match the regular expression ^[a-z_][a-z0-9_]*$.(ή‹€λύÿÿÿÿ

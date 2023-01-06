@@ -1,0 +1,6 @@
+
+upython:S117%"^Rename this local variable "leftGenerator" to match the regular expression ^[_a-z][a-z0-9_]*$.(¯³ŒÉ
+{python:S117&"_Rename this local variable "rightGenerator" to match the regular expression ^[_a-z][a-z0-9_]*$.(Œ„Çéúÿÿÿÿ
+jpython:S100"NRename method "findTarget" to match the regular expression ^[a-z_][a-z0-9_]*$.(­û¶Ûýÿÿÿÿ
+jpython:S1542"MRename function "inOrder" to match the regular expression ^[a-z_][a-z0-9_]*$.(šì âÿÿÿÿÿ
+rpython:S1542"URename function "inOrderReversed" to match the regular expression ^[a-z_][a-z0-9_]*$.(ŸäÝ°úÿÿÿÿ
