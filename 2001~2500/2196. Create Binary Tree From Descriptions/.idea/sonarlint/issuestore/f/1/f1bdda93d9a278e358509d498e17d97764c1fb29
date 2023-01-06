@@ -1,0 +1,4 @@
+
+mpython:S117"WRename this local variable "isLeft" to match the regular expression ^[_a-z][a-z0-9_]*$.(šˆ®8
+kpython:S100"TRename method "createBinaryTree" to match the regular expression ^[a-z_][a-z0-9_]*$.(¼œùŸ
+Hpython:S5806"+Rename this variable; it shadows a builtin.(É‚²Åúÿÿÿÿ

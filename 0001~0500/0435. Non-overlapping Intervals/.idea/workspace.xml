@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3582f9ec-1dcc-4eb9-b01f-8495cc688d0b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../0039. Combination Sum/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0039. Combination Sum/.idea/0039. Combination Sum.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0039. Combination Sum/.idea/0039. Combination Sum2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0039. Combination Sum/.idea/sonarlint/issuestore/6/8/682a50d19e416195436708e48c7761923b8d6651" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0039. Combination Sum/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0039. Combination Sum/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0040. Combination Sum II/.idea/0040. Combination Sum II.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0040. Combination Sum II/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0056. Merge Intervals/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0056. Merge Intervals/.idea/0056. Merge Intervals.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0056. Merge Intervals/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0056. Merge Intervals/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0056. Merge Intervals/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0056. Merge Intervals/.idea/sonarlint/issuestore/6/8/682a50d19e416195436708e48c7761923b8d6651" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0056. Merge Intervals/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0056. Merge Intervals/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0056. Merge Intervals/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0056. Merge Intervals/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0077. Combinations/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0077. Combinations/.idea/0077. Combinations.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0077. Combinations/.idea/sonarlint/issuestore/c/c/cc7b753f568727eee1a611f410e85ecaa3a34e66" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0077. Combinations/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0077. Combinations/main2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0092. Reverse Linked List II/.idea/0092. Reverse Linked List II.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0092. Reverse Linked List II/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0092. Reverse Linked List II/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0092. Reverse Linked List II/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0092. Reverse Linked List II/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0092. Reverse Linked List II/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0092. Reverse Linked List II/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0216. Combination Sum III/.idea/0216. Combination Sum III.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0216. Combination Sum III/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0216. Combination Sum III/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0216. Combination Sum III/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0216. Combination Sum III/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0216. Combination Sum III/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0216. Combination Sum III/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0216. Combination Sum III/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0377. Combination Sum IV/.idea/0377. Combination Sum IV.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0377. Combination Sum IV/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0377. Combination Sum IV/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0377. Combination Sum IV/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0377. Combination Sum IV/.idea/sonarlint/issuestore/c/c/cc7b753f568727eee1a611f410e85ecaa3a34e66" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0377. Combination Sum IV/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0377. Combination Sum IV/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0377. Combination Sum IV/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0377. Combination Sum IV/main2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/0435. Non-overlapping Intervals.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0452. Minimum Number of Arrows to Burst Balloons/.idea/0452. Minimum Number of Arrows to Burst Balloons.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0452. Minimum Number of Arrows to Burst Balloons/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0520. Detect Capital/.idea/0520. Detect Capital.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0520. Detect Capital/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0520. Detect Capital/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0520. Detect Capital/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0520. Detect Capital/.idea/sonarlint/issuestore/b/1/b1094ba51eacb5dd252316aae3bf58b30cc641cb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0520. Detect Capital/.idea/sonarlint/issuestore/c/c/cc7b753f568727eee1a611f410e85ecaa3a34e66" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0520. Detect Capital/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0520. Detect Capital/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0520. Detect Capital/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0520. Detect Capital/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0520. Detect Capital/main.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0520. Detect Capital/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0520. Detect Capital/main2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0729. My Calendar I/.idea/0729. My Calendar I.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0729. My Calendar I/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0729. My Calendar I/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0729. My Calendar I/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0729. My Calendar I/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0729. My Calendar I/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0729. My Calendar I/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0729. My Calendar I/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0740. Delete and Earn/.idea/0740. Delete and Earn.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0740. Delete and Earn/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0740. Delete and Earn/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0740. Delete and Earn/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0740. Delete and Earn/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0740. Delete and Earn/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0740. Delete and Earn/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0740. Delete and Earn/main.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0740. Delete and Earn/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0944. Delete Columns to Make Sorted/.idea/0944. Delete Columns to Make Sorted.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0944. Delete Columns to Make Sorted/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0944. Delete Columns to Make Sorted/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0944. Delete Columns to Make Sorted/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0944. Delete Columns to Make Sorted/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0944. Delete Columns to Make Sorted/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0944. Delete Columns to Make Sorted/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0944. Delete Columns to Make Sorted/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1501~2000/1696. Jump Game VI/.idea/sonarlint/issuestore/b/1/b1094ba51eacb5dd252316aae3bf58b30cc641cb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1501~2000/1696. Jump Game VI/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1501~2000/1696. Jump Game VI/main.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2196. Create Binary Tree From Descriptions/.idea/2196. Create Binary Tree From Descriptions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2196. Create Binary Tree From Descriptions/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2196. Create Binary Tree From Descriptions/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2196. Create Binary Tree From Descriptions/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2196. Create Binary Tree From Descriptions/.idea/sonarlint/issuestore/b/1/b1094ba51eacb5dd252316aae3bf58b30cc641cb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2196. Create Binary Tree From Descriptions/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2196. Create Binary Tree From Descriptions/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2196. Create Binary Tree From Descriptions/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2196. Create Binary Tree From Descriptions/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2196. Create Binary Tree From Descriptions/main.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2196. Create Binary Tree From Descriptions/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2244. Minimum Rounds to Complete All Tasks/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2244. Minimum Rounds to Complete All Tasks/.idea/2244. Minimum Rounds to Complete All Tasks.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2244. Minimum Rounds to Complete All Tasks/.idea/sonarlint/issuestore/c/c/cc7b753f568727eee1a611f410e85ecaa3a34e66" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2244. Minimum Rounds to Complete All Tasks/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2244. Minimum Rounds to Complete All Tasks/main2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2320. Count Number of Ways to Place Houses/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2320. Count Number of Ways to Place Houses/.idea/2320. Count Number of Ways to Place Houses.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2320. Count Number of Ways to Place Houses/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2320. Count Number of Ways to Place Houses/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2320. Count Number of Ways to Place Houses/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0040. Combination Sum II/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../0040. Combination Sum II/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1501~2000/1696. Jump Game VI/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../1501~2000/1696. Jump Game VI/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1501~2000/1696. Jump Game VI/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../1501~2000/1696. Jump Game VI/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2JtwgNgNKhGUumrdMde7t9UY0Ab" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/ryanpionee2/Github/Leetcode/0001~0500/0435. Non-overlapping Intervals&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MTCustomThemeConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="0435. Non-overlapping Intervals" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3582f9ec-1dcc-4eb9-b01f-8495cc688d0b" name="Changes" comment="" />
+      <created>1672910797542</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1672910797542</updated>
+      <workItem from="1672910798962" duration="2226000" />
+      <workItem from="1672940196382" duration="40000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
