@@ -4,27 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9c9ad4cc-046b-4b6c-b490-739b6e6d36d3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/0149. Max Points on a Line.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0155. Min Stack/.idea/0155. Min Stack.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0155. Min Stack/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0155. Min Stack/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0155. Min Stack/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0155. Min Stack/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0155. Min Stack/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0155. Min Stack/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0155. Min Stack/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2501~3000/2517. Maximum Tastiness of Candy Basket/.idea/git_toolbox_prj.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2501~3000/2517. Maximum Tastiness of Candy Basket/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../2501~3000/2517. Maximum Tastiness of Candy Basket/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../2501~3000/2517. Maximum Tastiness of Candy Basket/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../2501~3000/2517. Maximum Tastiness of Candy Basket/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../2501~3000/2517. Maximum Tastiness of Candy Basket/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="9c9ad4cc-046b-4b6c-b490-739b6e6d36d3" name="Changes" comment="2023/1/8" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,6 +28,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
     "WebServerToolWindowFactoryState": "false",
     "dart.analysis.tool.window.visible": "false",
     "last_opened_file_path": "/Users/ryanpionee2/Github/Leetcode/0001~0500/0149. Max Points on a Line",
@@ -91,8 +72,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1673136496769</updated>
-      <workItem from="1673136498134" duration="1461000" />
+      <workItem from="1673136498134" duration="1516000" />
     </task>
+    <task id="LOCAL-00001" summary="2023/1/8">
+      <created>1673138506790</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1673138506790</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -100,5 +89,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="2023/1/8" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023/1/8" />
   </component>
 </project>
