@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="13f7bec2-cc67-4667-812e-3abb71b3c0ee" name="Changes" comment="">
+    <list default="true" id="837c819a-5bed-4377-9f62-7aeae9d7f3a0" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/../../0501~1000/0525. Contiguous Array/.idea/0525. Contiguous Array.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../0501~1000/0525. Contiguous Array/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../0501~1000/0525. Contiguous Array/.idea/misc.xml" afterDir="false" />
@@ -14,19 +14,18 @@
       <change afterPath="$PROJECT_DIR$/../../0501~1000/0525. Contiguous Array/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../0501~1000/0525. Contiguous Array/main.ipynb" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../0501~1000/0525. Contiguous Array/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1061. Lexicographically Smallest Equivalent String/.idea/1061. Lexicographically Smallest Equivalent String.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1061. Lexicographically Smallest Equivalent String/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1061. Lexicographically Smallest Equivalent String/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1061. Lexicographically Smallest Equivalent String/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1061. Lexicographically Smallest Equivalent String/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1061. Lexicographically Smallest Equivalent String/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1061. Lexicographically Smallest Equivalent String/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1061. Lexicographically Smallest Equivalent String/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1061. Lexicographically Smallest Equivalent String/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1443. Minimum Time to Collect All Apples in a Tree/.idea/git_toolbox_prj.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1443. Minimum Time to Collect All Apples in a Tree/.idea/sonarlint/issuestore/1/e/1e9075f5bf079c01ef2c910709e91a497d262080" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1443. Minimum Time to Collect All Apples in a Tree/.idea/sonarlint/issuestore/9/f/9fe84ebb15faf917b7def6236dba604453cc61e0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1443. Minimum Time to Collect All Apples in a Tree/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/1061. Lexicographically Smallest Equivalent String.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1443. Minimum Time to Collect All Apples in a Tree/.idea/git_toolbox_prj.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1443. Minimum Time to Collect All Apples in a Tree/.idea/sonarlint/issuestore/1/e/1e9075f5bf079c01ef2c910709e91a497d262080" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1443. Minimum Time to Collect All Apples in a Tree/.idea/sonarlint/issuestore/9/f/9fe84ebb15faf917b7def6236dba604453cc61e0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1443. Minimum Time to Collect All Apples in a Tree/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../1501~2000/1519. Number of Nodes in the Sub-Tree With the Same Label/.idea/1519. Number of Nodes in the Sub-Tree With the Same Label.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../1501~2000/1519. Number of Nodes in the Sub-Tree With the Same Label/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../1501~2000/1519. Number of Nodes in the Sub-Tree With the Same Label/.idea/misc.xml" afterDir="false" />
@@ -40,18 +39,18 @@
       <change afterPath="$PROJECT_DIR$/../../1501~2000/1519. Number of Nodes in the Sub-Tree With the Same Label/main.ipynb" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../1501~2000/1519. Number of Nodes in the Sub-Tree With the Same Label/main.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../1501~2000/1519. Number of Nodes in the Sub-Tree With the Same Label/main2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2246. Longest Path With Different Adjacent Characters/.idea/2246. Longest Path With Different Adjacent Characters.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2246. Longest Path With Different Adjacent Characters/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2246. Longest Path With Different Adjacent Characters/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2246. Longest Path With Different Adjacent Characters/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2246. Longest Path With Different Adjacent Characters/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2246. Longest Path With Different Adjacent Characters/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2246. Longest Path With Different Adjacent Characters/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2246. Longest Path With Different Adjacent Characters/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2246. Longest Path With Different Adjacent Characters/main2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../1001~1500/1443. Minimum Time to Collect All Apples in a Tree/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../1001~1500/1443. Minimum Time to Collect All Apples in a Tree/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../1001~1500/1443. Minimum Time to Collect All Apples in a Tree/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../1001~1500/1443. Minimum Time to Collect All Apples in a Tree/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2246. Longest Path With Different Adjacent Characters/.idea/2246. Longest Path With Different Adjacent Characters.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2246. Longest Path With Different Adjacent Characters/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2246. Longest Path With Different Adjacent Characters/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2246. Longest Path With Different Adjacent Characters/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2246. Longest Path With Different Adjacent Characters/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2246. Longest Path With Different Adjacent Characters/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2246. Longest Path With Different Adjacent Characters/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2246. Longest Path With Different Adjacent Characters/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2246. Longest Path With Different Adjacent Characters/main2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1443. Minimum Time to Collect All Apples in a Tree/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../1443. Minimum Time to Collect All Apples in a Tree/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1443. Minimum Time to Collect All Apples in a Tree/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../1443. Minimum Time to Collect All Apples in a Tree/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2001~2500/2415. Reverse Odd Levels of Binary Tree/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../2001~2500/2415. Reverse Odd Levels of Binary Tree/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,35 +60,31 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2K8E1WKrrwzKX4OMcJvVKK7nlPi" />
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectId" id="2KIXIwGQ7294Q8Ule0N816D9hbe" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "dart.analysis.tool.window.visible": "false",
-    "last_opened_file_path": "/Users/ryanpionee2/Github/Leetcode/2001~2500/2415. Reverse Odd Levels of Binary Tree",
+    "last_opened_file_path": "/Users/ryanpionee2/Github/Leetcode/1001~1500/1061. Lexicographically Smallest Equivalent String",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
-      <module name="2415. Reverse Odd Levels of Binary Tree" />
+      <module name="1061. Lexicographically Smallest Equivalent String" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -114,20 +109,19 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="13f7bec2-cc67-4667-812e-3abb71b3c0ee" name="Changes" comment="" />
-      <created>1673347595093</created>
+      <changelist id="837c819a-5bed-4377-9f62-7aeae9d7f3a0" name="Changes" comment="" />
+      <created>1673662994563</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1673347595093</updated>
-      <workItem from="1673347596384" duration="2896000" />
-      <workItem from="1673422675191" duration="3183000" />
+      <updated>1673662994563</updated>
+      <workItem from="1673662996025" duration="10309000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/1061__Lexicographically_Smallest_Equivalent_String$main.coverage" NAME="main Coverage Results" MODIFIED="1673672816650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

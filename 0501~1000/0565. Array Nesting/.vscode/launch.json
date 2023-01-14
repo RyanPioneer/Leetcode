@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/ryanpionee2/Github/Leetcode/0501~1000/0565. Array Nesting",
+      "program": "/Users/ryanpionee2/Github/Leetcode/0501~1000/0565. Array Nesting/build/Debug/outDebug"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+
+tpython:S100"QRename method "countSubTrees" to match the regular expression ^[a-z_][a-z0-9_]*$.(ׁ×¼Üûÿÿÿÿ8ך¸לְÚ0
+vpython:S117"XRename this parameter "labelCounter" to match the regular expression ^[_a-z][a-z0-9_]*$.(סֳÛ‰8ל¸לְÚ0
+~python:S117#"[Rename this local variable "nextNodeId" to match the regular expression ^[_a-z][a-z0-9_]*$.(צ¸ֿ®שÿÿÿÿ8ל¸לְÚ0
+ppython:S117"RRename this parameter "nodeId" to match the regular expression ^[_a-z][a-z0-9_]*$.(סֳÛ‰8ל¸לְÚ0
+zpython:S117"\Rename this local variable "nodeLabelId" to match the regular expression ^[_a-z][a-z0-9_]*$.(ן¥ּה8ל¸לְÚ0
+vpython:S117"XRename this parameter "parentNodeId" to match the regular expression ^[_a-z][a-z0-9_]*$.(סֳÛ‰8ל¸לְÚ0
