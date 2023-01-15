@@ -5,52 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="396537c4-0543-4270-b716-224b0e5bfead" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/0525. Contiguous Array.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1061. Lexicographically Smallest Equivalent String/.idea/1061. Lexicographically Smallest Equivalent String.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1061. Lexicographically Smallest Equivalent String/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1061. Lexicographically Smallest Equivalent String/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1061. Lexicographically Smallest Equivalent String/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1061. Lexicographically Smallest Equivalent String/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1061. Lexicographically Smallest Equivalent String/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1061. Lexicographically Smallest Equivalent String/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1061. Lexicographically Smallest Equivalent String/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1061. Lexicographically Smallest Equivalent String/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1443. Minimum Time to Collect All Apples in a Tree/.idea/git_toolbox_prj.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1443. Minimum Time to Collect All Apples in a Tree/.idea/sonarlint/issuestore/1/e/1e9075f5bf079c01ef2c910709e91a497d262080" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1443. Minimum Time to Collect All Apples in a Tree/.idea/sonarlint/issuestore/9/f/9fe84ebb15faf917b7def6236dba604453cc61e0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1443. Minimum Time to Collect All Apples in a Tree/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1519. Number of Nodes in the Sub-Tree With the Same Label/.idea/1519. Number of Nodes in the Sub-Tree With the Same Label.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1519. Number of Nodes in the Sub-Tree With the Same Label/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1519. Number of Nodes in the Sub-Tree With the Same Label/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1519. Number of Nodes in the Sub-Tree With the Same Label/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1519. Number of Nodes in the Sub-Tree With the Same Label/.idea/sonarlint/issuestore/b/1/b1094ba51eacb5dd252316aae3bf58b30cc641cb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1519. Number of Nodes in the Sub-Tree With the Same Label/.idea/sonarlint/issuestore/c/c/cc7b753f568727eee1a611f410e85ecaa3a34e66" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1519. Number of Nodes in the Sub-Tree With the Same Label/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1519. Number of Nodes in the Sub-Tree With the Same Label/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1519. Number of Nodes in the Sub-Tree With the Same Label/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1519. Number of Nodes in the Sub-Tree With the Same Label/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1519. Number of Nodes in the Sub-Tree With the Same Label/main.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1519. Number of Nodes in the Sub-Tree With the Same Label/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1519. Number of Nodes in the Sub-Tree With the Same Label/main2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2246. Longest Path With Different Adjacent Characters/.idea/2246. Longest Path With Different Adjacent Characters.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2246. Longest Path With Different Adjacent Characters/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2246. Longest Path With Different Adjacent Characters/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2246. Longest Path With Different Adjacent Characters/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2246. Longest Path With Different Adjacent Characters/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2246. Longest Path With Different Adjacent Characters/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2246. Longest Path With Different Adjacent Characters/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2246. Longest Path With Different Adjacent Characters/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2246. Longest Path With Different Adjacent Characters/main2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../1001~1500/1443. Minimum Time to Collect All Apples in a Tree/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../1001~1500/1443. Minimum Time to Collect All Apples in a Tree/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../1001~1500/1443. Minimum Time to Collect All Apples in a Tree/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../1001~1500/1443. Minimum Time to Collect All Apples in a Tree/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2246. Longest Path With Different Adjacent Characters/.idea/git_toolbox_prj.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2246. Longest Path With Different Adjacent Characters/.idea/sonarlint/issuestore/1/e/1e9075f5bf079c01ef2c910709e91a497d262080" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2246. Longest Path With Different Adjacent Characters/.idea/sonarlint/issuestore/9/f/9fe84ebb15faf917b7def6236dba604453cc61e0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2246. Longest Path With Different Adjacent Characters/.idea/sonarlint/issuestore/c/c/cc7b753f568727eee1a611f410e85ecaa3a34e66" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2246. Longest Path With Different Adjacent Characters/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2421. Number of Good Paths/.idea/2421. Number of Good Paths.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2421. Number of Good Paths/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2421. Number of Good Paths/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2421. Number of Good Paths/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2421. Number of Good Paths/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2421. Number of Good Paths/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2421. Number of Good Paths/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2421. Number of Good Paths/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2001~2500/2246. Longest Path With Different Adjacent Characters/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../2001~2500/2246. Longest Path With Different Adjacent Characters/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2001~2500/2246. Longest Path With Different Adjacent Characters/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../2001~2500/2246. Longest Path With Different Adjacent Characters/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../2001~2500/2415. Reverse Odd Levels of Binary Tree/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../2001~2500/2415. Reverse Odd Levels of Binary Tree/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -118,7 +88,7 @@
       <option name="presentableId" value="Default" />
       <updated>1673415196599</updated>
       <workItem from="1673415197731" duration="686000" />
-      <workItem from="1673422674393" duration="4158000" />
+      <workItem from="1673422674393" duration="4756000" />
     </task>
     <servers />
   </component>

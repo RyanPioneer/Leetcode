@@ -1,0 +1,5 @@
+
+Cpython:S1172",Remove the unused function parameter "nums".(Ê÷µ_
+gpython:S100"QRename method "findMaxLength" to match the regular expression ^[a-z_][a-z0-9_]*$.(Ê÷µ_
+Vpython:S905":Remove or refactor this statement; it has no side effects.(è£«èýÿÿÿÿ
+]python:S905":Remove or refactor this statement; it has no side effects.(è£«èýÿÿÿÿ8ÁïÉúÙ0
