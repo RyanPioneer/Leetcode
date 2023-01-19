@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="67440d7e-7d59-433a-8bb6-7909e920c342" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../0001~0500/0053. Maximum Subarray/.idea/0053. Maximum Subarray.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0001~0500/0053. Maximum Subarray/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0001~0500/0053. Maximum Subarray/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0001~0500/0053. Maximum Subarray/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0001~0500/0053. Maximum Subarray/.idea/sonarlint/issuestore/5/c/5c5ddc8a32bc2a77acef4fc993c67420dbd10254" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0001~0500/0053. Maximum Subarray/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0001~0500/0053. Maximum Subarray/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0001~0500/0053. Maximum Subarray/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0001~0500/0053. Maximum Subarray/main.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0001~0500/0053. Maximum Subarray/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0001~0500/0053. Maximum Subarray/main2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0001~0500/0053. Maximum Subarray/main3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0001~0500/0053. Maximum Subarray/main4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0001~0500/0053. Maximum Subarray/main5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0001~0500/0152. Maximum Product Subarray/.idea/0152. Maximum Product Subarray.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0001~0500/0152. Maximum Product Subarray/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0001~0500/0152. Maximum Product Subarray/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0001~0500/0152. Maximum Product Subarray/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0001~0500/0152. Maximum Product Subarray/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0001~0500/0152. Maximum Product Subarray/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0001~0500/0152. Maximum Product Subarray/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0001~0500/0152. Maximum Product Subarray/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0918. Maximum Sum Circular Subarray/.idea/0918. Maximum Sum Circular Subarray.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0918. Maximum Sum Circular Subarray/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0918. Maximum Sum Circular Subarray/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0918. Maximum Sum Circular Subarray/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0918. Maximum Sum Circular Subarray/.idea/sonarlint/issuestore/c/c/cc7b753f568727eee1a611f410e85ecaa3a34e66" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0918. Maximum Sum Circular Subarray/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0918. Maximum Sum Circular Subarray/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0918. Maximum Sum Circular Subarray/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0918. Maximum Sum Circular Subarray/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0918. Maximum Sum Circular Subarray/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0918. Maximum Sum Circular Subarray/main2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0926. Flip String to Monotone Increasing/.idea/sonarlint/issuestore/c/c/cc7b753f568727eee1a611f410e85ecaa3a34e66" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0926. Flip String to Monotone Increasing/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/0974. Subarray Sums Divisible by K.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1501~2000/1911. Maximum Alternating Subsequence Sum/.idea/1911. Maximum Alternating Subsequence Sum.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1501~2000/1911. Maximum Alternating Subsequence Sum/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1501~2000/1911. Maximum Alternating Subsequence Sum/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1501~2000/1911. Maximum Alternating Subsequence Sum/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1501~2000/1911. Maximum Alternating Subsequence Sum/.idea/sonarlint/issuestore/c/c/cc7b753f568727eee1a611f410e85ecaa3a34e66" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1501~2000/1911. Maximum Alternating Subsequence Sum/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1501~2000/1911. Maximum Alternating Subsequence Sum/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1501~2000/1911. Maximum Alternating Subsequence Sum/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1501~2000/1911. Maximum Alternating Subsequence Sum/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1501~2000/1911. Maximum Alternating Subsequence Sum/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1501~2000/1911. Maximum Alternating Subsequence Sum/main2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0926. Flip String to Monotone Increasing/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../0926. Flip String to Monotone Increasing/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0926. Flip String to Monotone Increasing/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../0926. Flip String to Monotone Increasing/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2KWOGeFkfuORDvoBeE8WbFDKcoT" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "dart.analysis.tool.window.visible": "false",
+    "last_opened_file_path": "/Users/ryanpionee2/Github/Leetcode/0501~1000/0974. Subarray Sums Divisible by K",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "MTCustomThemeConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="0974. Subarray Sums Divisible by K" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="67440d7e-7d59-433a-8bb6-7909e920c342" name="Changes" comment="" />
+      <created>1674086777443</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1674086777443</updated>
+      <workItem from="1674086778651" duration="3848000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/0974__Subarray_Sums_Divisible_by_K$main.coverage" NAME="main Coverage Results" MODIFIED="1674088666038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
