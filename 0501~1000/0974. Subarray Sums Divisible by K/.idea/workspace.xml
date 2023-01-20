@@ -5,64 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="67440d7e-7d59-433a-8bb6-7909e920c342" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0053. Maximum Subarray/.idea/0053. Maximum Subarray.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0053. Maximum Subarray/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0053. Maximum Subarray/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0053. Maximum Subarray/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0053. Maximum Subarray/.idea/sonarlint/issuestore/5/c/5c5ddc8a32bc2a77acef4fc993c67420dbd10254" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0053. Maximum Subarray/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0053. Maximum Subarray/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0053. Maximum Subarray/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0053. Maximum Subarray/main.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0053. Maximum Subarray/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0053. Maximum Subarray/main2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0053. Maximum Subarray/main3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0053. Maximum Subarray/main4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0053. Maximum Subarray/main5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0152. Maximum Product Subarray/.idea/0152. Maximum Product Subarray.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0152. Maximum Product Subarray/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0152. Maximum Product Subarray/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0152. Maximum Product Subarray/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0152. Maximum Product Subarray/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0152. Maximum Product Subarray/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0152. Maximum Product Subarray/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0152. Maximum Product Subarray/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0918. Maximum Sum Circular Subarray/.idea/0918. Maximum Sum Circular Subarray.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0918. Maximum Sum Circular Subarray/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0918. Maximum Sum Circular Subarray/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0918. Maximum Sum Circular Subarray/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0918. Maximum Sum Circular Subarray/.idea/sonarlint/issuestore/c/c/cc7b753f568727eee1a611f410e85ecaa3a34e66" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0918. Maximum Sum Circular Subarray/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0918. Maximum Sum Circular Subarray/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0918. Maximum Sum Circular Subarray/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0918. Maximum Sum Circular Subarray/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0918. Maximum Sum Circular Subarray/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0918. Maximum Sum Circular Subarray/main2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0926. Flip String to Monotone Increasing/.idea/sonarlint/issuestore/c/c/cc7b753f568727eee1a611f410e85ecaa3a34e66" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0926. Flip String to Monotone Increasing/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/0974. Subarray Sums Divisible by K.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1911. Maximum Alternating Subsequence Sum/.idea/1911. Maximum Alternating Subsequence Sum.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1911. Maximum Alternating Subsequence Sum/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1911. Maximum Alternating Subsequence Sum/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1911. Maximum Alternating Subsequence Sum/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1911. Maximum Alternating Subsequence Sum/.idea/sonarlint/issuestore/c/c/cc7b753f568727eee1a611f410e85ecaa3a34e66" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1911. Maximum Alternating Subsequence Sum/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1911. Maximum Alternating Subsequence Sum/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1911. Maximum Alternating Subsequence Sum/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1911. Maximum Alternating Subsequence Sum/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1911. Maximum Alternating Subsequence Sum/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1911. Maximum Alternating Subsequence Sum/main2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../0926. Flip String to Monotone Increasing/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../0926. Flip String to Monotone Increasing/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../0926. Flip String to Monotone Increasing/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../0926. Flip String to Monotone Increasing/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0001~0500/0238. Product of Array Except Self/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0001~0500/0152. Maximum Product Subarray/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../0001~0500/0152. Maximum Product Subarray/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0001~0500/0152. Maximum Product Subarray/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../0001~0500/0152. Maximum Product Subarray/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/1/b1094ba51eacb5dd252316aae3bf58b30cc641cb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/c/cc7b753f568727eee1a611f410e85ecaa3a34e66" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,23 +30,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "dart.analysis.tool.window.visible": "false",
-    "last_opened_file_path": "/Users/ryanpionee2/Github/Leetcode/0501~1000/0974. Subarray Sums Divisible by K",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "MTCustomThemeConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/ryanpionee2/Github/Leetcode/0501~1000/0974. Subarray Sums Divisible by K&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MTCustomThemeConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="0974. Subarray Sums Divisible by K" />
@@ -130,6 +80,7 @@
       <option name="presentableId" value="Default" />
       <updated>1674086777443</updated>
       <workItem from="1674086778651" duration="3848000" />
+      <workItem from="1674092424886" duration="63000" />
     </task>
     <servers />
   </component>
