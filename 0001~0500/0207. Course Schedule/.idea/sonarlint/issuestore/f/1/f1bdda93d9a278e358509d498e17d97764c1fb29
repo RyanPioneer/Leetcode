@@ -1,0 +1,4 @@
+
+rpython:S117"VRename this parameter "numCourses" to match the regular expression ^[_a-z][a-z0-9_]*$.(ϋªλόÿÿÿÿ
+ipython:S100"MRename method "canFinish" to match the regular expression ^[a-z_][a-z0-9_]*$.(ϋªλόÿÿÿÿ
+qpython:S3776"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(ϋªλόÿÿÿÿ
