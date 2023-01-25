@@ -5,66 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f681891e-0fe8-4955-8be3-2e79f5c04008" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0067. Add Binary/.idea/0067. Add Binary.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0067. Add Binary/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0067. Add Binary/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0067. Add Binary/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0067. Add Binary/.idea/sonarlint/issuestore/3/5/355b4fe19acbaccb2562197f1c9ce73c58bfd620" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0067. Add Binary/.idea/sonarlint/issuestore/b/1/b1094ba51eacb5dd252316aae3bf58b30cc641cb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0067. Add Binary/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0067. Add Binary/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0067. Add Binary/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0067. Add Binary/main.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0067. Add Binary/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0067. Add Binary/main2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0067. Add Binary/main3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0409. Longest Palindrome/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0409. Longest Palindrome/.idea/0409. Longest Palindrome.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0409. Longest Palindrome/.idea/sonarlint/issuestore/b/1/b1094ba51eacb5dd252316aae3bf58b30cc641cb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0409. Longest Palindrome/.idea/sonarlint/issuestore/c/c/cc7b753f568727eee1a611f410e85ecaa3a34e66" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0409. Longest Palindrome/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0409. Longest Palindrome/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0409. Longest Palindrome/main.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0409. Longest Palindrome/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0409. Longest Palindrome/main2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0692. Top K Frequent Words/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0692. Top K Frequent Words/.idea/0692. Top K Frequent Words.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0692. Top K Frequent Words/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0692. Top K Frequent Words/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0692. Top K Frequent Words/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0692. Top K Frequent Words/.idea/sonarlint/issuestore/b/1/b1094ba51eacb5dd252316aae3bf58b30cc641cb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0692. Top K Frequent Words/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0692. Top K Frequent Words/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0692. Top K Frequent Words/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0692. Top K Frequent Words/main.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0692. Top K Frequent Words/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/0844. Backspace String Compare.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0909. Snakes and Ladders/.idea/0909. Snakes and Ladders.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0909. Snakes and Ladders/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0909. Snakes and Ladders/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0909. Snakes and Ladders/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0909. Snakes and Ladders/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0909. Snakes and Ladders/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0909. Snakes and Ladders/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0909. Snakes and Ladders/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0909. Snakes and Ladders/main2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0997. Find the Town Judge/.idea/git_toolbox_prj.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0997. Find the Town Judge/.idea/sonarlint/issuestore/1/e/1e9075f5bf079c01ef2c910709e91a497d262080" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0997. Find the Town Judge/.idea/sonarlint/issuestore/9/f/9fe84ebb15faf917b7def6236dba604453cc61e0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0997. Find the Town Judge/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../0542. 01 Matrix/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../0542. 01 Matrix/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../0542. 01 Matrix/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../0542. 01 Matrix/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../0997. Find the Town Judge/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../0997. Find the Town Judge/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../0997. Find the Town Judge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../0997. Find the Town Judge/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0721. Accounts Merge/.idea/0721. Accounts Merge.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0721. Accounts Merge/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0721. Accounts Merge/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0721. Accounts Merge/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0721. Accounts Merge/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0721. Accounts Merge/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0721. Accounts Merge/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0721. Accounts Merge/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0909. Snakes and Ladders/.idea/git_toolbox_prj.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0909. Snakes and Ladders/.idea/sonarlint/issuestore/1/e/1e9075f5bf079c01ef2c910709e91a497d262080" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0909. Snakes and Ladders/.idea/sonarlint/issuestore/c/c/cc7b753f568727eee1a611f410e85ecaa3a34e66" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0909. Snakes and Ladders/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2359. Find Closest Node to Given Two Nodes/.idea/2359. Find Closest Node to Given Two Nodes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2359. Find Closest Node to Given Two Nodes/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2359. Find Closest Node to Given Two Nodes/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2359. Find Closest Node to Given Two Nodes/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2359. Find Closest Node to Given Two Nodes/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2359. Find Closest Node to Given Two Nodes/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2359. Find Closest Node to Given Two Nodes/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2359. Find Closest Node to Given Two Nodes/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0909. Snakes and Ladders/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../0909. Snakes and Ladders/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0909. Snakes and Ladders/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../0909. Snakes and Ladders/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
