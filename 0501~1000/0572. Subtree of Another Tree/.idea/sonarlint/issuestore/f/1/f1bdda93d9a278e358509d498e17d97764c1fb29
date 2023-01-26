@@ -1,0 +1,5 @@
+
+opython:S117"SRename this parameter "subRoot" to match the regular expression ^[_a-z][a-z0-9_]*$.(şÒöÊúÿÿÿÿ
+ipython:S100"MRename method "isSubtree" to match the regular expression ^[a-z_][a-z0-9_]*$.(şÒöÊúÿÿÿÿ
+xpython:S3776"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(şÒöÊúÿÿÿÿ8ÉÇ–ÛŞ0
+jpython:S117"SRename this parameter "subNode" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ï»ØÍ
