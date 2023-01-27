@@ -5,66 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="af3018b1-1134-46d4-ac24-a28243bc4829" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0191. Number of 1 Bits/.idea/0191. Number of 1 Bits.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0191. Number of 1 Bits/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0191. Number of 1 Bits/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0191. Number of 1 Bits/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0191. Number of 1 Bits/.idea/sonarlint/issuestore/b/1/b1094ba51eacb5dd252316aae3bf58b30cc641cb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0191. Number of 1 Bits/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0191. Number of 1 Bits/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0191. Number of 1 Bits/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0191. Number of 1 Bits/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0191. Number of 1 Bits/main.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0191. Number of 1 Bits/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0234. Palindrome Linked List/.idea/0234. Palindrome Linked List.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0234. Palindrome Linked List/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0234. Palindrome Linked List/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0234. Palindrome Linked List/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0234. Palindrome Linked List/.idea/sonarlint/issuestore/6/8/682a50d19e416195436708e48c7761923b8d6651" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0234. Palindrome Linked List/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0234. Palindrome Linked List/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0234. Palindrome Linked List/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0234. Palindrome Linked List/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0268. Missing Number/.idea/0268. Missing Number.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0268. Missing Number/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0268. Missing Number/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0268. Missing Number/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0268. Missing Number/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0268. Missing Number/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0268. Missing Number/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0268. Missing Number/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0268. Missing Number/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/0572. Subtree of Another Tree.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0721. Accounts Merge/.idea/sonarlint/issuestore/c/c/cc7b753f568727eee1a611f410e85ecaa3a34e66" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0721. Accounts Merge/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0721. Accounts Merge/main2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0787. Cheapest Flights Within K Stops/.idea/0787. Cheapest Flights Within K Stops.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0787. Cheapest Flights Within K Stops/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0787. Cheapest Flights Within K Stops/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0787. Cheapest Flights Within K Stops/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0787. Cheapest Flights Within K Stops/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0787. Cheapest Flights Within K Stops/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0787. Cheapest Flights Within K Stops/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0787. Cheapest Flights Within K Stops/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0787. Cheapest Flights Within K Stops/main2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0787. Cheapest Flights Within K Stops/main3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2359. Find Closest Node to Given Two Nodes/.idea/git_toolbox_prj.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2359. Find Closest Node to Given Two Nodes/.idea/sonarlint/issuestore/1/e/1e9075f5bf079c01ef2c910709e91a497d262080" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2359. Find Closest Node to Given Two Nodes/.idea/sonarlint/issuestore/9/f/9fe84ebb15faf917b7def6236dba604453cc61e0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2359. Find Closest Node to Given Two Nodes/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../0721. Accounts Merge/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../0721. Accounts Merge/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../0721. Accounts Merge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../0721. Accounts Merge/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../0721. Accounts Merge/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../0721. Accounts Merge/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../0844. Backspace String Compare/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../0844. Backspace String Compare/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../2001~2500/2359. Find Closest Node to Given Two Nodes/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../2001~2500/2359. Find Closest Node to Given Two Nodes/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../2001~2500/2359. Find Closest Node to Given Two Nodes/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../2001~2500/2359. Find Closest Node to Given Two Nodes/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0787. Cheapest Flights Within K Stops/.idea/git_toolbox_prj.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0787. Cheapest Flights Within K Stops/.idea/sonarlint/issuestore/1/e/1e9075f5bf079c01ef2c910709e91a497d262080" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0787. Cheapest Flights Within K Stops/.idea/sonarlint/issuestore/3/5/355b4fe19acbaccb2562197f1c9ce73c58bfd620" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0787. Cheapest Flights Within K Stops/.idea/sonarlint/issuestore/b/1/b1094ba51eacb5dd252316aae3bf58b30cc641cb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0787. Cheapest Flights Within K Stops/.idea/sonarlint/issuestore/c/c/cc7b753f568727eee1a611f410e85ecaa3a34e66" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0787. Cheapest Flights Within K Stops/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0787. Cheapest Flights Within K Stops/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../0787. Cheapest Flights Within K Stops/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0787. Cheapest Flights Within K Stops/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../0787. Cheapest Flights Within K Stops/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,6 +85,7 @@
       <updated>1674689987990</updated>
       <workItem from="1674689989271" duration="2743000" />
       <workItem from="1674725155826" duration="10000" />
+      <workItem from="1674730920853" duration="929000" />
     </task>
     <servers />
   </component>

@@ -2,7 +2,7 @@
 Source: https://leetcode.com/problems/subtree-of-another-tree/
 Date: 2023/1/26
 Skill:
-Runtime: 86 ms, faster than 95.49%
+Runtime: 63 ms, faster than 99.35%
 Memory Usage: 15.2 MB, less than 30.93%
 Time complexity:
 Space complexity:
@@ -29,11 +29,8 @@ class Solution:
     def isSubtree(self, root: Optional[TreeNode], subRoot: Optional[TreeNode]) -> bool:
 
         def find_subtree(node, subNode):
-            if not node:
-                if not subNode: return True
-                else: return False
-            elif not subNode:
-                return False
+            if not node or not subNode:
+                return node == subNode
             else:
                 if node.val == subNode.val and find_subtree(node.left, subNode.left)\
                         and find_subtree(node.right, subNode.right):
