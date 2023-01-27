@@ -2,7 +2,7 @@
 Source: https://leetcode.com/problems/validate-binary-search-tree/
 Date: 2023/1/27
 Skill: 
-Runtime: 56 ms, faster than 41.40%
+Runtime: 44 ms, faster than 84.48%
 Memory Usage: 16.2 MB, less than 99.34%
 Time complexity:
 Space complexity:
@@ -29,22 +29,19 @@ class TreeNode:
 class Solution:
     def isValidBST(self, root: Optional[TreeNode]) -> bool:
         
-        nums, cur, stack = [], root, []
+        cur, stack, prev = root, [], -math.inf
         while cur:
             stack.append(cur)
             cur = cur.left
         
         while stack:
             cur = stack.pop()
-            nums.append(cur.val)
+            if cur.val <= prev: return False
+            prev = cur.val
             if cur.right:
                 cur = cur.right
                 while cur:
                     stack.append(cur)
                     cur = cur.left
-        
-        for i in range(len(nums)-1):
-            if nums[i] >= nums[i+1]:
-                return False
-        
+                
         return True
