@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f681891e-0fe8-4955-8be3-2e79f5c04008" name="Changes" comment="">
+    <list default="true" id="6c7e541a-6ab5-4bca-839e-c6feada32163" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/../../0001~0500/0113. Path Sum II/.idea/0113. Path Sum II.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../0001~0500/0113. Path Sum II/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../0001~0500/0113. Path Sum II/.idea/misc.xml" afterDir="false" />
@@ -29,19 +29,19 @@
       <change afterPath="$PROJECT_DIR$/../../0001~0500/0437. Path Sum III/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../0001~0500/0437. Path Sum III/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../0001~0500/0437. Path Sum III/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0863. All Nodes Distance K in Binary Tree/.idea/0863. All Nodes Distance K in Binary Tree.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0863. All Nodes Distance K in Binary Tree/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0863. All Nodes Distance K in Binary Tree/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0863. All Nodes Distance K in Binary Tree/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0863. All Nodes Distance K in Binary Tree/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0863. All Nodes Distance K in Binary Tree/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0863. All Nodes Distance K in Binary Tree/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0863. All Nodes Distance K in Binary Tree/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/0863. All Nodes Distance K in Binary Tree.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../1501~2000/1626. Best Team With No Conflicts/.idea/git_toolbox_prj.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../1501~2000/1626. Best Team With No Conflicts/.idea/sonarlint/issuestore/1/e/1e9075f5bf079c01ef2c910709e91a497d262080" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../1501~2000/1626. Best Team With No Conflicts/.idea/sonarlint/issuestore/9/f/9fe84ebb15faf917b7def6236dba604453cc61e0" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../1501~2000/1626. Best Team With No Conflicts/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0844. Backspace String Compare/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../0844. Backspace String Compare/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../1501~2000/1626. Best Team With No Conflicts/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../1501~2000/1626. Best Team With No Conflicts/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../1501~2000/1626. Best Team With No Conflicts/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../1501~2000/1626. Best Team With No Conflicts/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -53,7 +53,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2Kj4pyz7HtFAr3vYaCHiWbTX9wc" />
+  <component name="ProjectId" id="2L5RBknnttl0qf3CgQ2dzRVPxEQ" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -61,27 +61,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/ryanpionee2/Github/Leetcode/0501~1000/0844. Backspace String Compare&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;MTCustomThemeConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/ryanpionee2/Github/Leetcode/0501~1000/0863. All Nodes Distance K in Binary Tree",
+    "settings.editor.selected.configurable": "MTCustomThemeConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
-      <module name="0844. Backspace String Compare" />
+      <module name="0863. All Nodes Distance K in Binary Tree" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -106,21 +100,14 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f681891e-0fe8-4955-8be3-2e79f5c04008" name="Changes" comment="" />
-      <created>1674474844561</created>
+      <changelist id="6c7e541a-6ab5-4bca-839e-c6feada32163" name="Changes" comment="" />
+      <created>1675158824028</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1674474844561</updated>
-      <workItem from="1674474845829" duration="7327000" />
-      <workItem from="1674556501886" duration="518000" />
-      <workItem from="1674568331549" duration="2388000" />
-      <workItem from="1674725156467" duration="2000" />
-      <workItem from="1674826898067" duration="2391000" />
+      <updated>1675158824028</updated>
+      <workItem from="1675158825181" duration="2319000" />
     </task>
     <servers />
-  </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />

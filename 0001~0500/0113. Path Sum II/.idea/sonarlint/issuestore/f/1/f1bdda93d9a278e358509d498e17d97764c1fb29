@@ -1,0 +1,4 @@
+
+qpython:S117"URename this parameter "targetSum" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÌÓíãüÿÿÿÿ
+gpython:S100"KRename method "pathSum" to match the regular expression ^[a-z_][a-z0-9_]*$.(ÌÓíãüÿÿÿÿ
+<python:S3626."Remove this redundant return.(ÙãŞŸ8…ú´à0
