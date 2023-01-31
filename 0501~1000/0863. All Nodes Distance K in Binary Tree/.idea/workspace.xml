@@ -4,46 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6c7e541a-6ab5-4bca-839e-c6feada32163" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0113. Path Sum II/.idea/0113. Path Sum II.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0113. Path Sum II/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0113. Path Sum II/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0113. Path Sum II/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0113. Path Sum II/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0113. Path Sum II/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0113. Path Sum II/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0113. Path Sum II/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0113. Path Sum II/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0210. Course Schedule II/.idea/0210. Course Schedule II.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0210. Course Schedule II/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0210. Course Schedule II/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0210. Course Schedule II/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0210. Course Schedule II/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0210. Course Schedule II/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0210. Course Schedule II/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0210. Course Schedule II/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0210. Course Schedule II/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0437. Path Sum III/.idea/0437. Path Sum III.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0437. Path Sum III/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0437. Path Sum III/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0437. Path Sum III/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0437. Path Sum III/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0437. Path Sum III/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/0863. All Nodes Distance K in Binary Tree.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1626. Best Team With No Conflicts/.idea/git_toolbox_prj.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1626. Best Team With No Conflicts/.idea/sonarlint/issuestore/1/e/1e9075f5bf079c01ef2c910709e91a497d262080" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1626. Best Team With No Conflicts/.idea/sonarlint/issuestore/9/f/9fe84ebb15faf917b7def6236dba604453cc61e0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1626. Best Team With No Conflicts/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+    <list default="true" id="6c7e541a-6ab5-4bca-839e-c6feada32163" name="Changes" comment="2023/1/31">
       <change beforePath="$PROJECT_DIR$/../0844. Backspace String Compare/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../0844. Backspace String Compare/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../1501~2000/1626. Best Team With No Conflicts/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../1501~2000/1626. Best Team With No Conflicts/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../1501~2000/1626. Best Team With No Conflicts/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../1501~2000/1626. Best Team With No Conflicts/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,6 +31,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "/Users/ryanpionee2/Github/Leetcode/0501~1000/0863. All Nodes Distance K in Binary Tree",
     "settings.editor.selected.configurable": "MTCustomThemeConfigurable"
@@ -105,11 +69,21 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1675158824028</updated>
-      <workItem from="1675158825181" duration="2319000" />
+      <workItem from="1675158825181" duration="2689000" />
     </task>
+    <task id="LOCAL-00001" summary="2023/1/31">
+      <created>1675162035004</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1675162035004</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="2023/1/31" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023/1/31" />
   </component>
 </project>
