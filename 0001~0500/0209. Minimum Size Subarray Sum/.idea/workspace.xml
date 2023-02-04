@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9c0dc8b4-a05f-4eae-8e41-873e2e7345df" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../0006. Zigzag Conversion/.idea/0006. Zigzag Conversion.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0006. Zigzag Conversion/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0006. Zigzag Conversion/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0006. Zigzag Conversion/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0006. Zigzag Conversion/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0006. Zigzag Conversion/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0006. Zigzag Conversion/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0006. Zigzag Conversion/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0006. Zigzag Conversion/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0032. Longest Valid Parentheses/.idea/0032. Longest Valid Parentheses.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0032. Longest Valid Parentheses/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0032. Longest Valid Parentheses/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0032. Longest Valid Parentheses/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0032. Longest Valid Parentheses/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0032. Longest Valid Parentheses/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0032. Longest Valid Parentheses/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0032. Longest Valid Parentheses/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0032. Longest Valid Parentheses/main2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0034. Find First and Last Position of Element in Sorted Array/.idea/0034. Find First and Last Position of Element in Sorted Array.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0034. Find First and Last Position of Element in Sorted Array/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0034. Find First and Last Position of Element in Sorted Array/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0034. Find First and Last Position of Element in Sorted Array/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0034. Find First and Last Position of Element in Sorted Array/.idea/sonarlint/issuestore/6/8/682a50d19e416195436708e48c7761923b8d6651" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0034. Find First and Last Position of Element in Sorted Array/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0034. Find First and Last Position of Element in Sorted Array/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0034. Find First and Last Position of Element in Sorted Array/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0034. Find First and Last Position of Element in Sorted Array/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0037. Sudoku Solver/.idea/0037. Sudoku Solver.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0037. Sudoku Solver/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0037. Sudoku Solver/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0037. Sudoku Solver/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0037. Sudoku Solver/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0037. Sudoku Solver/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0037. Sudoku Solver/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0037. Sudoku Solver/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0037. Sudoku Solver/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0041. First Missing Positive/.idea/0041. First Missing Positive.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0041. First Missing Positive/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0041. First Missing Positive/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0041. First Missing Positive/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0041. First Missing Positive/.idea/sonarlint/issuestore/b/1/b1094ba51eacb5dd252316aae3bf58b30cc641cb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0041. First Missing Positive/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0041. First Missing Positive/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0041. First Missing Positive/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0041. First Missing Positive/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0041. First Missing Positive/main.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0041. First Missing Positive/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0051. N-Queens/.idea/0051. N-Queens.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0051. N-Queens/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0051. N-Queens/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0051. N-Queens/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0051. N-Queens/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0051. N-Queens/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0051. N-Queens/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0051. N-Queens/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0051. N-Queens/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0076. Minimum Window Substring/.idea/0076. Minimum Window Substring.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0076. Minimum Window Substring/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0076. Minimum Window Substring/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0076. Minimum Window Substring/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0076. Minimum Window Substring/.idea/sonarlint/issuestore/b/1/b1094ba51eacb5dd252316aae3bf58b30cc641cb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0076. Minimum Window Substring/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0076. Minimum Window Substring/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0076. Minimum Window Substring/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0076. Minimum Window Substring/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0076. Minimum Window Substring/main.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0076. Minimum Window Substring/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0103. Binary Tree Zigzag Level Order Traversal/.idea/0103. Binary Tree Zigzag Level Order Traversal.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0103. Binary Tree Zigzag Level Order Traversal/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0103. Binary Tree Zigzag Level Order Traversal/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0103. Binary Tree Zigzag Level Order Traversal/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0103. Binary Tree Zigzag Level Order Traversal/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0103. Binary Tree Zigzag Level Order Traversal/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0103. Binary Tree Zigzag Level Order Traversal/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0103. Binary Tree Zigzag Level Order Traversal/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0103. Binary Tree Zigzag Level Order Traversal/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0139. Word Break/.idea/0139. Word Break.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0139. Word Break/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0139. Word Break/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0139. Word Break/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0139. Word Break/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0139. Word Break/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0139. Word Break/main.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0139. Word Break/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0200. Number of Islands/.idea/git_toolbox_prj.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0200. Number of Islands/.idea/sonarlint/issuestore/1/e/1e9075f5bf079c01ef2c910709e91a497d262080" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0200. Number of Islands/.idea/sonarlint/issuestore/9/f/9fe84ebb15faf917b7def6236dba604453cc61e0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0200. Number of Islands/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/0209. Minimum Size Subarray Sum.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0221. Maximal Square/.idea/0221. Maximal Square.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0221. Maximal Square/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0221. Maximal Square/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0221. Maximal Square/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0221. Maximal Square/.idea/sonarlint/issuestore/c/c/cc7b753f568727eee1a611f410e85ecaa3a34e66" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0221. Maximal Square/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0221. Maximal Square/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0221. Maximal Square/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0221. Maximal Square/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0221. Maximal Square/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0221. Maximal Square/main2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0336. Palindrome Pairs/.idea/0336. Palindrome Pairs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0336. Palindrome Pairs/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0336. Palindrome Pairs/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0336. Palindrome Pairs/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0336. Palindrome Pairs/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0336. Palindrome Pairs/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0336. Palindrome Pairs/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0336. Palindrome Pairs/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0336. Palindrome Pairs/main2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0567. Permutation in String/.idea/0567. Permutation in String.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0567. Permutation in String/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0567. Permutation in String/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0567. Permutation in String/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0567. Permutation in String/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0567. Permutation in String/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0567. Permutation in String/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0567. Permutation in String/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0844. Backspace String Compare/.idea/sonarlint/issuestore/b/1/b1094ba51eacb5dd252316aae3bf58b30cc641cb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0844. Backspace String Compare/.idea/sonarlint/issuestore/c/c/cc7b753f568727eee1a611f410e85ecaa3a34e66" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0953. Verifying an Alien Dictionary/.idea/0953. Verifying an Alien Dictionary.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0953. Verifying an Alien Dictionary/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0953. Verifying an Alien Dictionary/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0953. Verifying an Alien Dictionary/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0953. Verifying an Alien Dictionary/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0953. Verifying an Alien Dictionary/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0953. Verifying an Alien Dictionary/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0953. Verifying an Alien Dictionary/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0953. Verifying an Alien Dictionary/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1071. Greatest Common Divisor of Strings/.idea/1071. Greatest Common Divisor of Strings.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1071. Greatest Common Divisor of Strings/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1071. Greatest Common Divisor of Strings/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1071. Greatest Common Divisor of Strings/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1071. Greatest Common Divisor of Strings/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1071. Greatest Common Divisor of Strings/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1071. Greatest Common Divisor of Strings/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1071. Greatest Common Divisor of Strings/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1071. Greatest Common Divisor of Strings/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0200. Number of Islands/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../0200. Number of Islands/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0200. Number of Islands/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../0200. Number of Islands/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0501~1000/0844. Backspace String Compare/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../0501~1000/0844. Backspace String Compare/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0501~1000/0844. Backspace String Compare/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../0501~1000/0844. Backspace String Compare/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2LGClI28YDtb8oD9508H19lNDVu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/ryanpionee2/Github/Leetcode/0001~0500/0209. Minimum Size Subarray Sum",
+    "settings.editor.selected.configurable": "MTCustomThemeConfigurable"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="0209. Minimum Size Subarray Sum" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9c0dc8b4-a05f-4eae-8e41-873e2e7345df" name="Changes" comment="" />
+      <created>1675488182100</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675488182100</updated>
+      <workItem from="1675488183312" duration="674000" />
+    </task>
+    <servers />
+  </component>
+</project>

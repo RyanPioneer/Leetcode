@@ -1,0 +1,3 @@
+
+fpython:S100"ORename method "solveSudoku" to match the regular expression ^[a-z_][a-z0-9_]*$.(ÀõÎ¯
+lpython:S3776"TRefactor this function to reduce its Cognitive Complexity from 69 to the 15 allowed.(ÀõÎ¯
