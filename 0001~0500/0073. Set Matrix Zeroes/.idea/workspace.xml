@@ -4,21 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f727fd3-ebf3-462f-90b4-0e7fc8fd9733" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../0073. Set Matrix Zeroes/.idea/0073. Set Matrix Zeroes.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0073. Set Matrix Zeroes/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0073. Set Matrix Zeroes/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0073. Set Matrix Zeroes/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0073. Set Matrix Zeroes/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0073. Set Matrix Zeroes/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0073. Set Matrix Zeroes/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0073. Set Matrix Zeroes/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0073. Set Matrix Zeroes/main.py" afterDir="false" />
+    <list default="true" id="03be0b9a-940f-4fcc-a728-acad6a6acbc7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/0073. Set Matrix Zeroes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../0209. Minimum Size Subarray Sum/.idea/git_toolbox_prj.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../0209. Minimum Size Subarray Sum/.idea/sonarlint/issuestore/1/e/1e9075f5bf079c01ef2c910709e91a497d262080" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../0209. Minimum Size Subarray Sum/.idea/sonarlint/issuestore/9/f/9fe84ebb15faf917b7def6236dba604453cc61e0" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../0209. Minimum Size Subarray Sum/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0501~1000/0567. Permutation in String/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../2001~2500/2273. Find Resultant Array After Removing Anagrams/.idea/2273. Find Resultant Array After Removing Anagrams.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../2001~2500/2273. Find Resultant Array After Removing Anagrams/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../2001~2500/2273. Find Resultant Array After Removing Anagrams/.idea/misc.xml" afterDir="false" />
@@ -31,12 +29,10 @@
       <change afterPath="$PROJECT_DIR$/../../2001~2500/2273. Find Resultant Array After Removing Anagrams/main.ipynb" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../2001~2500/2273. Find Resultant Array After Removing Anagrams/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../0032. Longest Valid Parentheses/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../0032. Longest Valid Parentheses/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0139. Word Break/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../0139. Word Break/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../0209. Minimum Size Subarray Sum/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../0209. Minimum Size Subarray Sum/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../0209. Minimum Size Subarray Sum/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../0209. Minimum Size Subarray Sum/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../0336. Palindrome Pairs/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../0336. Palindrome Pairs/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../0336. Palindrome Pairs/main2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../0336. Palindrome Pairs/main2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../0501~1000/0567. Permutation in String/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../0501~1000/0567. Permutation in String/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../0501~1000/0567. Permutation in String/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../0501~1000/0567. Permutation in String/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,29 +43,25 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2L65SPZK87WUNdOcQOgGmlQNy8K" />
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectId" id="2LGoscdA0aFufAMor3GR3zO7Y78" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/ryanpionee2/Github/Leetcode/0001~0500/0139. Word Break&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;MTCustomThemeConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/ryanpionee2/Github/Leetcode/0001~0500/0073. Set Matrix Zeroes",
+    "settings.editor.selected.configurable": "MTCustomThemeConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
-      <module name="0139. Word Break" />
+      <module name="0073. Set Matrix Zeroes" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -94,18 +86,13 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="1f727fd3-ebf3-462f-90b4-0e7fc8fd9733" name="Changes" comment="" />
-      <created>1675178690966</created>
+      <changelist id="03be0b9a-940f-4fcc-a728-acad6a6acbc7" name="Changes" comment="" />
+      <created>1675506987883</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1675178690966</updated>
-      <workItem from="1675178692055" duration="1840000" />
-      <workItem from="1675241169127" duration="5710000" />
-      <workItem from="1675423620387" duration="598000" />
+      <updated>1675506987883</updated>
+      <workItem from="1675506989206" duration="2103000" />
     </task>
     <servers />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>

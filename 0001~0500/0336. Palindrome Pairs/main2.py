@@ -44,7 +44,7 @@ class Solution:
             rWord = words[i][::-1]
             for j in range(len(rWord)):
                 # if the current word (from j onwards)
-                # is a palindrome, add it's index to the trie node
+                # is a palindrome, add its index to the trie node
                 # (palindromIdx list) we'll use it later on to find combinations
                 if self.isPalindrome(rWord[j:]):
                     cur.palindromeIdxs.append(i)
@@ -54,7 +54,7 @@ class Solution:
                 cur = cur.children[rWord[j]]
 
             # once the word is done
-            # add it's index to the trie node
+            # add its index to the trie node
             cur.end = True
             cur.idx = i
 
@@ -63,11 +63,11 @@ class Solution:
 
         return res
 
-    # to find all pairse, we can have
+    # to find all pairs, we can have
     # conditions:
     # 1. exact match (abc, cba)
-    # 2. long word, short word in trie match (abbcc, a)
-    # 3. short word, long word in trie match (lls, sssll)
+    # 2. long word, short trie in trie match (abbcc, a)
+    # 3. long trie, short word in trie match (sssll, lls)
     def search(self, word, idx, res):
         cur = self.root
         for i in range(len(word)):
