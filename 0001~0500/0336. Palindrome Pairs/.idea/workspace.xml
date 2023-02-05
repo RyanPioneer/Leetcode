@@ -4,41 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bdfaa46b-ee67-4cfa-83c8-fea88fa5fe9a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../0073. Set Matrix Zeroes/.idea/0073. Set Matrix Zeroes.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0073. Set Matrix Zeroes/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0073. Set Matrix Zeroes/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0073. Set Matrix Zeroes/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0073. Set Matrix Zeroes/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0073. Set Matrix Zeroes/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0073. Set Matrix Zeroes/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0073. Set Matrix Zeroes/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0073. Set Matrix Zeroes/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0209. Minimum Size Subarray Sum/.idea/git_toolbox_prj.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0209. Minimum Size Subarray Sum/.idea/sonarlint/issuestore/1/e/1e9075f5bf079c01ef2c910709e91a497d262080" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0209. Minimum Size Subarray Sum/.idea/sonarlint/issuestore/9/f/9fe84ebb15faf917b7def6236dba604453cc61e0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0209. Minimum Size Subarray Sum/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0501~1000/0567. Permutation in String/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2273. Find Resultant Array After Removing Anagrams/.idea/2273. Find Resultant Array After Removing Anagrams.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2273. Find Resultant Array After Removing Anagrams/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2273. Find Resultant Array After Removing Anagrams/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2273. Find Resultant Array After Removing Anagrams/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2273. Find Resultant Array After Removing Anagrams/.idea/sonarlint/issuestore/b/1/b1094ba51eacb5dd252316aae3bf58b30cc641cb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2273. Find Resultant Array After Removing Anagrams/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2273. Find Resultant Array After Removing Anagrams/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2273. Find Resultant Array After Removing Anagrams/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2273. Find Resultant Array After Removing Anagrams/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2273. Find Resultant Array After Removing Anagrams/main.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2273. Find Resultant Array After Removing Anagrams/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../0032. Longest Valid Parentheses/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../0032. Longest Valid Parentheses/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../0139. Word Break/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../0139. Word Break/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../0209. Minimum Size Subarray Sum/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../0209. Minimum Size Subarray Sum/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../0209. Minimum Size Subarray Sum/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../0209. Minimum Size Subarray Sum/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main2.py" beforeDir="false" afterPath="$PROJECT_DIR$/main2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../0501~1000/0567. Permutation in String/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../0501~1000/0567. Permutation in String/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../0501~1000/0567. Permutation in String/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../0501~1000/0567. Permutation in String/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="bdfaa46b-ee67-4cfa-83c8-fea88fa5fe9a" name="Changes" comment="2023/2/5" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,17 +21,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/ryanpionee2/Github/Leetcode/0001~0500/0336. Palindrome Pairs&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;MTCustomThemeConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/ryanpionee2/Github/Leetcode/0001~0500/0336. Palindrome Pairs",
+    "settings.editor.selected.configurable": "MTCustomThemeConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="0336. Palindrome Pairs" />
@@ -99,8 +66,20 @@
       <option name="presentableId" value="Default" />
       <updated>1675390940181</updated>
       <workItem from="1675390941402" duration="6186000" />
-      <workItem from="1675423618255" duration="6506000" />
+      <workItem from="1675423618255" duration="6874000" />
     </task>
+    <task id="LOCAL-00001" summary="2023/2/5">
+      <created>1675572997415</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1675572997415</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2023/2/5" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023/2/5" />
   </component>
 </project>

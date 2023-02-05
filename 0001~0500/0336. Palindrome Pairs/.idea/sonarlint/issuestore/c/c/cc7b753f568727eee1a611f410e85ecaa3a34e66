@@ -1,0 +1,7 @@
+
+rpython:S116"VRename this field "palindromeIdxs" to match the regular expression ^[_a-z][_a-z0-9]*$.(é…»Ÿøÿÿÿÿ
+rpython:S117,"VRename this local variable "rWord" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÕÙ––üÿÿÿÿ
+opython:S100#"SRename method "palindromePairs" to match the regular expression ^[a-z_][a-z0-9_]*$.(ÁÝ°‘þÿÿÿÿ
+5python:S3626p"Remove this redundant return.(ÙãÞŸ
+lpython:S117m"URename this local variable "pIdx" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÍÍ€ø
+lpython:S100r"PRename method "isPalindrome" to match the regular expression ^[a-z_][a-z0-9_]*$.(ðæó›ÿÿÿÿÿ

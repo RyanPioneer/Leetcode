@@ -5,39 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6ea9e1b4-ebc7-4602-a57e-47b973e63dea" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../0073. Set Matrix Zeroes/.idea/0073. Set Matrix Zeroes.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0073. Set Matrix Zeroes/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0073. Set Matrix Zeroes/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0073. Set Matrix Zeroes/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0073. Set Matrix Zeroes/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0073. Set Matrix Zeroes/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0073. Set Matrix Zeroes/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0073. Set Matrix Zeroes/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0073. Set Matrix Zeroes/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0209. Minimum Size Subarray Sum/.idea/git_toolbox_prj.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0209. Minimum Size Subarray Sum/.idea/sonarlint/issuestore/1/e/1e9075f5bf079c01ef2c910709e91a497d262080" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0209. Minimum Size Subarray Sum/.idea/sonarlint/issuestore/9/f/9fe84ebb15faf917b7def6236dba604453cc61e0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0209. Minimum Size Subarray Sum/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0501~1000/0567. Permutation in String/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2273. Find Resultant Array After Removing Anagrams/.idea/2273. Find Resultant Array After Removing Anagrams.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2273. Find Resultant Array After Removing Anagrams/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2273. Find Resultant Array After Removing Anagrams/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2273. Find Resultant Array After Removing Anagrams/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2273. Find Resultant Array After Removing Anagrams/.idea/sonarlint/issuestore/b/1/b1094ba51eacb5dd252316aae3bf58b30cc641cb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2273. Find Resultant Array After Removing Anagrams/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2273. Find Resultant Array After Removing Anagrams/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2273. Find Resultant Array After Removing Anagrams/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2273. Find Resultant Array After Removing Anagrams/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2273. Find Resultant Array After Removing Anagrams/main.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2273. Find Resultant Array After Removing Anagrams/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0336. Palindrome Pairs/.idea/git_toolbox_prj.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0336. Palindrome Pairs/.idea/sonarlint/issuestore/c/c/cc7b753f568727eee1a611f410e85ecaa3a34e66" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0336. Palindrome Pairs/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main2.py" beforeDir="false" afterPath="$PROJECT_DIR$/main2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../0139. Word Break/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../0139. Word Break/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../0209. Minimum Size Subarray Sum/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../0209. Minimum Size Subarray Sum/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../0209. Minimum Size Subarray Sum/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../0209. Minimum Size Subarray Sum/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0336. Palindrome Pairs/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../0336. Palindrome Pairs/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../0336. Palindrome Pairs/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../0336. Palindrome Pairs/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../0336. Palindrome Pairs/main2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../0336. Palindrome Pairs/main2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../0501~1000/0567. Permutation in String/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../0501~1000/0567. Permutation in String/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../0501~1000/0567. Permutation in String/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../0501~1000/0567. Permutation in String/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,7 +77,7 @@
       <workItem from="1675240522225" duration="634000" />
       <workItem from="1675241168167" duration="2984000" />
       <workItem from="1675256500589" duration="1830000" />
-      <workItem from="1675423619273" duration="1795000" />
+      <workItem from="1675423619273" duration="2122000" />
     </task>
     <servers />
   </component>
