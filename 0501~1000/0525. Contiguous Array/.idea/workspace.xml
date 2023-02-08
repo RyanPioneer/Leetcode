@@ -5,23 +5,86 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="396537c4-0543-4270-b716-224b0e5bfead" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2246. Longest Path With Different Adjacent Characters/.idea/git_toolbox_prj.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2246. Longest Path With Different Adjacent Characters/.idea/sonarlint/issuestore/1/e/1e9075f5bf079c01ef2c910709e91a497d262080" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2246. Longest Path With Different Adjacent Characters/.idea/sonarlint/issuestore/9/f/9fe84ebb15faf917b7def6236dba604453cc61e0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2246. Longest Path With Different Adjacent Characters/.idea/sonarlint/issuestore/c/c/cc7b753f568727eee1a611f410e85ecaa3a34e66" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2246. Longest Path With Different Adjacent Characters/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2421. Number of Good Paths/.idea/2421. Number of Good Paths.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2421. Number of Good Paths/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2421. Number of Good Paths/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2421. Number of Good Paths/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2421. Number of Good Paths/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2421. Number of Good Paths/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2421. Number of Good Paths/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2421. Number of Good Paths/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0516. Longest Palindromic Subsequence/.idea/git_toolbox_prj.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0516. Longest Palindromic Subsequence/.idea/sonarlint/issuestore/1/e/1e9075f5bf079c01ef2c910709e91a497d262080" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0516. Longest Palindromic Subsequence/.idea/sonarlint/issuestore/9/f/9fe84ebb15faf917b7def6236dba604453cc61e0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0516. Longest Palindromic Subsequence/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0583. Delete Operation for Two Strings/.idea/0583. Delete Operation for Two Strings.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0583. Delete Operation for Two Strings/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0583. Delete Operation for Two Strings/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0583. Delete Operation for Two Strings/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0583. Delete Operation for Two Strings/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0583. Delete Operation for Two Strings/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0583. Delete Operation for Two Strings/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0583. Delete Operation for Two Strings/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0583. Delete Operation for Two Strings/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0680. Valid Palindrome II/.idea/0680. Valid Palindrome II.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0680. Valid Palindrome II/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0680. Valid Palindrome II/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0680. Valid Palindrome II/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0680. Valid Palindrome II/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0680. Valid Palindrome II/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0680. Valid Palindrome II/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0680. Valid Palindrome II/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0680. Valid Palindrome II/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2108. Find First Palindromic String in the Array/.idea/2108. Find First Palindromic String in the Array.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2108. Find First Palindromic String in the Array/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2108. Find First Palindromic String in the Array/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2108. Find First Palindromic String in the Array/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2108. Find First Palindromic String in the Array/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2108. Find First Palindromic String in the Array/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2108. Find First Palindromic String in the Array/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2108. Find First Palindromic String in the Array/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2108. Find First Palindromic String in the Array/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2444. Count Subarrays With Fixed Bounds/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2444. Count Subarrays With Fixed Bounds/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2492. Minimum Score of a Path Between Two Cities/.idea/2492. Minimum Score of a Path Between Two Cities.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2492. Minimum Score of a Path Between Two Cities/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2492. Minimum Score of a Path Between Two Cities/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2492. Minimum Score of a Path Between Two Cities/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2492. Minimum Score of a Path Between Two Cities/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2492. Minimum Score of a Path Between Two Cities/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2492. Minimum Score of a Path Between Two Cities/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2492. Minimum Score of a Path Between Two Cities/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2492. Minimum Score of a Path Between Two Cities/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2501~3000/2522. Partition String Into Substrings With Values at Most K/.idea/2522. Partition String Into Substrings With Values at Most K.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2501~3000/2522. Partition String Into Substrings With Values at Most K/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2501~3000/2522. Partition String Into Substrings With Values at Most K/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2501~3000/2522. Partition String Into Substrings With Values at Most K/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2501~3000/2522. Partition String Into Substrings With Values at Most K/.idea/sonarlint/issuestore/b/1/b1094ba51eacb5dd252316aae3bf58b30cc641cb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2501~3000/2522. Partition String Into Substrings With Values at Most K/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2501~3000/2522. Partition String Into Substrings With Values at Most K/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2501~3000/2522. Partition String Into Substrings With Values at Most K/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2501~3000/2522. Partition String Into Substrings With Values at Most K/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2501~3000/2522. Partition String Into Substrings With Values at Most K/main.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2501~3000/2522. Partition String Into Substrings With Values at Most K/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2501~3000/2542. Maximum Subsequence Score/.idea/2542. Maximum Subsequence Score.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2501~3000/2542. Maximum Subsequence Score/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2501~3000/2542. Maximum Subsequence Score/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2501~3000/2542. Maximum Subsequence Score/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2501~3000/2542. Maximum Subsequence Score/.idea/sonarlint/issuestore/b/1/b1094ba51eacb5dd252316aae3bf58b30cc641cb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2501~3000/2542. Maximum Subsequence Score/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2501~3000/2542. Maximum Subsequence Score/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2501~3000/2542. Maximum Subsequence Score/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2501~3000/2542. Maximum Subsequence Score/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2501~3000/2542. Maximum Subsequence Score/main.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2501~3000/2542. Maximum Subsequence Score/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2501~3000/2560. House Robber IV/.idea/2560. House Robber IV.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2501~3000/2560. House Robber IV/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2501~3000/2560. House Robber IV/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2501~3000/2560. House Robber IV/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2501~3000/2560. House Robber IV/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2501~3000/2560. House Robber IV/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2501~3000/2560. House Robber IV/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2501~3000/2560. House Robber IV/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2501~3000/2560. House Robber IV/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0516. Longest Palindromic Subsequence/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../0516. Longest Palindromic Subsequence/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0516. Longest Palindromic Subsequence/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../0516. Longest Palindromic Subsequence/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/1/b1094ba51eacb5dd252316aae3bf58b30cc641cb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../2001~2500/2246. Longest Path With Different Adjacent Characters/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../2001~2500/2246. Longest Path With Different Adjacent Characters/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../2001~2500/2246. Longest Path With Different Adjacent Characters/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../2001~2500/2246. Longest Path With Different Adjacent Characters/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../2001~2500/2415. Reverse Odd Levels of Binary Tree/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../2001~2500/2415. Reverse Odd Levels of Binary Tree/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,22 +102,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "dart.analysis.tool.window.visible": "false",
-    "last_opened_file_path": "/Users/ryanpionee2/Github/Leetcode/0501~1000/0525. Contiguous Array",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "MTCustomThemeConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/ryanpionee2/Github/Leetcode/0501~1000/0525. Contiguous Array&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MTCustomThemeConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="0525. Contiguous Array" />
@@ -89,6 +152,7 @@
       <updated>1673415196599</updated>
       <workItem from="1673415197731" duration="686000" />
       <workItem from="1673422674393" duration="4756000" />
+      <workItem from="1675845950488" duration="2861000" />
     </task>
     <servers />
   </component>
