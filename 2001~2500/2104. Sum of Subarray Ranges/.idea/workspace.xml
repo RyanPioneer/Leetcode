@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d922b7d4-b6e1-4457-b2b3-5d770a580664" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../0001~0500/0215. Kth Largest Element in an Array/.idea/0215. Kth Largest Element in an Array.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0001~0500/0215. Kth Largest Element in an Array/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0001~0500/0215. Kth Largest Element in an Array/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0001~0500/0215. Kth Largest Element in an Array/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0001~0500/0215. Kth Largest Element in an Array/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0001~0500/0215. Kth Largest Element in an Array/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0001~0500/0215. Kth Largest Element in an Array/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0001~0500/0215. Kth Largest Element in an Array/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0862. Shortest Subarray with Sum at Least K/.idea/sonarlint/issuestore/1/e/1e9075f5bf079c01ef2c910709e91a497d262080" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0862. Shortest Subarray with Sum at Least K/.idea/sonarlint/issuestore/9/f/9fe84ebb15faf917b7def6236dba604453cc61e0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0862. Shortest Subarray with Sum at Least K/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1162. As Far from Land as Possible/.idea/1162. As Far from Land as Possible.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1162. As Far from Land as Possible/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1162. As Far from Land as Possible/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1162. As Far from Land as Possible/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1162. As Far from Land as Possible/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1162. As Far from Land as Possible/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1162. As Far from Land as Possible/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1162. As Far from Land as Possible/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1162. As Far from Land as Possible/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1235. Maximum Profit in Job Scheduling/.idea/1235. Maximum Profit in Job Scheduling.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1235. Maximum Profit in Job Scheduling/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1235. Maximum Profit in Job Scheduling/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1235. Maximum Profit in Job Scheduling/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1235. Maximum Profit in Job Scheduling/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1235. Maximum Profit in Job Scheduling/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1235. Maximum Profit in Job Scheduling/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1235. Maximum Profit in Job Scheduling/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/2104. Sum of Subarray Ranges.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2306. Naming a Company/.idea/2306. Naming a Company.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2306. Naming a Company/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2306. Naming a Company/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2306. Naming a Company/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2306. Naming a Company/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2306. Naming a Company/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2306. Naming a Company/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2306. Naming a Company/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2306. Naming a Company/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0501~1000/0862. Shortest Subarray with Sum at Least K/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../0501~1000/0862. Shortest Subarray with Sum at Least K/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2LTMvrSe6SE9oYldwmjU5WSuPZ0" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/ryanpionee2/Github/Leetcode/2001~2500/2104. Sum of Subarray Ranges",
+    "settings.editor.selected.configurable": "MTCustomThemeConfigurable"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="2104. Sum of Subarray Ranges" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d922b7d4-b6e1-4457-b2b3-5d770a580664" name="Changes" comment="" />
+      <created>1675890852416</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675890852416</updated>
+      <workItem from="1675890853625" duration="2858000" />
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

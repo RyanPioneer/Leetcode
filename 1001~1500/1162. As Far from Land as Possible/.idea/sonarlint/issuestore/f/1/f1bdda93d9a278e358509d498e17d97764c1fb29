@@ -1,0 +1,4 @@
+
+fpython:S100"ORename method "maxDistance" to match the regular expression ^[a-z_][a-z0-9_]*$.(‡”‰ì
+lpython:S3776"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(‡”‰ì
+Hpython:S5806"+Rename this variable; it shadows a builtin.(Àñ©´ùÿÿÿÿ
