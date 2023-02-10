@@ -5,81 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7259bcaf-3648-406c-b17c-212ae5e5961a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../0039. Combination Sum/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0039. Combination Sum/.idea/0039. Combination Sum.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0039. Combination Sum/.idea/0039. Combination Sum2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0039. Combination Sum/.idea/sonarlint/issuestore/6/8/682a50d19e416195436708e48c7761923b8d6651" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0039. Combination Sum/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0039. Combination Sum/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0040. Combination Sum II/.idea/0040. Combination Sum II.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0040. Combination Sum II/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0077. Combinations/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0077. Combinations/.idea/0077. Combinations.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0077. Combinations/.idea/sonarlint/issuestore/c/c/cc7b753f568727eee1a611f410e85ecaa3a34e66" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0077. Combinations/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0077. Combinations/main2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/0092. Reverse Linked List II.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0216. Combination Sum III/.idea/0216. Combination Sum III.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0216. Combination Sum III/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0216. Combination Sum III/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0216. Combination Sum III/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0216. Combination Sum III/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0216. Combination Sum III/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0216. Combination Sum III/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0216. Combination Sum III/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0377. Combination Sum IV/.idea/0377. Combination Sum IV.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0377. Combination Sum IV/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0377. Combination Sum IV/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0377. Combination Sum IV/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0377. Combination Sum IV/.idea/sonarlint/issuestore/c/c/cc7b753f568727eee1a611f410e85ecaa3a34e66" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0377. Combination Sum IV/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0377. Combination Sum IV/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0377. Combination Sum IV/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0377. Combination Sum IV/main2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0501~1000/0520. Detect Capital/.idea/0520. Detect Capital.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0501~1000/0520. Detect Capital/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0501~1000/0520. Detect Capital/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0501~1000/0520. Detect Capital/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0501~1000/0520. Detect Capital/.idea/sonarlint/issuestore/b/1/b1094ba51eacb5dd252316aae3bf58b30cc641cb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0501~1000/0520. Detect Capital/.idea/sonarlint/issuestore/c/c/cc7b753f568727eee1a611f410e85ecaa3a34e66" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0501~1000/0520. Detect Capital/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0501~1000/0520. Detect Capital/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0501~1000/0520. Detect Capital/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0501~1000/0520. Detect Capital/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0501~1000/0520. Detect Capital/main.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0501~1000/0520. Detect Capital/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0501~1000/0520. Detect Capital/main2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0501~1000/0944. Delete Columns to Make Sorted/.idea/0944. Delete Columns to Make Sorted.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0501~1000/0944. Delete Columns to Make Sorted/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0501~1000/0944. Delete Columns to Make Sorted/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0501~1000/0944. Delete Columns to Make Sorted/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0501~1000/0944. Delete Columns to Make Sorted/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0501~1000/0944. Delete Columns to Make Sorted/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0501~1000/0944. Delete Columns to Make Sorted/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0501~1000/0944. Delete Columns to Make Sorted/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1696. Jump Game VI/.idea/sonarlint/issuestore/b/1/b1094ba51eacb5dd252316aae3bf58b30cc641cb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1696. Jump Game VI/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1696. Jump Game VI/main.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2196. Create Binary Tree From Descriptions/.idea/2196. Create Binary Tree From Descriptions.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2196. Create Binary Tree From Descriptions/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2196. Create Binary Tree From Descriptions/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2196. Create Binary Tree From Descriptions/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2196. Create Binary Tree From Descriptions/.idea/sonarlint/issuestore/b/1/b1094ba51eacb5dd252316aae3bf58b30cc641cb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2196. Create Binary Tree From Descriptions/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2196. Create Binary Tree From Descriptions/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2196. Create Binary Tree From Descriptions/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2196. Create Binary Tree From Descriptions/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2196. Create Binary Tree From Descriptions/main.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2196. Create Binary Tree From Descriptions/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../0040. Combination Sum II/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../0040. Combination Sum II/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../1501~2000/1696. Jump Game VI/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../1501~2000/1696. Jump Game VI/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../1501~2000/1696. Jump Game VI/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../1501~2000/1696. Jump Game VI/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0215. Kth Largest Element in an Array/.idea/sonarlint/issuestore/1/e/1e9075f5bf079c01ef2c910709e91a497d262080" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0215. Kth Largest Element in an Array/.idea/sonarlint/issuestore/9/f/9fe84ebb15faf917b7def6236dba604453cc61e0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0215. Kth Largest Element in an Array/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2099. Find Subsequence of Length K With the Largest Sum/.idea/2099. Find Subsequence of Length K With the Largest Sum.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2099. Find Subsequence of Length K With the Largest Sum/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2099. Find Subsequence of Length K With the Largest Sum/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2099. Find Subsequence of Length K With the Largest Sum/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2099. Find Subsequence of Length K With the Largest Sum/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2099. Find Subsequence of Length K With the Largest Sum/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2099. Find Subsequence of Length K With the Largest Sum/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2099. Find Subsequence of Length K With the Largest Sum/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2099. Find Subsequence of Length K With the Largest Sum/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0215. Kth Largest Element in an Array/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../0215. Kth Largest Element in an Array/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0215. Kth Largest Element in an Array/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../0215. Kth Largest Element in an Array/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1001~1500/1235. Maximum Profit in Job Scheduling/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../1001~1500/1235. Maximum Profit in Job Scheduling/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2001~2500/2104. Sum of Subarray Ranges/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../2001~2500/2104. Sum of Subarray Ranges/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -149,6 +92,7 @@
       <updated>1672720477214</updated>
       <workItem from="1672720478814" duration="665000" />
       <workItem from="1672792027892" duration="8000" />
+      <workItem from="1676035579385" duration="4221000" />
     </task>
     <servers />
   </component>
