@@ -5,22 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="59a90a9b-ba2a-4a8b-9276-ed60d1cabb25" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0215. Kth Largest Element in an Array/.idea/sonarlint/issuestore/1/e/1e9075f5bf079c01ef2c910709e91a497d262080" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0215. Kth Largest Element in an Array/.idea/sonarlint/issuestore/9/f/9fe84ebb15faf917b7def6236dba604453cc61e0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0215. Kth Largest Element in an Array/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2099. Find Subsequence of Length K With the Largest Sum/.idea/2099. Find Subsequence of Length K With the Largest Sum.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2099. Find Subsequence of Length K With the Largest Sum/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2099. Find Subsequence of Length K With the Largest Sum/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2099. Find Subsequence of Length K With the Largest Sum/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2099. Find Subsequence of Length K With the Largest Sum/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2099. Find Subsequence of Length K With the Largest Sum/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2099. Find Subsequence of Length K With the Largest Sum/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2099. Find Subsequence of Length K With the Largest Sum/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2099. Find Subsequence of Length K With the Largest Sum/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0001~0500/0092. Reverse Linked List II/.idea/git_toolbox_prj.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0001~0500/0092. Reverse Linked List II/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0001~0500/0123. Best Time to Buy and Sell Stock III/.idea/0123. Best Time to Buy and Sell Stock III.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0001~0500/0123. Best Time to Buy and Sell Stock III/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0001~0500/0123. Best Time to Buy and Sell Stock III/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0001~0500/0123. Best Time to Buy and Sell Stock III/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0001~0500/0123. Best Time to Buy and Sell Stock III/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0001~0500/0123. Best Time to Buy and Sell Stock III/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0001~0500/0123. Best Time to Buy and Sell Stock III/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0001~0500/0123. Best Time to Buy and Sell Stock III/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0001~0500/0092. Reverse Linked List II/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../0001~0500/0092. Reverse Linked List II/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../0001~0500/0092. Reverse Linked List II/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../0001~0500/0092. Reverse Linked List II/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../0001~0500/0092. Reverse Linked List II/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../0001~0500/0092. Reverse Linked List II/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../0001~0500/0215. Kth Largest Element in an Array/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../0001~0500/0215. Kth Largest Element in an Array/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../0001~0500/0215. Kth Largest Element in an Array/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../0001~0500/0215. Kth Largest Element in an Array/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1129. Shortest Path with Alternating Colors/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../1129. Shortest Path with Alternating Colors/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../2001~2500/2104. Sum of Subarray Ranges/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../2001~2500/2104. Sum of Subarray Ranges/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -81,7 +78,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1675905581987</updated>
-      <workItem from="1675905583127" duration="2681000" />
+      <workItem from="1675905583127" duration="3278000" />
     </task>
     <servers />
   </component>

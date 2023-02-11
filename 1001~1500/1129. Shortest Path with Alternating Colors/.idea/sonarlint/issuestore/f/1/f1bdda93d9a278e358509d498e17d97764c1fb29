@@ -1,0 +1,4 @@
+
+lpython:S117"URename this parameter "blueEdges" to match the regular expression ^[_a-z][a-z0-9_]*$.(ƒ«ˆ
+kpython:S117"TRename this parameter "redEdges" to match the regular expression ^[_a-z][a-z0-9_]*$.(ƒ«ˆ
+spython:S100"\Rename method "shortestAlternatingPaths" to match the regular expression ^[a-z_][a-z0-9_]*$.(ƒ«ˆ
