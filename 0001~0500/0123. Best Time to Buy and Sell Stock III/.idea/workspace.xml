@@ -4,22 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a291a73b-812a-469a-afce-b9ba3ba2250d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../0092. Reverse Linked List II/.idea/git_toolbox_prj.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0092. Reverse Linked List II/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/0123. Best Time to Buy and Sell Stock III.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../0092. Reverse Linked List II/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../0092. Reverse Linked List II/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../0092. Reverse Linked List II/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../0092. Reverse Linked List II/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../1001~1500/1129. Shortest Path with Alternating Colors/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../1001~1500/1129. Shortest Path with Alternating Colors/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../1001~1500/1235. Maximum Profit in Job Scheduling/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../1001~1500/1235. Maximum Profit in Job Scheduling/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../2001~2500/2104. Sum of Subarray Ranges/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../2001~2500/2104. Sum of Subarray Ranges/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="a291a73b-812a-469a-afce-b9ba3ba2250d" name="Changes" comment="2023/2/11">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +27,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "/Users/ryanpionee2/Github/Leetcode/0001~0500/0123. Best Time to Buy and Sell Stock III",
     "settings.editor.selected.configurable": "MTCustomThemeConfigurable"
@@ -78,7 +66,20 @@
       <option name="presentableId" value="Default" />
       <updated>1676042870208</updated>
       <workItem from="1676042871453" duration="1824000" />
+      <workItem from="1676107193597" duration="1027000" />
     </task>
+    <task id="LOCAL-00001" summary="2023/2/11">
+      <created>1676107224053</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1676107224053</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2023/2/11" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023/2/11" />
   </component>
 </project>
