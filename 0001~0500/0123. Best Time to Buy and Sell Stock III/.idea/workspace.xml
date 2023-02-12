@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a291a73b-812a-469a-afce-b9ba3ba2250d" name="Changes" comment="2023/2/11">
+    <list default="true" id="a291a73b-812a-469a-afce-b9ba3ba2250d" name="Changes" comment="2023/2/12">
+      <change afterPath="$PROJECT_DIR$/../0188. Best Time to Buy and Sell Stock IV/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0188. Best Time to Buy and Sell Stock IV/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +18,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2LYL3SduuU7ZXuBwloXlRyyQywA" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -66,7 +70,7 @@
       <option name="presentableId" value="Default" />
       <updated>1676042870208</updated>
       <workItem from="1676042871453" duration="1824000" />
-      <workItem from="1676107193597" duration="1027000" />
+      <workItem from="1676107193597" duration="1563000" />
     </task>
     <task id="LOCAL-00001" summary="2023/2/11">
       <created>1676107224053</created>
@@ -75,11 +79,19 @@
       <option name="project" value="LOCAL" />
       <updated>1676107224053</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="2023/2/12">
+      <created>1676193301585</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1676193301585</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="2023/2/11" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023/2/11" />
+    <MESSAGE value="2023/2/12" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023/2/12" />
   </component>
 </project>
