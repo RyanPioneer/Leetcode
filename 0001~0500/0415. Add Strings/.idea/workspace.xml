@@ -4,10 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="66dd6bb8-5cd2-40b3-8dc5-ce7d5a180ed8" name="Changes" comment="2023/2/15">
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0415. Add Strings/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0415. Add Strings/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
+    <list default="true" id="b21aa483-6f2b-459e-89da-136c08b39021" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0989. Add to Array-Form of Integer/.idea/git_toolbox_prj.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0989. Add to Array-Form of Integer/.idea/sonarlint/issuestore/1/e/1e9075f5bf079c01ef2c910709e91a497d262080" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0989. Add to Array-Form of Integer/.idea/sonarlint/issuestore/9/f/9fe84ebb15faf917b7def6236dba604453cc61e0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0989. Add to Array-Form of Integer/.idea/sonarlint/issuestore/c/c/cc7b753f568727eee1a611f410e85ecaa3a34e66" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0989. Add to Array-Form of Integer/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2501~3000/2554. Maximum Number of Integers to Choose From a Range I/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2501~3000/2554. Maximum Number of Integers to Choose From a Range I/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2501~3000/2554. Maximum Number of Integers to Choose From a Range I/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0501~1000/0989. Add to Array-Form of Integer/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../0501~1000/0989. Add to Array-Form of Integer/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0501~1000/0989. Add to Array-Form of Integer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../0501~1000/0989. Add to Array-Form of Integer/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,7 +27,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2Llw4mMAsZ3giW6S2iXKj5igcGm" />
+  <component name="ProjectId" id="2LmAa4OXV5A9a4zd02Vf99ddLSw" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -28,19 +38,16 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/ryanpionee2/Github/Leetcode/0501~1000/0989. Add to Array-Form of Integer",
+    "last_opened_file_path": "/Users/ryanpionee2/Github/Leetcode/0001~0500/0415. Add Strings",
     "settings.editor.selected.configurable": "MTCustomThemeConfigurable"
   }
 }]]></component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
-      <module name="0989. Add to Array-Form of Integer" />
+      <module name="0415. Add Strings" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -65,26 +72,16 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="66dd6bb8-5cd2-40b3-8dc5-ce7d5a180ed8" name="Changes" comment="" />
-      <created>1676458788238</created>
+      <changelist id="b21aa483-6f2b-459e-89da-136c08b39021" name="Changes" comment="" />
+      <created>1676465944894</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1676458788238</updated>
-      <workItem from="1676458789655" duration="3535000" />
+      <updated>1676465944894</updated>
+      <workItem from="1676465946108" duration="1339000" />
     </task>
-    <task id="LOCAL-00001" summary="2023/2/15">
-      <created>1676465896596</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1676465896596</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="2023/2/15" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023/2/15" />
   </component>
 </project>
