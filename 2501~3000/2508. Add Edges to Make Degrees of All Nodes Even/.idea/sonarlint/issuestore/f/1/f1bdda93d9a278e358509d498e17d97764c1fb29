@@ -1,0 +1,3 @@
+
+jpython:S100"NRename method "isPossible" to match the regular expression ^[a-z_][a-z0-9_]*$.(þîÈçþÿÿÿÿ
+qpython:S3776"TRefactor this function to reduce its Cognitive Complexity from 24 to the 15 allowed.(þîÈçþÿÿÿÿ
