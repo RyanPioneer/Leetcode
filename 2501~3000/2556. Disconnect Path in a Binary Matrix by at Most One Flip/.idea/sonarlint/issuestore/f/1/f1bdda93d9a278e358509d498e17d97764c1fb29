@@ -1,0 +1,3 @@
+
+mpython:S100"WRename method "isPossibleToCutPath" to match the regular expression ^[a-z_][a-z0-9_]*$.(â¥ÑP
+kpython:S3776"TRefactor this function to reduce its Cognitive Complexity from 29 to the 15 allowed.(â¥ÑP

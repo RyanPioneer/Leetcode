@@ -1,0 +1,5 @@
+
+lpython:S117"URename this parameter "firstWord" to match the regular expression ^[_a-z][a-z0-9_]*$.(™ž ˜
+mpython:S117"VRename this parameter "secondWord" to match the regular expression ^[_a-z][a-z0-9_]*$.(™ž ˜
+mpython:S117"VRename this parameter "targetWord" to match the regular expression ^[_a-z][a-z0-9_]*$.(™ž ˜
+epython:S100"NRename method "isSumEqual" to match the regular expression ^[a-z_][a-z0-9_]*$.(™ž ˜
