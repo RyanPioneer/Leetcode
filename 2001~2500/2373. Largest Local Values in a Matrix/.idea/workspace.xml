@@ -5,13 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="98491680-6753-4c5c-bde1-86642cf4e0f2" name="Changes" comment="2023/2/18">
-      <change afterPath="$PROJECT_DIR$/../../0501~1000/0540. Single Element in a Sorted Array/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0501~1000/0540. Single Element in a Sorted Array/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0501~1000/0540. Single Element in a Sorted Array/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0501~1000/0540. Single Element in a Sorted Array/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0501~1000/0540. Single Element in a Sorted Array/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1501~2000/1675. Minimize Deviation in Array/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1501~2000/1675. Minimize Deviation in Array/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0501~1000/0540. Single Element in a Sorted Array/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../0501~1000/0540. Single Element in a Sorted Array/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,6 +78,7 @@
       <workItem from="1676713015678" duration="1510000" />
       <workItem from="1676723261809" duration="918000" />
       <workItem from="1676941747228" duration="4000" />
+      <workItem from="1677235068506" duration="22000" />
     </task>
     <task id="LOCAL-00001" summary="2023/2/18">
       <created>1676714683699</created>
