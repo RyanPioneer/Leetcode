@@ -5,16 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="79ba42c3-5f62-4b27-8ae1-c3630c015d95" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0121. Best Time to Buy and Sell Stock/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0121. Best Time to Buy and Sell Stock/.idea/0121. Best Time to Buy and Sell Stock.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0121. Best Time to Buy and Sell Stock/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0121. Best Time to Buy and Sell Stock/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0121. Best Time to Buy and Sell Stock/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0121. Best Time to Buy and Sell Stock/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0121. Best Time to Buy and Sell Stock/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0121. Best Time to Buy and Sell Stock/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0121. Best Time to Buy and Sell Stock/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../0501~1000/0502. IPO/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../0501~1000/0502. IPO/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0001~0500/0121. Best Time to Buy and Sell Stock/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../0001~0500/0121. Best Time to Buy and Sell Stock/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
     </list>
@@ -74,6 +65,7 @@
       <updated>1677235083571</updated>
       <workItem from="1677235084728" duration="2566000" />
       <workItem from="1677284795230" duration="3000" />
+      <workItem from="1677369866027" duration="8000" />
     </task>
     <servers />
   </component>
