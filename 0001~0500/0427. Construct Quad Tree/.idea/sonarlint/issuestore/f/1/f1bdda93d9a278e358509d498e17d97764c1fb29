@@ -1,0 +1,15 @@
+
+fpython:S116"ORename this field "topLeft" to match the regular expression ^[_a-z][_a-z0-9]*$.(¼îö­
+ipython:S116"RRename this field "bottomLeft" to match the regular expression ^[_a-z][_a-z0-9]*$.(ÿ ¼
+opython:S116 "SRename this field "bottomRight" to match the regular expression ^[_a-z][_a-z0-9]*$.(½€ùÿÿÿÿ
+gpython:S116"PRename this field "topRight" to match the regular expression ^[_a-z][_a-z0-9]*$.(Èı¤Û
+epython:S116"NRename this field "isLeaf" to match the regular expression ^[_a-z][_a-z0-9]*$.(ø³–¤
+mpython:S117"VRename this parameter "bottomLeft" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ì€ Õ
+npython:S117"WRename this parameter "bottomRight" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ì€ Õ
+ipython:S117"RRename this parameter "isLeaf" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ì€ Õ
+jpython:S117"SRename this parameter "topLeft" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ì€ Õ
+kpython:S117"TRename this parameter "topRight" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ì€ Õ
+wpython:S117("[Rename this local variable "bottomLeft" to match the regular expression ^[_a-z][a-z0-9_]*$.(¼ñ•âÿÿÿÿÿ
+xpython:S117("\Rename this local variable "bottomRight" to match the regular expression ^[_a-z][a-z0-9_]*$.(¼ñ•âÿÿÿÿÿ
+tpython:S117("XRename this local variable "topLeft" to match the regular expression ^[_a-z][a-z0-9_]*$.(¼ñ•âÿÿÿÿÿ
+upython:S117("YRename this local variable "topRight" to match the regular expression ^[_a-z][a-z0-9_]*$.(¼ñ•âÿÿÿÿÿ

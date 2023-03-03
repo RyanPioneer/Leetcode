@@ -1,0 +1,4 @@
+
+dpython:S100"MRename method "sortArray" to match the regular expression ^[a-z_][a-z0-9_]*$.(ý«æø
+hpython:S1542"PRename function "maxHeapify" to match the regular expression ^[a-z_][a-z0-9_]*$.(°×àÛ
+fpython:S1542$"NRename function "heapSort" to match the regular expression ^[a-z_][a-z0-9_]*$.(ÔÑó¡
