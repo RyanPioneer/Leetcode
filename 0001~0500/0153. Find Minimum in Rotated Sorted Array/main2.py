@@ -2,7 +2,7 @@
 Source: https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
 Date: 2023/3/13
 Skill:
-Runtime: 48 ms, faster than 28.94%
+Runtime: 37 ms, faster than 90.49%
 Memory Usage: 14.1 MB, less than 92.70%
 Time complexity:
 Space complexity:
@@ -23,17 +23,13 @@ from sortedcontainers import SortedList
 
 class Solution:
     def findMin(self, nums: List[int]) -> int:
-        left, right, sz = 0, len(nums) - 1, len(nums)
-        if len(nums) <= 2:
-            return min(nums)
+        left, right = 0, len(nums) - 1
         while left < right:
             mid = (left + right) // 2
-            if nums[mid] < nums[(mid + 1) % sz] < nums[(mid - 1 + sz) % sz]:
-                return nums[mid]
-            if nums[left] < nums[mid] < nums[right] or nums[left] > nums[right] > nums[mid]:
-                right = mid - 1
-            else:
+            if nums[mid] > nums[right]:
                 left = mid + 1
+            else:
+                right = mid
 
         return nums[left]
 
