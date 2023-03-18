@@ -4,21 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6cb3bd97-1c29-47a4-8a10-fc0d1a9cec54" name="Changes" comment="">
+    <list default="true" id="1d590ec5-fe56-48be-8e1d-9e0e5cea6f52" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../0211. Design Add and Search Words Data Structure/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0211. Design Add and Search Words Data Structure/.idea/sonarlint/securityhotspotstore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../0394. Decode String/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../0394. Decode String/.idea/sonarlint/securityhotspotstore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0424. Longest Repeating Character Replacement/.idea/0424. Longest Repeating Character Replacement.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0424. Longest Repeating Character Replacement/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0424. Longest Repeating Character Replacement/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0424. Longest Repeating Character Replacement/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0424. Longest Repeating Character Replacement/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0424. Longest Repeating Character Replacement/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0424. Longest Repeating Character Replacement/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0424. Longest Repeating Character Replacement/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0424. Longest Repeating Character Replacement/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0424. Longest Repeating Character Replacement/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/0424. Longest Repeating Character Replacement.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../0501~1000/0981. Time Based Key-Value Store/.idea/git_toolbox_prj.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0211. Design Add and Search Words Data Structure/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../0211. Design Add and Search Words Data Structure/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0211. Design Add and Search Words Data Structure/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../0211. Design Add and Search Words Data Structure/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0211. Design Add and Search Words Data Structure/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../0211. Design Add and Search Words Data Structure/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../0234. Palindrome Linked List/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../0234. Palindrome Linked List/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../0394. Decode String/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../0394. Decode String/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../0394. Decode String/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../0394. Decode String/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
@@ -35,25 +39,29 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2NAkdPoVh0sr0ZSQApFInEnmwT7" />
+  <component name="ProjectId" id="2NBAJVNXIITZqR92k0JHVoKKvpu" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/ryanpionee2/Github/Leetcode/0001~0500/0211. Design Add and Search Words Data Structure",
+    "last_opened_file_path": "/Users/ryanpionee2/Github/Leetcode/0001~0500/0424. Longest Repeating Character Replacement",
     "settings.editor.selected.configurable": "MTCustomThemeConfigurable"
   }
 }]]></component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
-      <module name="0211. Design Add and Search Words Data Structure" />
+      <module name="0424. Longest Repeating Character Replacement" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -78,13 +86,16 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="6cb3bd97-1c29-47a4-8a10-fc0d1a9cec54" name="Changes" comment="" />
-      <created>1679114360420</created>
+      <changelist id="1d590ec5-fe56-48be-8e1d-9e0e5cea6f52" name="Changes" comment="" />
+      <created>1679127029847</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1679114360420</updated>
-      <workItem from="1679114361643" duration="1928000" />
+      <updated>1679127029847</updated>
+      <workItem from="1679127031651" duration="2750000" />
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
