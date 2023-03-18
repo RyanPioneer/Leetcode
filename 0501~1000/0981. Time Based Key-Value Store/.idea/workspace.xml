@@ -5,29 +5,35 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c1af8d9-f7d2-4244-abdc-47bf131cde0c" name="Changes" comment="2023/3/18">
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0211. Design Add and Search Words Data Structure/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0211. Design Add and Search Words Data Structure/.idea/sonarlint/securityhotspotstore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0394. Decode String/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0394. Decode String/.idea/sonarlint/securityhotspotstore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0424. Longest Repeating Character Replacement/.idea/0424. Longest Repeating Character Replacement.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0424. Longest Repeating Character Replacement/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0424. Longest Repeating Character Replacement/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0424. Longest Repeating Character Replacement/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0424. Longest Repeating Character Replacement/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0424. Longest Repeating Character Replacement/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0424. Longest Repeating Character Replacement/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0424. Longest Repeating Character Replacement/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0424. Longest Repeating Character Replacement/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0424. Longest Repeating Character Replacement/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../0001~0500/0211. Design Add and Search Words Data Structure/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../0001~0500/0211. Design Add and Search Words Data Structure/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../0001~0500/0211. Design Add and Search Words Data Structure/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../0001~0500/0211. Design Add and Search Words Data Structure/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../0001~0500/0211. Design Add and Search Words Data Structure/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../0001~0500/0211. Design Add and Search Words Data Structure/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0001~0500/0143. Reorder List/.idea/0143. Reorder List.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0001~0500/0143. Reorder List/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0001~0500/0143. Reorder List/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0001~0500/0143. Reorder List/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0001~0500/0143. Reorder List/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0001~0500/0143. Reorder List/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0001~0500/0143. Reorder List/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0001~0500/0143. Reorder List/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0001~0500/0143. Reorder List/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0001~0500/0143. Reorder List/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0001~0500/0234. Palindrome Linked List/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0001~0500/0234. Palindrome Linked List/.idea/sonarlint/securityhotspotstore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0001~0500/0424. Longest Repeating Character Replacement/.idea/git_toolbox_prj.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0528. Random Pick with Weight/.idea/0528. Random Pick with Weight.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0528. Random Pick with Weight/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0528. Random Pick with Weight/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0528. Random Pick with Weight/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0528. Random Pick with Weight/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0528. Random Pick with Weight/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0528. Random Pick with Weight/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0528. Random Pick with Weight/.idea/sonarlint/securityhotspotstore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0528. Random Pick with Weight/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0528. Random Pick with Weight/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0528. Random Pick with Weight/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0528. Random Pick with Weight/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0001~0500/0234. Palindrome Linked List/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../0001~0500/0234. Palindrome Linked List/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0001~0500/0234. Palindrome Linked List/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../0001~0500/0234. Palindrome Linked List/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../0001~0500/0234. Palindrome Linked List/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../0001~0500/0234. Palindrome Linked List/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../0001~0500/0394. Decode String/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../0001~0500/0394. Decode String/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../0001~0500/0394. Decode String/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../0001~0500/0394. Decode String/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../0001~0500/0394. Decode String/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../0001~0500/0394. Decode String/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../0001~0500/0394. Decode String/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../0001~0500/0394. Decode String/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0001~0500/0424. Longest Repeating Character Replacement/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../0001~0500/0424. Longest Repeating Character Replacement/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../0895. Maximum Frequency Stack/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../0895. Maximum Frequency Stack/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -92,7 +98,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1679113292195</updated>
-      <workItem from="1679113293507" duration="4553000" />
+      <workItem from="1679113293507" duration="5775000" />
     </task>
     <task id="LOCAL-00001" summary="2023/3/18">
       <created>1679117807408</created>
