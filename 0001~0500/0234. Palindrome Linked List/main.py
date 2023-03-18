@@ -1,14 +1,15 @@
 """
 Source: https://leetcode.com/problems/palindrome-linked-list/
-Date: 2023/1/25
+Date: 2023/3/17
 Skill:
 Runtime: 29 ms, faster than 90.42%
 Memory Usage: 13.8 MB, less than 66.28%
 Time complexity:
 Space complexity:
 Constraints:
-    The number of nodes in the list is in the range [1, 10^5].
+    The number of nodes in the list is in the range [1, 10^5]
     0 <= Node.val <= 9
+    Do it in O(n) time and O(1) space
 """
 
 import math
