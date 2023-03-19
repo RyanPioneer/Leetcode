@@ -1,0 +1,4 @@
+
+ppython:S117"SRename this parameter "endTime" to match the regular expression ^[_a-z][a-z0-9_]*$.(é‹š&8—øÊºï0
+rpython:S117"URename this parameter "startTime" to match the regular expression ^[_a-z][a-z0-9_]*$.(é‹š&8˜øÊºï0
+npython:S100"QRename method "jobScheduling" to match the regular expression ^[a-z_][a-z0-9_]*$.(é‹š&8šøÊºï0
