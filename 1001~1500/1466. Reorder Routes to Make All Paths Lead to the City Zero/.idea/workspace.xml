@@ -4,7 +4,39 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="644b761a-f972-4c63-af8e-787332b09e94" name="Changes" comment="">
+    <list default="true" id="55fc098b-71ab-4031-907a-1895fa4808b8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../1319. Number of Operations to Make Network Connected/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1319. Number of Operations to Make Network Connected/.idea/1319. Number of Operations to Make Network Connected.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1319. Number of Operations to Make Network Connected/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1319. Number of Operations to Make Network Connected/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1319. Number of Operations to Make Network Connected/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1319. Number of Operations to Make Network Connected/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1319. Number of Operations to Make Network Connected/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1319. Number of Operations to Make Network Connected/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1319. Number of Operations to Make Network Connected/.idea/sonarlint/securityhotspotstore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1319. Number of Operations to Make Network Connected/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1319. Number of Operations to Make Network Connected/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1319. Number of Operations to Make Network Connected/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/1466. Reorder Routes to Make All Paths Lead to the City Zero.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2501~3000/2581. Count Number of Possible Root Nodes/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2501~3000/2581. Count Number of Possible Root Nodes/.idea/2581. Count Number of Possible Root Nodes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2501~3000/2581. Count Number of Possible Root Nodes/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2501~3000/2581. Count Number of Possible Root Nodes/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2501~3000/2581. Count Number of Possible Root Nodes/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2501~3000/2581. Count Number of Possible Root Nodes/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2501~3000/2581. Count Number of Possible Root Nodes/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2501~3000/2581. Count Number of Possible Root Nodes/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2501~3000/2581. Count Number of Possible Root Nodes/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2501~3000/2581. Count Number of Possible Root Nodes/main.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../2501~3000/2591. Distribute Money to Maximum Children/.idea/git_toolbox_prj.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../2501~3000/2591. Distribute Money to Maximum Children/.idea/sonarlint/issuestore/1/e/1e9075f5bf079c01ef2c910709e91a497d262080" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../2501~3000/2591. Distribute Money to Maximum Children/.idea/sonarlint/issuestore/4/9/496a238a6afa168dbaf6efd37bb459331589579c" afterDir="false" />
@@ -16,7 +48,9 @@
       <change afterPath="$PROJECT_DIR$/../../2501~3000/2591. Distribute Money to Maximum Children/.idea/sonarlint/securityhotspotstore/8/8/88a9255124c95bdc913197c120a8d560edc59c8e" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../2501~3000/2591. Distribute Money to Maximum Children/.idea/sonarlint/securityhotspotstore/9/f/9fe84ebb15faf917b7def6236dba604453cc61e0" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../2501~3000/2591. Distribute Money to Maximum Children/.idea/sonarlint/securityhotspotstore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0001~0500/0127. Word Ladder/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../0001~0500/0127. Word Ladder/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0001~0500/0127. Word Ladder/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../0001~0500/0127. Word Ladder/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0001~0500/0127. Word Ladder/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../0001~0500/0127. Word Ladder/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../2501~3000/2591. Distribute Money to Maximum Children/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../2501~3000/2591. Distribute Money to Maximum Children/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../2501~3000/2591. Distribute Money to Maximum Children/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../2501~3000/2591. Distribute Money to Maximum Children/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../2501~3000/2591. Distribute Money to Maximum Children/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../2501~3000/2591. Distribute Money to Maximum Children/.idea/workspace.xml" afterDir="false" />
@@ -29,29 +63,25 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2NKOJGXe0Lwp9BI74HxJ6asgU8c" />
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectId" id="2NRZ3XCyewSRZklaE3fHtgGfBX3" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/ryanpionee2/Github/Leetcode/0001~0500/0127. Word Ladder",
+    "last_opened_file_path": "/Users/ryanpionee2/Github/Leetcode/1001~1500/1466. Reorder Routes to Make All Paths Lead to the City Zero",
     "settings.editor.selected.configurable": "MTCustomThemeConfigurable"
   }
 }]]></component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
-      <module name="0127. Word Ladder" />
+      <module name="1466. Reorder Routes to Make All Paths Lead to the City Zero" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -76,16 +106,13 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="644b761a-f972-4c63-af8e-787332b09e94" name="Changes" comment="" />
-      <created>1679409234121</created>
+      <changelist id="55fc098b-71ab-4031-907a-1895fa4808b8" name="Changes" comment="" />
+      <created>1679628655994</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1679409234121</updated>
-      <workItem from="1679409235267" duration="2618000" />
+      <updated>1679628655994</updated>
+      <workItem from="1679628657139" duration="3348000" />
     </task>
     <servers />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
