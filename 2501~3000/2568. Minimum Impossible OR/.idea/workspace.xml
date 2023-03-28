@@ -4,35 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7c9ce91c-b130-49e1-a9f4-d1e08b2602ca" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../0501~1000/0940. Distinct Subsequences II/.idea/git_toolbox_prj.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0501~1000/0940. Distinct Subsequences II/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0501~1000/0940. Distinct Subsequences II/.idea/sonarlint/securityhotspotstore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1798. Maximum Number of Consecutive Values You Can Make/.idea/1798. Maximum Number of Consecutive Values You Can Make.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1798. Maximum Number of Consecutive Values You Can Make/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1798. Maximum Number of Consecutive Values You Can Make/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1798. Maximum Number of Consecutive Values You Can Make/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1798. Maximum Number of Consecutive Values You Can Make/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1798. Maximum Number of Consecutive Values You Can Make/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1798. Maximum Number of Consecutive Values You Can Make/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1798. Maximum Number of Consecutive Values You Can Make/.idea/sonarlint/securityhotspotstore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1798. Maximum Number of Consecutive Values You Can Make/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1798. Maximum Number of Consecutive Values You Can Make/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1798. Maximum Number of Consecutive Values You Can Make/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1798. Maximum Number of Consecutive Values You Can Make/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/2568. Minimum Impossible OR.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../0501~1000/0940. Distinct Subsequences II/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../0501~1000/0940. Distinct Subsequences II/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../0501~1000/0940. Distinct Subsequences II/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../0501~1000/0940. Distinct Subsequences II/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../0501~1000/0940. Distinct Subsequences II/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../0501~1000/0940. Distinct Subsequences II/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="7c9ce91c-b130-49e1-a9f4-d1e08b2602ca" name="Changes" comment="2023/3/27">
+      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +30,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "/Users/ryanpionee2/Github/Leetcode/2501~3000/2568. Minimum Impossible OR",
     "settings.editor.selected.configurable": "MTCustomThemeConfigurable"
@@ -94,11 +68,21 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1679873490953</updated>
-      <workItem from="1679873492283" duration="1472000" />
+      <workItem from="1679873492283" duration="2354000" />
     </task>
+    <task id="LOCAL-00001" summary="2023/3/27">
+      <created>1679876800411</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1679876800411</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="2023/3/27" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023/3/27" />
   </component>
 </project>
