@@ -4,41 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4e4bd8cc-fea6-48ec-88f2-bb9cf6f2ce4f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0410. Split Array Largest Sum/.idea/0410. Split Array Largest Sum.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0410. Split Array Largest Sum/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0410. Split Array Largest Sum/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0410. Split Array Largest Sum/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0410. Split Array Largest Sum/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0410. Split Array Largest Sum/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0410. Split Array Largest Sum/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0410. Split Array Largest Sum/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0410. Split Array Largest Sum/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0410. Split Array Largest Sum/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/1402. Reducing Dishes.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2501~3000/2547. Minimum Cost to Split an Array/.idea/git_toolbox_prj.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2501~3000/2547. Minimum Cost to Split an Array/.idea/sonarlint/issuestore/1/e/1e9075f5bf079c01ef2c910709e91a497d262080" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2501~3000/2547. Minimum Cost to Split an Array/.idea/sonarlint/issuestore/4/9/496a238a6afa168dbaf6efd37bb459331589579c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2501~3000/2547. Minimum Cost to Split an Array/.idea/sonarlint/issuestore/8/8/88a9255124c95bdc913197c120a8d560edc59c8e" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2501~3000/2547. Minimum Cost to Split an Array/.idea/sonarlint/issuestore/9/f/9fe84ebb15faf917b7def6236dba604453cc61e0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2501~3000/2547. Minimum Cost to Split an Array/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2501~3000/2547. Minimum Cost to Split an Array/.idea/sonarlint/securityhotspotstore/1/e/1e9075f5bf079c01ef2c910709e91a497d262080" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2501~3000/2547. Minimum Cost to Split an Array/.idea/sonarlint/securityhotspotstore/4/9/496a238a6afa168dbaf6efd37bb459331589579c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2501~3000/2547. Minimum Cost to Split an Array/.idea/sonarlint/securityhotspotstore/8/8/88a9255124c95bdc913197c120a8d560edc59c8e" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2501~3000/2547. Minimum Cost to Split an Array/.idea/sonarlint/securityhotspotstore/9/f/9fe84ebb15faf917b7def6236dba604453cc61e0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2501~3000/2547. Minimum Cost to Split an Array/.idea/sonarlint/securityhotspotstore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../2501~3000/2547. Minimum Cost to Split an Array/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../2501~3000/2547. Minimum Cost to Split an Array/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../2501~3000/2547. Minimum Cost to Split an Array/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../2501~3000/2547. Minimum Cost to Split an Array/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../2501~3000/2547. Minimum Cost to Split an Array/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../2501~3000/2547. Minimum Cost to Split an Array/main.py" afterDir="false" />
+    <list default="true" id="4e4bd8cc-fea6-48ec-88f2-bb9cf6f2ce4f" name="Changes" comment="2023/3/29">
+      <change beforePath="$PROJECT_DIR$/../../0001~0500/0410. Split Array Largest Sum/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../0001~0500/0410. Split Array Largest Sum/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +31,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "/Users/ryanpionee2/Github/Leetcode/1001~1500/1402. Reducing Dishes",
     "settings.editor.selected.configurable": "MTCustomThemeConfigurable"
@@ -100,11 +69,21 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1680052656355</updated>
-      <workItem from="1680052657980" duration="2161000" />
+      <workItem from="1680052657980" duration="2731000" />
     </task>
+    <task id="LOCAL-00001" summary="2023/3/29">
+      <created>1680056091654</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1680056091654</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="2023/3/29" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023/3/29" />
   </component>
 </project>
