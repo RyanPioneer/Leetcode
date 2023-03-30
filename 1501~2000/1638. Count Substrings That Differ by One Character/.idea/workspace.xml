@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fdbe05e9-af1f-4081-a4b9-0bc1e56fb99c" name="Changes" comment="2023/3/29">
+    <list default="true" id="07015c15-e642-4bd9-9fd8-d43bd630b9f6" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/../../0001~0500/0087. Scramble String/.idea/0087. Scramble String.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../0001~0500/0087. Scramble String/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../0001~0500/0087. Scramble String/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
@@ -33,22 +33,22 @@
       <change afterPath="$PROJECT_DIR$/../../1001~1500/1043. Partition Array for Maximum Sum/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../1001~1500/1043. Partition Array for Maximum Sum/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../1001~1500/1043. Partition Array for Maximum Sum/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1638. Count Substrings That Differ by One Character/.idea/1638. Count Substrings That Differ by One Character.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1638. Count Substrings That Differ by One Character/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1638. Count Substrings That Differ by One Character/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1638. Count Substrings That Differ by One Character/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1638. Count Substrings That Differ by One Character/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1638. Count Substrings That Differ by One Character/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1638. Count Substrings That Differ by One Character/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1638. Count Substrings That Differ by One Character/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1638. Count Substrings That Differ by One Character/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1638. Count Substrings That Differ by One Character/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/1638. Count Substrings That Differ by One Character.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2234. Maximum Total Beauty of the Gardens/.idea/git_toolbox_prj.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../0001~0500/0410. Split Array Largest Sum/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../0001~0500/0410. Split Array Largest Sum/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../0001~0500/0410. Split Array Largest Sum/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../0001~0500/0410. Split Array Largest Sum/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../0001~0500/0410. Split Array Largest Sum/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../0001~0500/0410. Split Array Largest Sum/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2001~2500/2234. Maximum Total Beauty of the Gardens/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../2001~2500/2234. Maximum Total Beauty of the Gardens/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2001~2500/2234. Maximum Total Beauty of the Gardens/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../2001~2500/2234. Maximum Total Beauty of the Gardens/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +58,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2NgCkcE1KQu2IeTy2aijwm8HSet" />
+  <component name="ProjectId" id="2NgOPpsS3hgesyCKIWq2U3Gt4yc" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -73,15 +73,14 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/ryanpionee2/Github/Leetcode/2001~2500/2234. Maximum Total Beauty of the Gardens",
+    "last_opened_file_path": "/Users/ryanpionee2/Github/Leetcode/1501~2000/1638. Count Substrings That Differ by One Character",
     "settings.editor.selected.configurable": "MTCustomThemeConfigurable"
   }
 }]]></component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
-      <module name="2234. Maximum Total Beauty of the Gardens" />
+      <module name="1638. Count Substrings That Differ by One Character" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -106,26 +105,16 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="fdbe05e9-af1f-4081-a4b9-0bc1e56fb99c" name="Changes" comment="" />
-      <created>1680076481917</created>
+      <changelist id="07015c15-e642-4bd9-9fd8-d43bd630b9f6" name="Changes" comment="" />
+      <created>1680082236791</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1680076481917</updated>
-      <workItem from="1680076483262" duration="3655000" />
+      <updated>1680082236791</updated>
+      <workItem from="1680082238138" duration="4142000" />
     </task>
-    <task id="LOCAL-00001" summary="2023/3/29">
-      <created>1680076522877</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1680076522877</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="2023/3/29" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023/3/29" />
   </component>
 </project>

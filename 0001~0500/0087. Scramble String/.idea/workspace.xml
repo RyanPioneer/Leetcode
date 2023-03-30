@@ -4,23 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fdbe05e9-af1f-4081-a4b9-0bc1e56fb99c" name="Changes" comment="2023/3/29">
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0087. Scramble String/.idea/0087. Scramble String.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0087. Scramble String/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0087. Scramble String/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0087. Scramble String/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0087. Scramble String/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0087. Scramble String/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0087. Scramble String/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0087. Scramble String/.idea/sonarlint/securityhotspotstore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0087. Scramble String/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0087. Scramble String/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0087. Scramble String/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0087. Scramble String/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0410. Split Array Largest Sum/.idea/sonarlint/issuestore/c/c/cc7b753f568727eee1a611f410e85ecaa3a34e66" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0410. Split Array Largest Sum/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0410. Split Array Largest Sum/.idea/sonarlint/securityhotspotstore/c/c/cc7b753f568727eee1a611f410e85ecaa3a34e66" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0410. Split Array Largest Sum/.idea/sonarlint/securityhotspotstore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+    <list default="true" id="cbfa4c3a-0401-44c8-8723-00eba55d4bda" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/0087. Scramble String.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0410. Split Array Largest Sum/.idea/sonarlint/issuestore/c/c/cc7b753f568727eee1a611f410e85ecaa3a34e66" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0410. Split Array Largest Sum/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0410. Split Array Largest Sum/.idea/sonarlint/securityhotspotstore/c/c/cc7b753f568727eee1a611f410e85ecaa3a34e66" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0410. Split Array Largest Sum/.idea/sonarlint/securityhotspotstore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../1001~1500/1043. Partition Array for Maximum Sum/.idea/1043. Partition Array for Maximum Sum.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../1001~1500/1043. Partition Array for Maximum Sum/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../1001~1500/1043. Partition Array for Maximum Sum/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
@@ -43,12 +41,12 @@
       <change afterPath="$PROJECT_DIR$/../../1501~2000/1638. Count Substrings That Differ by One Character/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../1501~2000/1638. Count Substrings That Differ by One Character/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../1501~2000/1638. Count Substrings That Differ by One Character/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../0001~0500/0410. Split Array Largest Sum/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../0001~0500/0410. Split Array Largest Sum/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../0001~0500/0410. Split Array Largest Sum/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../0001~0500/0410. Split Array Largest Sum/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../0001~0500/0410. Split Array Largest Sum/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../0001~0500/0410. Split Array Largest Sum/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2234. Maximum Total Beauty of the Gardens/.idea/git_toolbox_prj.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0410. Split Array Largest Sum/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../0410. Split Array Largest Sum/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0410. Split Array Largest Sum/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../0410. Split Array Largest Sum/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0410. Split Array Largest Sum/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../0410. Split Array Largest Sum/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2001~2500/2234. Maximum Total Beauty of the Gardens/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../2001~2500/2234. Maximum Total Beauty of the Gardens/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2001~2500/2234. Maximum Total Beauty of the Gardens/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../2001~2500/2234. Maximum Total Beauty of the Gardens/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +56,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2NgCkcE1KQu2IeTy2aijwm8HSet" />
+  <component name="ProjectId" id="2NiaA00M9Gn31w0DT6X5Lptz5UP" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -68,20 +66,18 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/ryanpionee2/Github/Leetcode/2001~2500/2234. Maximum Total Beauty of the Gardens",
+    "last_opened_file_path": "/Users/ryanpionee2/Github/Leetcode/0001~0500/0087. Scramble String",
     "settings.editor.selected.configurable": "MTCustomThemeConfigurable"
   }
 }]]></component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
-      <module name="2234. Maximum Total Beauty of the Gardens" />
+      <module name="0087. Scramble String" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -106,26 +102,13 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="fdbe05e9-af1f-4081-a4b9-0bc1e56fb99c" name="Changes" comment="" />
-      <created>1680076481917</created>
+      <changelist id="cbfa4c3a-0401-44c8-8723-00eba55d4bda" name="Changes" comment="" />
+      <created>1680149208961</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1680076481917</updated>
-      <workItem from="1680076483262" duration="3655000" />
+      <updated>1680149208961</updated>
+      <workItem from="1680149210502" duration="3413000" />
     </task>
-    <task id="LOCAL-00001" summary="2023/3/29">
-      <created>1680076522877</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1680076522877</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="2023/3/29" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023/3/29" />
   </component>
 </project>
