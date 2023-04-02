@@ -1,0 +1,7 @@
+
+Npython:S1172"/Remove the unused function parameter "partial".(«’ı¨8ÛÂÎãò0
+Mpython:S1172".Remove the unused function parameter "target".(«’ı¨8ÚÂÎãò0
+Kpython:S1172",Remove the unused function parameter "full".(«’ı¨8ÙÂÎãò0
+Qpython:S1172"2Remove the unused function parameter "newFlowers".(«’ı¨8×ÂÎãò0
+tpython:S117"VRename this parameter "newFlowers" to match the regular expression ^[_a-z][a-z0-9_]*$.(«’ı¨8İÂÎãò0
+opython:S100"QRename method "maximumBeauty" to match the regular expression ^[a-z_][a-z0-9_]*$.(«’ı¨8ŞÂÎãò0
