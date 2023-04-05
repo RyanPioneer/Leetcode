@@ -1,0 +1,4 @@
+
+zpython:S117"WRename this parameter "aliceValues" to match the regular expression ^[_a-z][a-z0-9_]*$.(È·„ùÿÿÿÿ8÷ğ­Ñô0
+xpython:S117"URename this parameter "bobValues" to match the regular expression ^[_a-z][a-z0-9_]*$.(È·„ùÿÿÿÿ8÷ğ­Ñô0
+rpython:S100"ORename method "stoneGameVI" to match the regular expression ^[a-z_][a-z0-9_]*$.(È·„ùÿÿÿÿ8÷ğ­Ñô0

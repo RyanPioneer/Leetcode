@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ccbb52dd-bec2-4a89-a1c1-fa76cc6fc1c6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1406. Stone Game III/.idea/1406. Stone Game III.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1406. Stone Game III/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1406. Stone Game III/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1406. Stone Game III/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1406. Stone Game III/main.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1406. Stone Game III/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1501~2000/1510. Stone Game IV/.idea/1510. Stone Game IV.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1501~2000/1510. Stone Game IV/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1501~2000/1510. Stone Game IV/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1501~2000/1510. Stone Game IV/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1501~2000/1510. Stone Game IV/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1501~2000/1510. Stone Game IV/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1501~2000/1510. Stone Game IV/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1501~2000/1510. Stone Game IV/.idea/sonarlint/securityhotspotstore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1501~2000/1510. Stone Game IV/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1501~2000/1510. Stone Game IV/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1501~2000/1510. Stone Game IV/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1501~2000/1510. Stone Game IV/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1501~2000/1563. Stone Game V/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1501~2000/1563. Stone Game V/.idea/1563. Stone Game V.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1501~2000/1563. Stone Game V/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1501~2000/1563. Stone Game V/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1501~2000/1563. Stone Game V/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1501~2000/1563. Stone Game V/main2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1501~2000/1690. Stone Game VII/.idea/1690. Stone Game VII.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1501~2000/1690. Stone Game VII/.idea/sonarlint/issuestore/c/c/cc7b753f568727eee1a611f410e85ecaa3a34e66" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1501~2000/1690. Stone Game VII/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1501~2000/1690. Stone Game VII/.idea/sonarlint/securityhotspotstore/c/c/cc7b753f568727eee1a611f410e85ecaa3a34e66" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1501~2000/1690. Stone Game VII/.idea/sonarlint/securityhotspotstore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1501~2000/1872. Stone Game VIII/.idea/1872. Stone Game VIII.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1501~2000/1872. Stone Game VIII/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1501~2000/1872. Stone Game VIII/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1501~2000/1872. Stone Game VIII/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1501~2000/1872. Stone Game VIII/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1501~2000/1872. Stone Game VIII/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1501~2000/1872. Stone Game VIII/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1501~2000/1872. Stone Game VIII/.idea/sonarlint/securityhotspotstore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1501~2000/1872. Stone Game VIII/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1501~2000/1872. Stone Game VIII/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1501~2000/1872. Stone Game VIII/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1501~2000/1872. Stone Game VIII/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2029. Stone Game IX/.idea/2029. Stone Game IX.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2029. Stone Game IX/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2029. Stone Game IX/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2029. Stone Game IX/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2029. Stone Game IX/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2029. Stone Game IX/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2029. Stone Game IX/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2029. Stone Game IX/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2029. Stone Game IX/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2029. Stone Game IX/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2573. Find the String with LCP/.idea/2573. Find the String with LCP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2573. Find the String with LCP/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2573. Find the String with LCP/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2573. Find the String with LCP/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2573. Find the String with LCP/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2573. Find the String with LCP/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2573. Find the String with LCP/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2573. Find the String with LCP/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2573. Find the String with LCP/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2573. Find the String with LCP/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/2584. Split the Array to Make Coprime Products.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1501~2000/1686. Stone Game VI/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../1501~2000/1686. Stone Game VI/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1501~2000/1686. Stone Game VI/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../1501~2000/1686. Stone Game VI/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1501~2000/1686. Stone Game VI/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../1501~2000/1686. Stone Game VI/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1501~2000/1690. Stone Game VII/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../1501~2000/1690. Stone Game VII/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1501~2000/1690. Stone Game VII/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../1501~2000/1690. Stone Game VII/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1501~2000/1690. Stone Game VII/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../1501~2000/1690. Stone Game VII/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2O0pTYkj1QDItyjNqdp37hiQfe8" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/ryanpionee2/Github/Leetcode/2501~3000/2584. Split the Array to Make Coprime Products&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="2584. Split the Array to Make Coprime Products" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ccbb52dd-bec2-4a89-a1c1-fa76cc6fc1c6" name="Changes" comment="" />
+      <created>1680707361674</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680707361674</updated>
+      <workItem from="1680707362963" duration="193000" />
+      <workItem from="1680708835905" duration="729000" />
+      <workItem from="1680709930830" duration="856000" />
+      <workItem from="1680711097537" duration="1231000" />
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
