@@ -1,6 +1,6 @@
 """
 Source: https://leetcode.com/problems/split-the-array-to-make-coprime-products/
-Date: 2023/4/5
+Date: 2023/4/7
 Skill:
 Ref:
 Runtime: 5127 ms, faster than 53.68%
