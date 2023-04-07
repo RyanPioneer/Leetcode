@@ -4,24 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0acebe99-efd6-4a2b-ae67-329a6bc71ca9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1524. Number of Sub-arrays With Odd Sum/.idea/1524. Number of Sub-arrays With Odd Sum.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1524. Number of Sub-arrays With Odd Sum/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1524. Number of Sub-arrays With Odd Sum/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1524. Number of Sub-arrays With Odd Sum/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1524. Number of Sub-arrays With Odd Sum/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1524. Number of Sub-arrays With Odd Sum/.idea/sonarlint/issuestore/c/c/cc7b753f568727eee1a611f410e85ecaa3a34e66" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1524. Number of Sub-arrays With Odd Sum/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1524. Number of Sub-arrays With Odd Sum/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1524. Number of Sub-arrays With Odd Sum/.idea/sonarlint/securityhotspotstore/c/c/cc7b753f568727eee1a611f410e85ecaa3a34e66" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1524. Number of Sub-arrays With Odd Sum/.idea/sonarlint/securityhotspotstore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1524. Number of Sub-arrays With Odd Sum/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1524. Number of Sub-arrays With Odd Sum/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1524. Number of Sub-arrays With Odd Sum/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1524. Number of Sub-arrays With Odd Sum/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1524. Number of Sub-arrays With Odd Sum/main2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2365. Task Scheduler II/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2365. Task Scheduler II/main.py" afterDir="false" />
+    <list default="true" id="7034260c-2199-4e79-b5b7-f920bf70cde7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main2.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../2001~2500/2438. Range Product Queries of Powers/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../2001~2500/2438. Range Product Queries of Powers/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../2001~2500/2438. Range Product Queries of Powers/.idea/workspace.xml" afterDir="false" />
@@ -56,7 +44,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectId" id="2O215ATM2tMhClvTU8Ny5IkdSIf" />
+  <component name="ProjectId" id="2O5uzsnqNWdFgEtcB1lhWeWvmJH" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -67,19 +55,17 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/ryanpionee2/Github/Leetcode/1001~1500/1254. Number of Closed Islands",
+    "last_opened_file_path": "/Users/ryanpionee2/Github/Leetcode/1501~2000/1524. Number of Sub-arrays With Odd Sum",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
-      <module name="1254. Number of Closed Islands" />
+      <module name="1524. Number of Sub-arrays With Odd Sum" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -104,18 +90,19 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="0acebe99-efd6-4a2b-ae67-329a6bc71ca9" name="Changes" comment="" />
-      <created>1680743676708</created>
+      <changelist id="7034260c-2199-4e79-b5b7-f920bf70cde7" name="Changes" comment="" />
+      <created>1680863029796</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1680743676708</updated>
-      <workItem from="1680743678105" duration="2626000" />
-      <workItem from="1680842023328" duration="55000" />
-      <workItem from="1680867048066" duration="25000" />
+      <updated>1680863029796</updated>
+      <workItem from="1680863031215" duration="1711000" />
     </task>
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/1524__Number_of_Sub_arrays_With_Odd_Sum$main.coverage" NAME="main Coverage Results" MODIFIED="1680864184326" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

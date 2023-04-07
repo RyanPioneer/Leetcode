@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0acebe99-efd6-4a2b-ae67-329a6bc71ca9" name="Changes" comment="">
+    <list default="true" id="b4045c3d-a6f3-432a-ac9c-dc30e44e1113" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/../../1501~2000/1524. Number of Sub-arrays With Odd Sum/.idea/1524. Number of Sub-arrays With Odd Sum.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../1501~2000/1524. Number of Sub-arrays With Odd Sum/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../1501~2000/1524. Number of Sub-arrays With Odd Sum/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
@@ -20,12 +20,12 @@
       <change afterPath="$PROJECT_DIR$/../../1501~2000/1524. Number of Sub-arrays With Odd Sum/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../1501~2000/1524. Number of Sub-arrays With Odd Sum/main.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../1501~2000/1524. Number of Sub-arrays With Odd Sum/main2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2365. Task Scheduler II/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2365. Task Scheduler II/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2438. Range Product Queries of Powers/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2438. Range Product Queries of Powers/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2438. Range Product Queries of Powers/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2438. Range Product Queries of Powers/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2438. Range Product Queries of Powers/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2438. Range Product Queries of Powers/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2438. Range Product Queries of Powers/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2438. Range Product Queries of Powers/main.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../2501~3000/2555. Maximize Win From Two Segments/.idea/2555. Maximize Win From Two Segments.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../2501~3000/2555. Maximize Win From Two Segments/.idea/git_toolbox_prj.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../2501~3000/2555. Maximize Win From Two Segments/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
@@ -44,6 +44,7 @@
       <change afterPath="$PROJECT_DIR$/../../2501~3000/2571. Minimum Operations to Reduce an Integer to 0/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../2501~3000/2571. Minimum Operations to Reduce an Integer to 0/main.ipynb" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../2501~3000/2571. Minimum Operations to Reduce an Integer to 0/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1001~1500/1254. Number of Closed Islands/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../1001~1500/1254. Number of Closed Islands/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../2501~3000/2555. Maximize Win From Two Segments/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../2501~3000/2555. Maximize Win From Two Segments/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../2501~3000/2555. Maximize Win From Two Segments/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../2501~3000/2555. Maximize Win From Two Segments/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../2501~3000/2555. Maximize Win From Two Segments/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../2501~3000/2555. Maximize Win From Two Segments/.idea/workspace.xml" afterDir="false" />
@@ -56,30 +57,24 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectId" id="2O215ATM2tMhClvTU8Ny5IkdSIf" />
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectId" id="2O63Ah4jZXgS7RSllBTJsW2jyAX" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/ryanpionee2/Github/Leetcode/1001~1500/1254. Number of Closed Islands",
+    "last_opened_file_path": "/Users/ryanpionee2/Github/Leetcode/2001~2500/2365. Task Scheduler II",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
-      <module name="1254. Number of Closed Islands" />
+      <module name="2365. Task Scheduler II" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -104,18 +99,13 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="0acebe99-efd6-4a2b-ae67-329a6bc71ca9" name="Changes" comment="" />
-      <created>1680743676708</created>
+      <changelist id="b4045c3d-a6f3-432a-ac9c-dc30e44e1113" name="Changes" comment="" />
+      <created>1680867063244</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1680743676708</updated>
-      <workItem from="1680743678105" duration="2626000" />
-      <workItem from="1680842023328" duration="55000" />
-      <workItem from="1680867048066" duration="25000" />
+      <updated>1680867063244</updated>
+      <workItem from="1680867065176" duration="1903000" />
     </task>
     <servers />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
