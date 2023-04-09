@@ -1,6 +1,6 @@
 """
 Source: https://leetcode.com/problems/range-product-queries-of-powers/
-Date: 2023/4/7
+Date: 2023/4/9
 Skill:
 Ref:
 Runtime: 31 ms, faster than 69.90%
