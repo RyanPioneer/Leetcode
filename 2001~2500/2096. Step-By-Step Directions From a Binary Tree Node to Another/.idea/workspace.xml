@@ -4,11 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="240cfa8a-7ced-466f-b999-5320d1d87ecd" name="Changes" comment="2023/4/11">
-      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2096. Step-By-Step Directions From a Binary Tree Node to Another/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2096. Step-By-Step Directions From a Binary Tree Node to Another/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="e7890a05-53b9-4dd9-9db0-2a927242e57c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../0001~0500/0071. Simplify Path/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0001~0500/0071. Simplify Path/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0001~0500/0071. Simplify Path/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0001~0500/0071. Simplify Path/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0547. Number of Provinces/.idea/git_toolbox_prj.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0547. Number of Provinces/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0547. Number of Provinces/.idea/sonarlint/securityhotspotstore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0501~1000/0547. Number of Provinces/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../0501~1000/0547. Number of Provinces/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0501~1000/0547. Number of Provinces/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../0501~1000/0547. Number of Provinces/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0501~1000/0547. Number of Provinces/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../0501~1000/0547. Number of Provinces/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,7 +27,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectId" id="2OFeE6EPUHplqd55SSHvQPk6cA6" />
+  <component name="ProjectId" id="2OHicMa4v47SrBHVXoZnLSYcpC2" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -29,20 +38,17 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/ryanpionee2/Github/Leetcode/0501~1000/0547. Number of Provinces",
+    "last_opened_file_path": "/Users/ryanpionee2/Github/Leetcode/2001~2500/2096. Step-By-Step Directions From a Binary Tree Node to Another",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
-      <module name="0547. Number of Provinces" />
+      <module name="2096. Step-By-Step Directions From a Binary Tree Node to Another" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -67,27 +73,16 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="240cfa8a-7ced-466f-b999-5320d1d87ecd" name="Changes" comment="" />
-      <created>1681160643278</created>
+      <changelist id="e7890a05-53b9-4dd9-9db0-2a927242e57c" name="Changes" comment="" />
+      <created>1681223986384</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1681160643278</updated>
-      <workItem from="1681160646983" duration="847000" />
-      <workItem from="1681162288949" duration="3967000" />
+      <updated>1681223986384</updated>
+      <workItem from="1681223987846" duration="4586000" />
     </task>
-    <task id="LOCAL-00001" summary="2023/4/11">
-      <created>1681223883372</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1681223883372</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="2023/4/11" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023/4/11" />
   </component>
 </project>
