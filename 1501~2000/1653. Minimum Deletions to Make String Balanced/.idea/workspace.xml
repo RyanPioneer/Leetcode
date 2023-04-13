@@ -4,7 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5cb7f4d1-0184-4e59-bb6d-68f34a52d373" name="Changes" comment="2023/4/13" />
+    <list default="true" id="5c3b0f4f-1be7-47df-9e20-4c123553344a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0946. Validate Stack Sequences/.idea/git_toolbox_prj.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0946. Validate Stack Sequences/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0946. Validate Stack Sequences/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0946. Validate Stack Sequences/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0946. Validate Stack Sequences/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0946. Validate Stack Sequences/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0501~1000/0946. Validate Stack Sequences/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../0501~1000/0946. Validate Stack Sequences/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0501~1000/0946. Validate Stack Sequences/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../0501~1000/0946. Validate Stack Sequences/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0501~1000/0946. Validate Stack Sequences/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../0501~1000/0946. Validate Stack Sequences/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,7 +27,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectId" id="2OLj4epXTxeqWvbXuALgEUgsyDQ" />
+  <component name="ProjectId" id="2OLooaxB5tsGDsgpmgOCV3b53G7" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -23,21 +37,17 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/ryanpionee2/Github/Leetcode/0501~1000/0946. Validate Stack Sequences",
+    "last_opened_file_path": "/Users/ryanpionee2/Github/Leetcode/1501~2000/1653. Minimum Deletions to Make String Balanced",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
-      <module name="0946. Validate Stack Sequences" />
+      <module name="1653. Minimum Deletions to Make String Balanced" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -62,26 +72,13 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="5cb7f4d1-0184-4e59-bb6d-68f34a52d373" name="Changes" comment="" />
-      <created>1681346566820</created>
+      <changelist id="5c3b0f4f-1be7-47df-9e20-4c123553344a" name="Changes" comment="" />
+      <created>1681349399237</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1681346566820</updated>
-      <workItem from="1681346569618" duration="1561000" />
+      <updated>1681349399237</updated>
+      <workItem from="1681349401632" duration="1567000" />
     </task>
-    <task id="LOCAL-00001" summary="2023/4/13">
-      <created>1681348494664</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1681348494664</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="2023/4/13" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023/4/13" />
   </component>
 </project>
