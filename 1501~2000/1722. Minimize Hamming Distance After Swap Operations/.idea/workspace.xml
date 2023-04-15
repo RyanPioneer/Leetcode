@@ -4,40 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b647ca0e-1d97-4dc4-97e7-20ef7f4ceeba" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1745. Palindrome Partitioning IV/.idea/1745. Palindrome Partitioning IV.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1745. Palindrome Partitioning IV/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1745. Palindrome Partitioning IV/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1745. Palindrome Partitioning IV/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1745. Palindrome Partitioning IV/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1745. Palindrome Partitioning IV/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1745. Palindrome Partitioning IV/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1745. Palindrome Partitioning IV/.idea/sonarlint/securityhotspotstore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1745. Palindrome Partitioning IV/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1745. Palindrome Partitioning IV/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1745. Palindrome Partitioning IV/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1745. Palindrome Partitioning IV/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1749. Maximum Absolute Sum of Any Subarray/.idea/1749. Maximum Absolute Sum of Any Subarray.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1749. Maximum Absolute Sum of Any Subarray/.idea/git_toolbox_prj.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1749. Maximum Absolute Sum of Any Subarray/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1749. Maximum Absolute Sum of Any Subarray/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1749. Maximum Absolute Sum of Any Subarray/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1749. Maximum Absolute Sum of Any Subarray/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1749. Maximum Absolute Sum of Any Subarray/.idea/sonarlint/issuestore/8/8/88a9255124c95bdc913197c120a8d560edc59c8e" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1749. Maximum Absolute Sum of Any Subarray/.idea/sonarlint/issuestore/9/f/9fe84ebb15faf917b7def6236dba604453cc61e0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1749. Maximum Absolute Sum of Any Subarray/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1749. Maximum Absolute Sum of Any Subarray/.idea/sonarlint/securityhotspotstore/8/8/88a9255124c95bdc913197c120a8d560edc59c8e" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1749. Maximum Absolute Sum of Any Subarray/.idea/sonarlint/securityhotspotstore/9/f/9fe84ebb15faf917b7def6236dba604453cc61e0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1749. Maximum Absolute Sum of Any Subarray/.idea/sonarlint/securityhotspotstore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1749. Maximum Absolute Sum of Any Subarray/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1749. Maximum Absolute Sum of Any Subarray/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../1749. Maximum Absolute Sum of Any Subarray/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1749. Maximum Absolute Sum of Any Subarray/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../1749. Maximum Absolute Sum of Any Subarray/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1749. Maximum Absolute Sum of Any Subarray/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../1749. Maximum Absolute Sum of Any Subarray/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="b647ca0e-1d97-4dc4-97e7-20ef7f4ceeba" name="Changes" comment="2023/4/14">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../1818. Minimum Absolute Sum Difference/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../1818. Minimum Absolute Sum Difference/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,6 +17,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
   </component>
   <component name="ProjectId" id="2OMuOQQth60qphyASszy8gvMyf1" />
   <component name="ProjectLevelVcsManager">
@@ -63,6 +36,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;last_opened_file_path&quot;: &quot;/Users/ryanpionee2/Github/Leetcode/1501~2000/1722. Minimize Hamming Distance After Swap Operations&quot;,
@@ -102,11 +76,22 @@
       <option name="presentableId" value="Default" />
       <updated>1681382739228</updated>
       <workItem from="1681382741828" duration="650000" />
-      <workItem from="1681477642743" duration="2163000" />
+      <workItem from="1681477642743" duration="2454000" />
+      <workItem from="1681484013749" duration="108000" />
     </task>
+    <task id="LOCAL-00001" summary="2023/4/14">
+      <created>1681483962156</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1681483962156</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="2023/4/14" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023/4/14" />
   </component>
 </project>
