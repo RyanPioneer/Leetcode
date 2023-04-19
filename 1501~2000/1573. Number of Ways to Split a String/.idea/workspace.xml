@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d279ec29-eb4a-4a15-bd31-f0518f60d834" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../0001~0500/0403. Frog Jump/.idea/0403. Frog Jump.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0001~0500/0403. Frog Jump/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0001~0500/0403. Frog Jump/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0001~0500/0403. Frog Jump/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0001~0500/0403. Frog Jump/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0001~0500/0403. Frog Jump/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0001~0500/0403. Frog Jump/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0001~0500/0403. Frog Jump/.idea/sonarlint/securityhotspotstore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0001~0500/0403. Frog Jump/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0001~0500/0403. Frog Jump/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0001~0500/0403. Frog Jump/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0001~0500/0403. Frog Jump/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0001~0500/0442. Find All Duplicates in an Array/.idea/0442. Find All Duplicates in an Array.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0001~0500/0442. Find All Duplicates in an Array/.idea/git_toolbox_prj.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0001~0500/0442. Find All Duplicates in an Array/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0001~0500/0442. Find All Duplicates in an Array/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0001~0500/0442. Find All Duplicates in an Array/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0001~0500/0442. Find All Duplicates in an Array/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0001~0500/0442. Find All Duplicates in an Array/.idea/sonarlint/issuestore/8/8/88a9255124c95bdc913197c120a8d560edc59c8e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0001~0500/0442. Find All Duplicates in an Array/.idea/sonarlint/issuestore/9/f/9fe84ebb15faf917b7def6236dba604453cc61e0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0001~0500/0442. Find All Duplicates in an Array/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0001~0500/0442. Find All Duplicates in an Array/.idea/sonarlint/securityhotspotstore/8/8/88a9255124c95bdc913197c120a8d560edc59c8e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0001~0500/0442. Find All Duplicates in an Array/.idea/sonarlint/securityhotspotstore/9/f/9fe84ebb15faf917b7def6236dba604453cc61e0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0001~0500/0442. Find All Duplicates in an Array/.idea/sonarlint/securityhotspotstore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0001~0500/0442. Find All Duplicates in an Array/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0713. Subarray Product Less Than K/.idea/0713. Subarray Product Less Than K.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0713. Subarray Product Less Than K/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0713. Subarray Product Less Than K/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0713. Subarray Product Less Than K/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0713. Subarray Product Less Than K/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0713. Subarray Product Less Than K/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0713. Subarray Product Less Than K/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0713. Subarray Product Less Than K/.idea/sonarlint/securityhotspotstore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0713. Subarray Product Less Than K/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0713. Subarray Product Less Than K/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0713. Subarray Product Less Than K/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0713. Subarray Product Less Than K/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0948. Bag of Tokens/.idea/0948. Bag of Tokens.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0948. Bag of Tokens/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0948. Bag of Tokens/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0948. Bag of Tokens/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0948. Bag of Tokens/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0948. Bag of Tokens/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0948. Bag of Tokens/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0948. Bag of Tokens/.idea/sonarlint/securityhotspotstore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0948. Bag of Tokens/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0948. Bag of Tokens/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0948. Bag of Tokens/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0948. Bag of Tokens/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0996. Number of Squareful Arrays/.idea/0996. Number of Squareful Arrays.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0996. Number of Squareful Arrays/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0996. Number of Squareful Arrays/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0996. Number of Squareful Arrays/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0996. Number of Squareful Arrays/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0996. Number of Squareful Arrays/.idea/sonarlint/issuestore/9/0/90479d8bc9f8dfa7116261e4ed6ed71a98437648" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0996. Number of Squareful Arrays/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0996. Number of Squareful Arrays/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0996. Number of Squareful Arrays/.idea/sonarlint/securityhotspotstore/9/0/90479d8bc9f8dfa7116261e4ed6ed71a98437648" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0996. Number of Squareful Arrays/.idea/sonarlint/securityhotspotstore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0996. Number of Squareful Arrays/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0996. Number of Squareful Arrays/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0996. Number of Squareful Arrays/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0996. Number of Squareful Arrays/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0996. Number of Squareful Arrays/test.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1052. Grumpy Bookstore Owner/.idea/1052. Grumpy Bookstore Owner.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1052. Grumpy Bookstore Owner/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1052. Grumpy Bookstore Owner/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1052. Grumpy Bookstore Owner/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1052. Grumpy Bookstore Owner/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1052. Grumpy Bookstore Owner/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1052. Grumpy Bookstore Owner/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1052. Grumpy Bookstore Owner/.idea/sonarlint/securityhotspotstore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1052. Grumpy Bookstore Owner/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1052. Grumpy Bookstore Owner/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1052. Grumpy Bookstore Owner/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1052. Grumpy Bookstore Owner/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1372. Longest ZigZag Path in a Binary Tree/.idea/1372. Longest ZigZag Path in a Binary Tree.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1372. Longest ZigZag Path in a Binary Tree/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1372. Longest ZigZag Path in a Binary Tree/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1372. Longest ZigZag Path in a Binary Tree/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1372. Longest ZigZag Path in a Binary Tree/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1372. Longest ZigZag Path in a Binary Tree/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1372. Longest ZigZag Path in a Binary Tree/.idea/sonarlint/securityhotspotstore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1372. Longest ZigZag Path in a Binary Tree/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1372. Longest ZigZag Path in a Binary Tree/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1372. Longest ZigZag Path in a Binary Tree/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1498. Number of Subsequences That Satisfy the Given Sum Condition/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1498. Number of Subsequences That Satisfy the Given Sum Condition/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1498. Number of Subsequences That Satisfy the Given Sum Condition/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1498. Number of Subsequences That Satisfy the Given Sum Condition/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1537. Get the Maximum Score/.idea/1537. Get the Maximum Score.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1537. Get the Maximum Score/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1537. Get the Maximum Score/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1537. Get the Maximum Score/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1537. Get the Maximum Score/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1537. Get the Maximum Score/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1537. Get the Maximum Score/.idea/sonarlint/securityhotspotstore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1537. Get the Maximum Score/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1537. Get the Maximum Score/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1537. Get the Maximum Score/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1567. Maximum Length of Subarray With Positive Product/.idea/1567. Maximum Length of Subarray With Positive Product.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1567. Maximum Length of Subarray With Positive Product/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1567. Maximum Length of Subarray With Positive Product/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1567. Maximum Length of Subarray With Positive Product/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1567. Maximum Length of Subarray With Positive Product/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1567. Maximum Length of Subarray With Positive Product/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1567. Maximum Length of Subarray With Positive Product/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1567. Maximum Length of Subarray With Positive Product/.idea/sonarlint/securityhotspotstore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1567. Maximum Length of Subarray With Positive Product/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1567. Maximum Length of Subarray With Positive Product/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1567. Maximum Length of Subarray With Positive Product/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1567. Maximum Length of Subarray With Positive Product/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1578. Minimum Time to Make Rope Colorful/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1578. Minimum Time to Make Rope Colorful/.idea/1578. Minimum Time to Make Rope Colorful.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1578. Minimum Time to Make Rope Colorful/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1578. Minimum Time to Make Rope Colorful/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1578. Minimum Time to Make Rope Colorful/.idea/sonarlint/securityhotspotstore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1578. Minimum Time to Make Rope Colorful/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1578. Minimum Time to Make Rope Colorful/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1593. Split a String Into the Max Number of Unique Substrings/.idea/1593. Split a String Into the Max Number of Unique Substrings.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1593. Split a String Into the Max Number of Unique Substrings/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1593. Split a String Into the Max Number of Unique Substrings/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1593. Split a String Into the Max Number of Unique Substrings/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1593. Split a String Into the Max Number of Unique Substrings/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1593. Split a String Into the Max Number of Unique Substrings/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1593. Split a String Into the Max Number of Unique Substrings/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1593. Split a String Into the Max Number of Unique Substrings/.idea/sonarlint/securityhotspotstore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1593. Split a String Into the Max Number of Unique Substrings/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1593. Split a String Into the Max Number of Unique Substrings/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1593. Split a String Into the Max Number of Unique Substrings/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1593. Split a String Into the Max Number of Unique Substrings/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1616. Split Two Strings to Make Palindrome/.idea/1616. Split Two Strings to Make Palindrome.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1616. Split Two Strings to Make Palindrome/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1616. Split Two Strings to Make Palindrome/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1616. Split Two Strings to Make Palindrome/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1616. Split Two Strings to Make Palindrome/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1627. Graph Connectivity With Threshold/.idea/1627. Graph Connectivity With Threshold.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1627. Graph Connectivity With Threshold/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1627. Graph Connectivity With Threshold/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1627. Graph Connectivity With Threshold/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1627. Graph Connectivity With Threshold/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1627. Graph Connectivity With Threshold/.idea/sonarlint/issuestore/9/0/90479d8bc9f8dfa7116261e4ed6ed71a98437648" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1627. Graph Connectivity With Threshold/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1627. Graph Connectivity With Threshold/.idea/sonarlint/securityhotspotstore/9/0/90479d8bc9f8dfa7116261e4ed6ed71a98437648" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1627. Graph Connectivity With Threshold/.idea/sonarlint/securityhotspotstore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1627. Graph Connectivity With Threshold/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1627. Graph Connectivity With Threshold/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1627. Graph Connectivity With Threshold/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1627. Graph Connectivity With Threshold/test.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1643. Kth Smallest Instructions/.idea/1643. Kth Smallest Instructions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1643. Kth Smallest Instructions/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1643. Kth Smallest Instructions/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1643. Kth Smallest Instructions/.idea/sonarlint/securityhotspotstore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1643. Kth Smallest Instructions/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1643. Kth Smallest Instructions/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1643. Kth Smallest Instructions/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1664. Ways to Make a Fair Array/.idea/1664. Ways to Make a Fair Array.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1664. Ways to Make a Fair Array/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1664. Ways to Make a Fair Array/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1664. Ways to Make a Fair Array/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1664. Ways to Make a Fair Array/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1664. Ways to Make a Fair Array/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1664. Ways to Make a Fair Array/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1664. Ways to Make a Fair Array/.idea/sonarlint/securityhotspotstore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1664. Ways to Make a Fair Array/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1664. Ways to Make a Fair Array/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1664. Ways to Make a Fair Array/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1664. Ways to Make a Fair Array/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1673. Find the Most Competitive Subsequence/.idea/1673. Find the Most Competitive Subsequence.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1673. Find the Most Competitive Subsequence/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1673. Find the Most Competitive Subsequence/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1673. Find the Most Competitive Subsequence/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1673. Find the Most Competitive Subsequence/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1673. Find the Most Competitive Subsequence/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1673. Find the Most Competitive Subsequence/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1673. Find the Most Competitive Subsequence/.idea/sonarlint/securityhotspotstore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1673. Find the Most Competitive Subsequence/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1673. Find the Most Competitive Subsequence/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1673. Find the Most Competitive Subsequence/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1673. Find the Most Competitive Subsequence/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0001~0500/0442. Find All Duplicates in an Array/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../0001~0500/0442. Find All Duplicates in an Array/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0001~0500/0442. Find All Duplicates in an Array/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../0001~0500/0442. Find All Duplicates in an Array/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0001~0500/0442. Find All Duplicates in an Array/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../0001~0500/0442. Find All Duplicates in an Array/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1818. Minimum Absolute Sum Difference/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../1818. Minimum Absolute Sum Difference/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1818. Minimum Absolute Sum Difference/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../1818. Minimum Absolute Sum Difference/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1818. Minimum Absolute Sum Difference/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../1818. Minimum Absolute Sum Difference/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2OdCuYcbBSQMF5VL9sqYjOm0nae" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/ryanpionee2/Github/Leetcode/1501~2000/1573. Number of Ways to Split a String",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="1573. Number of Ways to Split a String" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d279ec29-eb4a-4a15-bd31-f0518f60d834" name="Changes" comment="" />
+      <created>1681881295050</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681881295050</updated>
+      <workItem from="1681881296784" duration="2343000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
