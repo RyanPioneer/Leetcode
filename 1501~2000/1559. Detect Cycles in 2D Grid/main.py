@@ -3,8 +3,8 @@ Source: https://leetcode.com/problems/detect-cycles-in-2d-grid/
 Date: 2023/4/21
 Skill:
 Ref:
-Runtime: 2457 ms, faster than 43.75%
-Memory Usage: 38.8 MB, less than 91.25%
+Runtime: 2319 ms, faster than 56.25%
+Memory Usage: 22.7 MB, less than 96.67%
 Time complexity:
 Space complexity:
 Constraints:
@@ -31,19 +31,18 @@ class Solution:
             return 0 <= x < m and 0 <= y < n
 
         def dfs(x, y):
-            visited_cells, q = {(x, y)}, deque([(x, y, -1, -1)])
+            q = deque([(x, y, -1, -1)])
             while q:
                 cur_x, cur_y, father_x, father_y = q.popleft()
-                visited[cur_x][cur_y] = True
                 for i in range(4):
                     next_x, next_y = cur_x + directions[i], cur_y + directions[i + 1]
                     if not check_available(next_x, next_y) or (next_x, next_y) == \
                             (father_x, father_y) or grid[cur_x][cur_y] != \
                             grid[next_x][next_y]:
                         continue
-                    if (next_x, next_y) in visited_cells:
+                    if visited[next_x][next_y]:
                         return True
-                    visited_cells.add((next_x, next_y))
+                    visited[next_x][next_y] = True
                     q.append((next_x, next_y, cur_x, cur_y))
 
             return False
