@@ -1,0 +1,4 @@
+
+wpython:S117"TRename this parameter "bloomDay" to match the regular expression ^[_a-z][a-z0-9_]*$.(˜¢çÚúÿÿÿÿ8ËêîŸú0
+npython:S100"KRename method "minDays" to match the regular expression ^[a-z_][a-z0-9_]*$.(˜¢çÚúÿÿÿÿ8ÌêîŸú0
+xpython:S3776"TRefactor this function to reduce its Cognitive Complexity from 24 to the 15 allowed.(˜¢çÚúÿÿÿÿ8ÌêîŸú0

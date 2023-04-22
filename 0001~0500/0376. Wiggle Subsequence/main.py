@@ -1,10 +1,10 @@
 """
 Source: https://leetcode.com/problems/wiggle-subsequence/
-Date: 2023/4/20
+Date: 2023/4/21
 Skill:
 Ref:
-Runtime: 8161 ms, faster than 45.77%
-Memory Usage: 26.8 MB, less than 76.16%
+Runtime: 34 ms, faster than 78.2%
+Memory Usage: 13.9 MB, less than 65.32%
 Time complexity:
 Space complexity:
 Constraints:
@@ -22,21 +22,30 @@ from bisect import bisect_left, bisect_right
 
 class Solution:
     def wiggleMaxLength(self, nums: List[int]) -> int:
-        sz, res = len(nums), 1
-        dp = [[1 for _ in range(2)] for _ in range(sz)]
-        for i in range(1, sz):
-            flag = 0
-            for j in range(i - 1, -1, -1):
-                if dp[i][0] == 1 and nums[j] < nums[i]:
-                    flag += 1
-                    dp[i][0] = dp[j][1] + 1
-                    res = max(res, dp[i][0])
-                if dp[i][1] == 1 and nums[j] > nums[i]:
-                    flag += 1
-                    dp[i][1] = dp[j][0] + 1
-                    res = max(res, dp[i][1])
-                if flag == 2:
-                    break
+        sz, res, pos = len(nums), 1, 1
+        while pos < sz and nums[pos] == nums[pos - 1]:
+            pos += 1
+        if pos == sz:
+            return res
+        else:
+            res = 2
+        flag = 1 if nums[pos] > nums[pos - 1] else 0
+        while pos + 1 < sz:
+            pos += 1
+            if nums[pos] == nums[pos - 1]:
+                continue
+            elif nums[pos] > nums[pos - 1]:
+                if flag == 1:
+                    continue
+                else:
+                    res += 1
+                    flag = 1
+            else:
+                if flag == 0:
+                    continue
+                else:
+                    res += 1
+                    flag = 0
 
         return res
 
