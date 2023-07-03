@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="33273eb4-8614-42ea-973b-39545b200413" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0839. Similar String Groups/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0839. Similar String Groups/.idea/sonarlint/securityhotspotstore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0859. Buddy Strings/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0859. Buddy Strings/.idea/0859. Buddy Strings.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0859. Buddy Strings/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0859. Buddy Strings/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0859. Buddy Strings/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1247. Minimum Swaps to Make Strings Equal/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1247. Minimum Swaps to Make Strings Equal/.idea/1247. Minimum Swaps to Make Strings Equal.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1247. Minimum Swaps to Make Strings Equal/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1247. Minimum Swaps to Make Strings Equal/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1247. Minimum Swaps to Make Strings Equal/.idea/sonarlint/securityhotspotstore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1247. Minimum Swaps to Make Strings Equal/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1347. Minimum Number of Steps to Make Two Strings Anagram/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1347. Minimum Number of Steps to Make Two Strings Anagram/.idea/1347. Minimum Number of Steps to Make Two Strings Anagram.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1347. Minimum Number of Steps to Make Two Strings Anagram/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1347. Minimum Number of Steps to Make Two Strings Anagram/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1347. Minimum Number of Steps to Make Two Strings Anagram/.idea/sonarlint/securityhotspotstore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1347. Minimum Number of Steps to Make Two Strings Anagram/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1347. Minimum Number of Steps to Make Two Strings Anagram/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1491. Average Salary Excluding the Minimum and Maximum Salary/.idea/1491. Average Salary Excluding the Minimum and Maximum Salary.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1491. Average Salary Excluding the Minimum and Maximum Salary/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1491. Average Salary Excluding the Minimum and Maximum Salary/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1491. Average Salary Excluding the Minimum and Maximum Salary/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1491. Average Salary Excluding the Minimum and Maximum Salary/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1491. Average Salary Excluding the Minimum and Maximum Salary/.idea/sonarlint/issuestore/9/0/90479d8bc9f8dfa7116261e4ed6ed71a98437648" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1491. Average Salary Excluding the Minimum and Maximum Salary/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1491. Average Salary Excluding the Minimum and Maximum Salary/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1491. Average Salary Excluding the Minimum and Maximum Salary/.idea/sonarlint/securityhotspotstore/9/0/90479d8bc9f8dfa7116261e4ed6ed71a98437648" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1491. Average Salary Excluding the Minimum and Maximum Salary/.idea/sonarlint/securityhotspotstore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1491. Average Salary Excluding the Minimum and Maximum Salary/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1491. Average Salary Excluding the Minimum and Maximum Salary/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1491. Average Salary Excluding the Minimum and Maximum Salary/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1491. Average Salary Excluding the Minimum and Maximum Salary/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1491. Average Salary Excluding the Minimum and Maximum Salary/test.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1501~2000/1503. Last Moment Before All Ants Fall Out of a Plank/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1501~2000/1503. Last Moment Before All Ants Fall Out of a Plank/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1501~2000/1579. Remove Max Number of Edges to Keep Graph Fully Traversable/.idea/1579. Remove Max Number of Edges to Keep Graph Fully Traversable.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1501~2000/1579. Remove Max Number of Edges to Keep Graph Fully Traversable/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1501~2000/1579. Remove Max Number of Edges to Keep Graph Fully Traversable/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1501~2000/1579. Remove Max Number of Edges to Keep Graph Fully Traversable/.idea/sonarlint/securityhotspotstore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1501~2000/1579. Remove Max Number of Edges to Keep Graph Fully Traversable/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1501~2000/1579. Remove Max Number of Edges to Keep Graph Fully Traversable/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1501~2000/1579. Remove Max Number of Edges to Keep Graph Fully Traversable/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1501~2000/1601. Maximum Number of Achievable Transfer Requests/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1501~2000/1601. Maximum Number of Achievable Transfer Requests/.idea/1601. Maximum Number of Achievable Transfer Requests.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1501~2000/1601. Maximum Number of Achievable Transfer Requests/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1501~2000/1601. Maximum Number of Achievable Transfer Requests/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1501~2000/1601. Maximum Number of Achievable Transfer Requests/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1501~2000/1601. Maximum Number of Achievable Transfer Requests/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1501~2000/1601. Maximum Number of Achievable Transfer Requests/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1501~2000/1601. Maximum Number of Achievable Transfer Requests/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1501~2000/1601. Maximum Number of Achievable Transfer Requests/.idea/sonarlint/securityhotspotstore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1501~2000/1601. Maximum Number of Achievable Transfer Requests/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1501~2000/1601. Maximum Number of Achievable Transfer Requests/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1501~2000/1697. Checking Existence of Edge Length Limited Paths/.idea/1697. Checking Existence of Edge Length Limited Paths.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1501~2000/1697. Checking Existence of Edge Length Limited Paths/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1501~2000/1697. Checking Existence of Edge Length Limited Paths/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1501~2000/1697. Checking Existence of Edge Length Limited Paths/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1501~2000/1697. Checking Existence of Edge Length Limited Paths/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0501~1000/0839. Similar String Groups/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../0501~1000/0839. Similar String Groups/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0501~1000/0839. Similar String Groups/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../0501~1000/0839. Similar String Groups/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2S3DYBZbF2dQhHJWw7UD1XJ77Xk" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/ryanpionee2/Github/Leetcode/2001~2500/2186. Minimum Number of Steps to Make Two Strings Anagram II",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="2186. Minimum Number of Steps to Make Two Strings Anagram II" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="33273eb4-8614-42ea-973b-39545b200413" name="Changes" comment="" />
+      <created>1688366415691</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1688366415691</updated>
+      <workItem from="1688366416828" duration="428000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
