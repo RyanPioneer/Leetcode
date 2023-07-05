@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1d00b707-e5c4-4027-8220-96c567a90979" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../0120. Triangle/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0120. Triangle/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0151. Reverse Words in a String/.idea/0151. Reverse Words in a String.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0151. Reverse Words in a String/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0151. Reverse Words in a String/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0151. Reverse Words in a String/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0151. Reverse Words in a String/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0151. Reverse Words in a String/.idea/sonarlint/issuestore/c/c/cc7b753f568727eee1a611f410e85ecaa3a34e66" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0151. Reverse Words in a String/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0151. Reverse Words in a String/.idea/sonarlint/securityhotspotstore/c/c/cc7b753f568727eee1a611f410e85ecaa3a34e66" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0151. Reverse Words in a String/.idea/sonarlint/securityhotspotstore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0151. Reverse Words in a String/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0151. Reverse Words in a String/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0151. Reverse Words in a String/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0151. Reverse Words in a String/main2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0173. Binary Search Tree Iterator/.idea/0173. Binary Search Tree Iterator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0173. Binary Search Tree Iterator/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0173. Binary Search Tree Iterator/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0173. Binary Search Tree Iterator/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0173. Binary Search Tree Iterator/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0173. Binary Search Tree Iterator/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0173. Binary Search Tree Iterator/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0173. Binary Search Tree Iterator/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0433. Minimum Genetic Mutation/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0433. Minimum Genetic Mutation/.idea/0433. Minimum Genetic Mutation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0433. Minimum Genetic Mutation/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0433. Minimum Genetic Mutation/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0433. Minimum Genetic Mutation/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0433. Minimum Genetic Mutation/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0433. Minimum Genetic Mutation/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0433. Minimum Genetic Mutation/.idea/sonarlint/securityhotspotstore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0433. Minimum Genetic Mutation/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0433. Minimum Genetic Mutation/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0735. Asteroid Collision/.idea/0735. Asteroid Collision.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0735. Asteroid Collision/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0735. Asteroid Collision/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0735. Asteroid Collision/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0735. Asteroid Collision/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0735. Asteroid Collision/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0735. Asteroid Collision/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0735. Asteroid Collision/.idea/sonarlint/securityhotspotstore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0735. Asteroid Collision/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0735. Asteroid Collision/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0735. Asteroid Collision/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0735. Asteroid Collision/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0853. Car Fleet/.idea/0853. Car Fleet.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0853. Car Fleet/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0853. Car Fleet/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0853. Car Fleet/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0853. Car Fleet/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0853. Car Fleet/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0853. Car Fleet/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0853. Car Fleet/.idea/sonarlint/securityhotspotstore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0853. Car Fleet/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0853. Car Fleet/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0853. Car Fleet/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0853. Car Fleet/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1493. Longest Subarray of 1's After Deleting One Element/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1493. Longest Subarray of 1's After Deleting One Element/.idea/1493. Longest Subarray of 1's After Deleting One Element.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1493. Longest Subarray of 1's After Deleting One Element/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1493. Longest Subarray of 1's After Deleting One Element/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1493. Longest Subarray of 1's After Deleting One Element/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1493. Longest Subarray of 1's After Deleting One Element/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1493. Longest Subarray of 1's After Deleting One Element/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1493. Longest Subarray of 1's After Deleting One Element/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1501~2000/1776. Car Fleet II/.idea/1776. Car Fleet II.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1501~2000/1776. Car Fleet II/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1501~2000/1776. Car Fleet II/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1501~2000/1776. Car Fleet II/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1501~2000/1776. Car Fleet II/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1501~2000/1776. Car Fleet II/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1501~2000/1776. Car Fleet II/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1501~2000/1776. Car Fleet II/.idea/sonarlint/securityhotspotstore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1501~2000/1776. Car Fleet II/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1501~2000/1776. Car Fleet II/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1501~2000/1776. Car Fleet II/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1501~2000/1776. Car Fleet II/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2126. Destroying Asteroids/.idea/2126. Destroying Asteroids.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2126. Destroying Asteroids/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2126. Destroying Asteroids/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2126. Destroying Asteroids/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2126. Destroying Asteroids/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2126. Destroying Asteroids/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2126. Destroying Asteroids/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2126. Destroying Asteroids/.idea/sonarlint/securityhotspotstore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2126. Destroying Asteroids/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2126. Destroying Asteroids/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2126. Destroying Asteroids/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2126. Destroying Asteroids/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2157. Groups of Strings/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2157. Groups of Strings/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2157. Groups of Strings/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2157. Groups of Strings/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2211. Count Collisions on a Road/.idea/2211. Count Collisions on a Road.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2211. Count Collisions on a Road/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2211. Count Collisions on a Road/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2211. Count Collisions on a Road/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2211. Count Collisions on a Road/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2211. Count Collisions on a Road/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2211. Count Collisions on a Road/.idea/sonarlint/securityhotspotstore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2211. Count Collisions on a Road/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0127. Word Ladder/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" beforeDir="false" afterPath="$PROJECT_DIR$/../0127. Word Ladder/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0127. Word Ladder/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../0127. Word Ladder/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0127. Word Ladder/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../0127. Word Ladder/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2001~2500/2211. Count Collisions on a Road/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../2001~2500/2211. Count Collisions on a Road/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2001~2500/2211. Count Collisions on a Road/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../2001~2500/2211. Count Collisions on a Road/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2001~2500/2211. Count Collisions on a Road/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../2001~2500/2211. Count Collisions on a Road/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2001~2500/2211. Count Collisions on a Road/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../2001~2500/2211. Count Collisions on a Road/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2S5yVyf0uJ7VSp9ON98VNcZ91Fi" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/ryanpionee2/Github/Leetcode/0001~0500/0399. Evaluate Division",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="0399. Evaluate Division" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1d00b707-e5c4-4027-8220-96c567a90979" name="Changes" comment="" />
+      <created>1688450763945</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1688450763945</updated>
+      <workItem from="1688450765461" duration="5693000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
