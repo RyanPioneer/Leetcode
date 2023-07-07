@@ -33,8 +33,7 @@ class Solution:
         def union(i, j):
             father_i, father_j = find_father(i), find_father(j)
             if father_i != father_j:
-                f, s = min(father_i, father_j), max(father_i, father_j)
-                father[s] = f
+                father[father_i] = father_j
 
         for i in range(len(words)):
             state = 0
