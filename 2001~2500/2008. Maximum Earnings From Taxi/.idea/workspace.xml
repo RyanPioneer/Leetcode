@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1aec8d1c-a131-423b-9e42-0555770c4aa4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0802. Find Eventual Safe States/.idea/0802. Find Eventual Safe States.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0802. Find Eventual Safe States/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0802. Find Eventual Safe States/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0802. Find Eventual Safe States/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0802. Find Eventual Safe States/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0802. Find Eventual Safe States/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0802. Find Eventual Safe States/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0802. Find Eventual Safe States/.idea/sonarlint/securityhotspotstore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0802. Find Eventual Safe States/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0802. Find Eventual Safe States/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0802. Find Eventual Safe States/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0802. Find Eventual Safe States/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1353. Maximum Number of Events That Can Be Attended/.idea/1353. Maximum Number of Events That Can Be Attended.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1353. Maximum Number of Events That Can Be Attended/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1353. Maximum Number of Events That Can Be Attended/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1353. Maximum Number of Events That Can Be Attended/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1353. Maximum Number of Events That Can Be Attended/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1353. Maximum Number of Events That Can Be Attended/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1353. Maximum Number of Events That Can Be Attended/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1353. Maximum Number of Events That Can Be Attended/.idea/sonarlint/securityhotspotstore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1353. Maximum Number of Events That Can Be Attended/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1353. Maximum Number of Events That Can Be Attended/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1353. Maximum Number of Events That Can Be Attended/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1353. Maximum Number of Events That Can Be Attended/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1501~2000/1751. Maximum Number of Events That Can Be Attended II/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1501~2000/1751. Maximum Number of Events That Can Be Attended II/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1501~2000/1751. Maximum Number of Events That Can Be Attended II/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1501~2000/1751. Maximum Number of Events That Can Be Attended II/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1501~2000/1751. Maximum Number of Events That Can Be Attended II/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1501~2000/1751. Maximum Number of Events That Can Be Attended II/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1501~2000/1751. Maximum Number of Events That Can Be Attended II/.idea/sonarlint/securityhotspotstore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1501~2000/1751. Maximum Number of Events That Can Be Attended II/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1501~2000/1751. Maximum Number of Events That Can Be Attended II/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1501~2000/1751. Maximum Number of Events That Can Be Attended II/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1501~2000/1751. Maximum Number of Events That Can Be Attended II/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2305. Fair Distribution of Cookies/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2392. Build a Matrix With Conditions/.idea/2392. Build a Matrix With Conditions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2392. Build a Matrix With Conditions/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2392. Build a Matrix With Conditions/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2392. Build a Matrix With Conditions/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2392. Build a Matrix With Conditions/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2392. Build a Matrix With Conditions/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2392. Build a Matrix With Conditions/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2392. Build a Matrix With Conditions/.idea/sonarlint/securityhotspotstore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2392. Build a Matrix With Conditions/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2392. Build a Matrix With Conditions/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2392. Build a Matrix With Conditions/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2392. Build a Matrix With Conditions/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2402. Meeting Rooms III/.idea/2402. Meeting Rooms III.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2402. Meeting Rooms III/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2402. Meeting Rooms III/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2402. Meeting Rooms III/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2402. Meeting Rooms III/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2402. Meeting Rooms III/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2402. Meeting Rooms III/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2402. Meeting Rooms III/.idea/sonarlint/securityhotspotstore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2402. Meeting Rooms III/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2402. Meeting Rooms III/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2402. Meeting Rooms III/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2402. Meeting Rooms III/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0001~0500/0373. Find K Pairs with Smallest Sums/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../0001~0500/0373. Find K Pairs with Smallest Sums/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0001~0500/0373. Find K Pairs with Smallest Sums/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../0001~0500/0373. Find K Pairs with Smallest Sums/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2088. Count Fertile Pyramids in a Land/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../2088. Count Fertile Pyramids in a Land/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2488. Count Subarrays With Median K/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../2488. Count Subarrays With Median K/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2488. Count Subarrays With Median K/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../2488. Count Subarrays With Median K/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2488. Count Subarrays With Median K/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../2488. Count Subarrays With Median K/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2488. Count Subarrays With Median K/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../2488. Count Subarrays With Median K/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2ST7CowC4FrHDMnHBYWHSZp6TOb" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/ryanpionee2/Github/Leetcode/2001~2500/2008. Maximum Earnings From Taxi&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="2008. Maximum Earnings From Taxi" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1aec8d1c-a131-423b-9e42-0555770c4aa4" name="Changes" comment="" />
+      <created>1689158591440</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1689158591440</updated>
+      <workItem from="1689158593008" duration="2017000" />
+      <workItem from="1689212451501" duration="8000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

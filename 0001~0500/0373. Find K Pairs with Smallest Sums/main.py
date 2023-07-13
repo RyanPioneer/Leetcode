@@ -3,8 +3,8 @@ Source: https://rb.gy/dcxiw
 Date: 2023/7/5
 Skill:
 Ref:
-Runtime: 79 ms, faster than 72.43%
-Memory Usage: 17.4 MB, less than 69.22%
+Runtime: 2216 ms, faster than 5%
+Memory Usage: 35.5 MB, less than 73.8%
 Time complexity:
 Space complexity:
 Constraints:

@@ -1,0 +1,5 @@
+
+|python:S117"YRename this parameter "colConditions" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÕÅ½…øÿÿÿÿ8Ó€ÀÂ”1
+|python:S117"YRename this parameter "rowConditions" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÕÅ½…øÿÿÿÿ8Ó€ÀÂ”1
+rpython:S100"ORename method "buildMatrix" to match the regular expression ^[a-z_][a-z0-9_]*$.(ÕÅ½…øÿÿÿÿ8Ó€ÀÂ”1
+xpython:S3776"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(ÕÅ½…øÿÿÿÿ8Ó€ÀÂ”1

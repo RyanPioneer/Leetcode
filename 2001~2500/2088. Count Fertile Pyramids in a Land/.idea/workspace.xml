@@ -5,49 +5,61 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8f610a8f-7704-48c0-b312-c384e31377f0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0313. Super Ugly Number/.idea/0313. Super Ugly Number.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0313. Super Ugly Number/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0313. Super Ugly Number/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0313. Super Ugly Number/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0313. Super Ugly Number/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0313. Super Ugly Number/.idea/sonarlint/issuestore/9/0/90479d8bc9f8dfa7116261e4ed6ed71a98437648" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0313. Super Ugly Number/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0313. Super Ugly Number/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0313. Super Ugly Number/.idea/sonarlint/securityhotspotstore/9/0/90479d8bc9f8dfa7116261e4ed6ed71a98437648" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0313. Super Ugly Number/.idea/sonarlint/securityhotspotstore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0313. Super Ugly Number/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0313. Super Ugly Number/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0313. Super Ugly Number/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0313. Super Ugly Number/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0313. Super Ugly Number/test.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1310. XOR Queries of a Subarray/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1310. XOR Queries of a Subarray/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1639. Number of Ways to Form a Target String Given a Dictionary/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1639. Number of Ways to Form a Target String Given a Dictionary/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1639. Number of Ways to Form a Target String Given a Dictionary/.idea/sonarlint/securityhotspotstore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1639. Number of Ways to Form a Target String Given a Dictionary/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1639. Number of Ways to Form a Target String Given a Dictionary/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1639. Number of Ways to Form a Target String Given a Dictionary/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1937. Maximum Number of Points with Cost/.idea/1937. Maximum Number of Points with Cost.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1937. Maximum Number of Points with Cost/.idea/git_toolbox_prj.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1937. Maximum Number of Points with Cost/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1937. Maximum Number of Points with Cost/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1937. Maximum Number of Points with Cost/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1937. Maximum Number of Points with Cost/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1937. Maximum Number of Points with Cost/.idea/sonarlint/issuestore/8/8/88a9255124c95bdc913197c120a8d560edc59c8e" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1937. Maximum Number of Points with Cost/.idea/sonarlint/issuestore/9/f/9fe84ebb15faf917b7def6236dba604453cc61e0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1937. Maximum Number of Points with Cost/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1937. Maximum Number of Points with Cost/.idea/sonarlint/securityhotspotstore/8/8/88a9255124c95bdc913197c120a8d560edc59c8e" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1937. Maximum Number of Points with Cost/.idea/sonarlint/securityhotspotstore/9/f/9fe84ebb15faf917b7def6236dba604453cc61e0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1937. Maximum Number of Points with Cost/.idea/sonarlint/securityhotspotstore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1937. Maximum Number of Points with Cost/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../1501~2000/1818. Minimum Absolute Sum Difference/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../1501~2000/1818. Minimum Absolute Sum Difference/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../1501~2000/1818. Minimum Absolute Sum Difference/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../1501~2000/1818. Minimum Absolute Sum Difference/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../1501~2000/1937. Maximum Number of Points with Cost/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../1501~2000/1937. Maximum Number of Points with Cost/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../1501~2000/1937. Maximum Number of Points with Cost/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../1501~2000/1937. Maximum Number of Points with Cost/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../1501~2000/1937. Maximum Number of Points with Cost/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../1501~2000/1937. Maximum Number of Points with Cost/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0802. Find Eventual Safe States/.idea/0802. Find Eventual Safe States.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0802. Find Eventual Safe States/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0802. Find Eventual Safe States/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0802. Find Eventual Safe States/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0802. Find Eventual Safe States/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0802. Find Eventual Safe States/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0802. Find Eventual Safe States/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0802. Find Eventual Safe States/.idea/sonarlint/securityhotspotstore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0802. Find Eventual Safe States/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0802. Find Eventual Safe States/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0802. Find Eventual Safe States/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0802. Find Eventual Safe States/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1353. Maximum Number of Events That Can Be Attended/.idea/1353. Maximum Number of Events That Can Be Attended.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1353. Maximum Number of Events That Can Be Attended/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1353. Maximum Number of Events That Can Be Attended/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1353. Maximum Number of Events That Can Be Attended/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1353. Maximum Number of Events That Can Be Attended/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1353. Maximum Number of Events That Can Be Attended/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1353. Maximum Number of Events That Can Be Attended/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1353. Maximum Number of Events That Can Be Attended/.idea/sonarlint/securityhotspotstore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1353. Maximum Number of Events That Can Be Attended/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1353. Maximum Number of Events That Can Be Attended/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1353. Maximum Number of Events That Can Be Attended/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1353. Maximum Number of Events That Can Be Attended/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1501~2000/1751. Maximum Number of Events That Can Be Attended II/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1501~2000/1751. Maximum Number of Events That Can Be Attended II/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1501~2000/1751. Maximum Number of Events That Can Be Attended II/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1501~2000/1751. Maximum Number of Events That Can Be Attended II/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2392. Build a Matrix With Conditions/.idea/2392. Build a Matrix With Conditions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2392. Build a Matrix With Conditions/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2392. Build a Matrix With Conditions/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2392. Build a Matrix With Conditions/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2392. Build a Matrix With Conditions/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2392. Build a Matrix With Conditions/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2392. Build a Matrix With Conditions/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2392. Build a Matrix With Conditions/.idea/sonarlint/securityhotspotstore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2392. Build a Matrix With Conditions/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2392. Build a Matrix With Conditions/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2392. Build a Matrix With Conditions/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2392. Build a Matrix With Conditions/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2402. Meeting Rooms III/.idea/2402. Meeting Rooms III.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2402. Meeting Rooms III/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2402. Meeting Rooms III/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2402. Meeting Rooms III/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2402. Meeting Rooms III/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2402. Meeting Rooms III/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2402. Meeting Rooms III/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2402. Meeting Rooms III/.idea/sonarlint/securityhotspotstore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2402. Meeting Rooms III/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2402. Meeting Rooms III/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2402. Meeting Rooms III/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2402. Meeting Rooms III/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0001~0500/0373. Find K Pairs with Smallest Sums/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../0001~0500/0373. Find K Pairs with Smallest Sums/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0001~0500/0373. Find K Pairs with Smallest Sums/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../0001~0500/0373. Find K Pairs with Smallest Sums/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2488. Count Subarrays With Median K/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../2488. Count Subarrays With Median K/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,8 +124,12 @@
       <updated>1681552201794</updated>
       <workItem from="1681552203870" duration="1185000" />
       <workItem from="1681613078934" duration="2717000" />
+      <workItem from="1689158576101" duration="9000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
