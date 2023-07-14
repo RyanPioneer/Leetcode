@@ -3,8 +3,8 @@ Source: https://rb.gy/xq8ty
 Date: 2023/7/13
 Skill:
 Ref:
-Runtime: 615 ms, faster than 63.50%
-Memory Usage: 16.3 MB, less than 58.49%
+Runtime: 60 ms, faster than 85.22%
+Memory Usage: 16.5 MB, less than 21.26%
 Time complexity:
 Space complexity:
 Constraints:
@@ -23,6 +23,7 @@ from bisect import bisect_left, bisect_right
 class Solution:
     def distributeCookies(self, cookies: List[int], k: int) -> int:
         people, cookie_num = [0 for _ in range(k)], len(cookies)
+        cookies.sort(reverse=True)
 
         def dfs(cookie, limit, zero_count):
             if cookie == cookie_num:

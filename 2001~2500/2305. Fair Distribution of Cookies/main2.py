@@ -23,6 +23,7 @@ from bisect import bisect_left, bisect_right
 class Solution:
     def distributeCookies(self, cookies: List[int], k: int) -> int:
         people, cookie_num, res = [0 for _ in range(k)], len(cookies), sys.maxsize
+        cookies.sort(reverse=True)
 
         def dfs(cookie, zero_count):
             nonlocal res
