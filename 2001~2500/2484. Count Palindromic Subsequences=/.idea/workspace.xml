@@ -4,68 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3790f630-de40-41d1-9c22-041f28d637b1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1027. Longest Arithmetic Subsequence/.idea/1027. Longest Arithmetic Subsequence.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1027. Longest Arithmetic Subsequence/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1027. Longest Arithmetic Subsequence/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1027. Longest Arithmetic Subsequence/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1027. Longest Arithmetic Subsequence/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1027. Longest Arithmetic Subsequence/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1027. Longest Arithmetic Subsequence/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1027. Longest Arithmetic Subsequence/.idea/sonarlint/securityhotspotstore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1027. Longest Arithmetic Subsequence/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1027. Longest Arithmetic Subsequence/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1027. Longest Arithmetic Subsequence/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1027. Longest Arithmetic Subsequence/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1218. Longest Arithmetic Subsequence of Given Difference/.idea/1218. Longest Arithmetic Subsequence of Given Difference.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1218. Longest Arithmetic Subsequence of Given Difference/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1218. Longest Arithmetic Subsequence of Given Difference/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1218. Longest Arithmetic Subsequence of Given Difference/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1218. Longest Arithmetic Subsequence of Given Difference/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1218. Longest Arithmetic Subsequence of Given Difference/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1218. Longest Arithmetic Subsequence of Given Difference/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1218. Longest Arithmetic Subsequence of Given Difference/.idea/sonarlint/securityhotspotstore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1218. Longest Arithmetic Subsequence of Given Difference/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1218. Longest Arithmetic Subsequence of Given Difference/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1218. Longest Arithmetic Subsequence of Given Difference/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1218. Longest Arithmetic Subsequence of Given Difference/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2305. Fair Distribution of Cookies/.idea/2305. Fair Distribution of Cookies.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2305. Fair Distribution of Cookies/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2305. Fair Distribution of Cookies/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2305. Fair Distribution of Cookies/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2305. Fair Distribution of Cookies/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2305. Fair Distribution of Cookies/.idea/sonarlint/issuestore/c/c/cc7b753f568727eee1a611f410e85ecaa3a34e66" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2305. Fair Distribution of Cookies/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2305. Fair Distribution of Cookies/.idea/sonarlint/securityhotspotstore/c/c/cc7b753f568727eee1a611f410e85ecaa3a34e66" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2305. Fair Distribution of Cookies/.idea/sonarlint/securityhotspotstore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2305. Fair Distribution of Cookies/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2453. Destroy Sequential Targets/.idea/2453. Destroy Sequential Targets.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2453. Destroy Sequential Targets/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2453. Destroy Sequential Targets/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2453. Destroy Sequential Targets/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2453. Destroy Sequential Targets/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2453. Destroy Sequential Targets/.idea/sonarlint/issuestore/c/c/cc7b753f568727eee1a611f410e85ecaa3a34e66" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2453. Destroy Sequential Targets/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2453. Destroy Sequential Targets/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2453. Destroy Sequential Targets/.idea/sonarlint/securityhotspotstore/c/c/cc7b753f568727eee1a611f410e85ecaa3a34e66" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2453. Destroy Sequential Targets/.idea/sonarlint/securityhotspotstore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2453. Destroy Sequential Targets/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2453. Destroy Sequential Targets/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2453. Destroy Sequential Targets/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2453. Destroy Sequential Targets/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2453. Destroy Sequential Targets/main2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2501~3000/2607. Make K-Subarray Sums Equal/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2501~3000/2607. Make K-Subarray Sums Equal/.idea/2607. Make K-Subarray Sums Equal.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2501~3000/2607. Make K-Subarray Sums Equal/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2305. Fair Distribution of Cookies/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../2305. Fair Distribution of Cookies/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2305. Fair Distribution of Cookies/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../2305. Fair Distribution of Cookies/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2305. Fair Distribution of Cookies/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../2305. Fair Distribution of Cookies/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2305. Fair Distribution of Cookies/main2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../2305. Fair Distribution of Cookies/main2.py" afterDir="false" />
-    </list>
+    <list default="true" id="3790f630-de40-41d1-9c22-041f28d637b1" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -128,7 +67,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1689331847812</updated>
-      <workItem from="1689331849163" duration="3541000" />
+      <workItem from="1689331849163" duration="3657000" />
     </task>
     <servers />
   </component>
