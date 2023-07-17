@@ -1,10 +1,10 @@
 """
 Source: https://rb.gy/541r6
-Date: 2023/7/15
+Date: 2023/7/17
 Skill: Binary Indexed Tree
-Ref:
-Runtime: 2252 ms, faster than 64.42%
-Memory Usage: 52.9 MB, less than 17.31%
+Ref: https://rb.gy/rs674
+Runtime: 1698 ms, faster than 78.33%
+Memory Usage: 33.42 MB, less than 85.21%
 Time complexity:
 Space complexity:
 Constraints:
@@ -20,13 +20,37 @@ import functools
 from bisect import bisect_left, bisect_right
 
 
+class FenwickTree:
+    def __init__(self, n):
+        self.nums = [0 for i in range(n+1)]
+
+    def update(self, i, delta):
+        while i < len(self.nums):
+            self.nums[i] += delta
+            i += i & -i
+
+    def query(self, i):
+        sum = 0
+        while i > 0:
+            sum += self.nums[i]
+            i -= i & -i
+        return sum
+
+
 class NumArray:
 
     def __init__(self, nums: List[int]):
+        self.BIT = FenwickTree(len(nums))
+        self.nums = nums
+        for i in range(len(nums)):
+            self.BIT.update(i+1, nums[i])
 
     def update(self, index: int, val: int) -> None:
+        self.BIT.update(index + 1, val - self.nums[index])
+        self.nums[index] = val
 
     def sumRange(self, left: int, right: int) -> int:
+        return self.BIT.query(right+1) - self.BIT.query(left)
 
 
 # Your NumArray object will be instantiated and called as such:

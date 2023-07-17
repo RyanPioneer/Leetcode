@@ -1,0 +1,4 @@
+
+Dpython:S1481"%Remove the unused local variable "i".(Èàê8Æ«Å–1
+Opython:S5806!"+Rename this variable; it shadows a builtin.(§Öºşüÿÿÿÿ8Æ«Å–1
+opython:S1004"LRename method "sumRange" to match the regular expression ^[a-z_][a-z0-9_]*$.(â³÷¹şÿÿÿÿ8Æ«Å–1
