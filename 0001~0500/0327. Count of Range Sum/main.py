@@ -3,8 +3,8 @@ Source: https://rb.gy/86zri
 Date: 2023/7/17
 Skill:
 Ref:
-Runtime: 1698 ms, faster than 78.33%
-Memory Usage: 33.42 MB, less than 85.21%
+Runtime: TLE
+Memory Usage:
 Time complexity:
 Space complexity:
 Constraints:
