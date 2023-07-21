@@ -1,6 +1,6 @@
 """
 Source: https://rb.gy/ftxv2
-Date: 2023/7/15
+Date: 2023/7/21
 Skill:
 Ref:
 Runtime: 2669 ms, faster than 41.45%
@@ -22,6 +22,7 @@ from bisect import bisect_left, bisect_right
 
 class Solution:
     def paintWalls(self, cost: List[int], time: List[int]) -> int:
+        sz = len(cost)
 
 
 
