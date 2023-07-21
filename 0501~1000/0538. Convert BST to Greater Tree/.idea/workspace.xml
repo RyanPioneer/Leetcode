@@ -1,23 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="06441ec1-8f95-4361-bcff-af352f597e8f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../0501~1000/0538. Convert BST to Greater Tree/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0501~1000/0538. Convert BST to Greater Tree/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0501~1000/0538. Convert BST to Greater Tree/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0501~1000/0538. Convert BST to Greater Tree/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0501~1000/0538. Convert BST to Greater Tree/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0501~1000/0538. Convert BST to Greater Tree/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0501~1000/0538. Convert BST to Greater Tree/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0501~1000/0538. Convert BST to Greater Tree/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0501~1000/0538. Convert BST to Greater Tree/main.py" afterDir="false" />
+    <list default="true" id="23fbffd3-1b03-49d9-9132-f54899212831" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../2501~3000/2742. Painting the Walls/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../2501~3000/2742. Painting the Walls/.idea/sonarlint/securityhotspotstore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1001~1500/1038. Binary Search Tree to Greater Sum Tree/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../1001~1500/1038. Binary Search Tree to Greater Sum Tree/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1001~1500/1038. Binary Search Tree to Greater Sum Tree/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../1001~1500/1038. Binary Search Tree to Greater Sum Tree/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../2501~3000/2742. Painting the Walls/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../2501~3000/2742. Painting the Walls/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../2501~3000/2742. Painting the Walls/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../2501~3000/2742. Painting the Walls/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../2501~3000/2742. Painting the Walls/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../2501~3000/2742. Painting the Walls/.idea/workspace.xml" afterDir="false" />
@@ -30,7 +27,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectId" id="2SsWUxumnlzzQ92WPrSHTrOtxN2" />
+  <component name="ProjectId" id="2Ssq7xqvDlVbs1hma9Xx5BfDIq5" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -40,21 +37,17 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/ryanpionee2/Github/Leetcode/1001~1500/1038. Binary Search Tree to Greater Sum Tree&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/ryanpionee2/Github/Leetcode/0501~1000/0538. Convert BST to Greater Tree&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
-      <module name="1038. Binary Search Tree to Greater Sum Tree" />
+      <module name="0538. Convert BST to Greater Tree" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -79,21 +72,17 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="06441ec1-8f95-4361-bcff-af352f597e8f" name="Changes" comment="" />
-      <created>1689935788772</created>
+      <changelist id="23fbffd3-1b03-49d9-9132-f54899212831" name="Changes" comment="" />
+      <created>1689945472854</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1689935788772</updated>
-      <workItem from="1689935790275" duration="5353000" />
-      <workItem from="1689945937657" duration="128000" />
-      <workItem from="1689946077968" duration="278000" />
+      <updated>1689945472854</updated>
+      <workItem from="1689945474502" duration="211000" />
+      <workItem from="1689946138613" duration="220000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>

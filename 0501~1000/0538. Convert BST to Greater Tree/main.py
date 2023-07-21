@@ -1,10 +1,10 @@
 """
-Source: https://rb.gy/k2kij
+Source: https://rb.gy/7g0y3
 Date: 2023/7/21
 Skill:
 Ref:
-Runtime: 47 ms, faster than 61.83%
-Memory Usage: 16.5 MB, less than 25.13%
+Runtime: 89 ms, faster than 80.96%
+Memory Usage: 19.15 MB, less than 36.90%
 Time complexity:
 Space complexity:
 Constraints:
@@ -29,7 +29,9 @@ class TreeNode:
 
 
 class Solution:
-    def bstToGst(self, root: TreeNode) -> TreeNode:
+    def convertBST(self, root: Optional[TreeNode]) -> Optional[TreeNode]:
+        if not root:
+            return None
         cur_node, cur_num = root, 0
         stack, nums = [cur_node], 0
         while cur_node.right:
@@ -41,7 +43,7 @@ class Solution:
             cur_node.val = cur_num
             if cur_node.left:
                 cur_node = cur_node.left
-                stack.append(cur_node,)
+                stack.append(cur_node, )
                 while cur_node.right:
                     cur_node = cur_node.right
                     stack.append(cur_node)
