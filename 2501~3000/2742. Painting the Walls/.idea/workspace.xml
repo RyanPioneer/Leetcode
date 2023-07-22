@@ -5,18 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="432c9366-1b61-486c-961f-d4c79e2d4d11" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../0501~1000/0538. Convert BST to Greater Tree/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0501~1000/0538. Convert BST to Greater Tree/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0501~1000/0538. Convert BST to Greater Tree/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0501~1000/0538. Convert BST to Greater Tree/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0501~1000/0538. Convert BST to Greater Tree/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0501~1000/0538. Convert BST to Greater Tree/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0501~1000/0538. Convert BST to Greater Tree/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0501~1000/0538. Convert BST to Greater Tree/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0501~1000/0538. Convert BST to Greater Tree/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../1001~1500/1038. Binary Search Tree to Greater Sum Tree/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../1001~1500/1038. Binary Search Tree to Greater Sum Tree/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../1001~1500/1038. Binary Search Tree to Greater Sum Tree/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../1001~1500/1038. Binary Search Tree to Greater Sum Tree/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0688. Knight Probability in Chessboard/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0688. Knight Probability in Chessboard/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0688. Knight Probability in Chessboard/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0688. Knight Probability in Chessboard/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0688. Knight Probability in Chessboard/main2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0956. Tallest Billboard/.idea/0956. Tallest Billboard.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0956. Tallest Billboard/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0956. Tallest Billboard/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0956. Tallest Billboard/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0956. Tallest Billboard/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0956. Tallest Billboard/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0956. Tallest Billboard/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0956. Tallest Billboard/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0956. Tallest Billboard/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0956. Tallest Billboard/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2035. Partition Array Into Two Arrays to Minimize Sum Difference/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2035. Partition Array Into Two Arrays to Minimize Sum Difference/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2035. Partition Array Into Two Arrays to Minimize Sum Difference/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2035. Partition Array Into Two Arrays to Minimize Sum Difference/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,6 +91,7 @@
       <workItem from="1689932236712" duration="1868000" />
       <workItem from="1689945946046" duration="120000" />
       <workItem from="1689946081184" duration="16000" />
+      <workItem from="1689946403236" duration="8341000" />
     </task>
     <servers />
   </component>
