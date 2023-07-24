@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="32927860-dbfd-4f78-93b3-64c62d6e5422" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../0001~0500/0050. Pow(x, n)/.idea/0050. Pow(x, n).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0001~0500/0050. Pow(x, n)/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0001~0500/0050. Pow(x, n)/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0001~0500/0050. Pow(x, n)/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0001~0500/0050. Pow(x, n)/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0001~0500/0050. Pow(x, n)/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0001~0500/0050. Pow(x, n)/.idea/sonarlint/securityhotspotstore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0001~0500/0050. Pow(x, n)/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0001~0500/0069. Sqrt(x)/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0001~0500/0069. Sqrt(x)/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0001~0500/0069. Sqrt(x)/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0001~0500/0069. Sqrt(x)/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0001~0500/0069. Sqrt(x)/.idea/sonarlint/issuestore/6/8/682a50d19e416195436708e48c7761923b8d6651" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0001~0500/0069. Sqrt(x)/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0001~0500/0069. Sqrt(x)/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0001~0500/0069. Sqrt(x)/.idea/sonarlint/securityhotspotstore/6/8/682a50d19e416195436708e48c7761923b8d6651" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0001~0500/0069. Sqrt(x)/.idea/sonarlint/securityhotspotstore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0001~0500/0069. Sqrt(x)/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0001~0500/0069. Sqrt(x)/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0001~0500/0069. Sqrt(x)/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0001~0500/0069. Sqrt(x)/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0001~0500/0367. Valid Perfect Square/.idea/0367. Valid Perfect Square.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0001~0500/0367. Valid Perfect Square/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0001~0500/0367. Valid Perfect Square/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0001~0500/0367. Valid Perfect Square/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0001~0500/0367. Valid Perfect Square/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0001~0500/0367. Valid Perfect Square/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0001~0500/0367. Valid Perfect Square/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0001~0500/0367. Valid Perfect Square/.idea/sonarlint/securityhotspotstore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0001~0500/0367. Valid Perfect Square/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0001~0500/0367. Valid Perfect Square/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0001~0500/0367. Valid Perfect Square/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0001~0500/0367. Valid Perfect Square/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0633. Sum of Square Numbers/.idea/0633. Sum of Square Numbers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0633. Sum of Square Numbers/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0633. Sum of Square Numbers/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0633. Sum of Square Numbers/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0633. Sum of Square Numbers/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0633. Sum of Square Numbers/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0633. Sum of Square Numbers/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0633. Sum of Square Numbers/.idea/sonarlint/securityhotspotstore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0633. Sum of Square Numbers/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0633. Sum of Square Numbers/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0633. Sum of Square Numbers/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0633. Sum of Square Numbers/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0001~0500/0050. Pow(x, n)/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../0001~0500/0050. Pow(x, n)/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0001~0500/0050. Pow(x, n)/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../0001~0500/0050. Pow(x, n)/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0001~0500/0050. Pow(x, n)/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../0001~0500/0050. Pow(x, n)/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2001~2500/2035. Partition Array Into Two Arrays to Minimize Sum Difference/main2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../2001~2500/2035. Partition Array Into Two Arrays to Minimize Sum Difference/main2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2001~2500/2179. Count Good Triplets in an Array/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../2001~2500/2179. Count Good Triplets in an Array/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2501~3000/2646. Minimize the Total Price of the Trips/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../2501~3000/2646. Minimize the Total Price of the Trips/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2SzxyLJSsmzvFF0Hwx7I6VrWb7L" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/ryanpionee2/Github/Leetcode/1501~2000/1588. Sum of All Odd Length Subarrays",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="1588. Sum of All Odd Length Subarrays" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="32927860-dbfd-4f78-93b3-64c62d6e5422" name="Changes" comment="" />
+      <created>1690163463791</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1690163463791</updated>
+      <workItem from="1690163465504" duration="1183000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
