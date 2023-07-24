@@ -1,0 +1,3 @@
+
+•python:S5886""vReturn a value of type "list[Optional[TreeNode]]" instead of "NoneType" or update function "allPossibleFBT" type hint.(ò¤Ÿù8’˜1
+upython:S100 "RRename method "allPossibleFBT" to match the regular expression ^[a-z_][a-z0-9_]*$.(ëò×¤şÿÿÿÿ8’˜1
