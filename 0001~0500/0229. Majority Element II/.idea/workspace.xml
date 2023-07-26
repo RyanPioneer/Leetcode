@@ -5,119 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5cab9543-b32a-40c6-be6e-3c202d2ea7fc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0387. First Unique Character in a String/.idea/0387. First Unique Character in a String.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0387. First Unique Character in a String/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0387. First Unique Character in a String/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0387. First Unique Character in a String/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0387. First Unique Character in a String/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0387. First Unique Character in a String/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0387. First Unique Character in a String/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0387. First Unique Character in a String/.idea/sonarlint/securityhotspotstore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0387. First Unique Character in a String/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0387. First Unique Character in a String/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0387. First Unique Character in a String/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0387. First Unique Character in a String/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0501~1000/0643. Maximum Average Subarray I/.idea/0643. Maximum Average Subarray I.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0501~1000/0643. Maximum Average Subarray I/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0501~1000/0643. Maximum Average Subarray I/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0501~1000/0643. Maximum Average Subarray I/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0501~1000/0643. Maximum Average Subarray I/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0501~1000/0643. Maximum Average Subarray I/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0501~1000/0643. Maximum Average Subarray I/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0501~1000/0643. Maximum Average Subarray I/.idea/sonarlint/securityhotspotstore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0501~1000/0643. Maximum Average Subarray I/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0501~1000/0643. Maximum Average Subarray I/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0501~1000/0643. Maximum Average Subarray I/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0501~1000/0643. Maximum Average Subarray I/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0501~1000/0945. Minimum Increment to Make Array Unique/.idea/0945. Minimum Increment to Make Array Unique.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0501~1000/0945. Minimum Increment to Make Array Unique/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0501~1000/0945. Minimum Increment to Make Array Unique/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0501~1000/0945. Minimum Increment to Make Array Unique/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0501~1000/0945. Minimum Increment to Make Array Unique/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0501~1000/0945. Minimum Increment to Make Array Unique/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0501~1000/0945. Minimum Increment to Make Array Unique/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0501~1000/0945. Minimum Increment to Make Array Unique/.idea/sonarlint/securityhotspotstore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0501~1000/0945. Minimum Increment to Make Array Unique/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0501~1000/0945. Minimum Increment to Make Array Unique/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0501~1000/0945. Minimum Increment to Make Array Unique/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0501~1000/0945. Minimum Increment to Make Array Unique/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0501~1000/0991. Broken Calculator/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0501~1000/0991. Broken Calculator/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0501~1000/0991. Broken Calculator/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0501~1000/0991. Broken Calculator/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1049. Last Stone Weight II/.idea/1049. Last Stone Weight II.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1049. Last Stone Weight II/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1049. Last Stone Weight II/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1049. Last Stone Weight II/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1049. Last Stone Weight II/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1049. Last Stone Weight II/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1049. Last Stone Weight II/.idea/sonarlint/securityhotspotstore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1049. Last Stone Weight II/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1658. Minimum Operations to Reduce X to Zero/.idea/1658. Minimum Operations to Reduce X to Zero.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1658. Minimum Operations to Reduce X to Zero/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1658. Minimum Operations to Reduce X to Zero/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1658. Minimum Operations to Reduce X to Zero/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1658. Minimum Operations to Reduce X to Zero/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1658. Minimum Operations to Reduce X to Zero/.idea/sonarlint/issuestore/c/c/cc7b753f568727eee1a611f410e85ecaa3a34e66" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1658. Minimum Operations to Reduce X to Zero/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1658. Minimum Operations to Reduce X to Zero/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1658. Minimum Operations to Reduce X to Zero/.idea/sonarlint/securityhotspotstore/c/c/cc7b753f568727eee1a611f410e85ecaa3a34e66" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1658. Minimum Operations to Reduce X to Zero/.idea/sonarlint/securityhotspotstore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1658. Minimum Operations to Reduce X to Zero/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1658. Minimum Operations to Reduce X to Zero/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1658. Minimum Operations to Reduce X to Zero/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1658. Minimum Operations to Reduce X to Zero/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1658. Minimum Operations to Reduce X to Zero/main2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2233. Maximum Product After K Increments/.idea/2233. Maximum Product After K Increments.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2233. Maximum Product After K Increments/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2233. Maximum Product After K Increments/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2233. Maximum Product After K Increments/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2233. Maximum Product After K Increments/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2233. Maximum Product After K Increments/.idea/sonarlint/issuestore/c/c/cc7b753f568727eee1a611f410e85ecaa3a34e66" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2233. Maximum Product After K Increments/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2233. Maximum Product After K Increments/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2233. Maximum Product After K Increments/.idea/sonarlint/securityhotspotstore/c/c/cc7b753f568727eee1a611f410e85ecaa3a34e66" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2233. Maximum Product After K Increments/.idea/sonarlint/securityhotspotstore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2233. Maximum Product After K Increments/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2233. Maximum Product After K Increments/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2233. Maximum Product After K Increments/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2233. Maximum Product After K Increments/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2233. Maximum Product After K Increments/main2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2333. Minimum Sum of Squared Difference/.idea/2333. Minimum Sum of Squared Difference.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2333. Minimum Sum of Squared Difference/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2333. Minimum Sum of Squared Difference/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2333. Minimum Sum of Squared Difference/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2333. Minimum Sum of Squared Difference/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2333. Minimum Sum of Squared Difference/.idea/sonarlint/issuestore/c/c/cc7b753f568727eee1a611f410e85ecaa3a34e66" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2333. Minimum Sum of Squared Difference/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2333. Minimum Sum of Squared Difference/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2333. Minimum Sum of Squared Difference/.idea/sonarlint/securityhotspotstore/c/c/cc7b753f568727eee1a611f410e85ecaa3a34e66" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2333. Minimum Sum of Squared Difference/.idea/sonarlint/securityhotspotstore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2333. Minimum Sum of Squared Difference/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2333. Minimum Sum of Squared Difference/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2333. Minimum Sum of Squared Difference/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2333. Minimum Sum of Squared Difference/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2333. Minimum Sum of Squared Difference/main2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2404. Most Frequent Even Element/.idea/2404. Most Frequent Even Element.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2404. Most Frequent Even Element/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2404. Most Frequent Even Element/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2404. Most Frequent Even Element/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2404. Most Frequent Even Element/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2404. Most Frequent Even Element/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2404. Most Frequent Even Element/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2404. Most Frequent Even Element/.idea/sonarlint/securityhotspotstore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2404. Most Frequent Even Element/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2404. Most Frequent Even Element/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2404. Most Frequent Even Element/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2404. Most Frequent Even Element/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../1001~1500/1049. Last Stone Weight II/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../1001~1500/1049. Last Stone Weight II/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../1001~1500/1049. Last Stone Weight II/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../1001~1500/1049. Last Stone Weight II/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../1001~1500/1049. Last Stone Weight II/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../1001~1500/1049. Last Stone Weight II/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../1001~1500/1049. Last Stone Weight II/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../1001~1500/1049. Last Stone Weight II/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2501~3000/2780. Minimum Index of a Valid Split/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2501~3000/2780. Minimum Index of a Valid Split/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -135,21 +30,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/ryanpionee2/Github/Leetcode/0001~0500/0229. Majority Element II",
-    "node.js.detected.package.eslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/ryanpionee2/Github/Leetcode/0001~0500/0229. Majority Element II&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="0229. Majority Element II" />
@@ -183,6 +78,7 @@
       <option name="presentableId" value="Default" />
       <updated>1690364652187</updated>
       <workItem from="1690364654870" duration="940000" />
+      <workItem from="1690368781782" duration="1209000" />
     </task>
     <servers />
   </component>
