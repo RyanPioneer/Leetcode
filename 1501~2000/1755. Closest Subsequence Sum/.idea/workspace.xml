@@ -1,12 +1,149 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9ed5ede9-0a57-42c3-a073-bb69086f2ccf" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0803. Bricks Falling When Hit/.idea/0803. Bricks Falling When Hit.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0803. Bricks Falling When Hit/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0803. Bricks Falling When Hit/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0803. Bricks Falling When Hit/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0803. Bricks Falling When Hit/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0803. Bricks Falling When Hit/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0803. Bricks Falling When Hit/.idea/sonarlint/securityhotspotstore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0803. Bricks Falling When Hit/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0852. Peak Index in a Mountain Array/.idea/0852. Peak Index in a Mountain Array.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0852. Peak Index in a Mountain Array/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0852. Peak Index in a Mountain Array/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0852. Peak Index in a Mountain Array/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0852. Peak Index in a Mountain Array/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0852. Peak Index in a Mountain Array/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0852. Peak Index in a Mountain Array/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0852. Peak Index in a Mountain Array/.idea/sonarlint/securityhotspotstore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0852. Peak Index in a Mountain Array/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0852. Peak Index in a Mountain Array/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0852. Peak Index in a Mountain Array/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0852. Peak Index in a Mountain Array/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1368. Minimum Cost to Make at Least One Valid Path in a Grid/.idea/1368. Minimum Cost to Make at Least One Valid Path in a Grid.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1368. Minimum Cost to Make at Least One Valid Path in a Grid/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1368. Minimum Cost to Make at Least One Valid Path in a Grid/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1368. Minimum Cost to Make at Least One Valid Path in a Grid/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1368. Minimum Cost to Make at Least One Valid Path in a Grid/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1368. Minimum Cost to Make at Least One Valid Path in a Grid/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1368. Minimum Cost to Make at Least One Valid Path in a Grid/.idea/sonarlint/securityhotspotstore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1368. Minimum Cost to Make at Least One Valid Path in a Grid/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2035. Partition Array Into Two Arrays to Minimize Sum Difference/.idea/sonarlint/issuestore/c/c/cc7b753f568727eee1a611f410e85ecaa3a34e66" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2035. Partition Array Into Two Arrays to Minimize Sum Difference/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2035. Partition Array Into Two Arrays to Minimize Sum Difference/.idea/sonarlint/securityhotspotstore/c/c/cc7b753f568727eee1a611f410e85ecaa3a34e66" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2035. Partition Array Into Two Arrays to Minimize Sum Difference/.idea/sonarlint/securityhotspotstore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2163. Minimum Difference in Sums After Removal of Elements/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2163. Minimum Difference in Sums After Removal of Elements/.idea/2163. Minimum Difference in Sums After Removal of Elements.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2163. Minimum Difference in Sums After Removal of Elements/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2163. Minimum Difference in Sums After Removal of Elements/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2163. Minimum Difference in Sums After Removal of Elements/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2163. Minimum Difference in Sums After Removal of Elements/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2163. Minimum Difference in Sums After Removal of Elements/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2163. Minimum Difference in Sums After Removal of Elements/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2163. Minimum Difference in Sums After Removal of Elements/.idea/sonarlint/securityhotspotstore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2163. Minimum Difference in Sums After Removal of Elements/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2163. Minimum Difference in Sums After Removal of Elements/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2163. Minimum Difference in Sums After Removal of Elements/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2163. Minimum Difference in Sums After Removal of Elements/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2501~3000/2646. Minimize the Total Price of the Trips/.idea/2646. Minimize the Total Price of the Trips.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2501~3000/2646. Minimize the Total Price of the Trips/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2501~3000/2646. Minimize the Total Price of the Trips/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2501~3000/2646. Minimize the Total Price of the Trips/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2501~3000/2646. Minimize the Total Price of the Trips/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2501~3000/2646. Minimize the Total Price of the Trips/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2501~3000/2646. Minimize the Total Price of the Trips/.idea/sonarlint/securityhotspotstore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2501~3000/2646. Minimize the Total Price of the Trips/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0501~1000/0803. Bricks Falling When Hit/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../0501~1000/0803. Bricks Falling When Hit/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0501~1000/0803. Bricks Falling When Hit/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../0501~1000/0803. Bricks Falling When Hit/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0501~1000/0803. Bricks Falling When Hit/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../0501~1000/0803. Bricks Falling When Hit/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0501~1000/0803. Bricks Falling When Hit/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../0501~1000/0803. Bricks Falling When Hit/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1001~1500/1368. Minimum Cost to Make at Least One Valid Path in a Grid/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../1001~1500/1368. Minimum Cost to Make at Least One Valid Path in a Grid/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1001~1500/1368. Minimum Cost to Make at Least One Valid Path in a Grid/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../1001~1500/1368. Minimum Cost to Make at Least One Valid Path in a Grid/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1001~1500/1368. Minimum Cost to Make at Least One Valid Path in a Grid/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../1001~1500/1368. Minimum Cost to Make at Least One Valid Path in a Grid/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2001~2500/2035. Partition Array Into Two Arrays to Minimize Sum Difference/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../2001~2500/2035. Partition Array Into Two Arrays to Minimize Sum Difference/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2001~2500/2035. Partition Array Into Two Arrays to Minimize Sum Difference/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../2001~2500/2035. Partition Array Into Two Arrays to Minimize Sum Difference/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2001~2500/2035. Partition Array Into Two Arrays to Minimize Sum Difference/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../2001~2500/2035. Partition Array Into Two Arrays to Minimize Sum Difference/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2001~2500/2035. Partition Array Into Two Arrays to Minimize Sum Difference/main2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../2001~2500/2035. Partition Array Into Two Arrays to Minimize Sum Difference/main2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2001~2500/2179. Count Good Triplets in an Array/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../2001~2500/2179. Count Good Triplets in an Array/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2501~3000/2646. Minimize the Total Price of the Trips/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../2501~3000/2646. Minimize the Total Price of the Trips/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2501~3000/2646. Minimize the Total Price of the Trips/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../2501~3000/2646. Minimize the Total Price of the Trips/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2501~3000/2646. Minimize the Total Price of the Trips/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../2501~3000/2646. Minimize the Total Price of the Trips/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2501~3000/2646. Minimize the Total Price of the Trips/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../2501~3000/2646. Minimize the Total Price of the Trips/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2T3WFL09GOOYL3ynlzLo39Sa9t8" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/ryanpionee2/Github/Leetcode/1501~2000/1755. Closest Subsequence Sum",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="1755. Closest Subsequence Sum" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9ed5ede9-0a57-42c3-a073-bb69086f2ccf" name="Changes" comment="" />
+      <created>1690272139944</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1690272139944</updated>
+      <workItem from="1690272141787" duration="1628000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
 </project>

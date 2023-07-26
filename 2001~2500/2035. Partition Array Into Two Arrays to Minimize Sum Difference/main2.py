@@ -1,10 +1,10 @@
 """
 Source: https://rb.gy/ozvjm
-Date: 2023/7/24
+Date: 2023/7/25
 Skill:
 Ref:
-Runtime: 2382 ms, faster than 5.01%
-Memory Usage: 17.05 MB, less than 62.56%
+Runtime: 8766 ms, faster than 7.75%
+Memory Usage: 17.7 MB, less than 77.52%
 Time complexity:
 Space complexity:
 Constraints:
@@ -22,42 +22,34 @@ from bisect import bisect_left, bisect_right
 
 class Solution:
     def minimumDifference(self, nums: List[int]) -> int:
-        sz, length = 0, len(nums)
-        for num in nums:
-            sz += abs(num)
-        dp = [[-2 for _ in range(2 * sz + 1)] for _ in range(length)]
-        res = [[[] for _ in range(2 * sz + 1)] for _ in range(length)]
-        dp[0][sz + nums[0]] = 1
-        res[0][sz + nums[0]] = [nums[0]]
-        dp[0][sz - nums[0]] = -1
-        res[0][sz - nums[0]] = [-nums[0]]
-        for i in range(length - 1):
-            height = nums[i + 1]
-            for j in range(-sz, sz + 1):
-                if j + height <= sz and dp[i][j + sz] != -2:
-                    num = 1
-                    if dp[i][j + sz] == -1 or dp[i][j + sz] == 2:
-                        num = 2
-                    if num >= dp[i + 1][j + height + sz]:
-                        res[i + 1][j + height + sz] = res[i][j + sz].copy()
-                        res[i + 1][j + height + sz].append(height)
-                    dp[i + 1][j + height + sz] = max(dp[i + 1][j + height + sz], num)
-                if j - height >= -sz and dp[i][j + sz] != -2:
-                    num = -1
-                    if dp[i][j + sz] == 1 or dp[i][j + sz] == 2:
-                        num = 2
-                    if num >= dp[i + 1][j - height + sz]:
-                        res[i + 1][j - height + sz] = res[i][j + sz].copy()
-                        res[i + 1][j - height + sz].append(-height)
-                    dp[i + 1][j - height + sz] = max(dp[i + 1][j - height + sz], num)
+        length, res, total = len(nums), sys.maxsize, sum(nums)
+        second_nums = [[] for _ in range(length // 2 + 1)]
+        for i in range(1 << (length // 2)):
+            cnt, num = 0, 0
+            for j in range(length // 2):
+                if i & (1 << j):
+                    cnt += 1
+                    num += nums[length // 2 + j]
+            second_nums[cnt].append(num)
 
-        for i in range(sz + 1):
-            if dp[-1][sz + i] == 2:
-                print(res[-1][sz + i])
-                return i
-            if dp[-1][sz - i] == 2:
-                print(res[-1][sz - i])
-                return i
+        for i in range(len(second_nums)):
+            second_nums[i].sort()
+        for i in range(1 << (length // 2)):
+            cnt, num = 0, 0
+            for j in range(length // 2):
+                if i & (1 << j):
+                    cnt += 1
+                    num += nums[j]
+            pos = bisect_left(second_nums[length // 2 - cnt], total // 2 - num)
+            if pos < len(second_nums[length // 2 - cnt]):
+                res = min(res, abs((num + second_nums[length // 2 - cnt][pos]) * 2 - total))
+            pos -= 1
+            if pos >= 0:
+                res = min(res, abs((num + second_nums[length // 2 - cnt][pos]) * 2 - total))
+            if res == 0:
+                return res
+
+        return res
 
 
 if __name__ == "__main__":

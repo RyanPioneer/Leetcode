@@ -1,7 +1,7 @@
 """
 Source: https://rb.gy/1bf9l
-Date: 2023/7/24
-Skill:
+Date: 2023/7/25
+Skill: Binary Indexed Tree
 Ref:
 Runtime: 1432 ms, faster than 72.23%
 Memory Usage: 29.7 MB, less than 19.71%
