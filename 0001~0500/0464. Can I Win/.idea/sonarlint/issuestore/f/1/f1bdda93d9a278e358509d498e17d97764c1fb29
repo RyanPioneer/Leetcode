@@ -1,0 +1,5 @@
+
+{python:S117"XRename this parameter "desiredTotal" to match the regular expression ^[_a-z][a-z0-9_]*$.(Õšµ»ùÿÿÿÿ8åöªû™1
+‚python:S117"_Rename this parameter "maxChoosableInteger" to match the regular expression ^[_a-z][a-z0-9_]*$.(Õšµ»ùÿÿÿÿ8åöªû™1
+npython:S100"KRename method "canIWin" to match the regular expression ^[a-z_][a-z0-9_]*$.(Õšµ»ùÿÿÿÿ8åöªû™1
+xpython:S3776"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(Õšµ»ùÿÿÿÿ8æöªû™1

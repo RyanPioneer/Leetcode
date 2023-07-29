@@ -1,6 +1,6 @@
 """
-Source: https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/
-Date: 2023/4/20
+Source: https://rb.gy/3v7p2
+Date: 2023/7/29
 Skill:
 Ref:
 Runtime: 8161 ms, faster than 45.77%
