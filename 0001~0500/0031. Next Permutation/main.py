@@ -29,7 +29,8 @@ class Solution:
         while idx - 1 >= 0 and nums[idx] <= nums[idx - 1]:
             idx -= 1
         if idx == 0:
-            return nums.sort()
+            nums.sort()
+            return
         idx -= 1
         while nums[idx2] <= nums[idx]:
             idx2 -= 1
