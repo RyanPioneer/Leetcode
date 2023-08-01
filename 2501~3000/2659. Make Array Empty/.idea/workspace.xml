@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1f36e29e-be1e-4391-b1c2-8c1b6f4dfc7b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0712. Minimum ASCII Delete Sum for Two Strings/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0712. Minimum ASCII Delete Sum for Two Strings/.idea/0712. Minimum ASCII Delete Sum for Two Strings.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0712. Minimum ASCII Delete Sum for Two Strings/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0712. Minimum ASCII Delete Sum for Two Strings/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0712. Minimum ASCII Delete Sum for Two Strings/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0712. Minimum ASCII Delete Sum for Two Strings/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0712. Minimum ASCII Delete Sum for Two Strings/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0712. Minimum ASCII Delete Sum for Two Strings/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0712. Minimum ASCII Delete Sum for Two Strings/.idea/sonarlint/securityhotspotstore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0712. Minimum ASCII Delete Sum for Two Strings/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0712. Minimum ASCII Delete Sum for Two Strings/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0712. Minimum ASCII Delete Sum for Two Strings/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0712. Minimum ASCII Delete Sum for Two Strings/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1281. Subtract the Product and Sum of Digits of an Integer/.idea/1281. Subtract the Product and Sum of Digits of an Integer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1281. Subtract the Product and Sum of Digits of an Integer/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1281. Subtract the Product and Sum of Digits of an Integer/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1281. Subtract the Product and Sum of Digits of an Integer/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1281. Subtract the Product and Sum of Digits of an Integer/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1281. Subtract the Product and Sum of Digits of an Integer/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1281. Subtract the Product and Sum of Digits of an Integer/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1281. Subtract the Product and Sum of Digits of an Integer/.idea/sonarlint/securityhotspotstore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1281. Subtract the Product and Sum of Digits of an Integer/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1281. Subtract the Product and Sum of Digits of an Integer/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1281. Subtract the Product and Sum of Digits of an Integer/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1281. Subtract the Product and Sum of Digits of an Integer/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1282. Group the People Given the Group Size They Belong To/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1282. Group the People Given the Group Size They Belong To/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1282. Group the People Given the Group Size They Belong To/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1282. Group the People Given the Group Size They Belong To/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1282. Group the People Given the Group Size They Belong To/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1282. Group the People Given the Group Size They Belong To/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1282. Group the People Given the Group Size They Belong To/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1282. Group the People Given the Group Size They Belong To/.idea/sonarlint/securityhotspotstore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1282. Group the People Given the Group Size They Belong To/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1282. Group the People Given the Group Size They Belong To/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1282. Group the People Given the Group Size They Belong To/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1282. Group the People Given the Group Size They Belong To/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1315. Sum of Nodes with Even-Valued Grandparent/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1315. Sum of Nodes with Even-Valued Grandparent/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1315. Sum of Nodes with Even-Valued Grandparent/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1315. Sum of Nodes with Even-Valued Grandparent/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1315. Sum of Nodes with Even-Valued Grandparent/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1315. Sum of Nodes with Even-Valued Grandparent/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1315. Sum of Nodes with Even-Valued Grandparent/.idea/sonarlint/securityhotspotstore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1315. Sum of Nodes with Even-Valued Grandparent/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1315. Sum of Nodes with Even-Valued Grandparent/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1315. Sum of Nodes with Even-Valued Grandparent/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1315. Sum of Nodes with Even-Valued Grandparent/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1409. Queries on a Permutation With Key/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1409. Queries on a Permutation With Key/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1409. Queries on a Permutation With Key/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1409. Queries on a Permutation With Key/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1409. Queries on a Permutation With Key/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2367. Number of Arithmetic Triplets/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2367. Number of Arithmetic Triplets/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2367. Number of Arithmetic Triplets/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2367. Number of Arithmetic Triplets/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2367. Number of Arithmetic Triplets/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2367. Number of Arithmetic Triplets/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2367. Number of Arithmetic Triplets/.idea/sonarlint/securityhotspotstore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2367. Number of Arithmetic Triplets/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2367. Number of Arithmetic Triplets/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2367. Number of Arithmetic Triplets/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2367. Number of Arithmetic Triplets/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2565. Subsequence With the Minimum Score/.idea/2565. Subsequence With the Minimum Score.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2565. Subsequence With the Minimum Score/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2565. Subsequence With the Minimum Score/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2565. Subsequence With the Minimum Score/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2565. Subsequence With the Minimum Score/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2565. Subsequence With the Minimum Score/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2565. Subsequence With the Minimum Score/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2565. Subsequence With the Minimum Score/.idea/sonarlint/securityhotspotstore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2565. Subsequence With the Minimum Score/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2565. Subsequence With the Minimum Score/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2565. Subsequence With the Minimum Score/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2565. Subsequence With the Minimum Score/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2574. Left and Right Sum Differences/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2574. Left and Right Sum Differences/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2574. Left and Right Sum Differences/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2574. Left and Right Sum Differences/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2574. Left and Right Sum Differences/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2574. Left and Right Sum Differences/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2574. Left and Right Sum Differences/.idea/sonarlint/securityhotspotstore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2574. Left and Right Sum Differences/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2574. Left and Right Sum Differences/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2574. Left and Right Sum Differences/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2574. Left and Right Sum Differences/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2662. Minimum Cost of a Path With Special Roads/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2662. Minimum Cost of a Path With Special Roads/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2662. Minimum Cost of a Path With Special Roads/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2662. Minimum Cost of a Path With Special Roads/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2699. Modify Graph Edge Weights/.idea/2699. Modify Graph Edge Weights.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2699. Modify Graph Edge Weights/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2699. Modify Graph Edge Weights/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2699. Modify Graph Edge Weights/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2699. Modify Graph Edge Weights/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2699. Modify Graph Edge Weights/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2699. Modify Graph Edge Weights/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2699. Modify Graph Edge Weights/.idea/sonarlint/securityhotspotstore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2699. Modify Graph Edge Weights/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2699. Modify Graph Edge Weights/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2699. Modify Graph Edge Weights/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2699. Modify Graph Edge Weights/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2718. Sum of Matrix After Queries/.idea/2718. Sum of Matrix After Queries.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2718. Sum of Matrix After Queries/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2718. Sum of Matrix After Queries/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2718. Sum of Matrix After Queries/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2718. Sum of Matrix After Queries/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2718. Sum of Matrix After Queries/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2718. Sum of Matrix After Queries/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2718. Sum of Matrix After Queries/.idea/sonarlint/securityhotspotstore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2718. Sum of Matrix After Queries/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2718. Sum of Matrix After Queries/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2718. Sum of Matrix After Queries/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2718. Sum of Matrix After Queries/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2736. Maximum Sum Queries/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2736. Maximum Sum Queries/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2736. Maximum Sum Queries/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2736. Maximum Sum Queries/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2800. Shortest String That Contains Three Strings/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2800. Shortest String That Contains Three Strings/.idea/sonarlint/securityhotspotstore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2801. Count Stepping Numbers in Range/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2801. Count Stepping Numbers in Range/.idea/sonarlint/securityhotspotstore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2800. Shortest String That Contains Three Strings/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../2800. Shortest String That Contains Three Strings/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2800. Shortest String That Contains Three Strings/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../2800. Shortest String That Contains Three Strings/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2800. Shortest String That Contains Three Strings/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../2800. Shortest String That Contains Three Strings/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2801. Count Stepping Numbers in Range/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../2801. Count Stepping Numbers in Range/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2801. Count Stepping Numbers in Range/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../2801. Count Stepping Numbers in Range/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2801. Count Stepping Numbers in Range/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../2801. Count Stepping Numbers in Range/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2801. Count Stepping Numbers in Range/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../2801. Count Stepping Numbers in Range/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2TL0OdDVXN5dK5Yn5iRY6hpPkch" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/ryanpionee2/Github/Leetcode/2501~3000/2659. Make Array Empty&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="2659. Make Array Empty" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1f36e29e-be1e-4391-b1c2-8c1b6f4dfc7b" name="Changes" comment="" />
+      <created>1690807023736</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1690807023736</updated>
+      <workItem from="1690807031595" duration="2671000" />
+      <workItem from="1690851083409" duration="2038000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

@@ -22,7 +22,7 @@ from bisect import bisect_left, bisect_right
 
 class Solution:
     def countSteppingNumbers(self, low: str, high: str) -> int:
-        sz1, sz2, MOD = len(high), len(low), 10 ** 9 + 7
+        sz1, MOD = len(high), 10 ** 9 + 7
         dp = [[0 for _ in range(10)] for _ in range(sz1)]
         for i in range(10):
             dp[0][i] = 1
