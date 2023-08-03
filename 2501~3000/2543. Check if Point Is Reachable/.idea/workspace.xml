@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3c1b254d-7237-4014-8d86-6164a8d50f7c" name="Changes" comment="">
+    <list default="true" id="50f0e96b-802a-4aaf-a00a-1babda87f722" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/../../0501~1000/0689. Maximum Sum of 3 Non-Overlapping Subarrays/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../0501~1000/0689. Maximum Sum of 3 Non-Overlapping Subarrays/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../0501~1000/0689. Maximum Sum of 3 Non-Overlapping Subarrays/.idea/workspace.xml" afterDir="false" />
@@ -20,30 +20,30 @@
       <change afterPath="$PROJECT_DIR$/../../0501~1000/0780. Reaching Points/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../0501~1000/0780. Reaching Points/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../0501~1000/0780. Reaching Points/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2501~3000/2527. Find Xor-Beauty of Array/.idea/2527. Find Xor-Beauty of Array.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2501~3000/2527. Find Xor-Beauty of Array/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2501~3000/2527. Find Xor-Beauty of Array/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2501~3000/2527. Find Xor-Beauty of Array/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2501~3000/2527. Find Xor-Beauty of Array/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2501~3000/2527. Find Xor-Beauty of Array/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2501~3000/2527. Find Xor-Beauty of Array/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2501~3000/2527. Find Xor-Beauty of Array/.idea/sonarlint/securityhotspotstore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2501~3000/2527. Find Xor-Beauty of Array/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2501~3000/2527. Find Xor-Beauty of Array/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2501~3000/2527. Find Xor-Beauty of Array/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2501~3000/2527. Find Xor-Beauty of Array/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2501~3000/2538. Difference Between Maximum and Minimum Price Sum/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2501~3000/2538. Difference Between Maximum and Minimum Price Sum/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2501~3000/2538. Difference Between Maximum and Minimum Price Sum/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2501~3000/2538. Difference Between Maximum and Minimum Price Sum/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2501~3000/2543. Check if Point Is Reachable/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2501~3000/2543. Check if Point Is Reachable/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2501~3000/2543. Check if Point Is Reachable/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2501~3000/2543. Check if Point Is Reachable/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2527. Find Xor-Beauty of Array/.idea/2527. Find Xor-Beauty of Array.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2527. Find Xor-Beauty of Array/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2527. Find Xor-Beauty of Array/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2527. Find Xor-Beauty of Array/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2527. Find Xor-Beauty of Array/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2527. Find Xor-Beauty of Array/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2527. Find Xor-Beauty of Array/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2527. Find Xor-Beauty of Array/.idea/sonarlint/securityhotspotstore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2527. Find Xor-Beauty of Array/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2527. Find Xor-Beauty of Array/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2527. Find Xor-Beauty of Array/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2527. Find Xor-Beauty of Array/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2538. Difference Between Maximum and Minimum Price Sum/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2538. Difference Between Maximum and Minimum Price Sum/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2538. Difference Between Maximum and Minimum Price Sum/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2538. Difference Between Maximum and Minimum Price Sum/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../0001~0500/0044. Wildcard Matching/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" beforeDir="false" afterPath="$PROJECT_DIR$/../../0001~0500/0044. Wildcard Matching/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../0001~0500/0044. Wildcard Matching/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../0001~0500/0044. Wildcard Matching/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../0001~0500/0044. Wildcard Matching/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../0001~0500/0044. Wildcard Matching/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2001~2500/2430. Maximum Deletions on a String/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../2001~2500/2430. Maximum Deletions on a String/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,9 +54,10 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
+  "customColor": "",
+  "associatedIndex": -1
 }]]></component>
-  <component name="ProjectId" id="2TQhCNXDG2UBDsYQCFTU9CM3yvM" />
+  <component name="ProjectId" id="2TSRoCGmm3uOs7fQioxPSDlxMAG" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -66,14 +67,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/ryanpionee2/Github/Leetcode/2001~2500/2430. Maximum Deletions on a String",
+    "last_opened_file_path": "/Users/ryanpionee2/Github/Leetcode/2501~3000/2543. Check if Point Is Reachable",
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "settings.editor.selected.configurable": "preferences.pluginManager"
@@ -81,7 +79,7 @@
 }]]></component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
-      <module name="2430. Maximum Deletions on a String" />
+      <module name="2543. Check if Point Is Reachable" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -106,19 +104,16 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="3c1b254d-7237-4014-8d86-6164a8d50f7c" name="Changes" comment="" />
-      <created>1690981083559</created>
+      <changelist id="50f0e96b-802a-4aaf-a00a-1babda87f722" name="Changes" comment="" />
+      <created>1691034667833</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1690981083559</updated>
-      <workItem from="1690981085464" duration="6455000" />
+      <updated>1691034667833</updated>
+      <workItem from="1691034670071" duration="780000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
