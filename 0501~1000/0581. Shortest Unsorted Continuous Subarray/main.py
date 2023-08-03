@@ -1,5 +1,5 @@
 """
-Source: https://rb.gy/tm3mx
+Source: https://rb.gy/51y3g
 Date: 2023/8/4
 Skill:
 Ref:
@@ -21,7 +21,7 @@ import functools
 
 
 class Solution:
-    def maxSumOfThreeSubarrays(self, nums: List[int], k: int) -> List[int]:
+    def findUnsortedSubarray(self, nums: List[int]) -> int:
 
 
 

@@ -1,0 +1,6 @@
+
+upython:S117"XRename this parameter "jug1Capacity" to match the regular expression ^[_a-z][a-z0-9_]*$.(�ë8봙ޛ1
+upython:S117"XRename this parameter "jug2Capacity" to match the regular expression ^[_a-z][a-z0-9_]*$.(�ë8봙ޛ1
+wpython:S117"ZRename this parameter "targetCapacity" to match the regular expression ^[_a-z][a-z0-9_]*$.(�ë8봙ޛ1
+ppython:S100"SRename method "canMeasureWater" to match the regular expression ^[a-z_][a-z0-9_]*$.(�ë8봙ޛ1
+rpython:S3776"TRefactor this function to reduce its Cognitive Complexity from 29 to the 15 allowed.(�ë8봙ޛ1
