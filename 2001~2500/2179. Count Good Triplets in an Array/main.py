@@ -1,6 +1,6 @@
 """
 Source: https://rb.gy/1bf9l
-Date: 2023/7/29
+Date: 2023/8/5
 Skill: Binary Indexed Tree
 Ref:
 Runtime: 1432 ms, faster than 72.23%

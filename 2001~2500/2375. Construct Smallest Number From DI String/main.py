@@ -1,10 +1,10 @@
 """
 Source: https://leetcode.com/problems/construct-smallest-number-from-di-string/
-Date: 2023/2/18
+Date: 2023/8/5
 Skill:
 Ref:
-Runtime: 32 ms, faster than 80.72%
-Memory Usage: 13.8 MB, less than 94.46%
+Runtime: 40 ms, faster than 86.01%
+Memory Usage: 16.4 MB, less than 18.53%
 Time complexity:
 Space complexity:
 Constraints:
@@ -23,8 +23,30 @@ import functools
 
 class Solution:
     def smallestNumber(self, pattern: str) -> str:
-        res, num = [], 0
+        pattern = "I" + pattern
+        start, sz, res, idx, hi = 0, len(pattern), "", 0, 0
+        while idx < sz:
+            while idx + 1 < sz and pattern[idx + 1] == "I":
+                start += 1
+                res += chr(ord("0") + start)
+                idx += 1
+            num = 0
+            while idx + 1 < sz and pattern[idx + 1] == "D":
+                num += 1
+                idx += 1
+            start, hi = start + num + 1, start + num + 1
+            res += chr(ord("0") + start)
+            for _ in range(num):
+                start -= 1
+                res += chr(ord("0") + start)
+            start = hi
+            idx += 1
+
+        return res
 
 
 if __name__ == "__main__":
-    s = Solution
+    s = Solution()
+    pattern = "IIIDIDDD"
+    res = s.smallestNumber(pattern)
+    print(res)

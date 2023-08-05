@@ -1,9 +1,9 @@
 """
-Source: https://leetcode.com/problems/rearrange-array-elements-by-sign/
-Date: 2023/3/13
+Source: https://rb.gy/89jvq
+Date: 2023/8/5
 Skill:
-Runtime: 41 ms, faster than 34.65%
-Memory Usage: 13.8 MB, less than 67.72%
+Runtime: 1171 ms, faster than 98.10%
+Memory Usage: 48.02 MB, less than 7.60%
 Time complexity:
 Space complexity:
 Constraints:
@@ -23,26 +23,17 @@ from sortedcontainers import SortedList
 
 class Solution:
     def rearrangeArray(self, nums: List[int]) -> List[int]:
-        pos, neg, cur, sz, flag = 0, 0, 0, len(nums), 1
-        while cur < sz:
-            if flag:
-                if nums[cur] < 0:
-                    pos = max(pos, cur + 1)
-                    while nums[pos] < 0:
-                        pos += 1
-                    nums[cur], nums[pos] = nums[pos], nums[cur]
+        res, pos, neg = [0 for _ in range(len(nums))], 0, 1
+        for num in nums:
+            if num > 0:
+                res[pos] = num
+                pos += 2
             else:
-                if nums[cur] > 0:
-                    neg = max(neg, cur + 1)
-                    while nums[neg] > 0:
-                        neg += 1
-                    nums[cur], nums[neg] = nums[neg], nums[cur]
+                res[neg] = num
+                neg += 2
 
-            cur += 1
-            flag = (flag + 1) % 2
+        return res
 
-        return nums
-        
 
 if __name__ == "__main__":
     s = Solution()

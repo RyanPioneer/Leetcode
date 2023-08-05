@@ -1,9 +1,9 @@
 """
-Source: https://leetcode.com/problems/partition-array-according-to-given-pivot/
-Date: 2023/3/13
+Source: https://rb.gy/c17vb
+Date: 2023/8/5
 Skill:
-Runtime: 41 ms, faster than 34.65%
-Memory Usage: 13.8 MB, less than 67.72%
+Runtime: 1181 ms, faster than 89.49%
+Memory Usage: 34.04 MB, less than 10.65%
 Time complexity:
 Space complexity:
 Constraints:
@@ -23,7 +23,25 @@ from sortedcontainers import SortedList
 
 class Solution:
     def pivotArray(self, nums: List[int], pivot: int) -> List[int]:
-        left, cur, sz = 0, 0, len(nums)
+        less_num, equal_num, sz = 0, 0, len(nums)
+        for i in range(sz):
+            if nums[i] < pivot:
+                less_num += 1
+            elif nums[i] == pivot:
+                equal_num += 1
+
+        idx1, idx2, idx3, res = 0, less_num, less_num + equal_num, [0 for _ in range(sz)]
+        for num in nums:
+            if num < pivot:
+                res[idx1] = num
+                idx1 += 1
+            elif num == pivot:
+                res[idx2] = num
+                idx2 += 1
+            else:
+                res[idx3] = num
+                idx3 += 1
+        return res
 
 
 if __name__ == "__main__":

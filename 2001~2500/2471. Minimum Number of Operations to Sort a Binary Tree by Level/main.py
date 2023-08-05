@@ -1,10 +1,10 @@
 """
-Source: https://leetcode.com/problems/minimum-number-of-operations-to-sort-a-binary-tree-by-level/
-Date: 2023/4/8
+Source: https://rb.gy/myox8
+Date: 2023/8/4
 Skill: index sort
 Ref:
-Runtime: 32 ms, faster than 94.54%
-Memory Usage: 14.3 MB, less than 65.43%
+Runtime: 536 ms, faster than 99.03%
+Memory Usage: 56.76 MB, less than 76.70%
 Time complexity:
 Space complexity:
 Constraints:
@@ -30,7 +30,28 @@ class TreeNode:
 
 class Solution:
     def minimumOperations(self, root: Optional[TreeNode]) -> int:
+        q, res = deque([root]), 0
+        while q:
+            num = len(q)
+            arr = []
+            for _ in range(num):
+                node = q.popleft()
+                arr.append(node.val)
+                if node.left:
+                    q.append(node.left)
+                if node.right:
+                    q.append(node.right)
 
+            arr_sorted, num2idx = sorted(arr), defaultdict(int)
+            for i in range(num):
+                num2idx[arr_sorted[i]] = i
+            for i in range(num):
+                while num2idx[arr[i]] != i:
+                    idx = num2idx[arr[i]]
+                    arr[i], arr[idx] = arr[idx], arr[i]
+                    res += 1
+
+        return res
 
 
 if __name__ == "__main__":
