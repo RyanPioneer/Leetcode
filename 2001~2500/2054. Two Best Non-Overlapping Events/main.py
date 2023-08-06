@@ -1,10 +1,10 @@
 """
 Source: https://rb.gy/8s843
-Date: 2023/8/5
+Date: 2023/8/6
 Skill:
 Ref:
-Runtime: 1432 ms, faster than 72.23%
-Memory Usage: 29.7 MB, less than 19.71%
+Runtime: 1461 ms, faster than 100.00%
+Memory Usage: 59.38 MB, less than 93.83%
 Time complexity:
 Space complexity:
 Constraints:
@@ -23,18 +23,19 @@ from bisect import bisect_left, bisect_right
 class Solution:
     def maxTwoEvents(self, events: List[List[int]]) -> int:
         events.sort(key=lambda x: x[1])
-        sz, res, idx, q = len(events), events[0][2], 0, deque()
+        sz, res, prev = len(events), events[0][2], [[events[0][1]], [events[0][2]]]
         for i in range(1, sz):
-            while q and events[i][0] > events[q[0]][1]:
-                idx = q.popleft()
-            if events[i][0] > events[idx][1]:
-                res = max(res, events[i][2] + events[idx][2])
+            pos = bisect_left(prev[0], events[i][0])
+            if pos > 0:
+                res = max(res, events[i][2] + prev[1][pos - 1])
             else:
                 res = max(res, events[i][2])
-            if events[i][2] > events[idx][2]:
-                if not q or events[i][2] > events[q[-1]][2]:
-                    q.append(i)
-
+            if events[i][2] > prev[1][-1]:
+                while prev[0] and events[i][1] == prev[0][-1]:
+                    prev[1].pop()
+                    prev[0].pop()
+                prev[0].append(events[i][1])
+                prev[1].append(events[i][2])
         return res
 
 
