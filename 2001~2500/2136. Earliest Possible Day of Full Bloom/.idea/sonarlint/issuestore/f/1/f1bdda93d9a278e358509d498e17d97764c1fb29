@@ -1,0 +1,4 @@
+
+qpython:S117"TRename this parameter "growTime" to match the regular expression ^[_a-z][a-z0-9_]*$.(ƒ¦îI8ìñÔùœ1
+rpython:S117"URename this parameter "plantTime" to match the regular expression ^[_a-z][a-z0-9_]*$.(ƒ¦îI8ìñÔùœ1
+rpython:S100"URename method "earliestFullBloom" to match the regular expression ^[a-z_][a-z0-9_]*$.(ƒ¦îI8íñÔùœ1

@@ -1,6 +1,6 @@
 """
 Source: https://rb.gy/7gyp1
-Date: 2023/8/6
+Date: 2023/8/7
 Skill:
 Ref:
 Runtime: 38 ms, faster than 97.06%
@@ -20,8 +20,16 @@ import functools
 from bisect import bisect_left, bisect_right
 
 
+class Node:
+    def __init__(self, c):
+        self.c = c
+        self.next = defaultdict(Node)
+
+
 class Solution:
     def deleteDuplicateFolder(self, paths: List[List[str]]) -> List[List[str]]:
+
+
 
 
 if __name__ == "__main__":

@@ -1,0 +1,3 @@
+
+python:S5886#"kReturn a value of type "list[int]" instead of "reversed" or update function "canSeePersonsCount" type hint.(ϊ†‡8€Ιδυ1
+tpython:S100"VRename method "canSeePersonsCount" to match the regular expression ^[a-z_][a-z0-9_]*$.(Ι‹Ω8Ιδυ1

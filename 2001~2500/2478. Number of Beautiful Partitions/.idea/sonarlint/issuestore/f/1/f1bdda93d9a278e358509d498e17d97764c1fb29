@@ -1,0 +1,4 @@
+
+xpython:S117"URename this parameter "minLength" to match the regular expression ^[_a-z][a-z0-9_]*$.(น้มสÿÿÿÿÿ8งฤ๓1
+zpython:S100"WRename method "beautifulPartitions" to match the regular expression ^[a-z_][a-z0-9_]*$.(น้มสÿÿÿÿÿ8จฤ๓1
+xpython:S3776"TRefactor this function to reduce its Cognitive Complexity from 24 to the 15 allowed.(น้มสÿÿÿÿÿ8จฤ๓1
