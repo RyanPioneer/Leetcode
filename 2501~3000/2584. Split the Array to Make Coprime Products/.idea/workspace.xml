@@ -5,21 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ccbb52dd-bec2-4a89-a1c1-fa76cc6fc1c6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0046. Permutations/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0046. Permutations/.idea/0046. Permutations.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0046. Permutations/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0046. Permutations/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0046. Permutations/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0046. Permutations/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0046. Permutations/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0046. Permutations/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0046. Permutations/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0046. Permutations/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2588. Count the Number of Beautiful Subarrays/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2588. Count the Number of Beautiful Subarrays/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2588. Count the Number of Beautiful Subarrays/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2588. Count the Number of Beautiful Subarrays/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2577. Minimum Time to Visit a Cell In a Grid/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../2577. Minimum Time to Visit a Cell In a Grid/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1501~2000/1948. Delete Duplicate Folders in System/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1501~2000/1948. Delete Duplicate Folders in System/.idea/sonarlint/securityhotspotstore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2076. Process Restricted Friend Requests/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2076. Process Restricted Friend Requests/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2076. Process Restricted Friend Requests/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2076. Process Restricted Friend Requests/.idea/sonarlint/securityhotspotstore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2076. Process Restricted Friend Requests/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2076. Process Restricted Friend Requests/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2076. Process Restricted Friend Requests/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1001~1500/1255. Maximum Score Words Formed by Letters/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../1001~1500/1255. Maximum Score Words Formed by Letters/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1501~2000/1948. Delete Duplicate Folders in System/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../1501~2000/1948. Delete Duplicate Folders in System/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1501~2000/1948. Delete Duplicate Folders in System/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../1501~2000/1948. Delete Duplicate Folders in System/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1501~2000/1948. Delete Duplicate Folders in System/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../1501~2000/1948. Delete Duplicate Folders in System/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1501~2000/1948. Delete Duplicate Folders in System/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../1501~2000/1948. Delete Duplicate Folders in System/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2001~2500/2127. Maximum Employees to Be Invited to a Meeting/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../2001~2500/2127. Maximum Employees to Be Invited to a Meeting/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -30,9 +34,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2O0pTYkj1QDItyjNqdp37hiQfe8" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -41,19 +45,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/ryanpionee2/Github/Leetcode/2501~3000/2584. Split the Array to Make Coprime Products",
-    "node.js.detected.package.eslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/ryanpionee2/Github/Leetcode/2501~3000/2584. Split the Array to Make Coprime Products&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="2584. Split the Array to Make Coprime Products" />
@@ -92,6 +96,7 @@
       <workItem from="1680711097537" duration="1231000" />
       <workItem from="1680742762895" duration="1203000" />
       <workItem from="1690935566693" duration="624000" />
+      <workItem from="1691454829277" duration="3533000" />
     </task>
     <servers />
   </component>

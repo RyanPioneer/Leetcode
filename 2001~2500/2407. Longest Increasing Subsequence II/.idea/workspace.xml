@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="225bee68-ab15-41bd-a723-e111389c029f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1224. Maximum Equal Frequency/.idea/1224. Maximum Equal Frequency.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1224. Maximum Equal Frequency/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1224. Maximum Equal Frequency/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1224. Maximum Equal Frequency/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1224. Maximum Equal Frequency/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1224. Maximum Equal Frequency/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1224. Maximum Equal Frequency/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1224. Maximum Equal Frequency/.idea/sonarlint/securityhotspotstore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1224. Maximum Equal Frequency/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1224. Maximum Equal Frequency/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1224. Maximum Equal Frequency/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1224. Maximum Equal Frequency/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1501~2000/1948. Delete Duplicate Folders in System/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1501~2000/1948. Delete Duplicate Folders in System/.idea/sonarlint/securityhotspotstore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2076. Process Restricted Friend Requests/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2076. Process Restricted Friend Requests/.idea/2076. Process Restricted Friend Requests.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2076. Process Restricted Friend Requests/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2076. Process Restricted Friend Requests/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2076. Process Restricted Friend Requests/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2076. Process Restricted Friend Requests/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2076. Process Restricted Friend Requests/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2076. Process Restricted Friend Requests/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2076. Process Restricted Friend Requests/.idea/sonarlint/securityhotspotstore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2076. Process Restricted Friend Requests/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2076. Process Restricted Friend Requests/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2076. Process Restricted Friend Requests/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2076. Process Restricted Friend Requests/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Template/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Template/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Template/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Template/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Template/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Template/.idea/sonarlint/issuestore/8/3/832b34b368e444874e629b0a4351cdd00b35c6ae" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Template/.idea/sonarlint/issuestore/e/8/e81b894b6784ce5b441b31af1c7856cca9511db3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Template/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Template/.idea/sonarlint/securityhotspotstore/8/3/832b34b368e444874e629b0a4351cdd00b35c6ae" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Template/.idea/sonarlint/securityhotspotstore/e/8/e81b894b6784ce5b441b31af1c7856cca9511db3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Template/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Template/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Template/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Template/BIT.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Template/segment_tree.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1001~1500/1255. Maximum Score Words Formed by Letters/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../1001~1500/1255. Maximum Score Words Formed by Letters/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1001~1500/1255. Maximum Score Words Formed by Letters/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../1001~1500/1255. Maximum Score Words Formed by Letters/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1001~1500/1255. Maximum Score Words Formed by Letters/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../1001~1500/1255. Maximum Score Words Formed by Letters/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1001~1500/1255. Maximum Score Words Formed by Letters/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../1001~1500/1255. Maximum Score Words Formed by Letters/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1501~2000/1948. Delete Duplicate Folders in System/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../1501~2000/1948. Delete Duplicate Folders in System/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1501~2000/1948. Delete Duplicate Folders in System/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../1501~2000/1948. Delete Duplicate Folders in System/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1501~2000/1948. Delete Duplicate Folders in System/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../1501~2000/1948. Delete Duplicate Folders in System/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1501~2000/1948. Delete Duplicate Folders in System/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../1501~2000/1948. Delete Duplicate Folders in System/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1501~2000/1977. Number of Ways to Separate Numbers/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../1501~2000/1977. Number of Ways to Separate Numbers/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1501~2000/1977. Number of Ways to Separate Numbers/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../1501~2000/1977. Number of Ways to Separate Numbers/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1501~2000/1977. Number of Ways to Separate Numbers/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../1501~2000/1977. Number of Ways to Separate Numbers/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2127. Maximum Employees to Be Invited to a Meeting/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../2127. Maximum Employees to Be Invited to a Meeting/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2127. Maximum Employees to Be Invited to a Meeting/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../2127. Maximum Employees to Be Invited to a Meeting/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2127. Maximum Employees to Be Invited to a Meeting/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../2127. Maximum Employees to Be Invited to a Meeting/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2127. Maximum Employees to Be Invited to a Meeting/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../2127. Maximum Employees to Be Invited to a Meeting/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2501~3000/2584. Split the Array to Make Coprime Products/.idea/2584. Split the Array to Make Coprime Products.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../2501~3000/2584. Split the Array to Make Coprime Products/.idea/2584. Split the Array to Make Coprime Products.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2501~3000/2584. Split the Array to Make Coprime Products/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" beforeDir="false" afterPath="$PROJECT_DIR$/../../2501~3000/2584. Split the Array to Make Coprime Products/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2501~3000/2584. Split the Array to Make Coprime Products/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../2501~3000/2584. Split the Array to Make Coprime Products/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2501~3000/2584. Split the Array to Make Coprime Products/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../2501~3000/2584. Split the Array to Make Coprime Products/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2TgbNyOtbDGrjRwHNYF88nFBLSu" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/ryanpionee2/Github/Leetcode/2001~2500/2407. Longest Increasing Subsequence II&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="2407. Longest Increasing Subsequence II" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="225bee68-ab15-41bd-a723-e111389c029f" name="Changes" comment="" />
+      <created>1691467635523</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1691467635523</updated>
+      <workItem from="1691467639588" duration="4546000" />
+      <workItem from="1691478475684" duration="63000" />
+      <workItem from="1691478550625" duration="308000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
