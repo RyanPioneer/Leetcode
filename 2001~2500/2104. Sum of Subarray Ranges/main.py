@@ -1,6 +1,6 @@
 """
 Source: https://leetcode.com/problems/sum-of-subarray-ranges/
-Date: 2023/2/9
+Date: 2023/8/9
 Skill:
 Runtime: 1383 ms, faster than 49.87%
 Memory Usage: 28.5 MB, less than 42.93%
@@ -22,7 +22,7 @@ import functools
 
 class Solution:
     def subArrayRanges(self, nums: List[int]) -> int:
-
+        
 
 
 

@@ -1,0 +1,4 @@
+
+xpython:S3776H"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(ã¯ÌÇÿÿÿÿÿ8œÌº¾1
+ppython:S100m"RRename method "fallingSquares" to match the regular expression ^[a-z_][a-z0-9_]*$.(´æ„Á8œÌº¾1
+Kpython:S1481w",Replace unused local variable "sz" with "_".(ôë×8æµù¾1

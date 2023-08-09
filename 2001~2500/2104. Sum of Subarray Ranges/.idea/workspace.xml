@@ -5,30 +5,68 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d922b7d4-b6e1-4457-b2b3-5d770a580664" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0092. Reverse Linked List II/.idea/git_toolbox_prj.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0092. Reverse Linked List II/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0123. Best Time to Buy and Sell Stock III/.idea/0123. Best Time to Buy and Sell Stock III.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0123. Best Time to Buy and Sell Stock III/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0123. Best Time to Buy and Sell Stock III/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0123. Best Time to Buy and Sell Stock III/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0123. Best Time to Buy and Sell Stock III/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0123. Best Time to Buy and Sell Stock III/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0123. Best Time to Buy and Sell Stock III/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0123. Best Time to Buy and Sell Stock III/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../0001~0500/0092. Reverse Linked List II/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../0001~0500/0092. Reverse Linked List II/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../0001~0500/0092. Reverse Linked List II/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../0001~0500/0092. Reverse Linked List II/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../1001~1500/1129. Shortest Path with Alternating Colors/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../1001~1500/1129. Shortest Path with Alternating Colors/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../1001~1500/1235. Maximum Profit in Job Scheduling/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../1001~1500/1235. Maximum Profit in Job Scheduling/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0699. Falling Squares/.idea/0699. Falling Squares.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0699. Falling Squares/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0699. Falling Squares/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0699. Falling Squares/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0699. Falling Squares/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0699. Falling Squares/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0699. Falling Squares/.idea/sonarlint/securityhotspotstore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0699. Falling Squares/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1501~2000/1509. Minimum Difference Between Largest and Smallest Value in Three Moves/.idea/1509. Minimum Difference Between Largest and Smallest Value in Three Moves.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1501~2000/1509. Minimum Difference Between Largest and Smallest Value in Three Moves/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1501~2000/1509. Minimum Difference Between Largest and Smallest Value in Three Moves/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1501~2000/1509. Minimum Difference Between Largest and Smallest Value in Three Moves/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1501~2000/1509. Minimum Difference Between Largest and Smallest Value in Three Moves/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1501~2000/1509. Minimum Difference Between Largest and Smallest Value in Three Moves/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1501~2000/1509. Minimum Difference Between Largest and Smallest Value in Three Moves/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1501~2000/1509. Minimum Difference Between Largest and Smallest Value in Three Moves/.idea/sonarlint/securityhotspotstore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1501~2000/1509. Minimum Difference Between Largest and Smallest Value in Three Moves/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1501~2000/1509. Minimum Difference Between Largest and Smallest Value in Three Moves/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1501~2000/1509. Minimum Difference Between Largest and Smallest Value in Three Moves/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1501~2000/1509. Minimum Difference Between Largest and Smallest Value in Three Moves/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2501~3000/2616. Minimize the Maximum Difference of Pairs/.idea/2616. Minimize the Maximum Difference of Pairs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2501~3000/2616. Minimize the Maximum Difference of Pairs/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2501~3000/2616. Minimize the Maximum Difference of Pairs/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2501~3000/2616. Minimize the Maximum Difference of Pairs/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2501~3000/2616. Minimize the Maximum Difference of Pairs/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2501~3000/2616. Minimize the Maximum Difference of Pairs/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2501~3000/2616. Minimize the Maximum Difference of Pairs/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2501~3000/2616. Minimize the Maximum Difference of Pairs/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2501~3000/2616. Minimize the Maximum Difference of Pairs/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2501~3000/2616. Minimize the Maximum Difference of Pairs/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0001~0500/0218. The Skyline Problem/.idea/0218. The Skyline Problem.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../0001~0500/0218. The Skyline Problem/.idea/0218. The Skyline Problem.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0001~0500/0218. The Skyline Problem/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0001~0500/0218. The Skyline Problem/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../0001~0500/0218. The Skyline Problem/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0001~0500/0218. The Skyline Problem/.idea/sonarlint/securityhotspotstore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0001~0500/0218. The Skyline Problem/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../0001~0500/0218. The Skyline Problem/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0001~0500/0218. The Skyline Problem/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../0001~0500/0218. The Skyline Problem/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0001~0500/0218. The Skyline Problem/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../0001~0500/0218. The Skyline Problem/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0501~1000/0699. Falling Squares/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../0501~1000/0699. Falling Squares/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0501~1000/0699. Falling Squares/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../0501~1000/0699. Falling Squares/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0501~1000/0699. Falling Squares/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../0501~1000/0699. Falling Squares/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0501~1000/0699. Falling Squares/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../0501~1000/0699. Falling Squares/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1501~2000/1977. Number of Ways to Separate Numbers/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../1501~2000/1977. Number of Ways to Separate Numbers/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/2104. Sum of Subarray Ranges.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/2104. Sum of Subarray Ranges.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2LTMvrSe6SE9oYldwmjU5WSuPZ0" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -37,18 +75,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/ryanpionee2/Github/Leetcode/2001~2500/2104. Sum of Subarray Ranges",
-    "settings.editor.selected.configurable": "MTCustomThemeConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/ryanpionee2/Github/Leetcode/2001~2500/2104. Sum of Subarray Ranges&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MTCustomThemeConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="2104. Sum of Subarray Ranges" />
@@ -82,8 +123,13 @@
       <option name="presentableId" value="Default" />
       <updated>1675890852416</updated>
       <workItem from="1675890853625" duration="2858000" />
+      <workItem from="1691547657286" duration="940000" />
+      <workItem from="1691552232755" duration="81000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />

@@ -1,8 +1,8 @@
 """
 Source: https://rb.gy/o7qb7
-Date: 2023/8/1
+Date: 2023/8/9
 Skill:
-Ref:
+Ref: https://rb.gy/gyn7f
 Runtime: 1709 ms, faster than 100.00%
 Memory Usage: 39.1 MB, less than 72.54%
 Time complexity:
@@ -22,7 +22,7 @@ from bisect import bisect_left, bisect_right
 
 class Solution:
     def getSkyline(self, buildings: List[List[int]]) -> List[List[int]]:
-
+        
 
 
 if __name__ == "__main__":
