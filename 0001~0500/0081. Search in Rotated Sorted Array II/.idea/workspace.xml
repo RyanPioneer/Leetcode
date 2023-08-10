@@ -5,16 +5,72 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c029924-39a0-43d3-818c-22c70f9e3f0d" name="Changes" comment="2023/3/13">
-      <change afterPath="$PROJECT_DIR$/../0153. Find Minimum in Rotated Sorted Array/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0033. Search in Rotated Sorted Array/main2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0154. Find Minimum in Rotated Sorted Array II/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0154. Find Minimum in Rotated Sorted Array II/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0154. Find Minimum in Rotated Sorted Array II/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0154. Find Minimum in Rotated Sorted Array II/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2208. Minimum Operations to Halve Array Sum/.idea/2208. Minimum Operations to Halve Array Sum.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2208. Minimum Operations to Halve Array Sum/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2208. Minimum Operations to Halve Array Sum/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2208. Minimum Operations to Halve Array Sum/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2208. Minimum Operations to Halve Array Sum/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2208. Minimum Operations to Halve Array Sum/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2208. Minimum Operations to Halve Array Sum/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2208. Minimum Operations to Halve Array Sum/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2208. Minimum Operations to Halve Array Sum/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2208. Minimum Operations to Halve Array Sum/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2398. Maximum Number of Robots Within Budget/.idea/2398. Maximum Number of Robots Within Budget.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2398. Maximum Number of Robots Within Budget/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2398. Maximum Number of Robots Within Budget/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2398. Maximum Number of Robots Within Budget/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2398. Maximum Number of Robots Within Budget/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2398. Maximum Number of Robots Within Budget/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2398. Maximum Number of Robots Within Budget/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2398. Maximum Number of Robots Within Budget/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2398. Maximum Number of Robots Within Budget/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2398. Maximum Number of Robots Within Budget/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2501~3000/2530. Maximal Score After Applying K Operations/.idea/2530. Maximal Score After Applying K Operations.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2501~3000/2530. Maximal Score After Applying K Operations/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2501~3000/2530. Maximal Score After Applying K Operations/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2501~3000/2530. Maximal Score After Applying K Operations/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2501~3000/2530. Maximal Score After Applying K Operations/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2501~3000/2530. Maximal Score After Applying K Operations/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2501~3000/2530. Maximal Score After Applying K Operations/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2501~3000/2530. Maximal Score After Applying K Operations/.idea/sonarlint/securityhotspotstore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2501~3000/2530. Maximal Score After Applying K Operations/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2501~3000/2530. Maximal Score After Applying K Operations/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2501~3000/2530. Maximal Score After Applying K Operations/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2501~3000/2530. Maximal Score After Applying K Operations/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0033. Search in Rotated Sorted Array/.idea/0033. Search in Rotated Sorted Array.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../0033. Search in Rotated Sorted Array/.idea/0033. Search in Rotated Sorted Array.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0033. Search in Rotated Sorted Array/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../0033. Search in Rotated Sorted Array/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0033. Search in Rotated Sorted Array/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../0033. Search in Rotated Sorted Array/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0033. Search in Rotated Sorted Array/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../0033. Search in Rotated Sorted Array/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1001~1500/1463. Cherry Pickup II/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../1001~1500/1463. Cherry Pickup II/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2001~2500/2381. Shifting Letters II/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../2001~2500/2381. Shifting Letters II/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
   <component name="ProjectId" id="2MwCzkfW2w67UjTrWVXy0bA2ky3" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -32,7 +88,10 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "SONARLINT_PRECOMMIT_ANALYSIS": "true",
     "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "/Users/ryanpionee2/Github/Leetcode/0001~0500/0081. Search in Rotated Sorted Array II",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
     "settings.editor.selected.configurable": "MTCustomThemeConfigurable"
   }
 }]]></component>
@@ -69,6 +128,7 @@
       <option name="presentableId" value="Default" />
       <updated>1678669522308</updated>
       <workItem from="1678669523738" duration="4920000" />
+      <workItem from="1691627470124" duration="2707000" />
     </task>
     <task id="LOCAL-00001" summary="2023/3/13">
       <created>1678680727650</created>
@@ -79,6 +139,9 @@
     </task>
     <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
