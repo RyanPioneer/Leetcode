@@ -1,0 +1,5 @@
+
+vpython:S117"SRename this parameter "maxTime" to match the regular expression ^[_a-z][a-z0-9_]*$.(¢Š­úÿÿÿÿÿ8öáĞı1
+zpython:S117"WRename this parameter "passingFees" to match the regular expression ^[_a-z][a-z0-9_]*$.(¢Š­úÿÿÿÿÿ8öáĞı1
+npython:S100"KRename method "minCost" to match the regular expression ^[a-z_][a-z0-9_]*$.(¢Š­úÿÿÿÿÿ8öáĞı1
+xpython:S3776"TRefactor this function to reduce its Cognitive Complexity from 24 to the 15 allowed.(¢Š­úÿÿÿÿÿ8öáĞı1
