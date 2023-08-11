@@ -5,59 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="01b7517b-b7ef-4888-a39a-b3c9de0e96c0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../0501~1000/0518. Coin Change II/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0501~1000/0518. Coin Change II/.idea/0518. Coin Change II.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0501~1000/0518. Coin Change II/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0501~1000/0518. Coin Change II/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0501~1000/0518. Coin Change II/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0501~1000/0518. Coin Change II/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0501~1000/0518. Coin Change II/.idea/sonarlint/issuestore/c/c/cc7b753f568727eee1a611f410e85ecaa3a34e66" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0501~1000/0518. Coin Change II/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0501~1000/0518. Coin Change II/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0501~1000/0518. Coin Change II/.idea/sonarlint/securityhotspotstore/c/c/cc7b753f568727eee1a611f410e85ecaa3a34e66" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0501~1000/0518. Coin Change II/.idea/sonarlint/securityhotspotstore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0501~1000/0518. Coin Change II/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0501~1000/0518. Coin Change II/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0501~1000/0518. Coin Change II/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0501~1000/0518. Coin Change II/main2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1349. Maximum Students Taking Exam/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1349. Maximum Students Taking Exam/.idea/1349. Maximum Students Taking Exam.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1349. Maximum Students Taking Exam/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1349. Maximum Students Taking Exam/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1349. Maximum Students Taking Exam/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1349. Maximum Students Taking Exam/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1411. Number of Ways to Paint N × 3 Grid/.idea/1411. Number of Ways to Paint N × 3 Grid.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1411. Number of Ways to Paint N × 3 Grid/main2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1928. Minimum Cost to Reach Destination in Time/.idea/1928. Minimum Cost to Reach Destination in Time.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1931. Painting a Grid With Three Different Colors/.idea/1931. Painting a Grid With Three Different Colors.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1931. Painting a Grid With Three Different Colors/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1931. Painting a Grid With Three Different Colors/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1931. Painting a Grid With Three Different Colors/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1931. Painting a Grid With Three Different Colors/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1931. Painting a Grid With Three Different Colors/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1931. Painting a Grid With Three Different Colors/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1931. Painting a Grid With Three Different Colors/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1931. Painting a Grid With Three Different Colors/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1931. Painting a Grid With Three Different Colors/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2381. Shifting Letters II/.idea/2381. Shifting Letters II.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../0001~0500/0218. The Skyline Problem/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../0001~0500/0218. The Skyline Problem/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../0001~0500/0218. The Skyline Problem/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../0001~0500/0218. The Skyline Problem/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../0001~0500/0218. The Skyline Problem/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../0001~0500/0218. The Skyline Problem/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1411. Number of Ways to Paint N × 3 Grid/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../1411. Number of Ways to Paint N × 3 Grid/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1411. Number of Ways to Paint N × 3 Grid/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../1411. Number of Ways to Paint N × 3 Grid/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1411. Number of Ways to Paint N × 3 Grid/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../1411. Number of Ways to Paint N × 3 Grid/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../1501~2000/1649. Create Sorted Array through Instructions/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../1501~2000/1649. Create Sorted Array through Instructions/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../1501~2000/1649. Create Sorted Array through Instructions/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../1501~2000/1649. Create Sorted Array through Instructions/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../1501~2000/1928. Minimum Cost to Reach Destination in Time/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../1501~2000/1928. Minimum Cost to Reach Destination in Time/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../1501~2000/1928. Minimum Cost to Reach Destination in Time/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../1501~2000/1928. Minimum Cost to Reach Destination in Time/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../1501~2000/1928. Minimum Cost to Reach Destination in Time/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../1501~2000/1928. Minimum Cost to Reach Destination in Time/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../2001~2500/2381. Shifting Letters II/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../2001~2500/2381. Shifting Letters II/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../2001~2500/2381. Shifting Letters II/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../2001~2500/2381. Shifting Letters II/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../2001~2500/2381. Shifting Letters II/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../2001~2500/2381. Shifting Letters II/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0730. Count Different Palindromic Subsequences/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0730. Count Different Palindromic Subsequences/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0501~1000/0730. Count Different Palindromic Subsequences/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../0501~1000/0730. Count Different Palindromic Subsequences/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1349. Maximum Students Taking Exam/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../1349. Maximum Students Taking Exam/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1349. Maximum Students Taking Exam/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../1349. Maximum Students Taking Exam/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1349. Maximum Students Taking Exam/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../1349. Maximum Students Taking Exam/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,9 +20,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2TogIGhVPiZRAg8TPraGx2JDpsi" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -78,21 +31,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/ryanpionee2/Github/Leetcode/1001~1500/1449. Form Largest Integer With Digits That Add up to Target",
-    "node.js.detected.package.eslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/ryanpionee2/Github/Leetcode/1001~1500/1449. Form Largest Integer With Digits That Add up to Target&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="1449. Form Largest Integer With Digits That Add up to Target" />
@@ -126,6 +79,7 @@
       <option name="presentableId" value="Default" />
       <updated>1691714765483</updated>
       <workItem from="1691714766821" duration="3083000" />
+      <workItem from="1691747391720" duration="5000" />
     </task>
     <servers />
   </component>
