@@ -1,3 +1,0 @@
-
-opython:S117"XRename this parameter "obstacleGrid" to match the regular expression ^[_a-z][a-z0-9_]*$.(Î–â³
-spython:S100"\Rename method "uniquePathsWithObstacles" to match the regular expression ^[a-z_][a-z0-9_]*$.(Î–â³
