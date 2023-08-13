@@ -3,8 +3,8 @@ Source: https://rb.gy/symgh
 Date: 2023/8/13
 Skill:
 Ref:
-Runtime:  ms, faster than %
-Memory Usage:  MB, less than %
+Runtime: 6719 ms, faster than 11.76%
+Memory Usage: 3619 MB, less than 94.12%
 Time complexity:
 Space complexity:
 Constraints:
@@ -23,30 +23,34 @@ from bisect import bisect_left, bisect_right
 class Solution:
     def maximumScore(self, nums: List[int], k: int) -> int:
         def eratosthenes(num):
-            primes, visited = [], [0 for _ in range(num + 1)]
-            for i in range(2, math.isqrt(num) + 1):
-                if visited[i]:
-                    continue
-                j = i * i
-                while j <= num:
-                    visited[j] = 1
-                    j += i
+            prime_score = [0 for _ in range(num + 1)]
             for i in range(2, num + 1):
-                if not visited[i]:
-                    primes.append(i)
-            return primes
+                if prime_score[i] > 0:
+                    continue
+                prime_score[i] = 1
+                j = i * 2
+                while j <= num:
+                    prime_score[j] += 1
+                    j += i
+            return prime_score
 
-        prime_list, prime_score, mod, sz, res = eratosthenes(max(nums)), [], 10 ** 9 + 7, len(nums), 1
+        prime_score_for_nums, mod, sz, res = eratosthenes(max(nums)), 10 ** 9 + 7, len(nums), 1
+
+        def power(n, x):
+            if x == 0:
+                return 1
+            elif x == 1:
+                return n
+            else:
+                if x % 2:
+                    rem = n
+                else:
+                    rem = 1
+                return power(n * n % mod, x // 2) * rem
+
+        prime_score = []
         for i in range(sz):
-            cnt, cur_num = 0, nums[i]
-            for prime in prime_list:
-                if cur_num == 1:
-                    break
-                if cur_num % prime == 0:
-                    cnt += 1
-                    while cur_num % prime == 0:
-                        cur_num //= prime
-            prime_score.append(cnt)
+            prime_score.append(prime_score_for_nums[nums[i]])
 
         prime_score.append(sys.maxsize)
         smaller_after, stack = [0 for _ in range(sz)], [sz]
@@ -56,12 +60,20 @@ class Solution:
             smaller_after[i] = stack[-1] - i - 1
             stack.append(i)
 
+        prime_score.insert(0, sys.maxsize)
+        smaller_before, stack = [0 for _ in range(sz)], [0]
+        for i in range(1, sz + 1):
+            while stack and prime_score[stack[-1]] < prime_score[i]:
+                stack.pop()
+            smaller_before[i - 1] = i - stack[-1] - 1
+            stack.append(i)
+
         num_list, idx = [[nums[i], i] for i in range(sz)], 0
         num_list.sort(reverse=True)
         while k > 0 and idx < sz:
-            num, cnt = num_list[idx][0], smaller_after[num_list[idx][1]] + 1
-            for i in range(min(k, cnt)):
-                res *= num
+            num, cnt = num_list[idx][0], (smaller_after[num_list[idx][1]] + 1) * (smaller_before[num_list[idx][1]] + 1)
+            res *= power(num, min(k, cnt))
+            res %= mod
             k -= min(k, cnt)
             idx += 1
         return res % mod
@@ -69,6 +81,6 @@ class Solution:
 
 if __name__ == "__main__":
     s = Solution()
-    nums, k = [19, 12, 14, 6, 10, 18], 3
+    nums, k = [1, 7, 11, 1, 5], 14
     res = s.maximumScore(nums, k)
     print(res)
