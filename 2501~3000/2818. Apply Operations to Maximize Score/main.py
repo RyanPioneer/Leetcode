@@ -53,11 +53,11 @@ class Solution:
             prime_score.append(prime_score_for_nums[nums[i]])
 
         prime_score.append(sys.maxsize)
-        smaller_after, stack = [0 for _ in range(sz)], [sz]
+        smaller_or_equal_after, stack = [0 for _ in range(sz)], [sz]
         for i in range(sz - 1, -1, -1):
             while stack and prime_score[stack[-1]] <= prime_score[i]:
                 stack.pop()
-            smaller_after[i] = stack[-1] - i - 1
+            smaller_or_equal_after[i] = stack[-1] - i - 1
             stack.append(i)
 
         prime_score.insert(0, sys.maxsize)
@@ -71,7 +71,7 @@ class Solution:
         num_list, idx = [[nums[i], i] for i in range(sz)], 0
         num_list.sort(reverse=True)
         while k > 0 and idx < sz:
-            num, cnt = num_list[idx][0], (smaller_after[num_list[idx][1]] + 1) * (smaller_before[num_list[idx][1]] + 1)
+            num, cnt = num_list[idx][0], (smaller_or_equal_after[num_list[idx][1]] + 1) * (smaller_before[num_list[idx][1]] + 1)
             res *= power(num, min(k, cnt))
             res %= mod
             k -= min(k, cnt)
