@@ -1,0 +1,4 @@
+
+xpython:S117"URename this parameter "groupSize" to match the regular expression ^[_a-z][a-z0-9_]*$.(µÙœúûÿÿÿÿ8—ïç¸Ÿ1
+vpython:S100"SRename method "isNStraightHand" to match the regular expression ^[a-z_][a-z0-9_]*$.(µÙœúûÿÿÿÿ8—ïç¸Ÿ1
+xpython:S3776"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(µÙœúûÿÿÿÿ8—ïç¸Ÿ1
