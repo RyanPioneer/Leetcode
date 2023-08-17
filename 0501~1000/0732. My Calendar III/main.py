@@ -1,10 +1,10 @@
 """
 Source: https://rb.gy/zyltq
-Date: 2023/8/16
+Date: 2023/8/17
 Skill:
 Ref:
-Runtime: 5317 ms, faster than 23.26%
-Memory Usage: 295.54 MB, less than 11.63%
+Runtime: 850 ms, faster than 68.63%
+Memory Usage: 24.7 MB, less than 5.39%
 Time complexity:
 Space complexity:
 Constraints:
@@ -25,48 +25,39 @@ class SegmentTreeNode:
         self.start = start
         self.end = end
         self.mid = (start + end) // 2
-        self.num = num
+        self.node_count = num
+        self.total_count = 0
         self.left = left
         self.right = right
 
 
 class SegmentTree:
     def __init__(self, n):
-        self.root = SegmentTreeNode(1, n)
+        self.root = SegmentTreeNode(0, n)
 
     def set_num(self, node: SegmentTreeNode, start, end):
         if start <= node.start and end >= node.end:
-            node.num = node.end - node.start + 1
-            node.left = None
-            node.right = None
+            node.node_count += 1
+            node.total_count += 1
             return
         if start > node.end or end < node.start:
-            return
-        if node.num == node.end - node.start + 1:
             return
         if not node.left:
             node.left = SegmentTreeNode(node.start, node.mid)
             node.right = SegmentTreeNode(node.mid + 1, node.end)
         self.set_num(node.left, start, end)
         self.set_num(node.right, start, end)
-        node.num = node.left.num + node.right.num
-
-    def get_status(self, node: SegmentTreeNode, start, end):
-        if start <= node.start and end >= node.end:
-            return node.num
-        if start > node.end or end < node.start:
-            return 0
-        if not node.left:
-            return min(end, node.end) - max(start, node.start) + 1
-        return self.get_status(node.left, start, end) + self.get_status(node.right, start, end)
+        node.total_count = max(node.left.total_count, node.right.total_count) + node.node_count
 
 
 class MyCalendarThree:
 
     def __init__(self):
+        self.tree = SegmentTree(10 ** 9)
 
     def book(self, startTime: int, endTime: int) -> int:
-
+        self.tree.set_num(self.tree.root, startTime, endTime - 1)
+        return self.tree.root.total_count
 
 # Your MyCalendarThree object will be instantiated and called as such:
 # obj = MyCalendarThree()

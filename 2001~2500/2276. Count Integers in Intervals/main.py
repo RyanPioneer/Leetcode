@@ -51,14 +51,14 @@ class SegmentTree:
         self.set_num(node.right, start, end)
         node.num = node.left.num + node.right.num
 
-    def get_status(self, node: SegmentTreeNode, start, end):
-        if start <= node.start and end >= node.end:
-            return node.num
-        if start > node.end or end < node.start:
-            return 0
-        if not node.left:
-            return min(end, node.end) - max(start, node.start) + 1
-        return self.get_status(node.left, start, end) + self.get_status(node.right, start, end)
+    # def get_status(self, node: SegmentTreeNode, start, end):
+    #     if start <= node.start and end >= node.end:
+    #         return node.num
+    #     if start > node.end or end < node.start:
+    #         return 0
+    #     if not node.left:
+    #         return min(end, node.end) - max(start, node.start) + 1
+    #     return self.get_status(node.left, start, end) + self.get_status(node.right, start, end)
 
 
 class CountIntervals:
@@ -70,7 +70,7 @@ class CountIntervals:
         self.tree.set_num(self.tree.root, left, right)
 
     def count(self) -> int:
-        return self.tree.get_status(self.tree.root, 0, 10 ** 9)
+        return self.tree.root.num
 
 # Your CountIntervals object will be instantiated and called as such:
 # obj = CountIntervals()

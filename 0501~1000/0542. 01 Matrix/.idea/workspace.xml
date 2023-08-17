@@ -2,21 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8410b4c7-e7a3-47fd-8f07-348f4104f49f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../0997. Find the Town Judge/.idea/git_toolbox_prj.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0997. Find the Town Judge/.idea/sonarlint/issuestore/1/e/1e9075f5bf079c01ef2c910709e91a497d262080" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0997. Find the Town Judge/.idea/sonarlint/issuestore/9/f/9fe84ebb15faf917b7def6236dba604453cc61e0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0997. Find the Town Judge/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../0997. Find the Town Judge/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../0997. Find the Town Judge/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../0997. Find the Town Judge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../0997. Find the Town Judge/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0732. My Calendar III/main2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/c/cc7b753f568727eee1a611f410e85ecaa3a34e66" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0732. My Calendar III/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../0732. My Calendar III/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
   <component name="ProjectId" id="2KgIRqjEfLYoXXit8eZEJlpuwiz" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -34,6 +39,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "/Users/ryanpionee2/Github/Leetcode/0501~1000/0542. 01 Matrix",
     "settings.editor.selected.configurable": "MTCustomThemeConfigurable",
     "vue.rearranger.settings.migration": "true"
@@ -72,6 +78,7 @@
       <option name="presentableId" value="Default" />
       <updated>1674389794542</updated>
       <workItem from="1674389795971" duration="12454000" />
+      <workItem from="1692231144616" duration="160000" />
     </task>
     <servers />
   </component>
