@@ -1,0 +1,4 @@
+
+qpython:S100"NRename method "wiggleSort" to match the regular expression ^[a-z_][a-z0-9_]*$.(­–Å‚úÿÿÿÿ8Æ¼¥Ÿ1
+Qpython:S14815"-Replace unused local variable "idx" with "_".(”ÔıÈøÿÿÿÿ8Æ¼¥Ÿ1
+xpython:S3776"TRefactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.(­–Å‚úÿÿÿÿ8Æ¼¥Ÿ1

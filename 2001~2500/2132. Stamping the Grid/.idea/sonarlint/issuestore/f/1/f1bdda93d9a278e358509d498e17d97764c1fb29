@@ -1,0 +1,8 @@
+
+Rpython:S1172"3Remove the unused function parameter "stampHeight".(Ã¥¤˜8éÁÛŸ1
+Qpython:S1172"2Remove the unused function parameter "stampWidth".(Ã¥¤˜8éÁÛŸ1
+upython:S117"WRename this parameter "stampHeight" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ã¥¤˜8êÆˆœŸ1
+tpython:S117"VRename this parameter "stampWidth" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ã¥¤˜8êÆˆœŸ1
+qpython:S100"SRename method "possibleToStamp" to match the regular expression ^[a-z_][a-z0-9_]*$.(Ã¥¤˜8êÆˆœŸ1
+Opython:S1481"+Replace unused local variable "n" with "_".(„”ıŠÿÿÿÿÿ8êÁÛŸ1
+Opython:S1481"+Replace unused local variable "m" with "_".(„”ıŠÿÿÿÿÿ8êÁÛŸ1
