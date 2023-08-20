@@ -1,6 +1,6 @@
 """
-Source: https://leetcode.com/problems/maximum-frequency-stack/
-Date: 2023/3/16
+Source: https://rb.gy/ec7qn
+Date: 2023/8/20
 Skill:
 Runtime: 1253 ms, faster than 16.51%
 Memory Usage: 31.3 MB, less than 21.35%
@@ -37,4 +37,4 @@ class FreqStack:
 
 
 if __name__ == "__main__":
-    s = Solution()
+    s = FreqStack()

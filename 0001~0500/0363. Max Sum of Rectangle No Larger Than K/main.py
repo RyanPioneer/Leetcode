@@ -1,6 +1,6 @@
 """
-Source: https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/
-Date: 2023/4/1
+Source: https://rb.gy/9z9sh
+Date: 2023/8/20
 Skill:
 Runtime: 51 ms, faster than 81.71%
 Memory Usage: 14.2 MB, less than 29.27%
@@ -22,7 +22,7 @@ import functools
 
 class Solution:
     def maxSumSubmatrix(self, matrix: List[List[int]], k: int) -> int:
-
+        m, n = len(matrix), len(matrix[0])
 
 
 

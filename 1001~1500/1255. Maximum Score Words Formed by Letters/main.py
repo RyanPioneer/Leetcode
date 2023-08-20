@@ -3,7 +3,7 @@ Source: https://rb.gy/kiswh
 Date: 2023/8/18
 Skill:
 Ref:
-Runtime: 47 ms, faster than 96.60%
+Runtime: 45 ms, faster than 97.87%
 Memory Usage: 17.23 MB, less than 8.94%
 Time complexity:
 Space complexity:
@@ -24,12 +24,6 @@ from functools import cache
 class Solution:
     def maxScoreWords(self, words: List[str], letters: List[str], score: List[int]) -> int:
         nums, sz = [0 for _ in range(26)], len(words)
-        scores = []
-        for word in words:
-            num = 0
-            for c in word:
-                num += score[ord(c) - ord("a")]
-            scores.append(num)
         for letter in letters:
             nums[ord(letter) - ord("a")] += 1
 
