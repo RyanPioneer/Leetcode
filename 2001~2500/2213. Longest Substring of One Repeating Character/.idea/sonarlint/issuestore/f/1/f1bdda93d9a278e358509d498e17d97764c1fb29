@@ -1,0 +1,8 @@
+
+Spython:S1172"4Remove the unused function parameter "queryIndices".(ê¾Ýô8Æé¬¿Ÿ1
+ypython:S117"[Rename this parameter "queryCharacters" to match the regular expression ^[_a-z][a-z0-9_]*$.(ê¾Ýô8Æé¬¿Ÿ1
+vpython:S117"XRename this parameter "queryIndices" to match the regular expression ^[_a-z][a-z0-9_]*$.(ê¾Ýô8Æé¬¿Ÿ1
+rpython:S100"TRename method "longestRepeating" to match the regular expression ^[a-z_][a-z0-9_]*$.(ê¾Ýô8Æé¬¿Ÿ1
+Xpython:S1481"4Replace unused local variable "query_time" with "_".(ï²„õþÿÿÿÿ8çÓ®¿Ÿ1
+Ppython:S1481",Replace unused local variable "sz" with "_".(ï²„õþÿÿÿÿ8Š¶­¿Ÿ1
+Qpython:S1481"-Replace unused local variable "res" with "_".(ï²„õþÿÿÿÿ8Æé¬¿Ÿ1
