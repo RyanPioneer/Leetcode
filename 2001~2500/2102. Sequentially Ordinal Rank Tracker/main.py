@@ -1,10 +1,10 @@
 """
 Source: https://rb.gy/1zhdp
-Date: 2023/8/22
+Date: 2023/8/23
 Skill:
 Ref:
-Runtime: 1698 ms, faster than 83.43%
-Memory Usage: 25.88 MB, less than 49.72%
+Runtime: 764 ms, faster than 99.11%
+Memory Usage: 40.5 MB, less than 46.2%
 Time complexity:
 Space complexity:
 Constraints:
@@ -24,12 +24,16 @@ from functools import cache
 class SORTracker:
 
     def __init__(self):
-
+        self.time = 0
+        from sortedcontainers import SortedList
+        self.sl = SortedList()
 
     def add(self, name: str, score: int) -> None:
+        self.sl.add([-score, name])
 
     def get(self) -> str:
-
+        self.time += 1
+        return self.sl[self.time - 1][1]
 
 # Your SORTracker object will be instantiated and called as such:
 # obj = SORTracker()

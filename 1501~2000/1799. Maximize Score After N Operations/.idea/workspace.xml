@@ -5,34 +5,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f08ee098-1238-4cc6-8a0a-058740e30bee" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0459. Repeated Substring Pattern/.idea/0459. Repeated Substring Pattern.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0459. Repeated Substring Pattern/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0459. Repeated Substring Pattern/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0459. Repeated Substring Pattern/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0459. Repeated Substring Pattern/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0459. Repeated Substring Pattern/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0459. Repeated Substring Pattern/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0459. Repeated Substring Pattern/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0459. Repeated Substring Pattern/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0459. Repeated Substring Pattern/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0001~0500/0459. Repeated Substring Pattern/main2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0501~1000/0745. Prefix and Suffix Search/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0501~1000/0745. Prefix and Suffix Search/.idea/sonarlint/securityhotspotstore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1354. Construct Target Array With Multiple Sums/.idea/1354. Construct Target Array With Multiple Sums.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/1799. Maximize Score After N Operations.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2014. Longest Subsequence Repeated k Times/.idea/2014. Longest Subsequence Repeated k Times.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../0001~0500/0218. The Skyline Problem/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../0001~0500/0218. The Skyline Problem/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../0001~0500/0363. Max Sum of Rectangle No Larger Than K/.idea/0363. Max Sum of Rectangle No Larger Than K.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../0001~0500/0363. Max Sum of Rectangle No Larger Than K/.idea/0363. Max Sum of Rectangle No Larger Than K.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../0001~0500/0363. Max Sum of Rectangle No Larger Than K/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../0001~0500/0363. Max Sum of Rectangle No Larger Than K/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../0501~1000/0745. Prefix and Suffix Search/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../0501~1000/0745. Prefix and Suffix Search/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../0501~1000/0745. Prefix and Suffix Search/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../0501~1000/0745. Prefix and Suffix Search/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../0501~1000/0745. Prefix and Suffix Search/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../0501~1000/0745. Prefix and Suffix Search/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../0501~1000/0895. Maximum Frequency Stack/.idea/0895. Maximum Frequency Stack.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../0501~1000/0895. Maximum Frequency Stack/.idea/0895. Maximum Frequency Stack.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../0501~1000/0895. Maximum Frequency Stack/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../0501~1000/0895. Maximum Frequency Stack/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../0501~1000/0951. Flip Equivalent Binary Trees/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../0501~1000/0951. Flip Equivalent Binary Trees/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0767. Reorganize String/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0767. Reorganize String/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0767. Reorganize String/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0767. Reorganize String/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0767. Reorganize String/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1354. Construct Target Array With Multiple Sums/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1354. Construct Target Array With Multiple Sums/.idea/sonarlint/securityhotspotstore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1825. Finding MK Average/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1825. Finding MK Average/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1825. Finding MK Average/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1825. Finding MK Average/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1825. Finding MK Average/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2102. Sequentially Ordinal Rank Tracker/.idea/2102. Sequentially Ordinal Rank Tracker.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2102. Sequentially Ordinal Rank Tracker/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2102. Sequentially Ordinal Rank Tracker/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2102. Sequentially Ordinal Rank Tracker/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2102. Sequentially Ordinal Rank Tracker/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2102. Sequentially Ordinal Rank Tracker/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2102. Sequentially Ordinal Rank Tracker/.idea/sonarlint/securityhotspotstore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2102. Sequentially Ordinal Rank Tracker/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1001~1500/1354. Construct Target Array With Multiple Sums/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../1001~1500/1354. Construct Target Array With Multiple Sums/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1001~1500/1354. Construct Target Array With Multiple Sums/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../1001~1500/1354. Construct Target Array With Multiple Sums/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../1001~1500/1354. Construct Target Array With Multiple Sums/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../1001~1500/1354. Construct Target Array With Multiple Sums/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../2001~2500/2213. Longest Substring of One Repeating Character/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../2001~2500/2213. Longest Substring of One Repeating Character/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2001~2500/2102. Sequentially Ordinal Rank Tracker/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../2001~2500/2102. Sequentially Ordinal Rank Tracker/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2001~2500/2102. Sequentially Ordinal Rank Tracker/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../2001~2500/2102. Sequentially Ordinal Rank Tracker/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2001~2500/2102. Sequentially Ordinal Rank Tracker/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../2001~2500/2102. Sequentially Ordinal Rank Tracker/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2001~2500/2102. Sequentially Ordinal Rank Tracker/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../2001~2500/2102. Sequentially Ordinal Rank Tracker/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,7 +99,7 @@
       <workItem from="1692333478615" duration="4319000" />
       <workItem from="1692538082262" duration="590000" />
       <workItem from="1692543702228" duration="596000" />
-      <workItem from="1692578470501" duration="687000" />
+      <workItem from="1692578470501" duration="2607000" />
     </task>
     <servers />
   </component>
