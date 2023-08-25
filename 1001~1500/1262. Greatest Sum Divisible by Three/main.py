@@ -1,16 +1,16 @@
 """
 Source: https://rb.gy/l04pk
-Date: 2023/8/23
+Date: 2023/8/24
 Skill:
-Runtime: 51 ms, faster than 81.71%
-Memory Usage: 14.2 MB, less than 29.27%
+Runtime: 327 ms, faster than 55.33%
+Memory Usage: 21.7 MB, less than 70.36%
 Time complexity:
 Space complexity:
 Constraints:
 
 """
 
-import math
+import math, sys
 from typing import List, Optional
 from collections import defaultdict, Counter, deque
 from heapq import heapify, heappush, heappop, nsmallest
@@ -20,7 +20,12 @@ import functools
 
 class Solution:
     def maxSumDivThree(self, nums: List[int]) -> int:
-
+        sz, dp = len(nums), [0, -sys.maxsize, -sys.maxsize]
+        for i in range(sz):
+            dp2 = dp.copy()
+            for j in range(3):
+                dp[j] = max(dp2[j], dp2[(j + 3 - nums[i] % 3) % 3] + nums[i])
+        return dp[0]
 
 
 if __name__ == "__main__":
