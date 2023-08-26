@@ -3,8 +3,8 @@
 4	cpp:S1481"unused variable 'n'(áÉ˜Ûıÿÿÿÿ8ÑŒŞ…£1
 6	cpp:S1481"unused variable 'mod'(áÉ˜Ûıÿÿÿÿ8ÑŒŞ…£1
 x	cpp:S5276"Wimplicit conversion loses integer precision: 'size_type' (aka 'unsigned long') to 'int'(áÉ˜Ûıÿÿÿÿ8ÑŒŞ…£1
-Icpp:S935")non-void function does not return a value(æÀö€øÿÿÿÿ8ÑŒŞ…£1
 E	cpp:S5817")This function should be declared "const".(ÌàöÙ8ãŒŞ…£1
+Icpp:S935")non-void function does not return a value(æÀö€øÿÿÿÿ8ÑŒŞ…£1
 Ÿcpp:S995"ƒMake the type of this parameter a reference-to-const. The current type of "hats" is "class std::vector<class std::vector<int> > &".(ÌàöÙ8äŒŞ…£1
 Q	cpp:S1659"0Define each identifier in a dedicated statement.(áÉ˜Ûıÿÿÿÿ8“Ö…£1
 \	cpp:S1854";Value stored to 'n' during its initialization is never read(áÉ˜Ûıÿÿÿÿ8„Ş…£1

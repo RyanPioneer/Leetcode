@@ -11,6 +11,6 @@
 -- Check for working CXX compiler: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ - skipped
 -- Detecting CXX compile features
 -- Detecting CXX compile features - done
--- Configuring done
--- Generating done
+-- Configuring done (1.2s)
+-- Generating done (0.0s)
 -- Build files have been written to: /Users/ryanpionee2/Github/Leetcode/1001~1500/1434. Number of Ways to Wear Different Hats to Each Other/cmake-build-debug
