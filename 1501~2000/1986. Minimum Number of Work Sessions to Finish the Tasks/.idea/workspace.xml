@@ -3,97 +3,149 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="1986__Minimum_Number_of_Work_Sessions_to_Finish_the_Tasks" targetName="1986__Minimum_Number_of_Work_Sessions_to_Finish_the_Tasks" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="fed45125-93fd-4238-a132-0bfcb31368a7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../0501~1000/0684. Redundant Connection/.idea/0684. Redundant Connection.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0501~1000/0684. Redundant Connection/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0501~1000/0684. Redundant Connection/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0501~1000/0684. Redundant Connection/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0501~1000/0684. Redundant Connection/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0501~1000/0684. Redundant Connection/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0501~1000/0684. Redundant Connection/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0501~1000/0684. Redundant Connection/.idea/sonarlint/securityhotspotstore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0501~1000/0684. Redundant Connection/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0501~1000/0684. Redundant Connection/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0501~1000/0684. Redundant Connection/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0501~1000/0684. Redundant Connection/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0501~1000/0685. Redundant Connection II/main2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1434. Number of Ways to Wear Different Hats to Each Other/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1434. Number of Ways to Wear Different Hats to Each Other/.idea/1434. Number of Ways to Wear Different Hats to Each Other.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1434. Number of Ways to Wear Different Hats to Each Other/.idea/1434. Number of Ways to Wear Different Hats to Each Other2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1434. Number of Ways to Wear Different Hats to Each Other/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1434. Number of Ways to Wear Different Hats to Each Other/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1434. Number of Ways to Wear Different Hats to Each Other/.idea/sonarlint/issuestore/6/8/682a50d19e416195436708e48c7761923b8d6651" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1434. Number of Ways to Wear Different Hats to Each Other/.idea/sonarlint/issuestore/9/a/9a2aa4db38d3115ed60da621e012c0efc0172aae" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1434. Number of Ways to Wear Different Hats to Each Other/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1434. Number of Ways to Wear Different Hats to Each Other/.idea/sonarlint/securityhotspotstore/6/8/682a50d19e416195436708e48c7761923b8d6651" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1434. Number of Ways to Wear Different Hats to Each Other/.idea/sonarlint/securityhotspotstore/9/a/9a2aa4db38d3115ed60da621e012c0efc0172aae" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1434. Number of Ways to Wear Different Hats to Each Other/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1434. Number of Ways to Wear Different Hats to Each Other/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1434. Number of Ways to Wear Different Hats to Each Other/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1434. Number of Ways to Wear Different Hats to Each Other/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1434. Number of Ways to Wear Different Hats to Each Other/cmake-build-debug/.cmake/api/v1/query/cache-v2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1434. Number of Ways to Wear Different Hats to Each Other/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1434. Number of Ways to Wear Different Hats to Each Other/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1434. Number of Ways to Wear Different Hats to Each Other/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1434. Number of Ways to Wear Different Hats to Each Other/cmake-build-debug/.cmake/api/v1/reply/cache-v2-b003898493a7affde83e.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1434. Number of Ways to Wear Different Hats to Each Other/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-76ae5e3c87800828ade4.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1434. Number of Ways to Wear Different Hats to Each Other/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-37adbeaed1a18005a52a.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1434. Number of Ways to Wear Different Hats to Each Other/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-f5ebdc15457944623624.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1434. Number of Ways to Wear Different Hats to Each Other/cmake-build-debug/.cmake/api/v1/reply/index-2023-08-26T07-36-37-0412.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1434. Number of Ways to Wear Different Hats to Each Other/cmake-build-debug/.cmake/api/v1/reply/target-1434__Number_of_Ways_to_Wear_Different_Hats_to_Each_Other-Debug-52cd62037dd0875ff6e0.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1434. Number of Ways to Wear Different Hats to Each Other/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-d0502afa689c6663d341.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1434. Number of Ways to Wear Different Hats to Each Other/cmake-build-debug/.ninja_deps" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1434. Number of Ways to Wear Different Hats to Each Other/cmake-build-debug/.ninja_log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1434. Number of Ways to Wear Different Hats to Each Other/cmake-build-debug/1434__Number_of_Ways_to_Wear_Different_Hats_to_Each_Other" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1434. Number of Ways to Wear Different Hats to Each Other/cmake-build-debug/CMakeCache.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1434. Number of Ways to Wear Different Hats to Each Other/cmake-build-debug/CMakeFiles/1434__Number_of_Ways_to_Wear_Different_Hats_to_Each_Other.dir/main.cpp.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1434. Number of Ways to Wear Different Hats to Each Other/cmake-build-debug/CMakeFiles/3.25.2/CMakeCCompiler.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1434. Number of Ways to Wear Different Hats to Each Other/cmake-build-debug/CMakeFiles/3.25.2/CMakeCXXCompiler.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1434. Number of Ways to Wear Different Hats to Each Other/cmake-build-debug/CMakeFiles/3.25.2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1434. Number of Ways to Wear Different Hats to Each Other/cmake-build-debug/CMakeFiles/3.25.2/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1434. Number of Ways to Wear Different Hats to Each Other/cmake-build-debug/CMakeFiles/3.25.2/CMakeSystem.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1434. Number of Ways to Wear Different Hats to Each Other/cmake-build-debug/CMakeFiles/3.25.2/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1434. Number of Ways to Wear Different Hats to Each Other/cmake-build-debug/CMakeFiles/3.25.2/CompilerIdC/CMakeCCompilerId.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1434. Number of Ways to Wear Different Hats to Each Other/cmake-build-debug/CMakeFiles/3.25.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1434. Number of Ways to Wear Different Hats to Each Other/cmake-build-debug/CMakeFiles/3.25.2/CompilerIdCXX/CMakeCXXCompilerId.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1434. Number of Ways to Wear Different Hats to Each Other/cmake-build-debug/CMakeFiles/3.26.4/CMakeCCompiler.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1434. Number of Ways to Wear Different Hats to Each Other/cmake-build-debug/CMakeFiles/3.26.4/CMakeCXXCompiler.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1434. Number of Ways to Wear Different Hats to Each Other/cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1434. Number of Ways to Wear Different Hats to Each Other/cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1434. Number of Ways to Wear Different Hats to Each Other/cmake-build-debug/CMakeFiles/3.26.4/CMakeSystem.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1434. Number of Ways to Wear Different Hats to Each Other/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1434. Number of Ways to Wear Different Hats to Each Other/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1434. Number of Ways to Wear Different Hats to Each Other/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1434. Number of Ways to Wear Different Hats to Each Other/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1434. Number of Ways to Wear Different Hats to Each Other/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1434. Number of Ways to Wear Different Hats to Each Other/cmake-build-debug/CMakeFiles/CMakeError.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1434. Number of Ways to Wear Different Hats to Each Other/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1434. Number of Ways to Wear Different Hats to Each Other/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1434. Number of Ways to Wear Different Hats to Each Other/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1434. Number of Ways to Wear Different Hats to Each Other/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1434. Number of Ways to Wear Different Hats to Each Other/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1434. Number of Ways to Wear Different Hats to Each Other/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1434. Number of Ways to Wear Different Hats to Each Other/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1434. Number of Ways to Wear Different Hats to Each Other/cmake-build-debug/build.ninja" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1434. Number of Ways to Wear Different Hats to Each Other/cmake-build-debug/cmake_install.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1434. Number of Ways to Wear Different Hats to Each Other/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1434. Number of Ways to Wear Different Hats to Each Other/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1434. Number of Ways to Wear Different Hats to Each Other/main2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1434. Number of Ways to Wear Different Hats to Each Other/main3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1577. Number of Ways Where Square of Number Is Equal to Product of Two Numbers/.idea/1577. Number of Ways Where Square of Number Is Equal to Product of Two Numbers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1577. Number of Ways Where Square of Number Is Equal to Product of Two Numbers/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1577. Number of Ways Where Square of Number Is Equal to Product of Two Numbers/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1577. Number of Ways Where Square of Number Is Equal to Product of Two Numbers/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1577. Number of Ways Where Square of Number Is Equal to Product of Two Numbers/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1577. Number of Ways Where Square of Number Is Equal to Product of Two Numbers/.idea/sonarlint/issuestore/c/c/cc7b753f568727eee1a611f410e85ecaa3a34e66" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1577. Number of Ways Where Square of Number Is Equal to Product of Two Numbers/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1577. Number of Ways Where Square of Number Is Equal to Product of Two Numbers/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1577. Number of Ways Where Square of Number Is Equal to Product of Two Numbers/.idea/sonarlint/securityhotspotstore/c/c/cc7b753f568727eee1a611f410e85ecaa3a34e66" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1577. Number of Ways Where Square of Number Is Equal to Product of Two Numbers/.idea/sonarlint/securityhotspotstore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1577. Number of Ways Where Square of Number Is Equal to Product of Two Numbers/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1577. Number of Ways Where Square of Number Is Equal to Product of Two Numbers/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1577. Number of Ways Where Square of Number Is Equal to Product of Two Numbers/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1577. Number of Ways Where Square of Number Is Equal to Product of Two Numbers/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1577. Number of Ways Where Square of Number Is Equal to Product of Two Numbers/main2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1851. Minimum Interval to Include Each Query/.idea/1851. Minimum Interval to Include Each Query.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1851. Minimum Interval to Include Each Query/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1851. Minimum Interval to Include Each Query/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1851. Minimum Interval to Include Each Query/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1851. Minimum Interval to Include Each Query/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1851. Minimum Interval to Include Each Query/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1851. Minimum Interval to Include Each Query/.idea/sonarlint/securityhotspotstore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1851. Minimum Interval to Include Each Query/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/1986__Minimum_Number_of_Work_Sessions_to_Finish_the_Tasks.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/a/9a2aa4db38d3115ed60da621e012c0efc0172aae" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/9/a/9a2aa4db38d3115ed60da621e012c0efc0172aae" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main2.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2251. Number of Flowers in Full Bloom/.idea/2251. Number of Flowers in Full Bloom.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2251. Number of Flowers in Full Bloom/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2251. Number of Flowers in Full Bloom/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2251. Number of Flowers in Full Bloom/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2251. Number of Flowers in Full Bloom/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2251. Number of Flowers in Full Bloom/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2251. Number of Flowers in Full Bloom/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2251. Number of Flowers in Full Bloom/.idea/sonarlint/securityhotspotstore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2251. Number of Flowers in Full Bloom/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2251. Number of Flowers in Full Bloom/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2251. Number of Flowers in Full Bloom/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2001~2500/2251. Number of Flowers in Full Bloom/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2501~3000/2589. Minimum Time to Complete All Tasks/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2501~3000/2589. Minimum Time to Complete All Tasks/.idea/2589. Minimum Time to Complete All Tasks.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2501~3000/2589. Minimum Time to Complete All Tasks/.idea/2589__Minimum_Time_to_Complete_All_Tasks.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2501~3000/2589. Minimum Time to Complete All Tasks/.idea/sonarlint/issuestore/6/8/682a50d19e416195436708e48c7761923b8d6651" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2501~3000/2589. Minimum Time to Complete All Tasks/.idea/sonarlint/issuestore/9/a/9a2aa4db38d3115ed60da621e012c0efc0172aae" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2501~3000/2589. Minimum Time to Complete All Tasks/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2501~3000/2589. Minimum Time to Complete All Tasks/.idea/sonarlint/securityhotspotstore/6/8/682a50d19e416195436708e48c7761923b8d6651" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2501~3000/2589. Minimum Time to Complete All Tasks/.idea/sonarlint/securityhotspotstore/9/a/9a2aa4db38d3115ed60da621e012c0efc0172aae" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2501~3000/2589. Minimum Time to Complete All Tasks/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2501~3000/2589. Minimum Time to Complete All Tasks/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2501~3000/2589. Minimum Time to Complete All Tasks/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2501~3000/2589. Minimum Time to Complete All Tasks/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2501~3000/2589. Minimum Time to Complete All Tasks/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2501~3000/2833. Furthest Point From Origin/.idea/2833. Furthest Point From Origin.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2501~3000/2833. Furthest Point From Origin/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2501~3000/2833. Furthest Point From Origin/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2501~3000/2833. Furthest Point From Origin/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2501~3000/2833. Furthest Point From Origin/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2501~3000/2833. Furthest Point From Origin/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2501~3000/2833. Furthest Point From Origin/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2501~3000/2833. Furthest Point From Origin/.idea/sonarlint/securityhotspotstore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2501~3000/2833. Furthest Point From Origin/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2501~3000/2833. Furthest Point From Origin/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2501~3000/2833. Furthest Point From Origin/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2501~3000/2833. Furthest Point From Origin/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2501~3000/2834. Find the Minimum Possible Sum of a Beautiful Array/.idea/2834. Find the Minimum Possible Sum of a Beautiful Array.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2501~3000/2834. Find the Minimum Possible Sum of a Beautiful Array/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2501~3000/2834. Find the Minimum Possible Sum of a Beautiful Array/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2501~3000/2834. Find the Minimum Possible Sum of a Beautiful Array/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2501~3000/2834. Find the Minimum Possible Sum of a Beautiful Array/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2501~3000/2834. Find the Minimum Possible Sum of a Beautiful Array/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2501~3000/2834. Find the Minimum Possible Sum of a Beautiful Array/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2501~3000/2834. Find the Minimum Possible Sum of a Beautiful Array/.idea/sonarlint/securityhotspotstore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2501~3000/2834. Find the Minimum Possible Sum of a Beautiful Array/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2501~3000/2834. Find the Minimum Possible Sum of a Beautiful Array/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2501~3000/2834. Find the Minimum Possible Sum of a Beautiful Array/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2501~3000/2834. Find the Minimum Possible Sum of a Beautiful Array/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2501~3000/2835. Minimum Operations to Form Subsequence With Target Sum/.idea/2835. Minimum Operations to Form Subsequence With Target Sum.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2501~3000/2835. Minimum Operations to Form Subsequence With Target Sum/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2501~3000/2835. Minimum Operations to Form Subsequence With Target Sum/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2501~3000/2835. Minimum Operations to Form Subsequence With Target Sum/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2501~3000/2835. Minimum Operations to Form Subsequence With Target Sum/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0501~1000/0685. Redundant Connection II/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../0501~1000/0685. Redundant Connection II/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0501~1000/0685. Redundant Connection II/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../0501~1000/0685. Redundant Connection II/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../0501~1000/0685. Redundant Connection II/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../0501~1000/0685. Redundant Connection II/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1001~1500/1434. Number of Ways to Wear Different Hats to Each Other/.idea/1434. Number of Ways to Wear Different Hats to Each Other.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../1001~1500/1434. Number of Ways to Wear Different Hats to Each Other/.idea/1434. Number of Ways to Wear Different Hats to Each Other.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1001~1500/1434. Number of Ways to Wear Different Hats to Each Other/.idea/sonarlint/issuestore/3/5/355b4fe19acbaccb2562197f1c9ce73c58bfd620" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1001~1500/1434. Number of Ways to Wear Different Hats to Each Other/.idea/sonarlint/issuestore/c/c/cc7b753f568727eee1a611f410e85ecaa3a34e66" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1001~1500/1434. Number of Ways to Wear Different Hats to Each Other/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../1001~1500/1434. Number of Ways to Wear Different Hats to Each Other/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1001~1500/1434. Number of Ways to Wear Different Hats to Each Other/.idea/sonarlint/securityhotspotstore/3/5/355b4fe19acbaccb2562197f1c9ce73c58bfd620" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1001~1500/1434. Number of Ways to Wear Different Hats to Each Other/.idea/sonarlint/securityhotspotstore/c/c/cc7b753f568727eee1a611f410e85ecaa3a34e66" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1001~1500/1434. Number of Ways to Wear Different Hats to Each Other/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../1001~1500/1434. Number of Ways to Wear Different Hats to Each Other/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1001~1500/1434. Number of Ways to Wear Different Hats to Each Other/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../1001~1500/1434. Number of Ways to Wear Different Hats to Each Other/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1001~1500/1434. Number of Ways to Wear Different Hats to Each Other/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../1001~1500/1434. Number of Ways to Wear Different Hats to Each Other/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1851. Minimum Interval to Include Each Query/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../1851. Minimum Interval to Include Each Query/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1851. Minimum Interval to Include Each Query/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../1851. Minimum Interval to Include Each Query/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1851. Minimum Interval to Include Each Query/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../1851. Minimum Interval to Include Each Query/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1851. Minimum Interval to Include Each Query/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../1851. Minimum Interval to Include Each Query/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/1986. Minimum Number of Work Sessions to Finish the Tasks.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/1986. Minimum Number of Work Sessions to Finish the Tasks.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2023" />
+    <option name="minorVersion" value="2.1" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
@@ -106,20 +158,37 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/ryanpionee2/Github/Leetcode/1501~2000/1986. Minimum Number of Work Sessions to Finish the Tasks",
-    "node.js.detected.package.eslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/ryanpionee2/Github/Leetcode/1501~2000/1986. Minimum Number of Work Sessions to Finish the Tasks&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.new.ui&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager">
+}</component>
+  <component name="RunManager" selected="CMake Application.1986__Minimum_Number_of_Work_Sessions_to_Finish_the_Tasks">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="1986__Minimum_Number_of_Work_Sessions_to_Finish_the_Tasks" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="1986__Minimum_Number_of_Work_Sessions_to_Finish_the_Tasks" TARGET_NAME="1986__Minimum_Number_of_Work_Sessions_to_Finish_the_Tasks" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="1986__Minimum_Number_of_Work_Sessions_to_Finish_the_Tasks" RUN_TARGET_NAME="1986__Minimum_Number_of_Work_Sessions_to_Finish_the_Tasks">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="1986. Minimum Number of Work Sessions to Finish the Tasks" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -142,6 +211,10 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="CMake Application.1986__Minimum_Number_of_Work_Sessions_to_Finish_the_Tasks" />
+      <item itemvalue="Python.main" />
+    </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -152,12 +225,25 @@
       <option name="presentableId" value="Default" />
       <updated>1693029661679</updated>
       <workItem from="1693029663042" duration="1246000" />
-      <workItem from="1693035047398" duration="1381000" />
+      <workItem from="1693035047398" duration="4980000" />
+      <workItem from="1693122416371" duration="31000" />
+      <workItem from="1693122475047" duration="99000" />
+      <workItem from="1693122819465" duration="1864000" />
+      <workItem from="1693124914497" duration="1843000" />
+      <workItem from="1693126781601" duration="7000" />
+      <workItem from="1693127489401" duration="217000" />
+      <workItem from="1693128055361" duration="1501000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VCPKGProject">
+    <isAutomaticEditVcpkgJson value="false" />
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticFoundErrors value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />

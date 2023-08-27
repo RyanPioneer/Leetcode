@@ -1,0 +1,12 @@
+
+/	cpp:S1481%"unused variable 's'(“¦ò¼8Ì›Ù·£1
+u	cpp:S1186"YAdd a nested comment explaining why this method is empty, or complete the implementation.(ºÏøê8Ø›Ù·£1
+E	cpp:S5817")This function should be declared "const".(ºÏøê8Ø›Ù·£1
+Icpp:S935")non-void function does not return a value(æÀö€øÿÿÿÿ8Ø›Ù·£1
+S	cpp:S1172"7Remove the unused parameter "nums1" or make it unnamed.(ºÏøê8ÍÚ·£1
+S	cpp:S1172"7Remove the unused parameter "nums2" or make it unnamed.(ºÏøê8ÍÚ·£1
+U	cpp:S1172"9Remove the unused parameter "queries" or make it unnamed.(ºÏøê8ÍÚ·£1
+‹cpp:S995"pMake the type of this parameter a reference-to-const. The current type of "nums1" is "class std::vector<int> &".(ºÏøê8ÍÚ·£1
+‹cpp:S995"pMake the type of this parameter a reference-to-const. The current type of "nums2" is "class std::vector<int> &".(ºÏøê8ÍÚ·£1
+¢cpp:S995"†Make the type of this parameter a reference-to-const. The current type of "queries" is "class std::vector<class std::vector<int> > &".(ºÏøê8ÍÚ·£1
+>cpp:S125"Remove the commented out code.(áëâ¾úÿÿÿÿ8æ›Ù·£1

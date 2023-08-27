@@ -1,0 +1,11 @@
+
+@	cpp:S11171"$declaration shadows a local variable(Üßã8êùÁ·£1
+x	cpp:S5276 "Wimplicit conversion loses integer precision: 'size_type' (aka 'unsigned long') to 'int'(õ½•ıùÿÿÿÿ8Ô¯½µ£1
+/	cpp:S1481F"unused variable 's'(“¦ò¼8¨Úû¶£1
+J	cpp:S5817")This function should be declared "const".(«º˜âıÿÿÿÿ8ÆøÄ·£1
+hcpp:S1343"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(Â£¾ı8”½©·£1
+Q	cpp:S1659 "0Define each identifier in a dedicated statement.(õ½•ıùÿÿÿÿ8‚…Ø¶£1
+d	cpp:S5566&"CChange this raw for-loop to a range for-loop or an "std::for_each".(Ì—êàÿÿÿÿÿ8ĞøÄ·£1
+Y	cpp:S1155+"=Use "empty()" to check whether the container is empty or not.(ã”ÌÅ8î·á¶£1
+Q	cpp:S16592"0Define each identifier in a dedicated statement.(ñÏÜ‰ıÿÿÿÿ8¨½©·£1
+>cpp:S125="Remove the commented out code.(áëâ¾úÿÿÿÿ8®¡À·£1

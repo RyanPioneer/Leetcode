@@ -1,0 +1,8 @@
+
+z	cpp:S1186"YAdd a nested comment explaining why this method is empty, or complete the implementation.(×ÇºÜüÿÿÿÿ8ûÒ²£1
+C	cpp:S5817")This function should be declared "const".(×ÇºÜüÿÿÿÿ
+Icpp:S935")non-void function does not return a value(æÀö€øÿÿÿÿ8üÒ²£1
+X	cpp:S1172"7Remove the unused parameter "tasks" or make it unnamed.(×ÇºÜüÿÿÿÿ8üÒ²£1
+^	cpp:S1172"=Remove the unused parameter "sessionTime" or make it unnamed.(×ÇºÜüÿÿÿÿ8üÒ²£1
+‰cpp:S995"pMake the type of this parameter a reference-to-const. The current type of "tasks" is "class std::vector<int> &".(×ÇºÜüÿÿÿÿ
+7cpp:S125"Remove the commented out code.(áëâ¾úÿÿÿÿ

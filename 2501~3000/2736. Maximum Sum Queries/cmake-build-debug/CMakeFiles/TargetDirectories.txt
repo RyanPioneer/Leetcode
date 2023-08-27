@@ -1,0 +1,3 @@
+/Users/ryanpionee2/Github/Leetcode/2501~3000/2736. Maximum Sum Queries/cmake-build-debug/CMakeFiles/2736__Maximum_Sum_Queries.dir
+/Users/ryanpionee2/Github/Leetcode/2501~3000/2736. Maximum Sum Queries/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ryanpionee2/Github/Leetcode/2501~3000/2736. Maximum Sum Queries/cmake-build-debug/CMakeFiles/rebuild_cache.dir

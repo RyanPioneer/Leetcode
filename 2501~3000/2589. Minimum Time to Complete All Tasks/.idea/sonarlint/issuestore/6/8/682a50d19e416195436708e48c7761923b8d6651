@@ -1,0 +1,11 @@
+
+x	cpp:S5276"Wimplicit conversion loses integer precision: 'size_type' (aka 'unsigned long') to 'int'(“¶‚ùúÿÿÿÿ8°¡ü®£1
+x	cpp:S5276;"Wimplicit conversion loses integer precision: 'size_type' (aka 'unsigned long') to 'int'(¨›ÕÄûÿÿÿÿ8ÁÀ’¯£1
+	cpp:S3230"`Do not assign data members in a constructor. Initialize member "nums" in an initialization list.(ÙŒáÒùÿÿÿÿ8½¡ü®£1
+	cpp:S3230"`Do not assign data members in a constructor. Initialize member "size" in an initialization list.(“¶‚ùúÿÿÿÿ8½¡ü®£1
+K	cpp:S1709"/Add the "explicit" keyword to this constructor.(ñ›Û8ç®÷®£1
+V	cpp:S1238":Pass expensive to copy object "arr" by reference to const.(ñ›Û8½¡ü®£1
+J	cpp:S5817:")This function should be declared "const".(·³¯ùÿÿÿÿ8şÉç°£1
+Q	cpp:S1659;"0Define each identifier in a dedicated statement.(¨›ÕÄûÿÿÿÿ8˜Ì“¯£1
+Q	cpp:S1659C"0Define each identifier in a dedicated statement.(¾Å¥‘úÿÿÿÿ8Ô™™¯£1
+9cpp:S125="Remove the commented out code.(öìŒ¹8Î«å°£1
