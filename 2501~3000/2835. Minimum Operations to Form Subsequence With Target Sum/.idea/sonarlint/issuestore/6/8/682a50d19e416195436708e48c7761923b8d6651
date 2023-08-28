@@ -1,0 +1,4 @@
+
+J	cpp:S5817")This function should be declared "const".(·àô¶øÿÿÿÿ8ºéÊ£1
+cpp:S995"oMake the type of this parameter a reference-to-const. The current type of "nums" is "class std::vector<int> &".(·àô¶øÿÿÿÿ8¼éÊ£1
+>cpp:S125A"Remove the commented out code.(áëâ¾úÿÿÿÿ8àÛ²É£1

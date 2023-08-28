@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "1483__Kth_Ancestor_of_a_Tree_Node",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "1483__Kth_Ancestor_of_a_Tree_Node::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-1483__Kth_Ancestor_of_a_Tree_Node-Debug-c25ff1c23ae731b622c2.json",
+					"name" : "1483__Kth_Ancestor_of_a_Tree_Node",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/ryanpionee2/Github/Leetcode/1001~1500/1483. Kth Ancestor of a Tree Node/cmake-build-debug",
+		"source" : "/Users/ryanpionee2/Github/Leetcode/1001~1500/1483. Kth Ancestor of a Tree Node"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}

@@ -1,0 +1,10 @@
+
+/	cpp:S1481%"unused variable 's'(“¦ò¼8‡×ÉÞ£1
+u	cpp:S1186"YAdd a nested comment explaining why this method is empty, or complete the implementation.(ì¯Œï8Ô½ÉÞ£1
+E	cpp:S5817")This function should be declared "const".(ì¯Œï8Ô½ÉÞ£1
+Icpp:S935")non-void function does not return a value(æÀö€øÿÿÿÿ8Ô½ÉÞ£1
+U	cpp:S1238"9Pass expensive to copy object "s1" by reference to const.(ì¯Œï8Ô½ÉÞ£1
+U	cpp:S1238"9Pass expensive to copy object "s2" by reference to const.(ì¯Œï8Ô½ÉÞ£1
+p	cpp:S1172"TRemove the unused parameter "s1", make it unnamed, or declare it "[[maybe_unused]]".(ì¯Œï8Ô½ÉÞ£1
+p	cpp:S1172"TRemove the unused parameter "s2", make it unnamed, or declare it "[[maybe_unused]]".(ì¯Œï8Ô½ÉÞ£1
+7cpp:S125"Remove the commented out code.(áëâ¾úÿÿÿÿ

@@ -51,13 +51,13 @@ build cmake_object_order_depends_target_1986__Minimum_Number_of_Work_Sessions_to
 
 build CMakeFiles/1986__Minimum_Number_of_Work_Sessions_to_Finish_the_Tasks.dir/main.cpp.o: CXX_COMPILER__1986__Minimum_Number_of_Work_Sessions_to_Finish_the_Tasks_unscanned_Debug /Users/ryanpionee2/Github/Leetcode/1501~2000/1986.$ Minimum$ Number$ of$ Work$ Sessions$ to$ Finish$ the$ Tasks/main.cpp || cmake_object_order_depends_target_1986__Minimum_Number_of_Work_Sessions_to_Finish_the_Tasks
   DEP_FILE = CMakeFiles/1986__Minimum_Number_of_Work_Sessions_to_Finish_the_Tasks.dir/main.cpp.o.d
-  FLAGS = -g -std=gnu++14 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/1986__Minimum_Number_of_Work_Sessions_to_Finish_the_Tasks.dir
   OBJECT_FILE_DIR = CMakeFiles/1986__Minimum_Number_of_Work_Sessions_to_Finish_the_Tasks.dir
 
 build CMakeFiles/1986__Minimum_Number_of_Work_Sessions_to_Finish_the_Tasks.dir/main2.cpp.o: CXX_COMPILER__1986__Minimum_Number_of_Work_Sessions_to_Finish_the_Tasks_unscanned_Debug /Users/ryanpionee2/Github/Leetcode/1501~2000/1986.$ Minimum$ Number$ of$ Work$ Sessions$ to$ Finish$ the$ Tasks/main2.cpp || cmake_object_order_depends_target_1986__Minimum_Number_of_Work_Sessions_to_Finish_the_Tasks
   DEP_FILE = CMakeFiles/1986__Minimum_Number_of_Work_Sessions_to_Finish_the_Tasks.dir/main2.cpp.o.d
-  FLAGS = -g -std=gnu++14 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/1986__Minimum_Number_of_Work_Sessions_to_Finish_the_Tasks.dir
   OBJECT_FILE_DIR = CMakeFiles/1986__Minimum_Number_of_Work_Sessions_to_Finish_the_Tasks.dir
 

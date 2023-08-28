@@ -1,12 +1,29 @@
 
-/	cpp:S1481%"unused variable 's'(“¦ò¼8Ì›Ù·£1
-u	cpp:S1186"YAdd a nested comment explaining why this method is empty, or complete the implementation.(ºÏøê8Ø›Ù·£1
-E	cpp:S5817")This function should be declared "const".(ºÏøê8Ø›Ù·£1
-Icpp:S935")non-void function does not return a value(æÀö€øÿÿÿÿ8Ø›Ù·£1
-S	cpp:S1172"7Remove the unused parameter "nums1" or make it unnamed.(ºÏøê8ÍÚ·£1
-S	cpp:S1172"7Remove the unused parameter "nums2" or make it unnamed.(ºÏøê8ÍÚ·£1
-U	cpp:S1172"9Remove the unused parameter "queries" or make it unnamed.(ºÏøê8ÍÚ·£1
-‹cpp:S995"pMake the type of this parameter a reference-to-const. The current type of "nums1" is "class std::vector<int> &".(ºÏøê8ÍÚ·£1
-‹cpp:S995"pMake the type of this parameter a reference-to-const. The current type of "nums2" is "class std::vector<int> &".(ºÏøê8ÍÚ·£1
-¢cpp:S995"†Make the type of this parameter a reference-to-const. The current type of "queries" is "class std::vector<class std::vector<int> > &".(ºÏøê8ÍÚ·£1
->cpp:S125"Remove the commented out code.(áëâ¾úÿÿÿÿ8æ›Ù·£1
+÷	cpp:S52767"Õimplicit conversion turns floating-point number into integer: 'typename std::__enable_if_t<std::is_arithmetic<int>::value && std::is_arithmetic<int>::value, std::__promote<int, int>>::type' (aka 'double') to 'int'(¶å‰åıÿÿÿÿ8½ƒ‘Ó£1
+ó	cpp:S5276ˆ"Õimplicit conversion turns floating-point number into integer: 'typename std::__enable_if_t<std::is_arithmetic<int>::value && std::is_arithmetic<int>::value, std::__promote<int, int>>::type' (aka 'double') to 'int'(¦«¾8é¡ÈÓ£1
+}	cpp:S3230 "aDo not assign data members in a constructor. Initialize member "begin" in an initialization list.(Ò‰²á8®¥Ò£1
+{	cpp:S3230!"_Do not assign data members in a constructor. Initialize member "end" in an initialization list.(ˆ³Ğá8®¥Ò£1
+z	cpp:S3230""_Do not assign data members in a constructor. Initialize member "mid" in an initialization list.(¦óï/8œ·ÃÒ£1
+{	cpp:S3230#"_Do not assign data members in a constructor. Initialize member "val" in an initialization list.(ÀÛ¾8Ú«€Ñ£1
+	cpp:S3230$"`Do not assign data members in a constructor. Initialize member "left" in an initialization list.(¸û¥¨üÿÿÿÿ8Ú«€Ñ£1
+}	cpp:S3230%"aDo not assign data members in a constructor. Initialize member "right" in an initialization list.(ÛÚË÷8ˆÅ¹Ò£1
+}	cpp:S3230)"aDo not assign data members in a constructor. Initialize member "begin" in an initialization list.(Ò‰²á8Î¦Ò£1
+{	cpp:S3230*"_Do not assign data members in a constructor. Initialize member "end" in an initialization list.(ˆ³Ğá8Î¦Ò£1
+z	cpp:S3230+"_Do not assign data members in a constructor. Initialize member "mid" in an initialization list.(¦óï/8³¶ÉÒ£1
+{	cpp:S3230,"_Do not assign data members in a constructor. Initialize member "val" in an initialization list.(ÀÛ¾8„¢Ñ£1
+|	cpp:S3230-"`Do not assign data members in a constructor. Initialize member "left" in an initialization list.(ÀïÇ8„¢Ñ£1
+‚	cpp:S3230."aDo not assign data members in a constructor. Initialize member "right" in an initialization list.(Éº÷Øúÿÿÿÿ8‰Å¹Ò£1
+r	cpp:S50257"QReplace the use of "new" with an operation that automatically manages the memory.(¶å‰åıÿÿÿÿ8ÌïÓ£1
+H	cpp:S5827D"'Replace the redundant type with "auto".(¸Ë’×şÿÿÿÿ8ÌïÓ£1
+r	cpp:S5025D"QReplace the use of "new" with an operation that automatically manages the memory.(¸Ë’×şÿÿÿÿ8ÍïÓ£1
+C	cpp:S5827J"'Replace the redundant type with "auto".(èÿ©Ñ8ÌïÓ£1
+m	cpp:S5025J"QReplace the use of "new" with an operation that automatically manages the memory.(èÿ©Ñ8ÍúÓ£1
+Q	cpp:S1659Z"0Define each identifier in a dedicated statement.(£ì‘Âüÿÿÿÿ8ÎïÓ£1
+E	cpp:S5817h")This function should be declared "const".(ºÏøê8™ûÔ£1
+H	cpp:S5827j"'Replace the redundant type with "auto".(İœïúÿÿÿÿ8ĞÁ•Ó£1
+`	cpp:S5566ƒ"CChange this raw for-loop to a range for-loop or an "std::for_each".(Ñ±‚Â8¢ÈÓ£1
+r	cpp:S5025j"QReplace the use of "new" with an operation that automatically manages the memory.(İœïúÿÿÿÿ8ÔÁ•Ó£1
+M	cpp:S1659•"0Define each identifier in a dedicated statement.(¿˜ƒÅ8Å¦ÆÓ£1
+J	cpp:S3584Œ"-Potential leak of memory pointed to by 'tree'(ûÄéÌ8®¨Ô£1
+?cpp:S125˜"Remove the commented out code.(¹Ä¯³øÿÿÿÿ8¬€Ô£1
+?cpp:S125Ÿ"Remove the commented out code.(áëâ¾úÿÿÿÿ8ÎôãÓ£1
