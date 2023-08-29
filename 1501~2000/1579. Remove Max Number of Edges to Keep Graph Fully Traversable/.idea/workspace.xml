@@ -3,40 +3,77 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="1579__Remove_Max_Number_of_Edges_to_Keep_Graph_Fully_Traversable" targetName="1579__Remove_Max_Number_of_Edges_to_Keep_Graph_Fully_Traversable" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="b99e9dcc-e400-4905-b550-2e249833f152" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../0501~1000/0839. Similar String Groups/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../0501~1000/0839. Similar String Groups/.idea/sonarlint/securityhotspotstore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1491. Average Salary Excluding the Minimum and Maximum Salary/.idea/1491. Average Salary Excluding the Minimum and Maximum Salary.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1491. Average Salary Excluding the Minimum and Maximum Salary/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1491. Average Salary Excluding the Minimum and Maximum Salary/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1491. Average Salary Excluding the Minimum and Maximum Salary/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1491. Average Salary Excluding the Minimum and Maximum Salary/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1491. Average Salary Excluding the Minimum and Maximum Salary/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1491. Average Salary Excluding the Minimum and Maximum Salary/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1491. Average Salary Excluding the Minimum and Maximum Salary/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1491. Average Salary Excluding the Minimum and Maximum Salary/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1491. Average Salary Excluding the Minimum and Maximum Salary/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1491. Average Salary Excluding the Minimum and Maximum Salary/test.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1697. Checking Existence of Edge Length Limited Paths/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1697. Checking Existence of Edge Length Limited Paths/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1697. Checking Existence of Edge Length Limited Paths/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1697. Checking Existence of Edge Length Limited Paths/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../0501~1000/0839. Similar String Groups/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../0501~1000/0839. Similar String Groups/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../0501~1000/0839. Similar String Groups/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../0501~1000/0839. Similar String Groups/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1712. Ways to Split Array Into Three Subarrays/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1712. Ways to Split Array Into Three Subarrays/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1712. Ways to Split Array Into Three Subarrays/.idea/1712. Ways to Split Array Into Three Subarrays.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1712. Ways to Split Array Into Three Subarrays/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1712. Ways to Split Array Into Three Subarrays/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1712. Ways to Split Array Into Three Subarrays/.idea/sonarlint/issuestore/6/8/682a50d19e416195436708e48c7761923b8d6651" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1712. Ways to Split Array Into Three Subarrays/.idea/sonarlint/issuestore/9/a/9a2aa4db38d3115ed60da621e012c0efc0172aae" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1712. Ways to Split Array Into Three Subarrays/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1712. Ways to Split Array Into Three Subarrays/.idea/sonarlint/securityhotspotstore/6/8/682a50d19e416195436708e48c7761923b8d6651" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1712. Ways to Split Array Into Three Subarrays/.idea/sonarlint/securityhotspotstore/9/a/9a2aa4db38d3115ed60da621e012c0efc0172aae" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1712. Ways to Split Array Into Three Subarrays/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1712. Ways to Split Array Into Three Subarrays/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1712. Ways to Split Array Into Three Subarrays/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1986. Minimum Number of Work Sessions to Finish the Tasks/.idea/sonarlint/issuestore/6/8/682a50d19e416195436708e48c7761923b8d6651" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1986. Minimum Number of Work Sessions to Finish the Tasks/.idea/sonarlint/issuestore/9/a/9a2aa4db38d3115ed60da621e012c0efc0172aae" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1986. Minimum Number of Work Sessions to Finish the Tasks/.idea/sonarlint/issuestore/c/7/c7f6481e1d3f40482a4153d8bc9c68fbd7272583" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1986. Minimum Number of Work Sessions to Finish the Tasks/.idea/sonarlint/securityhotspotstore/6/8/682a50d19e416195436708e48c7761923b8d6651" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1986. Minimum Number of Work Sessions to Finish the Tasks/.idea/sonarlint/securityhotspotstore/9/a/9a2aa4db38d3115ed60da621e012c0efc0172aae" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1986. Minimum Number of Work Sessions to Finish the Tasks/.idea/sonarlint/securityhotspotstore/c/7/c7f6481e1d3f40482a4153d8bc9c68fbd7272583" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/1579. Remove Max Number of Edges to Keep Graph Fully Traversable.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/1579. Remove Max Number of Edges to Keep Graph Fully Traversable.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1986. Minimum Number of Work Sessions to Finish the Tasks/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../1986. Minimum Number of Work Sessions to Finish the Tasks/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1986. Minimum Number of Work Sessions to Finish the Tasks/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../1986. Minimum Number of Work Sessions to Finish the Tasks/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1986. Minimum Number of Work Sessions to Finish the Tasks/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../1986. Minimum Number of Work Sessions to Finish the Tasks/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2001~2500/2060. Check if an Original String Exists Given Two Encoded Strings/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../2001~2500/2060. Check if an Original String Exists Given Two Encoded Strings/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2001~2500/2060. Check if an Original String Exists Given Two Encoded Strings/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../2001~2500/2060. Check if an Original String Exists Given Two Encoded Strings/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2023" />
+    <option name="minorVersion" value="2.1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2P8QQqpdv4nXQXwWuLonNme6R3F" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -51,16 +88,27 @@
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "/Users/ryanpionee2/Github/Leetcode/1501~2000/1579. Remove Max Number of Edges to Keep Graph Fully Traversable",
     "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="CMake Application.1579__Remove_Max_Number_of_Edges_to_Keep_Graph_Fully_Traversable">
+    <configuration name="1579__Remove_Max_Number_of_Edges_to_Keep_Graph_Fully_Traversable" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="1579__Remove_Max_Number_of_Edges_to_Keep_Graph_Fully_Traversable" TARGET_NAME="1579__Remove_Max_Number_of_Edges_to_Keep_Graph_Fully_Traversable" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="1579__Remove_Max_Number_of_Edges_to_Keep_Graph_Fully_Traversable" RUN_TARGET_NAME="1579__Remove_Max_Number_of_Edges_to_Keep_Graph_Fully_Traversable">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="1579. Remove Max Number of Edges to Keep Graph Fully Traversable" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -83,6 +131,10 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="CMake Application.1579__Remove_Max_Number_of_Edges_to_Keep_Graph_Fully_Traversable" />
+      <item itemvalue="Python.main" />
+    </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -93,11 +145,20 @@
       <option name="presentableId" value="Default" />
       <updated>1682836215467</updated>
       <workItem from="1682836218046" duration="1022000" />
+      <workItem from="1693268455467" duration="36000" />
+      <workItem from="1693269103054" duration="4000" />
+      <workItem from="1693269114111" duration="2298000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VCPKGProject">
+    <isAutomaticEditVcpkgJson value="false" />
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticFoundErrors value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />

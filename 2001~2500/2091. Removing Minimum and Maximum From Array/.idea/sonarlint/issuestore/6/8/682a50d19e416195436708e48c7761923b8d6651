@@ -1,0 +1,10 @@
+
+x	cpp:S5276"Wimplicit conversion loses integer precision: 'size_type' (aka 'unsigned long') to 'int'(œ¦ˆÝûÿÿÿÿ8ÉÕŽ‡¤1
+‡	cpp:S5276"fimplicit conversion loses integer precision: 'decltype(__x.base() - __y.base())' (aka 'long') to 'int'(œ¦ˆÝûÿÿÿÿ8ÉÕŽ‡¤1
+‡	cpp:S5276"fimplicit conversion loses integer precision: 'decltype(__x.base() - __y.base())' (aka 'long') to 'int'(œ¦ˆÝûÿÿÿÿ8ÉÕŽ‡¤1
+/	cpp:S1481+"unused variable 's'(“¦ò¼8ñèë†¤1
+E	cpp:S5817")This function should be declared "const".(ŽŠËç8ãÅ–‡¤1
+Q	cpp:S1659"0Define each identifier in a dedicated statement.(œ¦ˆÝûÿÿÿÿ8Þ„ñ†¤1
+I	cpp:S6197"(Replace with "std::ranges::min_element".(œ¦ˆÝûÿÿÿÿ8Ÿ™ˆ‡¤1
+I	cpp:S6197"(Replace with "std::ranges::max_element".(œ¦ˆÝûÿÿÿÿ8êâŠ‡¤1
+8cpp:S125"Remove the commented out code.(œý…-8¼ëë†¤1

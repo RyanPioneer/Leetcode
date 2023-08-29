@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "1770__Maximum_Score_from_Performing_Multiplication_Operations",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "1770__Maximum_Score_from_Performing_Multiplication_Operations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-1770__Maximum_Score_from_Performing_Multiplication_Operations-Debug-7dbf1065726d9fab589a.json",
+					"name" : "1770__Maximum_Score_from_Performing_Multiplication_Operations",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/ryanpionee2/Github/Leetcode/1501~2000/1770. Maximum Score from Performing Multiplication Operations/cmake-build-debug",
+		"source" : "/Users/ryanpionee2/Github/Leetcode/1501~2000/1770. Maximum Score from Performing Multiplication Operations"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}

@@ -1,0 +1,8 @@
+
+J	cpp:S5817")This function should be declared "const".(×ÇºÜüÿÿÿÿ8åä°²£1
+mcpp:S134$"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(ê–Ñ´úÿÿÿÿ8û¡°²£1
+cpp:S995"pMake the type of this parameter a reference-to-const. The current type of "tasks" is "class std::vector<int> &".(×ÇºÜüÿÿÿÿ8åä°²£1
+X	cpp:S1155"=Use "empty()" to check whether the container is empty or not.(™³.8ı¡°²£1
+I	cpp:S3659!"-Replace alternative operator "and" with "&&".(±‚Î¼8ı¡°²£1
+Y	cpp:S1155!"=Use "empty()" to check whether the container is empty or not.(±‚Î¼8ı¡°²£1
+>cpp:S1252"Remove the commented out code.(áëâ¾úÿÿÿÿ8ï›±²£1

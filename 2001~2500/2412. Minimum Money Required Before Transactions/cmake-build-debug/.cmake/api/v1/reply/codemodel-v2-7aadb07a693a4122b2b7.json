@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "2412__Minimum_Money_Required_Before_Transactions",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "2412__Minimum_Money_Required_Before_Transactions::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-2412__Minimum_Money_Required_Before_Transactions-Debug-da5aa6296b681347673b.json",
+					"name" : "2412__Minimum_Money_Required_Before_Transactions",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/ryanpionee2/Github/Leetcode/2001~2500/2412. Minimum Money Required Before Transactions/cmake-build-debug",
+		"source" : "/Users/ryanpionee2/Github/Leetcode/2001~2500/2412. Minimum Money Required Before Transactions"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}

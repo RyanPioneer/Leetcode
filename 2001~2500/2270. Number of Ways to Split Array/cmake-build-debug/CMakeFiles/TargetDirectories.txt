@@ -1,0 +1,3 @@
+/Users/ryanpionee2/Github/Leetcode/2001~2500/2270. Number of Ways to Split Array/cmake-build-debug/CMakeFiles/2270__Number_of_Ways_to_Split_Array.dir
+/Users/ryanpionee2/Github/Leetcode/2001~2500/2270. Number of Ways to Split Array/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ryanpionee2/Github/Leetcode/2001~2500/2270. Number of Ways to Split Array/cmake-build-debug/CMakeFiles/rebuild_cache.dir

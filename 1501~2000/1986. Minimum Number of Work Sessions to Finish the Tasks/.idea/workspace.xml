@@ -20,85 +20,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fed45125-93fd-4238-a132-0bfcb31368a7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1483. Kth Ancestor of a Tree Node/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1483. Kth Ancestor of a Tree Node/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1483. Kth Ancestor of a Tree Node/.idea/1483. Kth Ancestor of a Tree Node.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1483. Kth Ancestor of a Tree Node/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1483. Kth Ancestor of a Tree Node/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1483. Kth Ancestor of a Tree Node/.idea/sonarlint/issuestore/6/8/682a50d19e416195436708e48c7761923b8d6651" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1483. Kth Ancestor of a Tree Node/.idea/sonarlint/issuestore/9/a/9a2aa4db38d3115ed60da621e012c0efc0172aae" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1483. Kth Ancestor of a Tree Node/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1483. Kth Ancestor of a Tree Node/.idea/sonarlint/securityhotspotstore/6/8/682a50d19e416195436708e48c7761923b8d6651" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1483. Kth Ancestor of a Tree Node/.idea/sonarlint/securityhotspotstore/9/a/9a2aa4db38d3115ed60da621e012c0efc0172aae" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1483. Kth Ancestor of a Tree Node/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1483. Kth Ancestor of a Tree Node/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1483. Kth Ancestor of a Tree Node/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1483. Kth Ancestor of a Tree Node/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2060. Check if an Original String Exists Given Two Encoded Strings/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2060. Check if an Original String Exists Given Two Encoded Strings/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2501~3000/2713. Maximum Strictly Increasing Cells in a Matrix/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2501~3000/2713. Maximum Strictly Increasing Cells in a Matrix/.idea/2713. Maximum Strictly Increasing Cells in a Matrix.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2501~3000/2713. Maximum Strictly Increasing Cells in a Matrix/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2501~3000/2713. Maximum Strictly Increasing Cells in a Matrix/.idea/sonarlint/issuestore/6/8/682a50d19e416195436708e48c7761923b8d6651" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2501~3000/2713. Maximum Strictly Increasing Cells in a Matrix/.idea/sonarlint/issuestore/9/a/9a2aa4db38d3115ed60da621e012c0efc0172aae" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2501~3000/2713. Maximum Strictly Increasing Cells in a Matrix/.idea/sonarlint/issuestore/c/7/c7f6481e1d3f40482a4153d8bc9c68fbd7272583" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2501~3000/2713. Maximum Strictly Increasing Cells in a Matrix/.idea/sonarlint/securityhotspotstore/6/8/682a50d19e416195436708e48c7761923b8d6651" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2501~3000/2713. Maximum Strictly Increasing Cells in a Matrix/.idea/sonarlint/securityhotspotstore/9/a/9a2aa4db38d3115ed60da621e012c0efc0172aae" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2501~3000/2713. Maximum Strictly Increasing Cells in a Matrix/.idea/sonarlint/securityhotspotstore/c/7/c7f6481e1d3f40482a4153d8bc9c68fbd7272583" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2501~3000/2713. Maximum Strictly Increasing Cells in a Matrix/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2501~3000/2713. Maximum Strictly Increasing Cells in a Matrix/main" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2501~3000/2713. Maximum Strictly Increasing Cells in a Matrix/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2501~3000/2713. Maximum Strictly Increasing Cells in a Matrix/main.dSYM/Contents/Info.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2501~3000/2713. Maximum Strictly Increasing Cells in a Matrix/main.dSYM/Contents/Resources/DWARF/main" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2501~3000/2713. Maximum Strictly Increasing Cells in a Matrix/main2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2501~3000/2713. Maximum Strictly Increasing Cells in a Matrix/main2.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2501~3000/2713. Maximum Strictly Increasing Cells in a Matrix/main2.dSYM/Contents/Info.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2501~3000/2713. Maximum Strictly Increasing Cells in a Matrix/main2.dSYM/Contents/Resources/DWARF/main2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2501~3000/2835. Minimum Operations to Form Subsequence With Target Sum/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2501~3000/2835. Minimum Operations to Form Subsequence With Target Sum/.idea/2835__Minimum_Operations_to_Form_Subsequence_With_Target_Sum.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2501~3000/2835. Minimum Operations to Form Subsequence With Target Sum/.idea/sonarlint/issuestore/6/8/682a50d19e416195436708e48c7761923b8d6651" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2501~3000/2835. Minimum Operations to Form Subsequence With Target Sum/.idea/sonarlint/issuestore/9/a/9a2aa4db38d3115ed60da621e012c0efc0172aae" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2501~3000/2835. Minimum Operations to Form Subsequence With Target Sum/.idea/sonarlint/securityhotspotstore/6/8/682a50d19e416195436708e48c7761923b8d6651" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2501~3000/2835. Minimum Operations to Form Subsequence With Target Sum/.idea/sonarlint/securityhotspotstore/9/a/9a2aa4db38d3115ed60da621e012c0efc0172aae" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2501~3000/2835. Minimum Operations to Form Subsequence With Target Sum/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2501~3000/2835. Minimum Operations to Form Subsequence With Target Sum/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2501~3000/2835. Minimum Operations to Form Subsequence With Target Sum/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Template/.idea/Template2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Template/.idea/sonarlint/issuestore/9/a/9a2aa4db38d3115ed60da621e012c0efc0172aae" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Template/.idea/sonarlint/securityhotspotstore/9/a/9a2aa4db38d3115ed60da621e012c0efc0172aae" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Template/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Template/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Template/segment_tree_max.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/1986. Minimum Number of Work Sessions to Finish the Tasks.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/1986. Minimum Number of Work Sessions to Finish the Tasks.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/7/c7f6481e1d3f40482a4153d8bc9c68fbd7272583" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/7/c7f6481e1d3f40482a4153d8bc9c68fbd7272583" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main2.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../2001~2500/2070. Most Beautiful Item for Each Query/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../2001~2500/2070. Most Beautiful Item for Each Query/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../2001~2500/2070. Most Beautiful Item for Each Query/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../2001~2500/2070. Most Beautiful Item for Each Query/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../2001~2500/2070. Most Beautiful Item for Each Query/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../2001~2500/2070. Most Beautiful Item for Each Query/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../2001~2500/2070. Most Beautiful Item for Each Query/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../2001~2500/2070. Most Beautiful Item for Each Query/main.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../2501~3000/2736. Maximum Sum Queries/.idea/2736. Maximum Sum Queries.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../2501~3000/2736. Maximum Sum Queries/.idea/2736. Maximum Sum Queries.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../2501~3000/2736. Maximum Sum Queries/.idea/sonarlint/issuestore/6/8/682a50d19e416195436708e48c7761923b8d6651" beforeDir="false" afterPath="$PROJECT_DIR$/../../2501~3000/2736. Maximum Sum Queries/.idea/sonarlint/issuestore/6/8/682a50d19e416195436708e48c7761923b8d6651" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../2501~3000/2736. Maximum Sum Queries/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../2501~3000/2736. Maximum Sum Queries/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../2501~3000/2736. Maximum Sum Queries/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../2501~3000/2736. Maximum Sum Queries/main.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../2501~3000/2835. Minimum Operations to Form Subsequence With Target Sum/.idea/2835. Minimum Operations to Form Subsequence With Target Sum.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../2501~3000/2835. Minimum Operations to Form Subsequence With Target Sum/.idea/2835. Minimum Operations to Form Subsequence With Target Sum.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../2501~3000/2835. Minimum Operations to Form Subsequence With Target Sum/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../2501~3000/2835. Minimum Operations to Form Subsequence With Target Sum/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../2501~3000/2835. Minimum Operations to Form Subsequence With Target Sum/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../2501~3000/2835. Minimum Operations to Form Subsequence With Target Sum/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../2501~3000/2835. Minimum Operations to Form Subsequence With Target Sum/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../2501~3000/2835. Minimum Operations to Form Subsequence With Target Sum/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../2501~3000/2835. Minimum Operations to Form Subsequence With Target Sum/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../2501~3000/2835. Minimum Operations to Form Subsequence With Target Sum/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../2501~3000/2835. Minimum Operations to Form Subsequence With Target Sum/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../2501~3000/2835. Minimum Operations to Form Subsequence With Target Sum/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Template/.idea/Template.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Template/.idea/Template.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Template/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Template/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Template/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Template/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Template/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Template/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Template/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Template/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Template/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Template/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="fed45125-93fd-4238-a132-0bfcb31368a7" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -203,7 +125,7 @@
       <workItem from="1693127489401" duration="217000" />
       <workItem from="1693128055361" duration="1501000" />
       <workItem from="1693218505767" duration="2162000" />
-      <workItem from="1693227849963" duration="1000" />
+      <workItem from="1693227849963" duration="178000" />
     </task>
     <servers />
   </component>

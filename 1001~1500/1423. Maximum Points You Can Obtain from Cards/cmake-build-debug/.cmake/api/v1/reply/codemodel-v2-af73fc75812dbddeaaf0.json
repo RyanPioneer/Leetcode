@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "1423__Maximum_Points_You_Can_Obtain_from_Cards",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "1423__Maximum_Points_You_Can_Obtain_from_Cards::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-1423__Maximum_Points_You_Can_Obtain_from_Cards-Debug-59e3e317bbd72d4b15a8.json",
+					"name" : "1423__Maximum_Points_You_Can_Obtain_from_Cards",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/ryanpionee2/Github/Leetcode/1001~1500/1423. Maximum Points You Can Obtain from Cards/cmake-build-debug",
+		"source" : "/Users/ryanpionee2/Github/Leetcode/1001~1500/1423. Maximum Points You Can Obtain from Cards"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}

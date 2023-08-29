@@ -1,0 +1,4 @@
+# ninja log v5
+0	63	1693282960925199717	build.ninja	976c4317166a0330
+6	458	1693281135587536661	CMakeFiles/2412__Minimum_Money_Required_Before_Transactions.dir/main.cpp.o	9d05756872d06957
+459	496	1693281135626765392	2412__Minimum_Money_Required_Before_Transactions	d61f2ee6bb35fa53

@@ -1,0 +1,14 @@
+
+/	cpp:S1481+"unused variable 's'(“¦ò¼8‚¶À¤1
+u	cpp:S1186"YAdd a nested comment explaining why this method is empty, or complete the implementation.(ó€ª 8ÅÊ¿¤1
+E	cpp:S5817")This function should be declared "const".(ó€ª 8ÅÊ¿¤1
+Icpp:S935")non-void function does not return a value(æÀö€øÿÿÿÿ8ÅÊ¿¤1
+T	cpp:S1238"8Pass expensive to copy object "s" by reference to const.(ó€ª 8ÅÊ¿¤1
+O	cpp:S1172"3Remove the unused parameter "s" or make it unnamed.(ó€ª 8ÅÊ¿¤1
+z	cpp:S1186"YAdd a nested comment explaining why this method is empty, or complete the implementation.(•¥Öıÿÿÿÿ8¼Î¤1
+_	cpp:S5825"CDefine the type with "typedef" or "using" instead of using a macro.(úÇŞ“8¼Î¤1
+J	cpp:S5817")This function should be declared "const".(•¥Öıÿÿÿÿ8¼Î¤1
+Icpp:S935")non-void function does not return a value(æÀö€øÿÿÿÿ8¼Î¤1
+Y	cpp:S1238"8Pass expensive to copy object "s" by reference to const.(•¥Öıÿÿÿÿ8¼Î¤1
+T	cpp:S1172"3Remove the unused parameter "s" or make it unnamed.(•¥Öıÿÿÿÿ8¼Î¤1
+1cpp:S125"Remove the commented out code.(œı…-

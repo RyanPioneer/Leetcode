@@ -1,0 +1,8 @@
+
+v	cpp:S5276"Uimplicit conversion turns floating-point number into integer: 'double' to 'long long'(›Œªùÿÿÿÿ8ôÚ„Š¤1
+]	cpp:S5276$"Aimplicit conversion loses integer precision: 'long long' to 'int'(ûÄéÌ8ÕªŠ¤1
+J	cpp:S5817")This function should be declared "const".(şë•úÿÿÿÿ8·¸½Š¤1
+B	cpp:S6197"!Replace with "std::ranges::sort".(ˆ›œ ıÿÿÿÿ8¸åŠ¤1
+Q	cpp:S1659"0Define each identifier in a dedicated statement.(›Œªùÿÿÿÿ8Š„å‰¤1
+_	cpp:S5825"CDefine the type with "typedef" or "using" instead of using a macro.(úÇŞ“8“ãÀ‰¤1
+1cpp:S125"Remove the commented out code.(œı…-

@@ -1,0 +1,7 @@
+
+x	cpp:S5276"Wimplicit conversion loses integer precision: 'size_type' (aka 'unsigned long') to 'int'(³¨àÀøÿÿÿÿ8¤õœ„¤1
+x	cpp:S5276"Wimplicit conversion loses integer precision: 'size_type' (aka 'unsigned long') to 'int'(³¨àÀøÿÿÿÿ8¤õœ„¤1
+/	cpp:S14815"unused variable 's'(“¦ò¼8ª‘›†¤1
+E	cpp:S5817")This function should be declared "const".(Şó°½8Ïõš†¤1
+Q	cpp:S1659"0Define each identifier in a dedicated statement.(³¨àÀøÿÿÿÿ8ÀÁ¡‚¤1
+1cpp:S125"Remove the commented out code.(œı…-

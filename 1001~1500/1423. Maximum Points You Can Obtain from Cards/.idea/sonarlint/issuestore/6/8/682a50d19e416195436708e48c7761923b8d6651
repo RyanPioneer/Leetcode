@@ -1,0 +1,8 @@
+
+b	cpp:S5276!"Aimplicit conversion loses integer precision: 'long long' to 'int'(½âˆ•øÿÿÿÿ8¼éà†¤1
+]	cpp:S5276%"Aimplicit conversion loses integer precision: 'long long' to 'int'(ûÄéÌ8¼éà†¤1
+/	cpp:S14812"unused variable 's'(“¦ò¼8¸²½†¤1
+J	cpp:S5817")This function should be declared "const".(š“¹²ûÿÿÿÿ8Ïéà†¤1
+Q	cpp:S1659"0Define each identifier in a dedicated statement.(ÕŒÁÂüÿÿÿÿ8Ñéà†¤1
+_	cpp:S5825"CDefine the type with "typedef" or "using" instead of using a macro.(úÇŞ“8Óéà†¤1
+8cpp:S125"Remove the commented out code.(œı…-8ğ²½†¤1

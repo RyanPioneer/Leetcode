@@ -1,0 +1,4 @@
+# ninja log v5
+1	65	1693313487197311415	build.ninja	e665bb82b63bba6d
+6	416	1693311961916595903	CMakeFiles/0891__Sum_of_Subsequence_Widths.dir/main.cpp.o	68d577423c795b29
+416	453	1693311961956136441	0891__Sum_of_Subsequence_Widths	83de148fdb8a3a2f

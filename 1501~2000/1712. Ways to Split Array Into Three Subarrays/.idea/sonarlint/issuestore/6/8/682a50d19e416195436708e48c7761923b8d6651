@@ -1,0 +1,11 @@
+
+v	cpp:S5276"Uimplicit conversion turns floating-point number into integer: 'double' to 'long long'(ü»µøùÿÿÿÿ8±â£1
+s	cpp:S5276("Wimplicit conversion loses integer precision: 'size_type' (aka 'unsigned long') to 'int'(ô¨¾8•µ‡å£1
+]	cpp:S5276("Aimplicit conversion loses integer precision: 'long long' to 'int'(ô¨¾8•µ‡å£1
+]	cpp:S5276,"Aimplicit conversion loses integer precision: 'long long' to 'int'(ûÄéÌ8¡Ú„å£1
+Q	cpp:S1659"0Define each identifier in a dedicated statement.(ªê¢ìıÿÿÿÿ8¨ä³â£1
+_	cpp:S5825"CDefine the type with "typedef" or "using" instead of using a macro.(úÇŞ“8åášâ£1
+E	cpp:S5817.")This function should be declared "const".(ˆø‹ã8ÜÊÉò£1
+Šcpp:S995."oMake the type of this parameter a reference-to-const. The current type of "nums" is "class std::vector<int> &".(ˆø‹ã8Üúâ£1
+L	cpp:S16591"0Define each identifier in a dedicated statement.(ÊÌÖÛ8ïıñâ£1
+>cpp:S125;"Remove the commented out code.(áëâ¾úÿÿÿÿ8ôÛüâ£1

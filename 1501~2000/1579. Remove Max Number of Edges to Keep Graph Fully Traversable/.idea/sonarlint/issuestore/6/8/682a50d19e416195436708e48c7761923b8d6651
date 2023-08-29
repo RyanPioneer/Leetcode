@@ -1,0 +1,9 @@
+
+L	cpp:S1659"0Define each identifier in a dedicated statement.(ÅÁ¾Ì8èÈ¸ö£1
+ cpp:S995$"„Make the type of this parameter a reference-to-const. The current type of "edges" is "class std::vector<class std::vector<int> > &".(£‰ƒ8ìÈ¸ö£1
+K	cpp:S1659%"0Define each identifier in a dedicated statement.(ÁŸ¡e8ìÈ¸ö£1
+L	cpp:S1659&"0Define each identifier in a dedicated statement.(˜òó“8ìÈ¸ö£1
+g	cpp:S55665"KChange this raw for-loop to a range for-loop or an "std::ranges::for_each".(ûíÑ¡8ğÈ¸ö£1
+g	cpp:S5566?"KChange this raw for-loop to a range for-loop or an "std::ranges::for_each".(ãÅ÷ÿ8ñÈ¸ö£1
+f	cpp:S5566G"KChange this raw for-loop to a range for-loop or an "std::ranges::for_each".(¶±‹H8îÖºö£1
+>cpp:S125S"Remove the commented out code.(áëâ¾úÿÿÿÿ8–Ù¸ö£1

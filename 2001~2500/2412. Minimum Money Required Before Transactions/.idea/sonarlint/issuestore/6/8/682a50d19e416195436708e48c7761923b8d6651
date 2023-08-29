@@ -1,0 +1,8 @@
+
+]	cpp:S5276?"Aimplicit conversion loses integer precision: 'long long' to 'int'(îÕ¤8ºêû£1
+E	cpp:S5817")This function should be declared "const".(•Ê©8Ìªşû£1
+_	cpp:S5566"CChange this raw for-loop to a range for-loop or an "std::for_each".(¿Ö¶Ø8ääîû£1
+Q	cpp:S1659$"0Define each identifier in a dedicated statement.(îø÷µúÿÿÿÿ8ääîû£1
+_	cpp:S5825"CDefine the type with "typedef" or "using" instead of using a macro.(úÇŞ“8Ôªşû£1
+8cpp:S125"Remove the commented out code.(œı…-8ê¡ü£1
+>cpp:S1254"Remove the commented out code.(áëâ¾úÿÿÿÿ8Œ¸ú£1

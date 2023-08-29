@@ -1,0 +1,8 @@
+
+v	cpp:S5276"Uimplicit conversion turns floating-point number into integer: 'double' to 'long long'(’í’Óıÿÿÿÿ8ÿ’¤÷£1
+]	cpp:S52763"Aimplicit conversion loses integer precision: 'long long' to 'int'(ûÄéÌ8ìŠ¡ø£1
+J	cpp:S5817")This function should be declared "const".(é±¥ úÿÿÿÿ8ÜÓ£ø£1
+Q	cpp:S1659"0Define each identifier in a dedicated statement.(’í’Óıÿÿÿÿ8ÓÓ¥÷£1
+Mcpp:S886"2Refactor this loop so that it is less error-prone.(ÑãÂ¯8ïİ¤ø£1
+_	cpp:S5825"CDefine the type with "typedef" or "using" instead of using a macro.(úÇŞ“8““¤÷£1
+>cpp:S1257"Remove the commented out code.(áëâ¾úÿÿÿÿ8³Ğƒø£1
