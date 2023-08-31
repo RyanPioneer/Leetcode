@@ -1,6 +1,0 @@
-# ninja log v5
-1	61	1693292255090544587	build.ninja	12b934b1fed207b0
-0	658	1693292255753707044	CMakeFiles/2354__Number_of_Excellent_Pairs.dir/main.cpp.o	b588e61ef516524c
-659	710	1693292255808643843	2354__Number_of_Excellent_Pairs	6b8418a5673aee7e
-5	687	1693292595168338109	CMakeFiles/2354__Number_of_Excellent_Pairs.dir/main.cpp.o	b588e61ef516524c
-687	738	1693292595223040072	2354__Number_of_Excellent_Pairs	6b8418a5673aee7e
