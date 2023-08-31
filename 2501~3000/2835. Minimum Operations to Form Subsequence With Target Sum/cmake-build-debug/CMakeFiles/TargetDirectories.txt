@@ -1,3 +1,0 @@
-/Users/ryanpionee2/Github/Leetcode/2501~3000/2835. Minimum Operations to Form Subsequence With Target Sum/cmake-build-debug/CMakeFiles/2835__Minimum_Operations_to_Form_Subsequence_With_Target_Sum.dir
-/Users/ryanpionee2/Github/Leetcode/2501~3000/2835. Minimum Operations to Form Subsequence With Target Sum/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/ryanpionee2/Github/Leetcode/2501~3000/2835. Minimum Operations to Form Subsequence With Target Sum/cmake-build-debug/CMakeFiles/rebuild_cache.dir

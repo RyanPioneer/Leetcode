@@ -2,8 +2,8 @@
  * Source: https://rb.gy/300v5
  * Date: 2023/8/31
  * Skill:
- * Runtime: 44 ms, faster than 6.74% of C++ online submissions
- * Memory Usage: 213.59 MB, less than 5.56% of C++ online submissions
+ * Runtime: 19 ms, faster than 27.42% of C++ online submissions
+ * Memory Usage: 10.8 MB, less than 12.29% of C++ online submissions
  * Time complexity: O(n)
  * Space complexity: O(n)
  * Constraints:
@@ -15,7 +15,7 @@
 #include <iostream>
 #include <algorithm>
 #include <map>
-#include <set>
+#include <stack>
 #include <string>
 
 using namespace std;
@@ -28,28 +28,25 @@ typedef pair<int, int> pairs;
 class Solution {
 public:
     bool parseBoolExpr(string expression) {
-        return helper(expression, 0, expression.size() - 1);
-    }
-    bool helper(string expression, int start, int end) {
-        if (start == end) return expression[start] == 't';
-        vector<bool> operands;
-        for (int i = start + 2; i <= end; i++) {
+        stack<char> ope;
+        stack<vector<bool>> operands;
+        vector<bool> vals;
+        bool res;
+        for (int i = 0; i < expression.length(); i++) {
             if (expression[i] == '!' || expression[i] == '&' || expression[i] == '|') {
-                int level = 1, j = i + 2;
-                for (; j <= end; j++) {
-                    if (expression[j] == '(') level++;
-                    if (expression[j] == ')') level--;
-                    if (level == 0) break;
-                }
-                operands.push_back(helper(expression, i, j));
-                i = j;
-            } else if (expression[i] == 't') {
-                operands.push_back(true);
-            } else if (expression[i] == 'f') {
-                operands.push_back(false);
-            }
+                ope.push(expression[i]);
+                operands.push(vals);
+                vals.clear();
+            }  else if (expression[i] == ')') {
+                res = eval(ope.top(), vals);
+                ope.pop();
+                vals = operands.top();
+                operands.pop();
+                vals.push_back(res);
+            } else if (expression[i] == 'f' || expression[i] == 't')
+                vals.push_back(expression[i] == 't');
         }
-        return eval(expression[start], operands);
+        return res;
     }
     bool eval(char ope, vector<bool> operands) {
         bool res;

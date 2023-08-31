@@ -1,3 +1,0 @@
-/Users/ryanpionee2/Github/Leetcode/1001~1500/1478. Allocate Mailboxes/cmake-build-debug/CMakeFiles/1478__Allocate_Mailboxes.dir
-/Users/ryanpionee2/Github/Leetcode/1001~1500/1478. Allocate Mailboxes/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/ryanpionee2/Github/Leetcode/1001~1500/1478. Allocate Mailboxes/cmake-build-debug/CMakeFiles/rebuild_cache.dir

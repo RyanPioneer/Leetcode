@@ -1,3 +1,0 @@
-/Users/ryanpionee2/Github/Leetcode/2001~2500/2412. Minimum Money Required Before Transactions/cmake-build-debug/CMakeFiles/2412__Minimum_Money_Required_Before_Transactions.dir
-/Users/ryanpionee2/Github/Leetcode/2001~2500/2412. Minimum Money Required Before Transactions/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/ryanpionee2/Github/Leetcode/2001~2500/2412. Minimum Money Required Before Transactions/cmake-build-debug/CMakeFiles/rebuild_cache.dir

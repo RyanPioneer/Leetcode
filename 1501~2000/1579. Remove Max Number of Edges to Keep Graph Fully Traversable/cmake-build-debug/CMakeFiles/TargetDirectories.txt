@@ -1,3 +1,0 @@
-/Users/ryanpionee2/Github/Leetcode/1501~2000/1579. Remove Max Number of Edges to Keep Graph Fully Traversable/cmake-build-debug/CMakeFiles/1579__Remove_Max_Number_of_Edges_to_Keep_Graph_Fully_Traversable.dir
-/Users/ryanpionee2/Github/Leetcode/1501~2000/1579. Remove Max Number of Edges to Keep Graph Fully Traversable/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/ryanpionee2/Github/Leetcode/1501~2000/1579. Remove Max Number of Edges to Keep Graph Fully Traversable/cmake-build-debug/CMakeFiles/rebuild_cache.dir

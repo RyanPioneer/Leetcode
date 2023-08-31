@@ -1,3 +1,0 @@
-/Users/ryanpionee2/Github/Leetcode/2501~3000/2589. Minimum Time to Complete All Tasks/cmake-build-debug/CMakeFiles/2589__Minimum_Time_to_Complete_All_Tasks.dir
-/Users/ryanpionee2/Github/Leetcode/2501~3000/2589. Minimum Time to Complete All Tasks/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/ryanpionee2/Github/Leetcode/2501~3000/2589. Minimum Time to Complete All Tasks/cmake-build-debug/CMakeFiles/rebuild_cache.dir
