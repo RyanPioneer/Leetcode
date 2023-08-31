@@ -1,13 +1,13 @@
 /**
- * Source: https://rb.gy/4ny4j
+ * Source: https://rb.gy/hrp9d
  * Date: 2023/8/31
  * Skill:
- * Runtime: 46 ms, faster than 21.96% of C++ online submissions
- * Memory Usage: 29.9 MB, less than 18.64% of C++ online submissions
+ * Runtime: 0 ms, faster than 100% of C++ online submissions
+ * Memory Usage: 5.92 MB, less than 65.46% of C++ online submissions
  * Time complexity: O(n)
  * Space complexity: O(n)
  * Constraints:
- *      1 <= expression.length <= 60
+ *
  */
 
 #include <vector>
@@ -26,8 +26,12 @@ typedef pair<int, int> pairs;
 
 class Solution {
 public:
-    vector<string> braceExpansionII(string expression) {
-
+    uint32_t reverseBits(uint32_t n) {
+        uint32_t res = 0;
+        for (int i = 0; i < 32; i++)
+            if (((n >> i) & 1) == 1)
+                res += (1 << (31 - i));
+        return res;
     }
 };
 
@@ -40,6 +44,6 @@ static const auto io_sync_off = []() {
 }();
 
 int main() {
-    Solution s;
-
+    int a = 2;
+    cout << (9 & 1) << endl;
 }
