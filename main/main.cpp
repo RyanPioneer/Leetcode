@@ -1,13 +1,13 @@
 /**
- * Source: https://rb.gy/4ny4j
- * Date: 2023/8/31
+ * Source: https://rb.gy/wu9mb
+ * Date: 2023/9/1
  * Skill:
- * Runtime: 46 ms, faster than 21.96% of C++ online submissions
- * Memory Usage: 29.9 MB, less than 18.64% of C++ online submissions
+ * Runtime: 4 ms, faster than 62.90% of C++ online submissions
+ * Memory Usage: 12.35 MB, less than 84.79% of C++ online submissions
  * Time complexity: O(n)
  * Space complexity: O(n)
  * Constraints:
- *      1 <= expression.length <= 60
+ *      The number of nodes in the tree is in the range [1, 1000].
  */
 
 #include <vector>
@@ -15,18 +15,18 @@
 #include <algorithm>
 #include <map>
 #include <set>
-#include <deque>
+#include <stack>
 #include <numeric>
+#include <tuple>
 
 using namespace std;
 
 #define ll long long
 
-typedef pair<int, int> pairs;
 
 class Solution {
 public:
-    vector<string> braceExpansionII(string expression) {
+    int minOperations(vector<int>& target, vector<int>& arr) {
 
     }
 };
