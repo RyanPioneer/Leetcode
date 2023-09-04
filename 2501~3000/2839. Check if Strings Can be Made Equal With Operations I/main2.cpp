@@ -1,14 +1,13 @@
 /**
- * Source: https://rb.gy/a7bbb
- * Date: 2023/9/4
+ * Source: https://rb.gy/mao6j
+ * Date: 2023/9/3
  * Skill:
- * Runtime: 6 ms, faster than 90.42% of C++ online submissions
- * Memory Usage: 11.42 MB, less than 33.33% of C++ online submissions
+ * Runtime: 0 ms, faster than 100.00% of C++ online submissions
+ * Memory Usage: 5.83 MB, less than 100.00% of C++ online submissions
  * Time complexity: O(n)
  * Space complexity: O(n)
  * Constraints:
- *      1 <= num.length <= 200
- *      num contains only digits.
+ *
  */
 
 #include <vector>
@@ -19,7 +18,7 @@
 #include <queue>
 #include <numeric>
 #include <tuple>
-#include <stack>
+#include <set>
 
 using namespace std;
 
@@ -30,8 +29,13 @@ typedef pair<int, int> pairs;
 
 class Solution {
 public:
-    vector<int> splitIntoFibonacci(string num) {
-
+    bool canBeEqual(string s1, string s2) {
+        int nums[2] = {0, 0};
+        for (int i = 0; i < s1.length(); i++) {
+            nums[i % 2] += 1 << (s1[i] - 'a');
+            nums[i % 2] -= 1 << (s2[i] - 'a');
+        }
+        return (nums[0] == 0 && nums[1] == 0) ? true : false;
     }
 };
 

@@ -1,14 +1,13 @@
 /**
- * Source: https://rb.gy/a7bbb
+ * Source: https://rb.gy/0bhl6
  * Date: 2023/9/4
  * Skill:
- * Runtime: 6 ms, faster than 90.42% of C++ online submissions
- * Memory Usage: 11.42 MB, less than 33.33% of C++ online submissions
+ * Runtime: 8 ms, faster than 77.51% of C++ online submissions
+ * Memory Usage: 6 MB, less than 52.47% of C++ online submissions
  * Time complexity: O(n)
  * Space complexity: O(n)
  * Constraints:
- *      1 <= num.length <= 200
- *      num contains only digits.
+ *
  */
 
 #include <vector>
@@ -30,8 +29,11 @@ typedef pair<int, int> pairs;
 
 class Solution {
 public:
-    vector<int> splitIntoFibonacci(string num) {
-
+    long long waysToBuyPensPencils(int total, int cost1, int cost2) {
+        ll res = 0;
+        for (int i = 0; i <= total / cost1; i++)
+            res += (total - i * cost1) / cost2 + 1;
+        return res;
     }
 };
 
@@ -45,5 +47,5 @@ static const auto io_sync_off = []() {
 
 int main() {
     Solution s;
-
+    vector<int> v1{1,2,1,2,1,2}, v2{2,1,1,2,2,1};
 }
