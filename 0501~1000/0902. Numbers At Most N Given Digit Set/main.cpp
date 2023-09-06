@@ -7,7 +7,7 @@
  * Time complexity: O(n)
  * Space complexity: O(n)
  * Constraints:
- *      1 <= m, n <= 300
+ *
  */
 
 #include <vector>
@@ -31,23 +31,21 @@ typedef pair<int, int> pairs;
 class Solution {
 public:
     int atMostNGivenDigitSet(vector<string>& digits, int n) {
-        int sz = 0, num = n, res = 0, length = digits.size();
+        int res = 0;
         vector<int> n_digits;
-        while (num > 0) {
-            sz++;
-            n_digits.push_back(num % 10);
-            num /= 10;
+        while (n > 0) {
+            n_digits.push_back(n % 10);
+            n /= 10;
         }
-        for (int i = 1; i < sz; i++)
-            res += pow(length, i);
+        for (int i = 1; i < n_digits.size(); i++)
+            res += pow(digits.size(), i);
         int pos = n_digits.size() - 1;
         while (pos >= 0) {
             bool flag = true;
-            for (int i = 0; i < length; i++) {
-                string s = digits[i];
-                if (s[0] - '0' < n_digits[pos])
-                    res += pow(length, pos);
-                else if (s[0] - '0' == n_digits[pos]) {
+            for (int i = 0; i < digits.size(); i++) {
+                if (digits[i][0] - '0' < n_digits[pos])
+                    res += pow(digits.size(), pos);
+                else if (digits[i][0] - '0' == n_digits[pos]) {
                     flag = false;
                     if (pos == 0)
                         res++;
