@@ -2,8 +2,8 @@
  * Source: https://rb.gy/20gjg
  * Date: 2023/9/7
  * Skill:
- * Runtime: 20 ms, faster than 66.02% of C++ online submissions
- * Memory Usage: 9.53 MB, less than 82.25% of C++ online submissions
+ * Runtime: 10 ms, faster than 98.92% of C++ online submissions
+ * Memory Usage: 9.52 MB, less than 82.25% of C++ online submissions
  * Time complexity: O(n)
  * Space complexity: O(n)
  * Constraints:
