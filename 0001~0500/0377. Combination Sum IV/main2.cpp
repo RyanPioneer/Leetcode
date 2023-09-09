@@ -1,9 +1,9 @@
 /**
- * Source: https://rb.gy/qodld
+ * Source: https://rb.gy/f8dum
  * Date: 2023/9/9
  * Skill:
- * Runtime: 697 ms, faster than 83.76% of C++ online submissions
- * Memory Usage: 220.92 MB, less than 68.66% of C++ online submissions
+ * Runtime: 3 ms, faster than 50.37% of C++ online submissions
+ * Memory Usage: 6.62 MB, less than 46.24% of C++ online submissions
  * Time complexity: O(n)
  * Space complexity: O(n)
  * Constraints:
@@ -23,14 +23,22 @@
 
 using namespace std;
 
-#define ll long long
+//#define ll long long
 
 typedef pair<int, int> pairs;
 
+
+#define ll unsigned long long
 class Solution {
 public:
-    int longestCommonSubpath(int n, vector<vector<int>>& paths) {
-
+    int combinationSum4(vector<int>& nums, int target) {
+        vector<ll> dp(target + 1, 0);
+        dp[0] = 1;
+        for (int i = 1; i <= target; i++)
+            for (auto n: nums)
+                if (i - n >= 0)
+                    dp[i] += dp[i - n];
+        return dp[target];
     }
 };
 
@@ -45,7 +53,7 @@ static const auto io_sync_off = []() {
 
 int main() {
     Solution s;
-    string ss = "aa";
-    string res = s.longestDupSubstring(ss);
+    vector<int> nums{1,2,3};
+    int res = s.combinationSum4(nums, 4);
     cout << res << endl;
 }

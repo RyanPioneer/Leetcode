@@ -1,33 +1,57 @@
 /**
- * Source: https://rb.gy/48hkc
- * Date: 2023/8/30
+ * Source: https://rb.gy/hmfk8
+ * Date: 2023/9/8
  * Skill:
- * Runtime: 65 ms, faster than 99.88% of C++ online submissions
- * Memory Usage: 83.95 MB, less than 38.83% of C++ online submissions
+ * Runtime: 39 ms, faster than 47.61% of C++ online submissions
+ * Memory Usage: 9.2 MB, less than 43.51% of C++ online submissions
  * Time complexity: O(n)
  * Space complexity: O(n)
  * Constraints:
- *      1 <= k <= houses.length <= 100
- *      m <= houses[i] <= 10 ** 4
+ *
  */
 
 #include <vector>
 #include <iostream>
 #include <algorithm>
+#include <map>
+#include <set>
 #include <unordered_set>
+#include <queue>
+#include <numeric>
+#include <tuple>
+#include <stack>
 
 using namespace std;
 
 #define ll long long
-// using ll = long long;
+
+typedef pair<int, int> pairs;
 
 
 class Solution {
 public:
-    int minDistance(vector<int>& houses, int k) {
-
+    int minDistance(vector<int>& houses, int K) {
+        int sz = houses.size();
+        sort(begin(houses), end(houses));
+        vector<vector<int>> dp(sz, vector<int>(K + 1));
+        vector<vector<int>> range_dis(sz, vector<int>(sz));
+        for (int i = 0; i < sz; i++)
+            for (int j = i; j < sz; j++)
+                for (int k = i; k <= j; k++)
+                    range_dis[i][j] += abs(houses[k] - houses[(i + j) / 2]);
+        for (int i = 0; i < sz; i++)
+            dp[i][1] = range_dis[0][i];
+        for (int i = 2; i <= K; i++) {
+            for (int j = sz - 1; j >= 0; j--) {
+                dp[j][i] = INT32_MAX / 2;
+                for (int k = j - 1; k >= 0; k--)
+                    dp[j][i] = min(dp[j][i], dp[k][i - 1] + range_dis[k + 1][j]);
+            }
+        }
+        return dp[sz - 1][K];
     }
 };
+
 
 static const auto io_sync_off = []() {
     // turn off sync
@@ -39,5 +63,7 @@ static const auto io_sync_off = []() {
 
 int main() {
     Solution s;
-    vector<int> tasks{1,2,3,1};
+    vector<int> nums{1,4,8,10,20};
+    int res = s.minDistance(nums, 3);
+    cout << res << endl;
 }
