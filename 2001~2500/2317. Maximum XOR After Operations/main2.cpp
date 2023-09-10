@@ -1,9 +1,9 @@
 /**
- * Source: https://rb.gy/dapf3
+ * Source: https://rb.gy/ezczm
  * Date: 2023/9/10
  * Skill:
- * Runtime: 0 ms, faster than 100% of C++ online submissions
- * Memory Usage: 5.98 MB, less than 58.28% of C++ online submissions
+ * Runtime: 65 ms, faster than 86.62% of C++ online submissions
+ * Memory Usage: 47.94 MB, less than 74.85% of C++ online submissions
  * Time complexity: O(n)
  * Space complexity: O(n)
  * Constraints:
@@ -32,8 +32,11 @@ typedef pair<ULL, ULL> PULL;
 
 class Solution {
 public:
-    string shortestPalindrome(string s) {
-
+    int maximumXOR(vector<int>& nums) {
+        int res = 0;
+        for (auto n: nums)
+            res |= n;
+        return res;
     }
 };
 

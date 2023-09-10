@@ -1,5 +1,5 @@
 /**
- * Source: https://rb.gy/dapf3
+ * Source: https://rb.gy/78ey5
  * Date: 2023/9/10
  * Skill:
  * Runtime: 0 ms, faster than 100% of C++ online submissions
@@ -32,8 +32,16 @@ typedef pair<ULL, ULL> PULL;
 
 class Solution {
 public:
-    string shortestPalindrome(string s) {
-
+    int minimizeXor(int num1, int num2) {
+        int bit_num = __builtin_popcount(num2), res = 0;
+        for (int i = 31; i >= 0; i--) {
+            int has_bit = (num1 >> i) & 1;
+            if ((has_bit && bit_num) || (bit_num > i)) {
+                res += (1 << i);
+                bit_num--;
+            }
+        }
+        return res;
     }
 };
 

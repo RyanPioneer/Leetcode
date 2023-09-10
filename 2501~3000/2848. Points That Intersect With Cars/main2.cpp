@@ -1,9 +1,9 @@
 /**
- * Source: https://rb.gy/dapf3
+ * Source: https://rb.gy/8sfzy
  * Date: 2023/9/10
  * Skill:
- * Runtime: 0 ms, faster than 100% of C++ online submissions
- * Memory Usage: 5.98 MB, less than 58.28% of C++ online submissions
+ * Runtime: 11 ms, faster than 100% of C++ online submissions
+ * Memory Usage: 25.44 MB, less than 12.50% of C++ online submissions
  * Time complexity: O(n)
  * Space complexity: O(n)
  * Constraints:
@@ -32,8 +32,18 @@ typedef pair<ULL, ULL> PULL;
 
 class Solution {
 public:
-    string shortestPalindrome(string s) {
-
+    int numberOfPoints(vector<vector<int>>& nums) {
+        vector<int> diff(102, 0);
+        for (auto n: nums) {
+            diff[n[0]]++;
+            diff[n[1] + 1]--;
+        }
+        int res = 0, cur = 0;
+        for (int i = 1; i <= 100; ++i) {
+            cur += diff[i];
+            res += (cur > 0);
+        }
+        return res;
     }
 };
 
@@ -48,5 +58,4 @@ static const auto io_sync_off = []() {
 
 int main() {
     Solution s;
-    string ss = "level";
 }
