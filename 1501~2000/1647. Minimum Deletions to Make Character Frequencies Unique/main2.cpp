@@ -1,9 +1,9 @@
 /**
- * Source: https://rb.gy/s2ay7
+ * Source: https://rb.gy/4s3b8
  * Date: 2023/9/12
  * Skill:
- * Runtime: 356 ms, faster than 73.37% of C++ online submissions
- * Memory Usage: 88.96 MB, less than 79.53% of C++ online submissions
+ * Runtime: 51 ms, faster than 74.86% of C++ online submissions
+ * Memory Usage: 17.20 MB, less than 92.40% of C++ online submissions
  * Time complexity: O(n)
  * Space complexity: O(n)
  * Constraints:
@@ -30,19 +30,21 @@ typedef pair<int, int> pairs;
 typedef unsigned long long ULL;
 typedef pair<ULL, ULL> PULL;
 
-
 class Solution {
 public:
-    int minGroups(vector<vector<int>>& intervals) {
-        sort(intervals.begin(), intervals.end());
-        priority_queue<int, vector<int>, greater<>> pq;
-        pq.push(intervals[0][1]);
-        for (int i = 1; i < intervals.size(); ++i) {
-            if (intervals[i][0] > pq.top())
-                pq.pop();
-            pq.push(intervals[i][1]);
+    int minDeletions(string s) {
+        vector<int> freq(26, 0);
+        for (auto c: s)
+            freq[c - 'a']++;
+        sort(begin(freq), end(freq), greater<int>());
+        int prev = INT32_MAX, keep = 0;
+        for (auto i: freq) {
+            if (!i || !prev)
+                break;
+            prev = min(prev - 1, i);
+            keep += prev;
         }
-        return pq.size();
+        return s.length() - keep;
     }
 };
 
@@ -57,5 +59,8 @@ static const auto io_sync_off = []() {
 
 int main() {
     Solution s;
+    string ss = "jbddhjemmnhaflahionjoddojoliimdcailihfdleahgbafnknblkheeicoonffenhhmgfhgmnjk";
     vector<vector<int>> grid{{0,2,0,0,0,0,0},{0,0,0,2,2,1,0},{0,2,0,0,1,2,0},{0,0,2,2,2,0,2},{0,0,0,0,0,0,0}};
+    int res = s.minDeletions(ss);
+    cout << res << endl;
 }

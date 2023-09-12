@@ -1,9 +1,9 @@
 /**
- * Source: https://rb.gy/s2ay7
+ * Source: https://rb.gy/h3orw
  * Date: 2023/9/12
  * Skill:
- * Runtime: 356 ms, faster than 73.37% of C++ online submissions
- * Memory Usage: 88.96 MB, less than 79.53% of C++ online submissions
+ * Runtime: 130 ms, faster than 44.16% of C++ online submissions
+ * Memory Usage: 72.9 MB, less than 13.74% of C++ online submissions
  * Time complexity: O(n)
  * Space complexity: O(n)
  * Constraints:
@@ -30,19 +30,19 @@ typedef pair<int, int> pairs;
 typedef unsigned long long ULL;
 typedef pair<ULL, ULL> PULL;
 
-
 class Solution {
 public:
-    int minGroups(vector<vector<int>>& intervals) {
-        sort(intervals.begin(), intervals.end());
-        priority_queue<int, vector<int>, greater<>> pq;
-        pq.push(intervals[0][1]);
-        for (int i = 1; i < intervals.size(); ++i) {
-            if (intervals[i][0] > pq.top())
-                pq.pop();
-            pq.push(intervals[i][1]);
+    int maxOperations(vector<int>& nums, int k) {
+        unordered_map<int, int> num2cnt;
+        int res = 0;
+        for (auto n: nums) {
+            if (num2cnt[k - n] > 0) {
+                num2cnt[k - n]--;
+                res++;
+            } else
+                num2cnt[n]++;
         }
-        return pq.size();
+        return res;
     }
 };
 

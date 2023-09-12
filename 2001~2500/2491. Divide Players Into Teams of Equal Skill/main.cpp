@@ -1,9 +1,9 @@
 /**
- * Source: https://rb.gy/s2ay7
+ * Source: https://rb.gy/fw8gb
  * Date: 2023/9/12
  * Skill:
- * Runtime: 356 ms, faster than 73.37% of C++ online submissions
- * Memory Usage: 88.96 MB, less than 79.53% of C++ online submissions
+ * Runtime: 59 ms, faster than 94.74% of C++ online submissions
+ * Memory Usage: 53.04 MB, less than 24.34% of C++ online submissions
  * Time complexity: O(n)
  * Space complexity: O(n)
  * Constraints:
@@ -30,19 +30,23 @@ typedef pair<int, int> pairs;
 typedef unsigned long long ULL;
 typedef pair<ULL, ULL> PULL;
 
-
 class Solution {
 public:
-    int minGroups(vector<vector<int>>& intervals) {
-        sort(intervals.begin(), intervals.end());
-        priority_queue<int, vector<int>, greater<>> pq;
-        pq.push(intervals[0][1]);
-        for (int i = 1; i < intervals.size(); ++i) {
-            if (intervals[i][0] > pq.top())
-                pq.pop();
-            pq.push(intervals[i][1]);
+    long long dividePlayers(vector<int>& skill) {
+        ll total = accumulate(begin(skill), end(skill), 0);
+        if (total % (skill.size() / 2) != 0)
+            return -1;
+        ll res = 0, num = total / (skill.size() / 2), pair = 0;
+        unordered_map<int, int> num2count;
+        for (auto i: skill) {
+            if (num2count[num - i] > 0) {
+                res += i * (num - i);
+                num2count[num - i]--;
+                pair++;
+            } else
+                num2count[i]++;
         }
-        return pq.size();
+        return pair * 2 == skill.size() ? res : -1;
     }
 };
 
