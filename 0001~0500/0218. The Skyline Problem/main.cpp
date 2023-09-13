@@ -2,8 +2,8 @@
  * Source: https://rb.gy/7cpqr
  * Date: 2023/9/13
  * Skill:
- * Runtime: 47 ms, faster than 19.20% of C++ online submissions
- * Memory Usage: 19.46 MB, less than 9.20% of C++ online submissions
+ * Runtime: 42 ms, faster than 23.24% of C++ online submissions
+ * Memory Usage: 19.30 MB, less than 9.73% of C++ online submissions
  * Time complexity: O(n)
  * Space complexity: O(n)
  * Constraints:
@@ -49,8 +49,6 @@ public:
             root = new SegmentTreeNode(0, 0, INT_MAX);
         }
         void update_range(SegmentTreeNode *node, int s, int e, int num) {
-            if (node == NULL)
-                return;
             if (node->start > e || node->end < s)
                 return;
             if (node->start == node->end) {

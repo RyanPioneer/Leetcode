@@ -2,8 +2,8 @@
  * Source: https://rb.gy/lhu1v
  * Date: 2023/9/13
  * Skill:
- * Runtime: 183 ms, faster than 65.79% of C++ online submissions
- * Memory Usage: 53.80 MB, less than 41.21% of C++ online submissions
+ * Runtime: 861 ms, faster than 9.09% of C++ online submissions
+ * Memory Usage: 403.96 MB, less than 5.21% of C++ online submissions
  * Time complexity: O(n)
  * Space complexity: O(n)
  * Constraints:
@@ -34,20 +34,30 @@ typedef pair<ULL, ULL> PULL;
 class Solution {
 public:
     int numMatchingSubseq(string s, vector<string>& words) {
-        vector<vector<int>> char2pos(26);
-        for (int i = 0; i < s.length(); i++)
-            char2pos[s[i] - 'a'].push_back(i);
-        int res = 0;
+        vector<vector<int>> char2pos(s.length(), vector<int>(26, -1));
+        char2pos[s.length() - 1][s[s.length() - 1] - 'a'] = s.length() - 1;
+        for (int i = s.length() - 2; i >= 0; i--) {
+            for (int j = 0; j < 26; j++) {
+                if (s[i] - 'a' == j)
+                    char2pos[i][j] = i;
+                else
+                    char2pos[i][j] = char2pos[i + 1][j];
+            }
+        }
+        int res = 0, sz = s.length();
         for (auto w: words) {
-            int pos = -1;
-            bool flag = true;
+            int flag = true, pos = -1;
             for (auto c: w) {
-                auto next_pos = upper_bound(begin(char2pos[c - 'a']), end(char2pos[c - 'a']), pos);
-                if (next_pos == end(char2pos[c - 'a'])) {
+                if (pos == sz - 1) {
                     flag = false;
                     break;
-                } else
-                    pos = *next_pos;
+                }
+                int next_pos = char2pos[pos + 1][c - 'a'];
+                if (next_pos == -1) {
+                    flag = false;
+                    break;
+                }
+                pos = next_pos;
             }
             if (flag)
                 res++;
