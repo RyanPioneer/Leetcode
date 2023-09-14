@@ -2,7 +2,7 @@
  * Source: https://rb.gy/7cpqr
  * Date: 2023/9/13
  * Skill:
- * Runtime: 42 ms, faster than 23.24% of C++ online submissions
+ * Runtime: 37 ms, faster than 34.06% of C++ online submissions
  * Memory Usage: 19.30 MB, less than 9.73% of C++ online submissions
  * Time complexity: O(n)
  * Space complexity: O(n)
@@ -71,8 +71,6 @@ public:
             update_range(node->right, s, e, num);
         }
         int query_num(SegmentTreeNode *node, int index) {
-            if (node->start > index || node->end < index)
-                return 0;
             if (index <= node->mid) {
                 if (node->left)
                     return query_num(node->left, index);

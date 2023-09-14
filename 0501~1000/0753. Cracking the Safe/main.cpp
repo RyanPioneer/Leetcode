@@ -1,9 +1,9 @@
 /**
- * Source: https://rb.gy/hherw
+ * Source: https://rb.gy/bvnqd
  * Date: 2023/9/14
- * Skill:
- * Runtime: 12 ms, faster than 25.56% of C++ online submissions
- * Memory Usage: 9.95 MB, less than 64.92% of C++ online submissions
+ * Skill: https://rb.gy/y5vp8
+ * Runtime: 5 ms, faster than 93.21% of C++ online submissions
+ * Memory Usage: 7.16 MB, less than 95.71% of C++ online submissions
  * Time complexity: O(n)
  * Space complexity: O(n)
  * Constraints:
@@ -33,8 +33,15 @@ typedef pair<ULL, ULL> PULL;
 
 class Solution {
 public:
-    string longestDiverseString(int a, int b, int c) {
-
+    string crackSafe(int n, int k) {
+        string res(n - 1, '0');
+        unordered_map<string, int>str2num;
+        for (int i = 0; i < pow(k, n); i++) {
+            string ss = res.substr(res.size() - (n - 1), n - 1);
+            str2num[ss] = (str2num[ss] + 1) % k;
+            res += '0' + str2num[ss];
+        }
+        return res;
     }
 };
 

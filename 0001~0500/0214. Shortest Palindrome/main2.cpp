@@ -1,9 +1,9 @@
 /**
- * Source: https://rb.gy/hherw
+ * Source: https://rb.gy/b3ong
  * Date: 2023/9/14
  * Skill:
- * Runtime: 12 ms, faster than 25.56% of C++ online submissions
- * Memory Usage: 9.95 MB, less than 64.92% of C++ online submissions
+ * Runtime: 8 ms, faster than 56.78% of C++ online submissions
+ * Memory Usage: 8.49 MB, less than 74.98% of C++ online submissions
  * Time complexity: O(n)
  * Space complexity: O(n)
  * Constraints:
@@ -33,8 +33,18 @@ typedef pair<ULL, ULL> PULL;
 
 class Solution {
 public:
-    string longestDiverseString(int a, int b, int c) {
-
+    string shortestPalindrome(string s) {
+        int sz = s.length(), id = 0;
+        ULL hash1 = 0, hash2 = 0, base = 27, power_of_len = 1;
+        for (int i = 0; i < sz; i++, power_of_len *= base) {
+            hash1 = hash1 * base + s[i] - 'a';
+            hash2 += (s[i] - 'a') * power_of_len;
+            if (hash1 == hash2)
+                id = i;
+        }
+        string res = s;
+        reverse(begin(s), end(s));
+        return s.substr(0, sz - id - 1) + res;
     }
 };
 
