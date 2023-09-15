@@ -35,26 +35,24 @@ public:
         int m = grid.size(), n = grid[0].size();
         int dir[5] = {0, 1, 0, -1, 0};
         vector<int> visited(m * n, false);
-        visited[0] = true;
-        deque<pairs> q;
-        q.push_back(make_pair(0, 0));
-        while (!q.empty()) {
-            auto [pos, num] = q.front(); q.pop_front();
+        priority_queue<pairs, vector<pairs>, greater<pairs>> pq;
+        pq.push(make_pair((grid[0][0] == 1), 0));
+        while (!pq.empty()) {
+            auto [num, pos] = pq.top(); pq.pop();
+            if (pos == m * n - 1)
+                return num;
+            if (visited[pos])
+                continue;
+            visited[pos] = true;
             int x = pos / n, y = pos % n;
             for (int i = 0; i < 4; i++) {
-                int xx = x + dir[i], yy = y + dir[i + 1], pos2 = xx * n + yy;
-                if (xx < 0 || xx >= m || yy < 0 || yy >= n || visited[pos2])
+                int xx = x + dir[i], yy = y + dir[i + 1];
+                if (xx < 0 || xx >= m || yy < 0 || yy >= n || visited[xx * n + yy])
                     continue;
-                if (pos2 == m * n - 1)
-                    return num;
-                visited[pos2] = true;
-                if (grid[xx][yy])
-                    q.push_back(make_pair(pos2, num + 1));
-                else
-                    q.push_front(make_pair(pos2, num));
+                pq.push(make_pair(num + (grid[xx][yy] == 1), xx * n + yy));
             }
         }
-        return 0;
+        return -1;
     }
 };
 
@@ -62,7 +60,7 @@ public:
 int main() {
     Solution s;
     vector<int> nums{1,1,3,3};
-    vector<vector<int>> arr{{0,1,0,0,0}, {0,1,0,1,0}, {0,0,0,1,0}};
+    vector<vector<int>> arr{{0,1,1}, {1,1,0}, {1,1,0}};
     int res = s.minimumObstacles(arr);
     cout << res << endl;
 }

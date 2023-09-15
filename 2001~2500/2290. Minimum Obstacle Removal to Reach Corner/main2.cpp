@@ -2,8 +2,8 @@
  * Source: https://rb.gy/cknp4
  * Date: 2023/9/15
  * Skill:
- * Runtime: 647 ms, faster than 48.98% of C++ online submissions
- * Memory Usage: 96.20 MB, less than 92.78% of C++ online submissions
+ * Runtime: 222 ms, faster than 99.40% of C++ online submissions
+ * Memory Usage: 108.55 MB, less than 58.73% of C++ online submissions
  * Time complexity: O(n)
  * Space complexity: O(n)
  * Constraints:
@@ -62,7 +62,7 @@ public:
 int main() {
     Solution s;
     vector<int> nums{1,1,3,3};
-    vector<vector<int>> arr{{0,1,0,0,0}, {0,1,0,1,0}, {0,0,0,1,0}};
+    vector<vector<int>> arr{{0,1,1}, {1,1,0}, {1,1,0}};
     int res = s.minimumObstacles(arr);
     cout << res << endl;
 }
