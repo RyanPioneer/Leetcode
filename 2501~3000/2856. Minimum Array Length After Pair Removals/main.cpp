@@ -1,9 +1,9 @@
 /**
- * Source: https://rb.gy/8x8fm
+ * Source: https://rb.gy/eek5t
  * Date: 2023/9/17
  * Skill:
- * Runtime: 118 ms, faster than 67.62% of C++ online submissions
- * Memory Usage: 57.9 MB, less than 5.37% of C++ online submissions
+ * Runtime: 166 ms, faster than 12.50% of C++ online submissions
+ * Memory Usage: 164.16 MB, less than 87.50% of C++ online submissions
  * Time complexity: O(n)
  * Space complexity: O(n)
  * Constraints:
@@ -31,16 +31,15 @@ using PULL = pair<ULL, ULL>;
 
 class Solution {
 public:
-    int largestCombination(vector<int>& candidates) {
-        int res = 1;
-        for (int i = 0; i < 26; i++) {
-            int cnt = 0;
-            for (auto j: candidates)
-                if ((j & (1 << i)) != 0)
-                    cnt++;
-            res = max(res, cnt);
-        }
-        return res;
+    int minLengthAfterRemovals(vector<int>& nums) {
+        int sz = nums.size();
+        unordered_map<int, int> cnt;
+        for (auto i: nums)
+            cnt[i]++;
+        for (auto i: cnt)
+            if (i.second * 2 > sz)
+                return sz - (sz - i.second) * 2;
+        return sz % 2 == 0 ? 0 : 1;
     }
 };
 

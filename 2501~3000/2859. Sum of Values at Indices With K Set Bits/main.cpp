@@ -1,9 +1,9 @@
 /**
- * Source: https://rb.gy/8x8fm
+ * Source: https://rb.gy/smd4e
  * Date: 2023/9/17
  * Skill:
- * Runtime: 118 ms, faster than 67.62% of C++ online submissions
- * Memory Usage: 57.9 MB, less than 5.37% of C++ online submissions
+ * Runtime: 11 ms, faster than 66.67% of C++ online submissions
+ * Memory Usage: 21.88 MB, less than 33.33% of C++ online submissions
  * Time complexity: O(n)
  * Space complexity: O(n)
  * Constraints:
@@ -31,15 +31,11 @@ using PULL = pair<ULL, ULL>;
 
 class Solution {
 public:
-    int largestCombination(vector<int>& candidates) {
-        int res = 1;
-        for (int i = 0; i < 26; i++) {
-            int cnt = 0;
-            for (auto j: candidates)
-                if ((j & (1 << i)) != 0)
-                    cnt++;
-            res = max(res, cnt);
-        }
+    int sumIndicesWithKSetBits(vector<int>& nums, int k) {
+        int res = 0;
+        for (int i = 0; i < nums.size(); i++)
+            if (__builtin_popcount(i) == k)
+                res += nums[i];
         return res;
     }
 };

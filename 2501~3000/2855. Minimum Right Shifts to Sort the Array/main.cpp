@@ -1,9 +1,9 @@
 /**
- * Source: https://rb.gy/8x8fm
+ * Source: https://rb.gy/xc0lq
  * Date: 2023/9/17
  * Skill:
- * Runtime: 118 ms, faster than 67.62% of C++ online submissions
- * Memory Usage: 57.9 MB, less than 5.37% of C++ online submissions
+ * Runtime: 3 ms, faster than 100.00% of C++ online submissions
+ * Memory Usage: 23.22 MB, less than 37.50% of C++ online submissions
  * Time complexity: O(n)
  * Space complexity: O(n)
  * Constraints:
@@ -31,16 +31,20 @@ using PULL = pair<ULL, ULL>;
 
 class Solution {
 public:
-    int largestCombination(vector<int>& candidates) {
-        int res = 1;
-        for (int i = 0; i < 26; i++) {
-            int cnt = 0;
-            for (auto j: candidates)
-                if ((j & (1 << i)) != 0)
-                    cnt++;
-            res = max(res, cnt);
+    int minimumRightShifts(vector<int>& nums) {
+        int res = -1, sz = nums.size();
+        for (int i = 0; i < sz - 1; i++) {
+            if (nums[i] > nums[i + 1]) {
+                if (res != -1)
+                    return -1;
+                else
+                    res = sz - i - 1;
+            }
         }
-        return res;
+        if (res == -1)
+            return 0;
+        else
+            return nums[0] >= nums[sz - 1] ? res : -1;
     }
 };
 
