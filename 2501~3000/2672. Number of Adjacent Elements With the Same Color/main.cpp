@@ -1,14 +1,13 @@
 /**
- * Source: https://rb.gy/bfw1y
+ * Source: https://rb.gy/c1cm7
  * Date: 2023/9/19
  * Skill:
- * Runtime: 414 ms, faster than 62.79% of C++ online submissions
- * Memory Usage: 104.42 MB, less than 36.05% of C++ online submissions
+ * Runtime: 414 ms, faster than 58.79% of C++ online submissions
+ * Memory Usage: 176.13 MB, less than 45.05% of C++ online submissions
  * Time complexity: O(n)
  * Space complexity: O(n)
  * Constraints:
- *      1 <= nums1.length, nums2.length <= 500
- *      1 <= nums1[i], nums2[j] <= 2000
+ *
  */
 
 #include <vector>
@@ -33,8 +32,23 @@ using PULL = pair<ULL, ULL>;
 
 class Solution {
 public:
-    int maxUncrossedLines(vector<int>& nums1, vector<int>& nums2) {
-
+    vector<int> colorTheArray(int n, vector<vector<int>>& queries) {
+        vector<int> arr(n, 0), res;
+        int sz = queries.size(), cur_num = 0;
+        for (int i = 0; i < sz; i++) {
+            int pos = queries[i][0], color = queries[i][1];
+            if (pos > 0 && arr[pos] != 0 && arr[pos] == arr[pos - 1])
+                cur_num--;
+            if (pos < n - 1 && arr[pos] != 0 && arr[pos] == arr[pos + 1])
+                cur_num--;
+            arr[pos] = color;
+            if (pos > 0 && arr[pos] == arr[pos - 1])
+                cur_num++;
+            if (pos < n - 1 && arr[pos] == arr[pos + 1])
+                cur_num++;
+            res.push_back(cur_num);
+        }
+        return res;
     }
 };
 
