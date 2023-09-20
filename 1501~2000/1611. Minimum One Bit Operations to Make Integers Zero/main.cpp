@@ -87,5 +87,4 @@ int main() {
     vector<vector<int>> arr2{{0, 1},
                              {2, 2},
                              {1, 4}};
-    cout << bitset<32>(5);
 }
