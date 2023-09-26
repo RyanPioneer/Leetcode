@@ -1,13 +1,13 @@
 /**
- * Source: t.ly/Is-yu
- * Date: 2023/9/26
+ * Source: t.ly/jehY9
+ * Date: 2023/9/23
  * Skill:
- * Runtime: 23 ms, faster than 52.96% of C++ online submissions
- * Memory Usage: 16.58 MB, less than 19.91% of C++ online submissions
+ * Runtime: 31 ms, faster than 96.41% of C++ online submissions
+ * Memory Usage: 26.77 MB, less than 6.70% of C++ online submissions
  * Time complexity: O(n)
  * Space complexity: O(n)
  * Constraints:
- *
+ *      1 <= word.length <= 10 ** 5
  */
 
 #include <vector>
@@ -32,23 +32,24 @@ using PULL = pair<ULL, ULL>;
 
 class Solution {
 public:
-    int oddEvenJumps(vector<int>& arr) {
-
+    vector<int> divisibilityArray(string word, int m) {
+        vector<int> res;
+        ll cur_num = 0;
+        for (int i = 0; i < word.length(); ++i) {
+            cur_num = (cur_num * 10 % m + word[i] - '0') % m;
+            res.push_back(cur_num == 0);
+        }
+        return res;
     }
 };
 
 
 int main() {
     Solution s;
-    vector<vector<int>> arr1{{10, 9},
-                             {2, 10},
-                             {1, 10},
-                             {2, 3},
-                             {6,10},
-                             {4,3},
-                             {8,6},
-                             {5,8},
-                             {7,6}};
+    vector<vector<int>> arr1{{5, 3},
+                             {2, 5},
+                             {7, 4},
+                             {10, 3}};
     vector<vector<int>> arr2{{0, 1},
                              {2, 2},
                              {1, 4}};

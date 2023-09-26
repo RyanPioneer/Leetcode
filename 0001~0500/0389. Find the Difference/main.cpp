@@ -1,12 +1,13 @@
 /**
- * Source: t.ly/Is-yu
- * Date: 2023/9/26
+ * Source: t.ly/Cw7hQ
+ * Date: 2023/9/25
  * Skill:
- * Runtime: 23 ms, faster than 52.96% of C++ online submissions
- * Memory Usage: 16.58 MB, less than 19.91% of C++ online submissions
+ * Runtime: 0 ms, faster than 100.00% of C++ online submissions
+ * Memory Usage: 6.97 MB, less than 16.46% of C++ online submissions
  * Time complexity: O(n)
  * Space complexity: O(n)
  * Constraints:
+ *
  *
  */
 
@@ -32,23 +33,23 @@ using PULL = pair<ULL, ULL>;
 
 class Solution {
 public:
-    int oddEvenJumps(vector<int>& arr) {
-
+    char findTheDifference(string s, string t) {
+        for (int i = 0; i < s.length(); i++)
+            t[i + 1] += t[i] - s[i];
+        return t[s.length()];
     }
 };
 
 
+
 int main() {
     Solution s;
-    vector<vector<int>> arr1{{10, 9},
-                             {2, 10},
-                             {1, 10},
-                             {2, 3},
-                             {6,10},
-                             {4,3},
-                             {8,6},
-                             {5,8},
-                             {7,6}};
+    char res = s.findTheDifference("", "y");
+    cout << res << endl;
+    vector<vector<int>> arr1{{5, 3},
+                             {2, 5},
+                             {7, 4},
+                             {10, 3}};
     vector<vector<int>> arr2{{0, 1},
                              {2, 2},
                              {1, 4}};

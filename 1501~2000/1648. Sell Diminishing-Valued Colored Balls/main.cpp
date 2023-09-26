@@ -1,9 +1,9 @@
 /**
- * Source: t.ly/Is-yu
+ * Source: t.ly/CY97_
  * Date: 2023/9/26
  * Skill:
- * Runtime: 23 ms, faster than 52.96% of C++ online submissions
- * Memory Usage: 16.58 MB, less than 19.91% of C++ online submissions
+ * Runtime: 94 ms, faster than 98.88% of C++ online submissions
+ * Memory Usage: 65.11 MB, less than 28.09% of C++ online submissions
  * Time complexity: O(n)
  * Space complexity: O(n)
  * Constraints:
@@ -32,8 +32,27 @@ using PULL = pair<ULL, ULL>;
 
 class Solution {
 public:
-    int oddEvenJumps(vector<int>& arr) {
-
+    int maxProfit(vector<int>& inventory, int orders) {
+        int lo = 1, hi = *max_element(begin(inventory), end(inventory));
+        ll res = 0, mod = 1e9+7;
+        while (lo < hi) {
+            int mid = (hi + lo) / 2;
+            ll num = 0;
+            for (auto i: inventory)
+                if (i > mid)
+                    num += i - mid;
+            if (num > orders)
+                lo = mid + 1;
+            else
+                hi = mid;
+        }
+        for (auto i: inventory)
+            if (i > lo) {
+                res += (ll)(i + lo + 1) * (i - lo) / 2;
+                res %= mod;
+                orders -= (i - lo);
+            }
+        return (res + (ll)orders * lo % mod) % mod;
     }
 };
 

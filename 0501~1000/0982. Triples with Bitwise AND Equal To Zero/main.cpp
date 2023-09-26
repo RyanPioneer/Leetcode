@@ -1,13 +1,14 @@
 /**
- * Source: t.ly/Is-yu
- * Date: 2023/9/26
+ * Source: t.ly/2ftJx
+ * Date: 2023/9/25
  * Skill:
- * Runtime: 23 ms, faster than 52.96% of C++ online submissions
- * Memory Usage: 16.58 MB, less than 19.91% of C++ online submissions
+ * Runtime: 149 ms, faster than 74.63% of C++ online submissions
+ * Memory Usage: 7.54 MB, less than 79.60% of C++ online submissions
  * Time complexity: O(n)
  * Space complexity: O(n)
  * Constraints:
- *
+ *      1 <= nums.length <= 1000
+ *      0 <= nums[i] < 2 ** 16
  */
 
 #include <vector>
@@ -32,8 +33,17 @@ using PULL = pair<ULL, ULL>;
 
 class Solution {
 public:
-    int oddEvenJumps(vector<int>& arr) {
-
+    int countTriplets(vector<int>& nums) {
+        int cnt[1<<16] = {0}, res = 0, maximum = *max_element(begin(nums), end(nums));
+        for (auto i: nums)
+            for (auto j: nums)
+                cnt[i & j]++;
+        for (auto i: nums)
+            for (int j = 0; j <= maximum; j++) {
+                if ((i & j) == 0)
+                    res += cnt[j];
+            }
+        return res;
     }
 };
 
