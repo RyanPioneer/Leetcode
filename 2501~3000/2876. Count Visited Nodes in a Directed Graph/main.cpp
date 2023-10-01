@@ -1,5 +1,5 @@
 /**
- * Source: ibit.ly/ROhcx
+ * Source: ibit.ly/08HKb
  * Date: 2023/10/1
  * Skill:
  * Runtime: 209 ms, faster than 60.00% of C++ online submissions
@@ -30,18 +30,30 @@ typedef unsigned long long ULL;
 using PULL = pair<ULL, ULL>;
 
 
-#define ll long long
 class Solution {
 public:
-    long long maximumTripletValue(vector<int>& nums) {
-        ll res = (ll)(nums[0] - nums[1]) * nums[2];
-        int cur_max = max(nums[0], nums[1]), diff_max = nums[0] - nums[1];
-        for (int i = 3; i < nums.size(); i++) {
-            diff_max = max(diff_max, cur_max - nums[i - 1]);
-            cur_max = max(cur_max, nums[i - 1]);
-            res = max(res, (ll)diff_max * nums[i]);
+    vector<int> countVisitedNodes(vector<int>& edges) {
+        vector<int> res(edges.size(), 0);
+        for (int i = 0; i < res.size(); ++i)
+            if (res[i] == 0)
+                dfs(i, edges, res, 1);
+        return res;
+    }
+    int dfs(int cur, vector<int>& edges, vector<int>& res, int cur_num) {
+        if (res[cur] > 0)
+            return res[cur];
+        if (res[cur] < 0) {
+            res[cur] = cur_num + res[cur];
+            return -cur;
         }
-        return res < 0 ? 0 : res;
+        res[cur] = -cur_num;
+        int n = dfs(edges[cur], edges, res, cur_num + 1);
+        if (n <= 0) {
+            res[cur] = res[edges[cur]];
+            return cur == -n ? res[cur] : n;
+        }
+        res[cur] = n + 1;
+        return res[cur];
     }
 };
 
