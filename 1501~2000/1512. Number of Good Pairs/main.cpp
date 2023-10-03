@@ -1,13 +1,13 @@
 /**
- * Source: ibit.ly/x-RO3
+ * Source: ibit.ly/RgEMP
  * Date: 2023/10/3
  * Skill:
- * Runtime: 125 ms, faster than 94.49% of C++ online submissions
- * Memory Usage: 89.22 MB, less than 90.72% of C++ online submissions
+ * Runtime: 0 ms, faster than 100.00% of C++ online submissions
+ * Memory Usage: 7.47 MB, less than 27.67% of C++ online submissions
  * Time complexity: O(n)
  * Space complexity: O(n)
  * Constraints:
- *      1 <= n <= 500
+ *      1 <= nums[i] <= 100
  */
 
 #include <vector>
@@ -32,8 +32,14 @@ using PULL = pair<ULL, ULL>;
 
 class Solution {
 public:
-    int magnificentSets(int n, vector<vector<int>>& edges) {
-
+    int numIdenticalPairs(vector<int>& nums) {
+        int cnt[101] = {0}, res = 0;
+        for (auto i: nums)
+            cnt[i]++;
+        for (int i = 1; i <= 100; i++)
+            if (cnt[i] > 1)
+                res += cnt[i] * (cnt[i] - 1) / 2;
+        return res;
     }
 };
 
