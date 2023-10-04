@@ -1,5 +1,5 @@
 /**
- * Source: ibit.ly/ABqHs
+ * Source: ibit.ly/ox1HI
  * Date: 2023/10/4
  * Skill:
  * Runtime: 19 ms, faster than 66.43% of C++ online submissions
@@ -30,20 +30,21 @@ typedef unsigned long long ULL;
 using PULL = pair<ULL, ULL>;
 
 
-
-// This is the MountainArray's API interface.
-// You should not implement it, or speculate about its implementation
-class MountainArray {
-  public:
-    int get(int index);
-    int length();
-};
-
-
 class Solution {
 public:
-    int findInMountainArray(int target, MountainArray &mountainArr) {
-
+    bool checkPossibility(vector<int>& nums) {
+        int num = 0;
+        for (int i = 0; i < nums.size() - 1; i++)
+            if (nums[i] > nums[i + 1]) {
+                if (i == 0 || nums[i - 1] <= nums[i + 1])
+                    nums[i] = nums[i + 1];
+                else
+                    nums[i + 1] = nums[i];
+                num++;
+                if (num > 1)
+                    return false;
+            }
+        return true;
     }
 };
 
