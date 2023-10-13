@@ -1,65 +1,53 @@
-/** 
- * Source: https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
- * Date: 2022/7/6
- * Skill: 
- * Runtime: 
- * Memory Usage: 
- * Time complexity: 
- * Space complexity: 
- * Constraints: 
- *      0 <= nums.length <= 10^5
- *      -10^9 <= nums[i] <= 10^9
- *      nums is a non-decreasing array.
- *      -10^9 <= target <= 10^9
- *      
+/**
+ * Source: ibit.ly/zsjzT
+ * Date: 2023/10/9
+ * Skill:
+ * Runtime: 6 ms, faster than 53.78% of C++ online submissions
+ * Memory Usage: 13.98 MB, less than 25.30% of C++ online submissions
+ * Time complexity: O(n)
+ * Space complexity: O(n)
+ * Constraints:
+ *
  */
 
-#include<iostream>
-#include<vector>
-#include<string>
-//#include <bits/stdc++.h>
+#include <vector>
+#include <iostream>
+#include <algorithm>
+#include <map>
+#include <set>
+#include <unordered_set>
+#include <queue>
+#include <numeric>
+#include <tuple>
+#include <stack>
+#include <bitset>
+
 using namespace std;
+
+#define ll long long
+typedef pair<int, int> pairs;
+typedef unsigned long long ULL;
+using PULL = pair<ULL, ULL>;
+
 
 class Solution {
 public:
     vector<int> searchRange(vector<int>& nums, int target) {
-        if (nums.size() == 0)
-            return {-1, -1};
-        int index = nums.size()/2, lower_bound = 0, upper_bound = nums.size()-1;
-        while (1) {
-            if (nums[index] == target)
-                break;
-            else if (nums[index] > target) {
-                if (index == lower_bound)
-                    return {-1, -1};
-                upper_bound = index;
-                index = (index + lower_bound)/2;
-            } else if (nums[index] < target) {
-                if (index == upper_bound)
-                    return {-1, -1};
-                lower_bound = index;
-                index = (index + upper_bound)/2;
-            }
+        vector<int> res {-1, -1};
+        auto pos = lower_bound(nums.begin(), nums.end(), target);
+        if (pos != end(nums) && *pos == target) {
+            res[0] = res[1] = pos - begin(nums);
+            pos = upper_bound(nums.begin(), nums.end(), target);
+            if (pos != begin(nums) && *prev(pos) == target)
+                res[1] = pos - begin(nums) - 1;
         }
-        
-        int left = (lower_bound+index)/2, mid = index;
-        while (left != lower_bound) {
-            if (nums[left] != nums[index]) {
-                left = (left+mid)/2;
-                mid = 
-            }
-        }
+        return res;
     }
 };
 
-int main() {
-    
-}
 
-static const auto io_sync_off = []() {
-    //* turn off sync
-    std::ios::sync_with_stdio(false);
-    //* untie in/out streams
-    std::cin.tie(nullptr);
-    return nullptr;
-}();
+int main() {
+    Solution s;
+    vector<int> nums{2, 3, 3, 2};
+    vector<vector<int>> arr{{1,2}, {2,3}, {2,4}};
+}
