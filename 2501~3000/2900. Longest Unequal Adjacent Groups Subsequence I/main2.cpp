@@ -1,9 +1,9 @@
 /**
- * Source: twtr.to/v5YLC
+ * Source: ibit.ly/qXHK3
  * Date: 2023/10/15
  * Skill:
- * Runtime: 204 ms, faster than 100.00% of C++ online submissions
- * Memory Usage: 127.02 MB, less than 50.00% of C++ online submissions
+ * Runtime: 11 ms, faster than 81.25% of C++ online submissions
+ * Memory Usage: 25.03 MB, less than 87.50% of C++ online submissions
  * Time complexity: O(n)
  * Space complexity: O(n)
  * Constraints:
@@ -33,8 +33,17 @@ using PULL = pair<ULL, ULL>;
 
 class Solution {
 public:
-    int countSubMultisets(vector<int>& nums, int l, int r) {
-
+    vector<string> getWordsInLongestSubsequence(int n, vector<string>& words, vector<int>& groups) {
+        vector<string> res;
+        res.push_back(words[0]);
+        int prev_num = groups[0];
+        for (int i = 1; i < n; i++) {
+            if (groups[i] != prev_num) {
+                prev_num = groups[i];
+                res.push_back(words[i]);
+            }
+        }
+        return res;
     }
 };
 
@@ -50,4 +59,6 @@ int main() {
         else
             return 0;
     };
+    int c = test(2, 2);
+    cout << c << endl;
 }

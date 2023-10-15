@@ -1,9 +1,9 @@
 /**
- * Source: twtr.to/v5YLC
+ * Source: ibit.ly/_A2Mt
  * Date: 2023/10/15
  * Skill:
- * Runtime: 204 ms, faster than 100.00% of C++ online submissions
- * Memory Usage: 127.02 MB, less than 50.00% of C++ online submissions
+ * Runtime: 0 ms, faster than 100.00% of C++ online submissions
+ * Memory Usage: 23.59 MB, less than 100.00% of C++ online submissions
  * Time complexity: O(n)
  * Space complexity: O(n)
  * Constraints:
@@ -33,8 +33,21 @@ using PULL = pair<ULL, ULL>;
 
 class Solution {
 public:
-    int countSubMultisets(vector<int>& nums, int l, int r) {
-
+    vector<int> lastVisitedIntegers(vector<string>& words) {
+        int nums[101], cnt = 0, idx = -1;
+        vector<int> res;
+        for (auto w: words) {
+            if (w == "prev") {
+                if (idx == -1)
+                    res.push_back(-1);
+                else
+                    res.push_back(nums[idx--]);
+            } else {
+                nums[cnt++] = stoi(w);
+                idx = cnt - 1;
+            }
+        }
+        return res;
     }
 };
 
@@ -50,4 +63,6 @@ int main() {
         else
             return 0;
     };
+    int c = test(2, 2);
+    cout << c << endl;
 }

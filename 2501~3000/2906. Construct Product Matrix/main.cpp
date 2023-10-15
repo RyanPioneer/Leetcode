@@ -1,5 +1,5 @@
 /**
- * Source: twtr.to/v5YLC
+ * Source: twtr.to/F4efi
  * Date: 2023/10/15
  * Skill:
  * Runtime: 204 ms, faster than 100.00% of C++ online submissions
@@ -33,8 +33,21 @@ using PULL = pair<ULL, ULL>;
 
 class Solution {
 public:
-    int countSubMultisets(vector<int>& nums, int l, int r) {
-
+    vector<vector<int>> constructProductMatrix(vector<vector<int>>& grid) {
+        int n = grid.size(), m = grid[0].size(), mod = 12345;
+        vector<vector<int>> res(n, vector<int>(m));
+        ll post_product = 1, pre_product = 1;
+        for (int i = n - 1; i >= 0; i--)
+            for (int j = m - 1; j >= 0; j--) {
+                res[i][j] = post_product;
+                post_product = post_product * grid[i][j] % mod;
+            }
+        for (int i = 0; i < n; i++)
+            for (int j = 0; j < m; j++) {
+                res[i][j] = res[i][j] * pre_product % mod;
+                pre_product = pre_product * grid[i][j] % mod;
+            }
+        return res;
     }
 };
 

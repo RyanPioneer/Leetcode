@@ -1,9 +1,9 @@
 /**
- * Source: twtr.to/v5YLC
+ * Source: ibit.ly/NFTzH
  * Date: 2023/10/15
  * Skill:
- * Runtime: 204 ms, faster than 100.00% of C++ online submissions
- * Memory Usage: 127.02 MB, less than 50.00% of C++ online submissions
+ * Runtime: 0 ms, faster than 100.00% of C++ online submissions
+ * Memory Usage: 17.86 MB, less than 88.89% of C++ online submissions
  * Time complexity: O(n)
  * Space complexity: O(n)
  * Constraints:
@@ -33,8 +33,16 @@ using PULL = pair<ULL, ULL>;
 
 class Solution {
 public:
-    int countSubMultisets(vector<int>& nums, int l, int r) {
-
+    vector<int> findIndices(vector<int>& nums, int indexDifference, int valueDifference) {
+        vector<int> res = {-1, -1};
+        for (int i = 0; i < nums.size(); ++i)
+            for (int j = i + indexDifference; j < nums.size(); ++j)
+                if (abs(nums[i] - nums[j]) >= valueDifference) {
+                    res[0] = i;
+                    res[1] = j;
+                    return res;
+                }
+        return res;
     }
 };
 
@@ -50,4 +58,6 @@ int main() {
         else
             return 0;
     };
+    int c = test(2, 2);
+    cout << c << endl;
 }
