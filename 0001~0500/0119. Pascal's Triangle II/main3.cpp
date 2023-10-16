@@ -1,9 +1,9 @@
 /**
- * Source: twtr.to/Wlt4y
+ * Source: twtr.to/_XsWh
  * Date: 2023/10/16
  * Skill:
- * Runtime: 16 ms, faster than 92.86% of C++ online submissions
- * Memory Usage: 34.42 MB, less than 47.62% of C++ online submissions
+ * Runtime: 0 ms, faster than 100.00% of C++ online submissions
+ * Memory Usage: 6.70 MB, less than 35.86% of C++ online submissions
  * Time complexity: O(n)
  * Space complexity: O(n)
  * Constraints:
@@ -33,8 +33,14 @@ using PULL = pair<ULL, ULL>;
 
 class Solution {
 public:
-    int countSubMultisets(vector<int>& nums, int l, int r) {
-
+    vector<int> getRow(int rowIndex) {
+        vector<int> res(rowIndex + 1, 1), tmp(rowIndex + 1, 1);
+        for (int i = 2; i <= rowIndex; i++) {
+            tmp = res;
+            for (int j = 1; j < i; j++)
+                res[j] = tmp[j - 1] + tmp[j];
+        }
+        return res;
     }
 };
 
