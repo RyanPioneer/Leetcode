@@ -58,7 +58,7 @@ public:
                 auto [v, c] = arr[i];
                 for (int cap = 0; cap <= limit; cap++) {
                     dp[i][cap] = (cap < v ? 0 : dp[i][cap - v]) + dp[i - 1][cap] -
-                            (cap < v * (c + 1) ? 0 : dp[i - 1][cap - v * (c + 1)]);
+                                 (cap < v * (c + 1) ? 0 : dp[i - 1][cap - v * (c + 1)]);
                     dp[i][cap] = (dp[i][cap] + mod) % mod;
                 }
             }
