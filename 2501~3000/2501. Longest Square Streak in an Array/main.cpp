@@ -1,9 +1,9 @@
 /**
- * Source: tinyurl.com/yu7nhqjy
+ * Source: twtr.to/LWUpK
  * Date: 2023/10/18
  * Skill:
- * Runtime: 7 ms, faster than 58.30% of C++ online submissions
- * Memory Usage: 8.77 MB, less than 63.68% of C++ online submissions
+ * Runtime: 127 ms, faster than 97.84% of C++ online submissions
+ * Memory Usage: 83.31 MB, less than 91.87% of C++ online submissions
  * Time complexity: O(n)
  * Space complexity: O(n)
  * Constraints:
@@ -33,8 +33,14 @@ using PULL = pair<ULL, ULL>;
 
 class Solution {
 public:
-    long long kSum(vector<int>& nums, int k) {
-
+    int longestSquareStreak(vector<int>& nums) {
+        sort(nums.begin(), nums.end(), greater<int>());
+        int visited[100001] = {0}, res = 1;
+        for (auto i: nums) {
+            visited[i] = 1 + ((long long)i * i > 100000 ? 0 : visited[i * i]);
+            res = max(res, visited[i]);
+        }
+        return res > 1 ? res : -1;
     }
 };
 

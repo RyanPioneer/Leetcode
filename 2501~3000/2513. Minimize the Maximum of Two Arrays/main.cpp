@@ -1,9 +1,9 @@
 /**
- * Source: tinyurl.com/yu7nhqjy
+ * Source: twtr.to/K1PUs
  * Date: 2023/10/18
  * Skill:
- * Runtime: 7 ms, faster than 58.30% of C++ online submissions
- * Memory Usage: 8.77 MB, less than 63.68% of C++ online submissions
+ * Runtime: 0 ms, faster than 100.00% of C++ online submissions
+ * Memory Usage: 6.26 MB, less than 32.16% of C++ online submissions
  * Time complexity: O(n)
  * Space complexity: O(n)
  * Constraints:
@@ -33,8 +33,17 @@ using PULL = pair<ULL, ULL>;
 
 class Solution {
 public:
-    long long kSum(vector<int>& nums, int k) {
-
+    int minimizeSet(int divisor1, int divisor2, int uniqueCnt1, int uniqueCnt2) {
+        ll lo = 1, hi = INT32_MAX, num = lcm((ll)divisor1, (ll)divisor2);
+        while (lo < hi) {
+            ll mid = (lo + hi) / 2;
+            ll num1 = mid - mid / divisor1, num2 = mid - mid / divisor2, num3 = mid - mid / divisor1 - mid / divisor2 + mid / num;
+            if (num1 >= uniqueCnt1 && num2 >= uniqueCnt2 && num1 + num2 - num3 >= (ll)uniqueCnt1 + uniqueCnt2)
+                hi = mid;
+            else
+                lo = mid + 1;
+        }
+        return hi;
     }
 };
 
