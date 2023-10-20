@@ -2,8 +2,8 @@
  * Source: tinyurl.com/2bvutfmw
  * Date: 2023/10/19
  * Skill:
- * Runtime: 223 ms, faster than 23.26% of C++ online submissions
- * Memory Usage: 111.26 MB, less than 18.27% of C++ online submissions
+ * Runtime: 189 ms, faster than 63.45% of C++ online submissions
+ * Memory Usage: 108.54 MB, less than 20.27% of C++ online submissions
  * Time complexity: O(n)
  * Space complexity: O(n)
  * Constraints:
@@ -38,19 +38,15 @@ public:
         ll res = 0, mod = 1e9+7;
         int sz = strength.size();
         vector<int> smaller_before(sz, -1), smaller_after(sz, sz);
-        stack<int> before, after;
+        stack<int> s;
         for (int i = 0; i < sz; ++i) {
-            while (!before.empty() && strength[i] <= strength[before.top()])
-                before.pop();
-            if (!before.empty())
-                smaller_before[i] = before.top();
-            before.push(i);
-            int j = sz - 1 - i;
-            while (!after.empty() && strength[j] < strength[after.top()])
-                after.pop();
-            if (!after.empty())
-                smaller_after[j] = after.top();
-            after.push(j);
+            while (!s.empty() && strength[i] <= strength[s.top()]) {
+                smaller_after[s.top()] = i;
+                s.pop();
+            }
+            if (!s.empty())
+                smaller_before[i] = s.top();
+            s.push(i);
         }
         vector<ll> presum(sz + 1, 0), left_sum(sz + 1, 0), right_sum(sz + 1, 0);
         ll right = 0;
