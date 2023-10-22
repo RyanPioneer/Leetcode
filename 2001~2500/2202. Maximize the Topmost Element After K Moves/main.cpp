@@ -1,5 +1,5 @@
 /**
- * Source: tinyurl.com/yuy673by
+ * Source: tinyurl.com/yua2lrzf
  * Date: 2023/10/22
  * Skill:
  * Runtime: 90 ms, faster than 59.88% of C++ online submissions
@@ -7,7 +7,7 @@
  * Time complexity: O(n)
  * Space complexity: O(n)
  * Constraints:
- *      2 <= s.length <= 200
+ *      1 <= circles.length <= 200
  */
 
 #include <vector>
@@ -34,8 +34,17 @@ using PULL = pair<ULL, ULL>;
 
 class Solution {
 public:
-    int minimumChanges(string s, int k) {
-
+    int maximumTop(vector<int>& nums, int k) {
+        int sz = nums.size(), num = 0;
+        if (sz == 1 && k % 2 == 1)
+            return -1;
+        if (k > sz)
+            return *max_element(begin(nums), end(nums));
+        else if (k < sz)
+            num = nums[k];
+        for (int i = 0; i < k - 1; i++)
+            num = max(num, nums[i]);
+        return num;
     }
 };
 

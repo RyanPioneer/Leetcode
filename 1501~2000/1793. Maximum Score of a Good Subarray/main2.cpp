@@ -1,13 +1,13 @@
 /**
- * Source: tinyurl.com/yuy673by
+ * Source: tinyurl.com/yr7sa7ko
  * Date: 2023/10/22
  * Skill:
- * Runtime: 90 ms, faster than 59.88% of C++ online submissions
- * Memory Usage: 63.81 MB, less than 30.72% of C++ online submissions
+ * Runtime: 117 ms, faster than 93.64% of C++ online submissions
+ * Memory Usage: 89.68 MB, less than 80.92% of C++ online submissions
  * Time complexity: O(n)
  * Space complexity: O(n)
  * Constraints:
- *      2 <= s.length <= 200
+ *
  */
 
 #include <vector>
@@ -34,15 +34,24 @@ using PULL = pair<ULL, ULL>;
 
 class Solution {
 public:
-    int minimumChanges(string s, int k) {
-
+    int maximumScore(vector<int>& nums, int k) {
+        int sz = nums.size(), res = 0, l = k, r = k, min_val = nums[k];
+        while (l >= 0 || r < sz) {
+            while (l >= 0 && nums[l] >= min_val)
+                l--;
+            while (r < sz && nums[r] >= min_val)
+                r++;
+            res = max(res, min_val * (r - l - 1));
+            min_val = max(l >= 0 ? nums[l] : INT32_MIN, r < sz ? nums[r] : INT32_MIN);
+        }
+        return res;
     }
 };
 
 
 int main() {
     Solution s;
-    vector<int> nums{1,1,1,1,1};
+    vector<int> nums{89135};
     vector<vector<int>> arr{{1,5}, {10,11},{12,18},{20,25},{30,32}};
     function<int(int, int)> test;
     test = [&](int a, int b) {
