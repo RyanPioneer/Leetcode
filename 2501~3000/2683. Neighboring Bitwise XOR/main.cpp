@@ -1,5 +1,5 @@
 /**
- * Source: tinyurl.com/ykbb5wcx
+ * Source: tinyurl.com/yvkvv4lh
  * Date: 2023/10/23
  * Skill:
  * Runtime: 217 ms, faster than 68.21% of C++ online submissions
@@ -34,8 +34,15 @@ using PULL = pair<ULL, ULL>;
 
 class Solution {
 public:
-    int latestTimeCatchTheBus(vector<int>& buses, vector<int>& passengers, int capacity) {
-
+    bool doesValidArrayExist(vector<int>& derived) {
+        function<bool(int)> check;
+        check = [&](int num) {
+            int a = num;
+            for (int i = 0; i < derived.size(); i++)
+                a ^= derived[i];
+            return a == num;
+        };
+        return check(0) || check(1);
     }
 };
 

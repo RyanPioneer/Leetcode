@@ -1,9 +1,9 @@
 /**
- * Source: tinyurl.com/ykbb5wcx
+ * Source: tinyurl.com/2xa87ucn
  * Date: 2023/10/23
  * Skill:
- * Runtime: 217 ms, faster than 68.21% of C++ online submissions
- * Memory Usage: 259.83 MB, less than 57.55% of C++ online submissions
+ * Runtime: 0 ms, faster than 100.00% of C++ online submissions
+ * Memory Usage: 6.30 MB, less than 47.70% of C++ online submissions
  * Time complexity: O(n)
  * Space complexity: O(n)
  * Constraints:
@@ -34,15 +34,19 @@ using PULL = pair<ULL, ULL>;
 
 class Solution {
 public:
-    int latestTimeCatchTheBus(vector<int>& buses, vector<int>& passengers, int capacity) {
-
+    bool isPowerOfFour(int n) {
+        if (n == 1)
+            return true;
+        if (n < 1 || n % 4 != 0)
+            return false;
+        return isPowerOfFour(n >> 2);
     }
 };
 
 
 int main() {
     Solution s;
-    vector<int> nums{1,1,1,1,1};
+    vector<int> nums{89135};
     vector<vector<int>> arr{{1,5}, {10,11},{12,18},{20,25},{30,32}};
     function<int(int, int)> test;
     test = [&](int a, int b) {
