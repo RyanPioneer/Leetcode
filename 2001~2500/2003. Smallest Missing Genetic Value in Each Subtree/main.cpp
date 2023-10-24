@@ -2,8 +2,8 @@
  * Source: tinyurl.com/yol9gfby
  * Date: 2023/10/24
  * Skill:
- * Runtime: 815 ms, faster than 12.56% of C++ online submissions
- * Memory Usage: 404.90 MB, less than 5.38% of C++ online submissions
+ * Runtime: 767 ms, faster than 14.80% of C++ online submissions
+ * Memory Usage: 404.60 MB, less than 5.38% of C++ online submissions
  * Time complexity: O(n)
  * Space complexity: O(n)
  * Constraints:
@@ -48,12 +48,12 @@ public:
                 break;
             int cur = parents[score[i][1]], child = score[i][1];
             queue<int> q;
-            for (auto j: children[child])
+            for (auto &j: children[child])
                 if (res[j] > num)
                     q.push(j);
             children[child].clear();
             while (cur != -1) {
-                for (auto j: children[cur])
+                for (auto &j: children[cur])
                     if (j != child && res[j] > num)
                         q.push(j);
                 if (children[cur].size() > 1 || (children[cur].size() == 1 && children[cur][0] == child)) {
@@ -70,7 +70,7 @@ public:
                 int node = q.front();
                 q.pop();
                 res[node] = score[i][0];
-                for (auto j: children[node])
+                for (auto &j: children[node])
                     q.push(j);
                 children[node].clear();
             }
