@@ -31,16 +31,6 @@ typedef pair<int, int> pairs;
 typedef unsigned long long ULL;
 using PULL = pair<ULL, ULL>;
 
-const int MX = 201;
-vector<vector<int>> divisors(MX);
-const int init = [] {
-    for (int i = 1; i < MX; i++) {
-        for (int j = i * 2; j < MX; j += i) {
-            divisors[j].push_back(i);
-        }
-    }
-    return 0;
-}();
 
 class Solution {
 public:
