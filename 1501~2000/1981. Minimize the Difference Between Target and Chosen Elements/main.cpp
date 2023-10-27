@@ -2,7 +2,7 @@
  * Source: tinyurl.com/yllc3ktn
  * Date: 2023/10/26
  * Skill:
- * Runtime: 174 ms, faster than 90.63% of C++ online submissions
+ * Runtime: 168 ms, faster than 90.78% of C++ online submissions
  * Memory Usage: 13.50 MB, less than 95.46% of C++ online submissions
  * Time complexity: O(n)
  * Space complexity: O(n)
@@ -34,8 +34,7 @@ public:
         int dp[MX] = {0}, dp2[MX] = {0};
         dp[0] = 1;
         int m = mat.size(), n = mat[0].size(), mi = 0;
-        for (auto &i: mat) sort(begin(i), end(i));
-        for (int i = 0; i < m; ++i) mi += mat[i][0];
+        for (auto &i: mat) mi += *min_element(begin(i), end(i));
         int res = abs(mi - target);
         if (mi >= target) return res;
         for (int i = 0; i < m; ++i) {
