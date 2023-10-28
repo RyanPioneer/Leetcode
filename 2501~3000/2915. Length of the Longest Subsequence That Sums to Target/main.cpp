@@ -10,8 +10,6 @@
  *
  */
 
-#include "utilities.h"
-#include "utilities.cpp"
 
 const int MX = 1001;
 
@@ -34,6 +32,4 @@ public:
 
 int main() {
     Solution s;
-    vector<int> nums{1,2,3,4,5};
-
 }
