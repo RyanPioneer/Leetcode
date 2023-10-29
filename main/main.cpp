@@ -1,9 +1,9 @@
 /**
- * Source: ibit.ly/6lMMq
+ * Source: ibit.ly/guYOU
  * Date: 2023/10/29
  * Skill:
- * Runtime: 59 ms, faster than 100.00% of C++ online submissions
- * Memory Usage: 27.46 MB, less than 100.00% of C++ online submissions
+ * Runtime: 19 ms, faster than 81.05% of C++ online submissions
+ * Memory Usage: 8.71 MB, less than 74.28% of C++ online submissions
  * Time complexity: O(n)
  * Space complexity: O(n)
  * Constraints:
@@ -13,27 +13,16 @@
 #include "utilities.h"
 #include "utilities.cpp"
 
-const int MX = 1001;
+#define ll long long
 
 class Solution {
 public:
-    int lengthOfLongestSubsequence(vector<int>& nums, int target) {
-        int cnt[MX] = {0}, res = 0;
-        for (auto i: nums) {
-            if ((target - i > 0 && cnt[target - i] > 0) || target == i) {
-                res = max(res, cnt[target - i] + 1);
-            }
-            for (int j = target - i; j > 0; j--) {
-                if (cnt[j] > 0) cnt[j + i] = max(cnt[j + i], cnt[j] + 1);
-            }
-            cnt[i] = max(cnt[i], 1);
-        }
-        return res == 0 ? -1 : res;
+    int sumCounts(vector<int>& nums) {
+
     }
 };
 
 int main() {
     Solution s;
-    vector<int> nums{1,2,3,4,5};
-
+    vector<int> nums{2,3,0,0,2};
 }
