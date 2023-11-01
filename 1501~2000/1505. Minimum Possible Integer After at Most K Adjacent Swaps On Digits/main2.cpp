@@ -10,9 +10,6 @@
  *
  */
 
-#include "utilities.h"
-#include "utilities.cpp"
-
 
 const int MX = 1e4 * 3 + 1;
 typedef pair<int, int> pairs;
@@ -83,7 +80,4 @@ public:
 
 int main() {
     Solution s;
-    string res = s.minInteger("294984148179", 11);
-    cout << res << endl;
-    vector<int> nums{1,2,3,4};
 }
