@@ -14,6 +14,7 @@
 const int MX = 1e4 * 3 + 1;
 typedef pair<int, int> pairs;
 
+
 class FenwickTree {
 public:
     int nums[MX] = {0};
