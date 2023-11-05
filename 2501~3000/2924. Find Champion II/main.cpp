@@ -1,5 +1,5 @@
 /**
- * Source: ibit.ly/RoAs5
+ * Source: t.ly/L-MyR
  * Date: 2023/11/5
  * Skill:
  * Runtime: 170 ms, faster than 85.71% of C++ online submissions
@@ -11,14 +11,20 @@
  */
 
 
-#include "utilities.h"
-
 const int MX = 100;
 
 class Solution {
 public:
-    int maxProductPath(vector<vector<int>>& grid) {
-
+    int findChampion(int n, vector<vector<int>>& edges) {
+        int count[MX] = {0}, res = -1;
+        for (auto &e: edges) count[e[1]]++;
+        for (int i = 0; i < n; ++i) {
+            if (count[i] == 0) {
+                if (res == -1) res = i;
+                else return -1;
+            }
+        }
+        return res;
     }
 };
 
