@@ -1,9 +1,9 @@
 /**
- * Source: t.ly/oHyt8
+ * Source: ibit.ly/z4JHb
  * Date: 2023/11/9
  * Skill:
- * Runtime: 464 ms, faster than 79.04% of C++ online submissions
- * Memory Usage: 180.84 MB, less than 100.00% of C++ online submissions
+ * Runtime: 20 ms, faster than 93.70% of C++ online submissions
+ * Memory Usage: 11.94 MB, less than 85.65% of C++ online submissions
  * Time complexity: O(n)
  * Space complexity: O(n)
  * Constraints:
@@ -32,12 +32,22 @@ using namespace std;
 
 typedef pair<int, int> pairs;
 
-const int MX = 1e5 + 1;
+const int MX = 2 * 1e5 + 2;
 
 class Solution {
 public:
-    int kthSmallest(vector<vector<int>>& mat, int k) {
-
+    int countHomogenous(string s) {
+        ll mod = 1e9+7, res = 0;
+        int idx = -1, sz = s.length();
+        while (++idx < sz) {
+            ll num = 1;
+            while (idx + 1 < sz && s[idx] == s[idx + 1]) {
+                idx++;
+                num++;
+            }
+            res = (res + (1 + num) * num / 2) % mod;
+        }
+        return res;
     }
 };
 
