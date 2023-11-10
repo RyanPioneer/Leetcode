@@ -1,5 +1,5 @@
 /**
- * Source: t.ly/Wta6-
+ * Source: t.ly/Um6Eu
  * Date: 2023/11/10
  * Skill:
  * Runtime: 91 ms, faster than 98.30% of C++ online submissions
@@ -28,23 +28,23 @@
 
 using namespace std;
 
-#define ll long long
-
-typedef pair<int, int> pairs;
-
-const int MX = 501;
-
 
 class Solution {
 public:
-    vector<int> waysToFillArray(vector<vector<int>>& queries) {
-
+    vector<int> decode(vector<int>& encoded) {
+        int n = encoded.size() + 1, total = 0, num = 0;
+        for (int i = 1; i <= n; i++) total ^= i;
+        for (int i = 1; i < n - 1; i += 2) num ^= encoded[i];
+        vector<int> res;
+        res.push_back(total ^ num);
+        for (int i = 1; i < n; i++) {
+            res.push_back(encoded[i - 1] ^ res.back());
+        }
+        return res;
     }
 };
 
 
 int main() {
     Solution s;
-    vector<vector<int>> arr{{4,8}, {2,8}};
-    vector<int> nums{2,3,5};
 }

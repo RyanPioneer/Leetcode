@@ -61,4 +61,7 @@ int main() {
     Solution s;
     vector<int> nums{-1,0,1,0,3,3};
     vector<vector<int>> arr{{1,5}, {10,11},{12,18},{20,25},{30,32}};
+    ll dp[2][2][4] = {0};
+    dp[1][1][1] = 3;
+    memset(dp, 0, sizeof(dp));
 }
