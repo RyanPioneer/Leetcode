@@ -3,7 +3,7 @@
  * Date: 2023/11/12
  * Skill:
  * Runtime: 55 ms, faster than 10.53% of C++ online submissions
- * Memory Usage: 6.24 MB, less than 76.84% of C++ online submissions
+ * Memory Usage: 6.19 MB, less than 94.74% of C++ online submissions
  * Time complexity: O(n)
  * Space complexity: O(n)
  * Constraints:
@@ -29,10 +29,6 @@
 using namespace std;
 
 #define ll long long
-
-typedef pair<int, int> pairs;
-
-const int MX = 20;
 
 
 class Solution {
