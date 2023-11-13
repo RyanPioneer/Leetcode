@@ -1,14 +1,13 @@
 /**
- * Source: t.ly/Bf7Aj
+ * Source: t.ly/3GD8X
  * Date: 2023/11/13
  * Skill:
  * Runtime: 2 ms, faster than 58.87% of C++ online submissions
- * Memory Usage: 6.51 MB, less than 8.06% of C++ online submissions
+ * Memory Usage: 6.22 MB, less than 78.23% of C++ online submissions
  * Time complexity: O(n)
  * Space complexity: O(n)
  * Constraints:
- *      2 <= n <= 1000
- *      1 <= k <= n-1
+ *      1 <= p <= 60
  */
 
 
@@ -30,21 +29,25 @@
 using namespace std;
 
 
-typedef pair<int, int> pairs;
-
 #define ll long long
 
 
 class Solution {
+    ll mod = 1e9+7;
 public:
-    int numberOfSets(int n, int k) {
-        ll mod = 1e9+7;
+    int minNonZeroProduct(int p) {
+        ll mx = ((1ll << p) - 1) % mod, time = (1ll << (p - 1)) - 1;
+        return quickMul((mx - 1), time) * mx % mod;
+    }
+    ll quickMul(ll num, ll time) {
+        if (time == 0) return 1;
+        if (time == 1) return num;
+        ll n = quickMul(num * num % mod, time / 2);
+        return n * (time % 2 == 0 ? 1 : num) % mod;
     }
 };
 
 
 int main() {
     Solution s;
-    vector<vector<int>> arr{{3,4,2,1}, {4,2,3,1},{2,1,0,0},{2,4,0,0}};
-    vector<int> nums{2,3,5};
 }

@@ -2,8 +2,8 @@
  * Source: t.ly/gbyAK
  * Date: 2023/11/12
  * Skill:
- * Runtime: 299 ms, faster than 87.50% of C++ online submissions
- * Memory Usage: 145.11 MB, less than 6.25% of C++ online submissions
+ * Runtime: 252 ms, faster than 93.75% of C++ online submissions
+ * Memory Usage: 145.06 MB, less than 6.25% of C++ online submissions
  * Time complexity: O(n)
  * Space complexity: O(n)
  * Constraints:
@@ -51,8 +51,7 @@ public:
                 if (cur->nums[1 - d] * 2 >= i) {
                     cur = cur->next[1 - d];
                 } else {
-                    if (cur->next[d] == nullptr) {
-                        cur->next[d] = new TrieNode();
+                    if (cur->nums[d] * 2 < i) {
                         found = false;
                         break;
                     }
