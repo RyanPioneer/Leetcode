@@ -1,5 +1,5 @@
 /**
- * Source: t.ly/_nEIs
+ * Source: t.ly/Kvjwa
  * Date: 2023/11/14
  * Skill:
  * Runtime: 0 ms, faster than 100.00% of C++ online submissions
@@ -29,23 +29,16 @@
 using namespace std;
 
 
-typedef pair<int, int> pairs;
-
-#define ll long long
-
-const int MX = 1e4+1;
-
-
 class Solution {
 public:
-    int maxIncreasingGroups(vector<int>& usageLimits) {
-
+    int brokenCalc(int startValue, int target) {
+        if (startValue >= target) return startValue - target;
+        else if (target % 2 == 1) return brokenCalc(startValue, target + 1) + 1;
+        else return brokenCalc(startValue, target / 2) + 1;
     }
 };
 
 
 int main() {
     Solution s;
-    vector<vector<int>> arr{{3,4,2,1}, {4,2,3,1},{2,1,0,0},{2,4,0,0}};
-    vector<int> nums{2,3,5};
 }
