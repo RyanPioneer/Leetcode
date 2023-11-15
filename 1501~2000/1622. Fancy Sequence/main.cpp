@@ -75,8 +75,6 @@ public:
 };
 
 
+
 int main() {
-    Solution s;
-    vector<vector<int>> arr{{3,4,2,1}, {4,2,3,1},{2,1,0,0},{2,4,0,0}};
-    vector<int> nums{2,3,5};
 }
