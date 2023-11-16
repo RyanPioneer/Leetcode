@@ -1,13 +1,13 @@
 /**
- * Source: ibit.ly/NA3r2
+ * Source: ibit.ly/khpfk
  * Date: 2023/11/16
  * Skill:
- * Runtime: 861 ms, faster than 7.35% of C++ online submissions
- * Memory Usage: 6.84 MB, less than 100.00% of C++ online submissions
+ * Runtime: 0 ms, faster than 100.00% of C++ online submissions
+ * Memory Usage: 10.49 MB, less than 86.71% of C++ online submissions
  * Time complexity: O(n)
  * Space complexity: O(n)
  * Constraints:
- *
+ *      1 <= n <= 16
  */
 
 
@@ -29,20 +29,19 @@
 using namespace std;
 
 
-typedef pair<int, int> PII;
-
-const int MX = 243;
-
 class Solution {
 public:
-    int minChanges(vector<int>& nums, int k) {
-
+    string findDifferentBinaryString(vector<string>& nums) {
+        int n = nums.size();
+        string res;
+        for (int i = 0; i < n; ++i) {
+            res.push_back(nums[i][i] == '0' ? '1' : '0');
+        }
+        return res;
     }
 };
 
 
 int main() {
     Solution s;
-    vector<vector<int>> arr{{3,4,2,1}, {4,2,3,1},{2,1,0,0},{2,4,0,0}};
-    vector<int> nums{2,3,5};
 }

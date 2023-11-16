@@ -27,7 +27,7 @@
 using namespace std;
 
 #define ll long long
-typedef pair<int, int> pairs;
+typedef pair<int, int> PII;
 typedef unsigned long long ULL;
 using PULL = pair<ULL, ULL>;
 

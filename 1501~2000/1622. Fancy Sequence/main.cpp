@@ -29,8 +29,6 @@
 using namespace std;
 
 
-typedef pair<int, int> pairs;
-
 #define ll long long
 
 
