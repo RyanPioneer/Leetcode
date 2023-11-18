@@ -28,10 +28,6 @@
 
 using namespace std;
 
-#define ll long long
-
-const int MX = 1001;
-
 
 class Solution {
 public:
@@ -52,8 +48,3 @@ public:
         return res;
     }
 };
-
-
-int main() {
-    Solution s;
-}
