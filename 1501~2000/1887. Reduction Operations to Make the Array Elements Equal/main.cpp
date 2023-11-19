@@ -1,5 +1,5 @@
 /**
- * Source: twtr.to/fFTmE
+ * Source: twtr.to/Zyzq-
  * Date: 2023/11/19
  * Skill:
  * Runtime: 157 ms, faster than 71.47% of C++ online submissions
@@ -28,19 +28,18 @@
 
 using namespace std;
 
-#define ll long long
-
 
 class Solution {
 public:
-    vector<int> leftmostBuildingQueries(vector<int>& heights, vector<vector<int>>& queries) {
-
+    int reductionOperations(vector<int>& nums) {
+        sort(begin(nums), end(nums), greater<int>());
+        int res = 0, idx = 0, len = nums.size();
+        while (idx + 1 < len) {
+            while (idx + 1 < len && nums[idx] == nums[idx + 1]) idx++;
+            if (idx == len - 1) break;
+            res += idx + 1;
+            idx++;
+        }
+        return res;
     }
 };
-
-
-int main() {
-    Solution s;
-    vector<int> nums{-1,0,1,0,3,3};
-    vector<vector<int>> arr{{1,5}, {10,11},{12,18},{20,25},{30,32}};
-}
