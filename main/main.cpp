@@ -1,9 +1,9 @@
 /**
- * Source: twtr.to/fFTmE
- * Date: 2023/11/19
+ * Source: twtr.to/AMqh6
+ * Date: 2023/11/20
  * Skill:
- * Runtime: 157 ms, faster than 71.47% of C++ online submissions
- * Memory Usage: 83.09 MB, less than 88.96% of C++ online submissions
+ * Runtime: 15 ms, faster than 60.00% of C++ online submissions
+ * Memory Usage: 11.03 MB, less than 97.71% of C++ online submissions
  * Time complexity: O(n)
  * Space complexity: O(n)
  * Constraints:
@@ -11,8 +11,8 @@
  */
 
 
-#include <vector>
 #include <iostream>
+#include <vector>
 #include <algorithm>
 #include <map>
 #include <set>
@@ -26,15 +26,18 @@
 #include <list>
 
 
-using namespace std;
-
+#define SZ(X) ((int)(X).size())
 #define ll long long
+using namespace std;
+const int MX = 40;
 
 
 class Solution {
 public:
-    vector<int> leftmostBuildingQueries(vector<int>& heights, vector<vector<int>>& queries) {
-
+    int mctFromLeafValues(vector<int>& arr) {
+        int n = SZ(arr), dp[MX][MX];
+        deque<int> q;
+        for ()
     }
 };
 
