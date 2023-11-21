@@ -25,3 +25,9 @@
 ``區間型DP``
 
 [1130. Minimum Cost Tree From Leaf Values](https://github.com/RyanPioneer/Leetcode/blob/main/1001~1500/1130.%20Minimum%20Cost%20Tree%20From%20Leaf%20Values/main2.cpp)
+
+
+
+``Next greater element``
+
+[1130. Minimum Cost Tree From Leaf Values](https://github.com/RyanPioneer/Leetcode/blob/main/1001~1500/1130.%20Minimum%20Cost%20Tree%20From%20Leaf%20Values/main3.cpp)
