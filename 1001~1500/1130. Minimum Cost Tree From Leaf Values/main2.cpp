@@ -55,10 +55,3 @@ public:
         return dp[0][n - 1];
     }
 };
-
-
-int main() {
-    Solution s;
-    vector<int> nums{-1,0,1,0,3,3};
-    vector<vector<int>> arr{{1,5}, {10,11},{12,18},{20,25},{30,32}};
-}
