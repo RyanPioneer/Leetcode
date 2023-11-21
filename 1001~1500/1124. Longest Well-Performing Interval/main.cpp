@@ -28,11 +28,8 @@
 
 
 #define SZ(X) ((int)(X).size())
-#define ll long long
 using namespace std;
 typedef pair<int, int> PII;
-const int MX = 1e4;
-ll mod = 1e9+7;
 
 
 class Solution {
@@ -40,7 +37,7 @@ public:
     int longestWPI(vector<int>& hours) {
         int diff = 0, res = 0, right = -1;
         priority_queue<PII> pq;
-        for (int i = 0; i < hours.size(); i++) {
+        for (int i = 0; i < SZ(hours); i++) {
             diff += (hours[i] > 8 ? 1 : -1);
             pq.push({diff, i});
         }
@@ -62,10 +59,3 @@ public:
         return res;
     }
 };
-
-
-int main() {
-    Solution s;
-    vector<int> nums{-1,0,1,0,3,3};
-    vector<vector<int>> arr{{1,5}, {10,11},{12,18},{20,25},{30,32}};
-}

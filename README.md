@@ -36,4 +36,4 @@
 
 ``Suffix array``
 
-[1163. Last Substring in Lexicographical Order](https://github.com/RyanPioneer/Leetcode/blob/main/1001~1500/1130.%20Minimum%20Cost%20Tree%20From%20Leaf%20Values/main3.cpp) 
+[1163. Last Substring in Lexicographical Order](https://github.com/RyanPioneer/Leetcode/blob/main/1001~1500/1163.%20Last%20Substring%20in%20Lexicographical%20Order/main.cpp) 
