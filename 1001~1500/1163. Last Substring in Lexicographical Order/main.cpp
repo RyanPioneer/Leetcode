@@ -3,10 +3,10 @@
  * Date: 2023/11/21
  * Skill: Suffix array
  * Ref: twtr.to/Xhc6s
- * Runtime: 146 ms, faster than 96.51% of C++ online submissions
- * Memory Usage: 84.25 MB, less than 55.62% of C++ online submissions
- * Time complexity: O(n)
- * Space complexity: O(n)
+ * Runtime: TLE
+ * Memory Usage:
+ * Time complexity:
+ * Space complexity:
  * Constraints:
  *
  */
