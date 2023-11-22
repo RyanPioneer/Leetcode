@@ -1,10 +1,10 @@
 /**
- * Source: twtr.to/xoOQj
+ * Source: twtr.to/bIHjK
  * Date: 2023/11/22
- * Skill:
+ * Skill: Farthest greater element
  * Ref:
- * Runtime: 38 ms, faster than 63.98% of C++ online submissions
- * Memory Usage: 29.92 MB, less than 37.14% of C++ online submissions
+ * Runtime: 20 ms, faster than 76.84% of C++ online submissions
+ * Memory Usage: 24.12 MB, less than 11.99% of C++ online submissions
  * Time complexity: O(n)
  * Space complexity: O(n)
  * Constraints:
@@ -28,25 +28,24 @@
 
 
 #define SZ(X) ((int)(X).size())
-#define ll long long
 using namespace std;
-typedef pair<int, int> PII;
-const int MX = 1e4;
-ll mod = 1e9+7;
 
 
 class Solution {
 public:
-    int maxWidthRamp(vector<int>& nums) {
-        int res = 0, sz = SZ(nums);
+    int longestWPI(vector<int>& hours) {
+        int res = 0, sz = SZ(hours);
+        vector<int> presum({0});
         stack<int> st;
+        st.push(0);
         for (int i = 0; i < sz; i++) {
-            if (st.empty() || nums[i] < nums[st.top()]) {
-                st.push(i);
+            presum.push_back(presum.back() + (hours[i] > 8 ? 1 : -1));
+            if (st.empty() || presum.back() < presum[st.top()]) {
+                st.push(i + 1);
             }
         }
-        for (int i = sz - 1; i >= 0; i--) {
-            while (!st.empty() && nums[i] >= nums[st.top()]) {
+        for (int i = sz; i >= 0; i--) {
+            while (!st.empty() && presum[i] > presum[st.top()]) {
                 res = max(res, i - st.top());
                 st.pop();
             }
@@ -55,10 +54,3 @@ public:
         return res;
     }
 };
-
-
-int main() {
-    Solution s;
-    vector<int> nums{-1,0,1,0,3,3};
-    vector<vector<int>> arr{{1,5}, {10,11},{12,18},{20,25},{30,32}};
-}

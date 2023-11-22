@@ -18,7 +18,7 @@
 
 ``Binary indexed tree``
 
-[2940. Find Building Where Alice and Bob Can Meet](https://github.com/RyanPioneer/Leetcode/blob/main/2501~3000/2940.%20Find%20Building%20Where%20Alice%20and%20Bob%20Can%20Meet/main6.cpp)
+[2940. Find Building Where Alice and Bob Can Meet](https://github.com/RyanPioneer/Leetcode/blob/main/2501~3000/2940.%20Find%20Building%20Where%20Alice%20and%20Bob%20Can%20Meet/main6.cpp) (find postfix min value)
 
 
 
@@ -34,6 +34,13 @@
 
 
 
+``Farthest greater element``
+
+[1124. Longest Well-Performing Interval](https://github.com/RyanPioneer/Leetcode/tree/main/1001~1500/1124.%20Longest%20Well-Performing%20Interval) (1908)
+
+
+
 ``Suffix array``
 
 [1163. Last Substring in Lexicographical Order](https://github.com/RyanPioneer/Leetcode/blob/main/1001~1500/1163.%20Last%20Substring%20in%20Lexicographical%20Order/main.cpp) 
+
