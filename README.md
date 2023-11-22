@@ -44,3 +44,7 @@
 
 [1163. Last Substring in Lexicographical Order](https://github.com/RyanPioneer/Leetcode/blob/main/1001~1500/1163.%20Last%20Substring%20in%20Lexicographical%20Order/main.cpp) 
 
+
+
+[962. Maximum Width Ramp](https://github.com/RyanPioneer/Leetcode/blob/main/0501~1000/0962.%20Maximum%20Width%20Ramp/main.cpp) (1607)
+

@@ -1,12 +1,12 @@
 /**
- * Source: twtr.to/xoOQj
+ * Source: twtr.to/Utrjs
  * Date: 2023/11/22
  * Skill:
  * Ref:
- * Runtime: 38 ms, faster than 63.98% of C++ online submissions
- * Memory Usage: 29.92 MB, less than 37.14% of C++ online submissions
- * Time complexity: O(n)
- * Space complexity: O(n)
+ * Runtime: 4 ms, faster than 97.08% of C++ online submissions
+ * Memory Usage: 11.76 MB, less than 95.63% of C++ online submissions
+ * Time complexity:
+ * Space complexity:
  * Constraints:
  *
  */
@@ -27,38 +27,27 @@
 #include <list>
 
 
+using namespace std;
 #define SZ(X) ((int)(X).size())
 #define ll long long
-using namespace std;
 typedef pair<int, int> PII;
-const int MX = 1e4;
+const int MX = 2 * 1e3 + 1;
 ll mod = 1e9+7;
+
+
+struct TreeNode {
+    int val;
+    TreeNode *left;
+    TreeNode *right;
+    TreeNode() : val(0), left(nullptr), right(nullptr) {}
+    TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
+    TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+};
 
 
 class Solution {
 public:
-    int maxWidthRamp(vector<int>& nums) {
-        int res = 0, sz = SZ(nums);
-        stack<int> st;
-        for (int i = 0; i < sz; i++) {
-            if (st.empty() || nums[i] < nums[st.top()]) {
-                st.push(i);
-            }
-        }
-        for (int i = sz - 1; i >= 0; i--) {
-            while (!st.empty() && nums[i] >= nums[st.top()]) {
-                res = max(res, i - st.top());
-                st.pop();
-            }
-            if (st.empty()) break;
-        }
-        return res;
+    TreeNode* sufficientSubset(TreeNode* root, int limit) {
+
     }
 };
-
-
-int main() {
-    Solution s;
-    vector<int> nums{-1,0,1,0,3,3};
-    vector<vector<int>> arr{{1,5}, {10,11},{12,18},{20,25},{30,32}};
-}

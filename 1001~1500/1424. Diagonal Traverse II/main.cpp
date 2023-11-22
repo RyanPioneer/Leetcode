@@ -4,8 +4,8 @@
  * Skill:
  * Runtime: 200 ms, faster than 81.74% of C++ online submissions
  * Memory Usage: 97.33 MB, less than 55.55% of C++ online submissions
- * Time complexity: O(n)
- * Space complexity: O(n)
+ * Time complexity:
+ * Space complexity:
  * Constraints:
  *      1 <= k <= nums.length <= 10 ** 5
  *      -10 ** 4 <= nums[i] <= 10 ** 4
@@ -23,9 +23,6 @@
 
 using namespace std;
 
-#define ll long long
-
-typedef pair<int, int> pairs;
 
 class Solution {
 public:
@@ -44,17 +41,3 @@ public:
         return res;
     }
 };
-
-static const auto io_sync_off = []() {
-    // turn off sync
-    std::ios::sync_with_stdio(false);
-    // untie in/out streams
-    std::cin.tie(nullptr);
-    return nullptr;
-}();
-
-int main() {
-    Solution s;
-    vector<int> nums{1,3,2};
-//    cout << res << endl;
-}
