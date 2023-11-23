@@ -3,7 +3,7 @@
  * Date: 2023/11/23
  * Skill:
  * Ref:
- * Runtime: 4 ms, faster than 98.08% of C++ online submissions
+ * Runtime: 0 ms, faster than 100.00% of C++ online submissions
  * Memory Usage: 10.08 MB, less than 92.39% of C++ online submissions
  * Time complexity:
  * Space complexity:
@@ -29,9 +29,6 @@
 
 using namespace std;
 #define SZ(X) ((int)(X).size())
-#define ll long long
-typedef pair<int, int> PII;
-ll mod = 1e9+7;
 const int MX = 500 + 2;
 
 
@@ -40,17 +37,15 @@ public:
     int arr[MX] = {0};
 
     void update(int idx, int num) {
-        while (idx < MX) {
+        for (; idx < MX; idx += idx & -idx) {
             arr[idx] = max(num, arr[idx]);
-            idx += idx & -idx;
         }
     }
 
     int query_max(int idx) {
         int num = 0;
-        while (idx > 0) {
+        for (; idx > 0; idx -= idx & -idx) {
             num = max(num, arr[idx]);
-            idx -= idx & -idx;
         }
         return num;
     }

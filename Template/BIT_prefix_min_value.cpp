@@ -37,25 +37,18 @@ const int MX = 101;
 
 class BIT {
 public:
-    vector<int> arr;
-    int n;
-    BIT(int x) {
-        n = x;
-        arr.resize(x, INT32_MAX / 2);
-    }
+    int arr[MX] = {0};
 
-    void update(int index, int value) {
-        while (index < n) {
-            arr[index] = min(arr[index], value);
-            index += index & -index;
+    void update(int idx, int num) {
+        for (; idx < MX; idx += idx & -idx) {
+            arr[idx] = max(num, arr[idx]);
         }
     }
 
-    int query_min(int index) {
-        int num = arr[index];
-        while (index > 0) {
-            num = min(arr[index], num);
-            index -= index & -index;
+    int query_max(int idx) {
+        int num = INT32_MIN;
+        for (; idx > 0; idx -= idx & -idx) {
+            num = max(num, arr[idx]);
         }
         return num;
     }
