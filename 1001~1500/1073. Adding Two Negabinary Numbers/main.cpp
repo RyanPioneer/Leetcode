@@ -3,8 +3,8 @@
  * Date: 2023/11/23
  * Skill:
  * Ref:
- * Runtime: 6 ms, faster than 52.63% of C++ online submissions
- * Memory Usage: 19.82 MB, less than 29.82% of C++ online submissions
+ * Runtime: 4 ms, faster than 75.88% of C++ online submissions
+ * Memory Usage: 19.70 MB, less than 92.98% of C++ online submissions
  * Time complexity:
  * Space complexity:
  * Constraints:
@@ -29,10 +29,6 @@
 
 using namespace std;
 #define SZ(X) ((int)(X).size())
-#define ll long long
-typedef pair<int, int> PII;
-ll mod = 1e9+7;
-const int MX = 1e4+1;
 
 
 class Solution {
