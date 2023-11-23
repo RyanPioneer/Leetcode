@@ -50,9 +50,9 @@
 
 
 
-## Suffix array
+## Stack
 
-[1163. Last Substring in Lexicographical Order](https://github.com/RyanPioneer/Leetcode/blob/main/1001~1500/1163.%20Last%20Substring%20in%20Lexicographical%20Order/main.cpp) 
+[1096. Brace Expansion II]() (2348)
 
 
 
@@ -60,4 +60,10 @@
 
 * ``base -2 arithmetic``
 
-[1073. Adding Two Negabinary Numbers]()
+[1073. Adding Two Negabinary Numbers](https://github.com/RyanPioneer/Leetcode/blob/main/1001~1500/1073.%20Adding%20Two%20Negabinary%20Numbers/main.cpp) (1806)
+
+
+
+## Suffix array
+
+[1163. Last Substring in Lexicographical Order](https://github.com/RyanPioneer/Leetcode/blob/main/1001~1500/1163.%20Last%20Substring%20in%20Lexicographical%20Order/main.cpp) 

@@ -1,5 +1,5 @@
 /**
- * Source: is.gd/ZiQnqs
+ * Source: is.gd/9jOKTp
  * Date: 2023/11/23
  * Skill:
  * Ref:
@@ -37,33 +37,18 @@ const int MX = 1e4+1;
 
 class Solution {
 public:
-    vector<int> addNegabinary(vector<int>& arr1, vector<int>& arr2) {
-        vector<int> res;
-        reverse(begin(arr1), end(arr1));
-        reverse(begin(arr2), end(arr2));
-        int len1 = SZ(arr1), len2 = SZ(arr2), carry = 0;
-        for (int i = 0; i < max(len1, len2); i++) {
-            if (i < len1) carry += arr1[i];
-            if (i < len2) carry += arr2[i];
-            int r = carry % -2;
-            carry /= -2;
-            if (r < 0) {
-                r += 2;
-                carry += 1;
-            }
-            res.push_back(r);
-        }
-        while (carry != 0) {
-            int r = carry % -2;
-            carry /= -2;
-            if (r < 0) {
-                r += 2;
-                carry += 1;
-            }
-            res.push_back(r);
-        }
-        while (SZ(res) > 1 && res.back() == 0) res.pop_back();
-        reverse(begin(res), end(res));
-        return res;
+    vector<string> braceExpansionII(string expression) {
+
     }
 };
+
+int main() {
+    Solution s;
+    string exp = "{a{x,ia,o}w,{n,{g,{u,o}},{a,{x,ia,o},w}},er}";
+    vector<string> res = s.braceExpansionII(exp);
+    vector<int> nums{-1,0,1,0,3,3};
+    vector<vector<int>> arr{{1,5}, {10,11},{12,18},{20,25},{30,32}};
+    ll dp[2][2][4] = {0};
+    dp[1][1][1] = 3;
+    memset(dp, 0, sizeof(dp));
+}
