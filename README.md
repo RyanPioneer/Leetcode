@@ -52,13 +52,13 @@
 
 ## Stack
 
-[1096. Brace Expansion II]() (2348)
+[1096. Brace Expansion II](https://github.com/RyanPioneer/Leetcode/blob/main/1001~1500/1096.%20Brace%20Expansion%20II/main.cpp) (2348)
 
 
 
-## Recursion
+## 差分數組
 
-[1096. Brace Expansion II]() (2348)
+[995. Minimum Number of K Consecutive Bit Flips](https://github.com/RyanPioneer/Leetcode/blob/main/1001~1500/1096.%20Brace%20Expansion%20II/main.cpp) (1835)
 
 
 

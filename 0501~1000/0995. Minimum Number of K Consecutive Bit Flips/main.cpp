@@ -29,9 +29,6 @@
 
 using namespace std;
 #define SZ(X) ((int)(X).size())
-#define ll long long
-typedef pair<int, int> PII;
-ll mod = 1e9+7;
 const int MX = 1e5 + 1;
 
 
