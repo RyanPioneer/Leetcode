@@ -34,7 +34,7 @@
 
 [1130. Minimum Cost Tree From Leaf Values](https://github.com/RyanPioneer/Leetcode/blob/main/1001~1500/1130.%20Minimum%20Cost%20Tree%20From%20Leaf%20Values/main2.cpp) (1919)
 
-[312. Burst Balloons]() 
+[312. Burst Balloons](https://github.com/RyanPioneer/Leetcode/blob/main/0001~0500/0312.%20Burst%20Balloons/main.cpp) 
 
 
 
