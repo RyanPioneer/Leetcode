@@ -1,10 +1,10 @@
 /**
- * Source: is.gd/fVc70y
+ * Source: is.gd/LIMekz
  * Date: 2023/11/24
  * Skill:
  * Ref:
- * Runtime: 88 ms, faster than 93.29% of C++ online submissions
- * Memory Usage: 107.12 MB, less than 71.48% of C++ online submissions
+ * Runtime: 174 ms, faster than 95.87% of C++ online submissions
+ * Memory Usage: 8.70 MB, less than 90.39% of C++ online submissions
  * Time complexity:
  * Space complexity:
  * Constraints:
@@ -30,29 +30,16 @@
 using namespace std;
 #define SZ(X) ((int)(X).size())
 #define ll long long
+#define MK(X, Y) make_pair(X, Y)
 typedef pair<int, int> PII;
+typedef pair<char, char> PCC;
 ll mod = 1e9+7;
-const int MX = 1e5 + 1;
+const int MX = 301;
 
 
 class Solution {
 public:
-    int minKBitFlips(vector<int>& nums, int k) {
-        int diff[MX] = {0}, res = 0, flip_time = 0, len = SZ(nums);
-        for (int i = 0; i <= len - k; i++) {
-            flip_time += diff[i];
-            if ((nums[i] + flip_time) % 2 == 0) {
-                res++;
-                flip_time++;
-                diff[i + k]--;
-            }
-        }
-        for (int i = len - k + 1; i < len; i++) {
-            flip_time += diff[i];
-            if ((nums[i] + flip_time) % 2 == 0) {
-                return -1;
-            }
-        }
-        return res;
+    int mergeStones(vector<int>& stones, int k) {
+
     }
 };

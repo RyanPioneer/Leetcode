@@ -34,6 +34,8 @@
 
 [1130. Minimum Cost Tree From Leaf Values](https://github.com/RyanPioneer/Leetcode/blob/main/1001~1500/1130.%20Minimum%20Cost%20Tree%20From%20Leaf%20Values/main2.cpp) (1919)
 
+[312. Burst Balloons]() 
+
 
 
 ## Next greater element
@@ -58,7 +60,7 @@
 
 ## 差分數組
 
-[995. Minimum Number of K Consecutive Bit Flips](https://github.com/RyanPioneer/Leetcode/blob/main/1001~1500/1096.%20Brace%20Expansion%20II/main.cpp) (1835)
+[995. Minimum Number of K Consecutive Bit Flips](https://github.com/RyanPioneer/Leetcode/blob/main/0501~1000/0995.%20Minimum%20Number%20of%20K%20Consecutive%20Bit%20Flips/main.cpp) (1835)
 
 
 
