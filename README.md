@@ -36,7 +36,7 @@
 
 [312. Burst Balloons](https://github.com/RyanPioneer/Leetcode/blob/main/0001~0500/0312.%20Burst%20Balloons/main.cpp) 
 
-
+[1000. Minimum Cost to Merge Stones]() (2422)
 
 ## Next greater element
 

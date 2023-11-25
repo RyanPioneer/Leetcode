@@ -29,11 +29,6 @@
 
 using namespace std;
 #define SZ(X) ((int)(X).size())
-#define ll long long
-#define MK(X, Y) make_pair(X, Y)
-typedef pair<int, int> PII;
-typedef pair<char, char> PCC;
-ll mod = 1e9+7;
 const int MX = 31;
 
 
