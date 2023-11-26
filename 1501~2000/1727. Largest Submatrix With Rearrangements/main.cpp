@@ -1,7 +1,7 @@
 /**
  * Source: jpeg.ly/r9_ca
  * Date: 2023/11/26
- * Skill:
+ * Skill: Histogram
  * Ref:
  * Runtime: 150 ms, faster than 77.84% of C++ online submissions
  * Memory Usage: 66.32 MB, less than 70.45% of C++ online submissions

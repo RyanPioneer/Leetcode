@@ -78,12 +78,13 @@
 
 
 
-## Suffix array
+### Histogram
+
+[1727. Largest Submatrix With Rearrangements](https://github.com/RyanPioneer/Leetcode/tree/main/1501~2000/1727.%20Largest%20Submatrix%20With%20Rearrangements) (1926)
+
+
+
+### Suffix array
 
 [1163. Last Substring in Lexicographical Order](https://github.com/RyanPioneer/Leetcode/blob/main/1001~1500/1163.%20Last%20Substring%20in%20Lexicographical%20Order/main.cpp) 
 
-
-
-### Histogram
-
-[1727. Largest Submatrix With Rearrangements]()
