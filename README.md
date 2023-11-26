@@ -26,17 +26,17 @@
 
 * ``Longest common subsequence``
 
-[1035. Uncrossed Lines](https://github.com/RyanPioneer/Leetcode/tree/main/1001~1500/1035.%20Uncrossed%20Lines) (1805)
+​	[1035. Uncrossed Lines](https://github.com/RyanPioneer/Leetcode/tree/main/1001~1500/1035.%20Uncrossed%20Lines) (1805)
 
 
 
 * ``區間型DP``
 
-[1130. Minimum Cost Tree From Leaf Values](https://github.com/RyanPioneer/Leetcode/blob/main/1001~1500/1130.%20Minimum%20Cost%20Tree%20From%20Leaf%20Values/main2.cpp) (1919)
+​	[1130. Minimum Cost Tree From Leaf Values](https://github.com/RyanPioneer/Leetcode/blob/main/1001~1500/1130.%20Minimum%20Cost%20Tree%20From%20Leaf%20Values/main2.cpp) (1919)
 
-[312. Burst Balloons](https://github.com/RyanPioneer/Leetcode/blob/main/0001~0500/0312.%20Burst%20Balloons/main.cpp) 
+​	[312. Burst Balloons](https://github.com/RyanPioneer/Leetcode/blob/main/0001~0500/0312.%20Burst%20Balloons/main.cpp) 
 
-[1000. Minimum Cost to Merge Stones](https://github.com/RyanPioneer/Leetcode/blob/main/0501~1000/1000.%20Minimum%20Cost%20to%20Merge%20Stones/main.cpp) (2422)
+​	[1000. Minimum Cost to Merge Stones](https://github.com/RyanPioneer/Leetcode/blob/main/0501~1000/1000.%20Minimum%20Cost%20to%20Merge%20Stones/main.cpp) (2422)
 
 ## Next greater element
 
@@ -74,7 +74,7 @@
 
 * ``base -2 arithmetic``
 
-[1073. Adding Two Negabinary Numbers](https://github.com/RyanPioneer/Leetcode/blob/main/1001~1500/1073.%20Adding%20Two%20Negabinary%20Numbers/main.cpp) (1806)
+​	[1073. Adding Two Negabinary Numbers](https://github.com/RyanPioneer/Leetcode/blob/main/1001~1500/1073.%20Adding%20Two%20Negabinary%20Numbers/main.cpp) (1806)
 
 
 
