@@ -36,7 +36,7 @@
 
 [312. Burst Balloons](https://github.com/RyanPioneer/Leetcode/blob/main/0001~0500/0312.%20Burst%20Balloons/main.cpp) 
 
-[1000. Minimum Cost to Merge Stones]() (2422)
+[1000. Minimum Cost to Merge Stones](https://github.com/RyanPioneer/Leetcode/blob/main/0501~1000/1000.%20Minimum%20Cost%20to%20Merge%20Stones/main.cpp) (2422)
 
 ## Next greater element
 
@@ -49,6 +49,12 @@
 [1124. Longest Well-Performing Interval](https://github.com/RyanPioneer/Leetcode/tree/main/1001~1500/1124.%20Longest%20Well-Performing%20Interval) (1908)
 
 [962. Maximum Width Ramp](https://github.com/RyanPioneer/Leetcode/blob/main/0501~1000/0962.%20Maximum%20Width%20Ramp/main.cpp) (1607)
+
+
+
+## Monotonic stack
+
+[2945. Find Maximum Non-decreasing Array Length]()
 
 
 
@@ -75,3 +81,9 @@
 ## Suffix array
 
 [1163. Last Substring in Lexicographical Order](https://github.com/RyanPioneer/Leetcode/blob/main/1001~1500/1163.%20Last%20Substring%20in%20Lexicographical%20Order/main.cpp) 
+
+
+
+### Histogram
+
+[1727. Largest Submatrix With Rearrangements]()

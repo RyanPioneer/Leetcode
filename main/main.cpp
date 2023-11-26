@@ -1,14 +1,14 @@
 /**
- * Source: is.gd/LIMekz
- * Date: 2023/11/25
+ * Source: is.gd/fL4PzO
+ * Date: 2023/11/26
  * Skill:
  * Ref:
- * Runtime: 3 ms, faster than 60.93% of C++ online submissions
- * Memory Usage: 8.49 MB, less than 77.73% of C++ online submissions
+ * Runtime: 19 ms, faster than 91.39% of C++ online submissions
+ * Memory Usage: 10.54 MB, less than 82.78% of C++ online submissions
  * Time complexity:
  * Space complexity:
  * Constraints:
- *
+ *      1 <= target <= 10 ** 4
  */
 
 
@@ -34,34 +34,55 @@ using namespace std;
 typedef pair<int, int> PII;
 typedef pair<char, char> PCC;
 ll mod = 1e9+7;
-const int MX = 31;
+const int MX = 1e4 + 1;
 
 
 class Solution {
 public:
-    int mergeStones(vector<int>& stones, int K) {
-        int dp[MX][MX][MX], presum[MX] = {0}, n = SZ(stones);
-        if ((n - 1) % (K - 1) != 0) return -1;
-        fill(dp[0][0], dp[MX - 1][MX - 1] + MX, INT32_MAX);
-        for (int i = 0; i < n; i++) {
-            presum[i + 1] = presum[i] + stones[i];
-            dp[i][i][1] = 0;
-        }
-        for (int len = 2; len <= n; len++) {
-            for (int start = 0; start + len <= n; start++) {
-                int end = start + len - 1;
-                for (int k = 2; k <= min(len, K); k++) {
-                    for (int mid = start; mid < end; mid++) {
-                        if (dp[start][mid][1] != INT32_MAX && dp[mid + 1][end][k - 1] != INT32_MAX) {
-                            dp[start][end][k] = min(dp[start][end][k], dp[start][mid][1] + dp[mid + 1][end][k - 1]);
-                        }
+    int racecar(int target) {
+        set<PII> visited;
+        visited.insert({0, 1});
+        queue<PII> q;
+        q.push({0, 1});
+        int step = -1;
+        while (!q.empty()) {
+            int sz = SZ(q);
+            step++;
+            while (sz--) {
+                auto [pos, speed] = q.front();
+                q.pop();
+                if (pos == target) return step;
+                if (speed > 0) {
+                    if (visited.find({pos + speed, speed * 2}) == end(visited)) {
+                        visited.insert({pos + speed, speed * 2});
+                        q.push({pos + speed, speed * 2});
                     }
-                }
-                if (dp[start][end][K] != INT32_MAX) {
-                    dp[start][end][1] = min(dp[start][end][1], dp[start][end][K] + presum[end + 1] - presum[start]);
+                    if (visited.find({pos, -1}) == end(visited)) {
+                        visited.insert({pos, -1});
+                        q.push({pos, -1});
+                    }
+                } else {
+                    if (visited.find({pos + speed, speed * 2}) == end(visited)) {
+                        visited.insert({pos + speed, speed * 2});
+                        q.push({pos + speed, speed * 2});
+                    }
+                    if (visited.find({pos, -1}) == end(visited)) {
+                        visited.insert({pos, 1});
+                        q.push({pos, 1});
+                    }
                 }
             }
         }
-        return dp[0][n - 1][1] == INT32_MAX ? -1 : dp[0][n - 1][1];
+        return -1;
     }
 };
+
+int main() {
+    Solution s;
+    int res = s.racecar(4);
+    vector<int> nums{-1,0,1,0,3,3};
+    vector<vector<int>> arr{{1,5}, {10,11},{12,18},{20,25},{30,32}};
+    ll dp[2][2][4] = {0};
+    dp[1][1][1] = 3;
+    memset(dp, 0, sizeof(dp));
+}
