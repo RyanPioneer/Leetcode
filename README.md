@@ -24,6 +24,8 @@
 
 ## DP
 
+[2945. Find Maximum Non-decreasing Array Length]()
+
 * ``Longest common subsequence``
 
 ​	[1035. Uncrossed Lines](https://github.com/RyanPioneer/Leetcode/tree/main/1001~1500/1035.%20Uncrossed%20Lines) (1805)
@@ -37,6 +39,8 @@
 ​	[312. Burst Balloons](https://github.com/RyanPioneer/Leetcode/blob/main/0001~0500/0312.%20Burst%20Balloons/main.cpp) 
 
 ​	[1000. Minimum Cost to Merge Stones](https://github.com/RyanPioneer/Leetcode/blob/main/0501~1000/1000.%20Minimum%20Cost%20to%20Merge%20Stones/main.cpp) (2422)
+
+
 
 ## Next greater element
 
@@ -52,7 +56,7 @@
 
 
 
-## Monotonic stack
+## Monotonic queue
 
 [2945. Find Maximum Non-decreasing Array Length]()
 
@@ -71,6 +75,8 @@
 
 
 ## Math
+
+[2949. Count Beautiful Substrings II]()
 
 * ``base -2 arithmetic``
 
