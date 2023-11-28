@@ -38,10 +38,12 @@ public:
     long long beautifulSubstrings(string s, int k) {
         ll res = 0;
         int diff = 0, k_sqrt = find_k_sqrt(4 * k);
+        const int AEIOU_MASK = (1 << 0) + (1 << 4) + (1 << 8) + (1 << 14) + (1 << 20);
         unordered_map<int, int> mp;
         mp[(k_sqrt - 1) * MX] = 1;
         for (int i = 0; i < s.length(); i++) {
-            diff += (s[i] == 'a' || s[i] == 'e' || s[i] == 'i' || s[i] == 'o' || s[i] == 'u') ? 1 : -1;
+            int bit = (AEIOU_MASK >> (s[i] - 'a')) & 1;
+            diff += bit * 2 - 1;
             res += mp[i % k_sqrt * MX + diff]++;
         }
         return res;
