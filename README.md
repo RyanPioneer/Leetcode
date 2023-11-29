@@ -8,7 +8,7 @@
 
 [2940. Find Building Where Alice and Bob Can Meet](https://github.com/RyanPioneer/Leetcode/blob/main/2501~3000/2940.%20Find%20Building%20Where%20Alice%20and%20Bob%20Can%20Meet/main5.cpp) (vector type)
 
-
+[850. Rectangle Area II]() (2235)
 
 ## Binary indexed tree
 
@@ -68,11 +68,13 @@
 
 
 
-## 差分數組
+## Sweep line
 
 [995. Minimum Number of K Consecutive Bit Flips](https://github.com/RyanPioneer/Leetcode/blob/main/0501~1000/0995.%20Minimum%20Number%20of%20K%20Consecutive%20Bit%20Flips/main.cpp) (1835)
 
+* ``2-D sweep line``
 
+​	[850. Rectangle Area II]() (2235)
 
 ## Math
 
@@ -81,6 +83,12 @@
 * ``base -2 arithmetic``
 
 ​	[1073. Adding Two Negabinary Numbers](https://github.com/RyanPioneer/Leetcode/blob/main/1001~1500/1073.%20Adding%20Two%20Negabinary%20Numbers/main.cpp) (1806)
+
+
+
+### Discrete coordinates
+
+[850. Rectangle Area II]() (2235)
 
 
 

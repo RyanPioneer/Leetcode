@@ -3,8 +3,8 @@
  * Date: 2023/11/29
  * Skill: Discretization, Sweep line, Segment Tree
  * Ref:
- * Runtime: 1367 ms, faster than 9.27% of C++ online submissions
- * Memory Usage: 170.41 MB, less than 15.20% of C++ online submissions
+ * Runtime: 4 ms, faster than 94.59% of C++ online submissions
+ * Memory Usage: 10.70 MB, less than 33.11% of C++ online submissions
  * Time complexity:
  * Space complexity:
  * Constraints:
@@ -30,16 +30,9 @@
 using namespace std;
 #define SZ(X) ((int)(X).size())
 #define ll long long
-#define MK(X, Y) make_pair(X, Y)
-#define x first
-#define y second
 typedef pair<int, int> PII;
-typedef pair<char, char> PCC;
 ll mod = 1e9+7;
-const int MX = 201;
-
-
-const int IN = 1, OUT = -1;
+const int MX = 201, IN = 1, OUT = -1;
 
 
 class SegmentTreeNode {
@@ -57,13 +50,14 @@ class SegmentTreeNode {
 class SegmentTree {
     SegmentTreeNode *root = new SegmentTreeNode(0, MX);
 public:
+
     int query() {return root->cur_len;}
 
-    void update(int l, int r, int num, unordered_map<int, int> yidx2num) {
+    void update(int l, int r, int num, unordered_map<int, int>& yidx2num) {
         update(root, l, r, num, yidx2num);
     }
 
-    void update(SegmentTreeNode *node, int l, int r, int num, unordered_map<int, int> yidx2num) {
+    void update(SegmentTreeNode *node, int l, int r, int num, unordered_map<int, int>& yidx2num) {
         if (l > node->end || r < node->begin) return;
         if (l <= node->begin && node->end <= r) {
             node->cover += num;
@@ -76,20 +70,21 @@ public:
         push_up(node, yidx2num);
     }
 
-    void push_up(SegmentTreeNode *node, unordered_map<int, int> yidx2num) {
+    void push_up(SegmentTreeNode *node, unordered_map<int, int>& yidx2num) {
+        if (node == nullptr) return;
         if (node->cover > 0) {
             node->cur_len = yidx2num[node->end + 1] - yidx2num[node->begin];
         } else if (node->begin < node->end) {
             push_up(node->left, yidx2num);
             push_up(node->right, yidx2num);
-            node->cur_len = node->left->cur_len + node->right->cur_len;
+            node->cur_len = node->left == nullptr ? 0 : node->left->cur_len;
+            node->cur_len += node->right == nullptr ? 0 : node->right->cur_len;
         } else {
             node->cur_len = 0;
         }
     }
 
     void make_children(SegmentTreeNode *node) {
-        if (node->begin == node->end) return;
         if (node->left == nullptr) {
             node->left = new SegmentTreeNode(node->begin, node->mid);
         }
