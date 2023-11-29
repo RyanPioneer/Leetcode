@@ -4,21 +4,21 @@
 
 ## Segment tree
 
-[2940. Find Building Where Alice and Bob Can Meet](https://github.com/RyanPioneer/Leetcode/blob/main/2501~3000/2940.%20Find%20Building%20Where%20Alice%20and%20Bob%20Can%20Meet/main4.cpp) (class type)
+[2940. Find Building Where Alice and Bob Can Meet](https://github.com/RyanPioneer/Leetcode/blob/main/2501~3000/2940.%20Find%20Building%20Where%20Alice%20and%20Bob%20Can%20Meet/main4.cpp) (class type) (2327)
 
-[2940. Find Building Where Alice and Bob Can Meet](https://github.com/RyanPioneer/Leetcode/blob/main/2501~3000/2940.%20Find%20Building%20Where%20Alice%20and%20Bob%20Can%20Meet/main5.cpp) (vector type)
+[2940. Find Building Where Alice and Bob Can Meet](https://github.com/RyanPioneer/Leetcode/blob/main/2501~3000/2940.%20Find%20Building%20Where%20Alice%20and%20Bob%20Can%20Meet/main5.cpp) (vector type) (2327)
 
-[850. Rectangle Area II]() (2235)
+[850. Rectangle Area II](https://github.com/RyanPioneer/Leetcode/blob/main/0501~1000/0850.%20Rectangle%20Area%20II/main.cpp) (2235)
 
 ## Binary indexed tree
 
-[2940. Find Building Where Alice and Bob Can Meet](https://github.com/RyanPioneer/Leetcode/blob/main/2501~3000/2940.%20Find%20Building%20Where%20Alice%20and%20Bob%20Can%20Meet/main6.cpp) (find postfix min value)
+[2940. Find Building Where Alice and Bob Can Meet](https://github.com/RyanPioneer/Leetcode/blob/main/2501~3000/2940.%20Find%20Building%20Where%20Alice%20and%20Bob%20Can%20Meet/main6.cpp) (find postfix min value) (2327)
 
 
 
 ## Binary lifting
 
-[2940. Find Building Where Alice and Bob Can Meet](https://github.com/RyanPioneer/Leetcode/blob/main/2501~3000/2940.%20Find%20Building%20Where%20Alice%20and%20Bob%20Can%20Meet/main7.cpp)
+[2940. Find Building Where Alice and Bob Can Meet](https://github.com/RyanPioneer/Leetcode/blob/main/2501~3000/2940.%20Find%20Building%20Where%20Alice%20and%20Bob%20Can%20Meet/main7.cpp) (2327)
 
 
 
@@ -88,7 +88,7 @@
 
 ### Discrete coordinates
 
-[850. Rectangle Area II]() (2235)
+[850. Rectangle Area II](https://github.com/RyanPioneer/Leetcode/blob/main/0501~1000/0850.%20Rectangle%20Area%20II/main.cpp) (2235)
 
 
 

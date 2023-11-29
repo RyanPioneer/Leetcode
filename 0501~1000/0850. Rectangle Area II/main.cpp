@@ -2,7 +2,7 @@
  * Source: is.gd/sODYmr
  * Date: 2023/11/29
  * Skill: Discretization, Sweep line, Segment Tree
- * Ref:
+ * Ref: is.gd/BRxImJ
  * Runtime: 4 ms, faster than 94.59% of C++ online submissions
  * Memory Usage: 10.70 MB, less than 33.11% of C++ online submissions
  * Time complexity:
@@ -50,7 +50,6 @@ class SegmentTreeNode {
 class SegmentTree {
     SegmentTreeNode *root = new SegmentTreeNode(0, MX);
 public:
-
     int query() {return root->cur_len;}
 
     void update(int l, int r, int num, unordered_map<int, int>& yidx2num) {
