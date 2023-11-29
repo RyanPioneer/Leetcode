@@ -74,7 +74,7 @@
 
 * ``2-D sweep line``
 
-​	[850. Rectangle Area II]() (2235)
+​	[850. Rectangle Area II](https://github.com/RyanPioneer/Leetcode/blob/main/0501~1000/0850.%20Rectangle%20Area%20II/main3.cpp) (2235)
 
 ## Math
 
