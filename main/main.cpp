@@ -1,10 +1,10 @@
 /**
- * Source: is.gd/BAWMXk
- * Date: 2023/11/30
+ * Source: is.gd/b05j0a
+ * Date: 2023/12/1
  * Skill:
  * Ref:
- * Runtime: 65 ms, faster than 93.49% of C++ online submissions
- * Memory Usage: 33.90 MB, less than 84.02% of C++ online submissions
+ * Runtime: 3 ms, faster than 95.38% of C++ online submissions
+ * Memory Usage: 8.35 MB, less than 92.49% of C++ online submissions
  * Time complexity:
  * Space complexity:
  * Constraints:
@@ -36,12 +36,12 @@ using namespace std;
 typedef pair<int, int> PII;
 typedef pair<char, char> PCC;
 ll mod = 1e9+7;
-const int MX = 1001;
+const int MX = 50;
 
 
 class Solution {
 public:
-    int mirrorReflection(int p, int q) {
+    bool judgePoint24(vector<int>& cards) {
 
     }
 };
