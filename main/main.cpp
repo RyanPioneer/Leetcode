@@ -1,10 +1,10 @@
 /**
- * Source: is.gd/b05j0a
- * Date: 2023/12/1
+ * Source: is.gd/wRu8oT
+ * Date: 2023/12/2
  * Skill:
  * Ref:
- * Runtime: 3 ms, faster than 95.38% of C++ online submissions
- * Memory Usage: 8.35 MB, less than 92.49% of C++ online submissions
+ * Runtime: 53 ms, faster than 17.70% of C++ online submissions
+ * Memory Usage: 23.27 MB, less than 16.46% of C++ online submissions
  * Time complexity:
  * Space complexity:
  * Constraints:
@@ -36,12 +36,16 @@ using namespace std;
 typedef pair<int, int> PII;
 typedef pair<char, char> PCC;
 ll mod = 1e9+7;
-const int MX = 50;
+const int MX = 1e5;
 
 
 class Solution {
 public:
-    bool judgePoint24(vector<int>& cards) {
+    int minMoves(vector<int>& nums, int k) {
+        int left_white_ball = 0, left = 0, right = 0, cnt = 0, res = INT32_MAX, sz = SZ(nums);
+        int left_step = 0;
+        while (cnt < k) {
 
+        }
     }
 };
