@@ -1,10 +1,10 @@
 /**
- * Source: is.gd/wRu8oT
- * Date: 2023/12/2
+ * Source: jpeg.ly/PanRz
+ * Date: 2023/12/3
  * Skill:
  * Ref:
- * Runtime: 53 ms, faster than 17.70% of C++ online submissions
- * Memory Usage: 23.27 MB, less than 16.46% of C++ online submissions
+ * Runtime: 115 ms, faster than 100.00% of C++ online submissions
+ * Memory Usage: 18.16 MB, less than 85.71% of C++ online submissions
  * Time complexity:
  * Space complexity:
  * Constraints:
@@ -41,11 +41,7 @@ const int MX = 1e5;
 
 class Solution {
 public:
-    int minMoves(vector<int>& nums, int k) {
-        int left_white_ball = 0, left = 0, right = 0, cnt = 0, res = INT32_MAX, sz = SZ(nums);
-        int left_step = 0;
-        while (cnt < k) {
+    int numberOfSequence(int n, vector<int>& sick) {
 
-        }
     }
 };

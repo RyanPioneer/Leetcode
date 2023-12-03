@@ -42,6 +42,12 @@
 
 
 
+## Sliding window
+
+[2953. Count Complete Substrings]()
+
+
+
 ## Next greater element
 
 [1130. Minimum Cost Tree From Leaf Values](https://github.com/RyanPioneer/Leetcode/blob/main/1001~1500/1130.%20Minimum%20Cost%20Tree%20From%20Leaf%20Values/main3.cpp) (1919)
@@ -79,6 +85,8 @@
 ## Math
 
 [2949. Count Beautiful Substrings II]()
+
+[2954. Count the Number of Infection Sequences]()
 
 * ``base -2 arithmetic``
 
