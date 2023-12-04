@@ -72,6 +72,8 @@
 
 [1096. Brace Expansion II](https://github.com/RyanPioneer/Leetcode/blob/main/1001~1500/1096.%20Brace%20Expansion%20II/main.cpp) (2348)
 
+[1896. Minimum Cost to Change the Final Value of Expression]() (2531)
+
 
 
 ## Sweep line

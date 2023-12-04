@@ -1,10 +1,10 @@
 /**
- * Source: jpeg.ly/PanRz
- * Date: 2023/12/3
+ * Source: is.gd/kSBUV3
+ * Date: 2023/12/4
  * Skill:
  * Ref:
- * Runtime: 115 ms, faster than 100.00% of C++ online submissions
- * Memory Usage: 18.16 MB, less than 85.71% of C++ online submissions
+ * Runtime: 52 ms, faster than 95.45% of C++ online submissions
+ * Memory Usage: 15.72 MB, less than 93.18% of C++ online submissions
  * Time complexity:
  * Space complexity:
  * Constraints:
@@ -36,12 +36,22 @@ using namespace std;
 typedef pair<int, int> PII;
 typedef pair<char, char> PCC;
 ll mod = 1e9+7;
-const int MX = 1e5;
+const int MX = 50;
 
 
 class Solution {
 public:
-    int numberOfSequence(int n, vector<int>& sick) {
+    Solution(int n, vector<int>& blacklist) {
+
+    }
+
+    int pick() {
 
     }
 };
+
+/**
+ * Your Solution object will be instantiated and called as such:
+ * Solution* obj = new Solution(n, blacklist);
+ * int param_1 = obj->pick();
+ */
