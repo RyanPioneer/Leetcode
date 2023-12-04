@@ -44,7 +44,7 @@
 
 ## Sliding window
 
-[2953. Count Complete Substrings]()
+[2953. Count Complete Substrings](https://github.com/RyanPioneer/Leetcode/blob/main/2501~3000/2953.%20Count%20Complete%20Substrings/main.cpp)
 
 
 
@@ -72,7 +72,7 @@
 
 [1096. Brace Expansion II](https://github.com/RyanPioneer/Leetcode/blob/main/1001~1500/1096.%20Brace%20Expansion%20II/main.cpp) (2348)
 
-[1896. Minimum Cost to Change the Final Value of Expression]() (2531)
+[1896. Minimum Cost to Change the Final Value of Expression](https://github.com/RyanPioneer/Leetcode/blob/main/1501~2000/1896.%20Minimum%20Cost%20to%20Change%20the%20Final%20Value%20of%20Expression/main.cpp) (2531)
 
 
 
@@ -86,9 +86,9 @@
 
 ## Math
 
-[2949. Count Beautiful Substrings II]()
+[2949. Count Beautiful Substrings II](https://github.com/RyanPioneer/Leetcode/blob/main/2501~3000/2949.%20Count%20Beautiful%20Substrings%20II/main2.cpp)
 
-[2954. Count the Number of Infection Sequences]()
+[2954. Count the Number of Infection Sequences](https://github.com/RyanPioneer/Leetcode/blob/main/2501~3000/2954.%20Count%20the%20Number%20of%20Infection%20Sequences/main.cpp)
 
 * ``base -2 arithmetic``
 
