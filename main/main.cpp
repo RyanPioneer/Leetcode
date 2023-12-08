@@ -1,10 +1,10 @@
 /**
- * Source: is.gd/G8Rs7i
- * Date: 2023/12/7
+ * Source: is.gd/KmTCpU
+ * Date: 2023/12/8
  * Skill:
  * Ref:
- * Runtime: 42 ms, faster than 73.03% of C++ online submissions
- * Memory Usage: 12.02 MB, less than 68.28% of C++ online submissions
+ * Runtime: 13 ms, faster than 80.00% of C++ online submissions
+ * Memory Usage: 6.71 MB, less than 96.54% of C++ online submissions
  * Time complexity:
  * Space complexity:
  * Constraints:
@@ -33,11 +33,12 @@ using namespace std;
 typedef pair<int, int> PII;
 typedef unsigned long long ULL;
 using PULL = pair<ULL, ULL>;
+const int MX = 16;
 
 
 class Solution {
 public:
-    int findKthNumber(int n, int k) {
+    int findMinStep(string board, string hand) {
 
     }
 };
