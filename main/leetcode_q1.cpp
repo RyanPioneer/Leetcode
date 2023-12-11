@@ -25,20 +25,15 @@ const int MX = 30;
 
 class Solution {
 public:
-    int largestSubmatrix(vector<vector<int>>& matrix) {
-        int m = SZ(matrix), n = SZ(matrix[0]), res = 0;
-        for (int i = 1; i < m; ++i) {
-            for (int j = 0; j < n; ++j) {
-                if (matrix[i][j] > 0) {
-                    matrix[i][j] += matrix[i - 1][j];
-                }
+    int countTestedDevices(vector<int>& batteryPercentages) {
+        int res = 0, dec = 0, len = SZ(batteryPercentages);
+        for (int i = 0; i < len; i++) {
+            if (batteryPercentages[i] == 0) continue;
+            for (int j = i + 1; j < len; j++) {
+                if (batteryPercentages[j] == 0) continue;
+                batteryPercentages[j]--;
             }
-        }
-        for (int i = m - 1; i >= 0; --i) {
-            sort(begin(matrix[i]), end(matrix[i]));
-            for (int j = 0; j < n; ++j) {
-                res = max(res, (n - j) * matrix[i][j]);
-            }
+            res++;
         }
         return res;
     }

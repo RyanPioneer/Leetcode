@@ -1,3 +1,17 @@
+/**
+ * Source: jpeg.ly/cceDq
+ * Date: 2023/12/11
+ * Skill:
+ * Ref:
+ * Runtime: 4 ms, faster than 33.33% of C++ online submissions
+ * Memory Usage: 18.73 MB, less than 8.33% of C++ online submissions
+ * Time complexity:
+ * Space complexity:
+ * Constraints:
+ *
+ */
+
+
 #include <iostream>
 #include <vector>
 #include <algorithm>
@@ -14,13 +28,7 @@
 
 
 using namespace std;
-#define SZ(X) ((int)(X).size())
 #define ll long long
-#define MK(X, Y) make_pair(X, Y)
-typedef pair<int, int> PII;
-typedef pair<char, char> PCC;
-ll mod = 1e9+7;
-const int MX = 30;
 
 
 ll quick_pow(ll x, ll n, ll m) {
@@ -38,11 +46,9 @@ public:
     vector<int> getGoodIndices(vector<vector<int>>& variables, int target) {
         vector<int> res;
         for (int i = 0; i < variables.size(); i++) {
-            vector<int> v = variables[i];
-            ll a = v[0], b = v[1], c = v[2], mod = v[3];
-            ll d = quick_pow(a, b, 10);
-            ll e = quick_pow(d, c, mod);
-            if (e == target) res.push_back(i);
+            auto& v = variables[i];
+            ll num = quick_pow(quick_pow(v[0], v[1], 10), v[2], v[3]);
+            if (num == target) res.push_back(i);
         }
         return res;
     }

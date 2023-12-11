@@ -1,3 +1,17 @@
+/**
+ * Source: jpeg.ly/gFeGp
+ * Date: 2023/12/11
+ * Skill:
+ * Ref:
+ * Runtime: 133 ms, faster than 100.00% of C++ online submissions
+ * Memory Usage: 117.14 MB, less than 40.00% of C++ online submissions
+ * Time complexity:
+ * Space complexity:
+ * Constraints:
+ *
+ */
+
+
 #include <iostream>
 #include <vector>
 #include <algorithm>
@@ -14,19 +28,14 @@
 
 
 using namespace std;
-#define SZ(X) ((int)(X).size())
 #define ll long long
-#define MK(X, Y) make_pair(X, Y)
-typedef pair<int, int> PII;
-typedef pair<char, char> PCC;
-ll mod = 1e9+7;
-const int MX = 1e5 + 1;
+
 
 class Solution {
 public:
     long long countSubarrays(vector<int>& nums, int k) {
-        int mx = *max_element(begin(nums), end(nums));
-        ll left = 0, cnt = 0, res = 0;
+        int mx = *max_element(begin(nums), end(nums)), left = 0, cnt = 0;
+        ll res = 0;
         for (int i = 0; i < nums.size(); ++i) {
             if (nums[i] == mx) cnt++;
             if (cnt == k) {
