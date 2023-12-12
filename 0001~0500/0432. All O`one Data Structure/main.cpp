@@ -39,7 +39,6 @@ public:
 };
 
 class AllOne {
-    int time = 0;
     Node *head, *tail;
     unordered_map<string, Node *> mp;
 public:
