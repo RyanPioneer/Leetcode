@@ -108,6 +108,12 @@
 
 
 
+### Linked list
+
+[432. All O`one Data Structure](https://github.com/RyanPioneer/Leetcode/blob/main/0001~0500/0432.%20All%20O%60one%20Data%20Structure/main.cpp)
+
+
+
 ### Suffix array
 
 [1163. Last Substring in Lexicographical Order](https://github.com/RyanPioneer/Leetcode/blob/main/1001~1500/1163.%20Last%20Substring%20in%20Lexicographical%20Order/main.cpp) 
