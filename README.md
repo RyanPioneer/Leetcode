@@ -26,6 +26,8 @@
 
 [2945. Find Maximum Non-decreasing Array Length](https://github.com/RyanPioneer/Leetcode/tree/main/2501~3000/2945.%20Find%20Maximum%20Non-decreasing%20Array%20Length)
 
+[1531. String Compression II]() (2575)
+
 * ``Longest common subsequence``
 
 ​	[1035. Uncrossed Lines](https://github.com/RyanPioneer/Leetcode/tree/main/1001~1500/1035.%20Uncrossed%20Lines) (1805)
@@ -68,6 +70,10 @@
 
 
 
+## Binary search
+
+[1901. Find a Peak Element II]()
+
 ## Stack
 
 [1096. Brace Expansion II](https://github.com/RyanPioneer/Leetcode/blob/main/1001~1500/1096.%20Brace%20Expansion%20II/main.cpp) (2348)
@@ -93,6 +99,12 @@
 * ``base -2 arithmetic``
 
 ​	[1073. Adding Two Negabinary Numbers](https://github.com/RyanPioneer/Leetcode/blob/main/1001~1500/1073.%20Adding%20Two%20Negabinary%20Numbers/main.cpp) (1806)
+
+
+
+## Constructive algorithms
+
+[2499. Minimum Total Cost to Make Arrays Unequal]() (2633)
 
 
 
