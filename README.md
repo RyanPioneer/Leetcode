@@ -48,6 +48,8 @@
 
 [2953. Count Complete Substrings](https://github.com/RyanPioneer/Leetcode/blob/main/2501~3000/2953.%20Count%20Complete%20Substrings/main.cpp)
 
+[2968. Apply Operations to Maximize Frequency Score]()
+
 
 
 ## Next greater element
@@ -73,6 +75,8 @@
 ## Binary search
 
 [1901. Find a Peak Element II]()
+
+[2968. Apply Operations to Maximize Frequency Score]()
 
 ## Stack
 
@@ -105,6 +109,12 @@
 ## Constructive algorithms
 
 [2499. Minimum Total Cost to Make Arrays Unequal]() (2633)
+
+
+
+## KMP
+
+[1397. Find All Good Strings]() (2666)
 
 
 
