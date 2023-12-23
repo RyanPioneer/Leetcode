@@ -10,6 +10,8 @@
 
 [850. Rectangle Area II](https://github.com/RyanPioneer/Leetcode/blob/main/0501~1000/0850.%20Rectangle%20Area%20II/main.cpp) (2235)
 
+[2213. Longest Substring of One Repeating Character]() (vector type) (2628)
+
 ## Binary indexed tree
 
 [2940. Find Building Where Alice and Bob Can Meet](https://github.com/RyanPioneer/Leetcode/blob/main/2501~3000/2940.%20Find%20Building%20Where%20Alice%20and%20Bob%20Can%20Meet/main6.cpp) (find postfix min value) (2327)
@@ -115,6 +117,10 @@
 ## KMP
 
 [1397. Find All Good Strings]() (2666)
+
+## Interval
+
+[2213. Longest Substring of One Repeating Character]() (2628)
 
 
 
