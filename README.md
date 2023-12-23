@@ -10,7 +10,7 @@
 
 [850. Rectangle Area II](https://github.com/RyanPioneer/Leetcode/blob/main/0501~1000/0850.%20Rectangle%20Area%20II/main.cpp) (2235)
 
-[2213. Longest Substring of One Repeating Character]() (vector type) (2628)
+[2213. Longest Substring of One Repeating Character](https://github.com/RyanPioneer/Leetcode/blob/main/2001~2500/2213.%20Longest%20Substring%20of%20One%20Repeating%20Character/main2.cpp) (vector type) (2628)
 
 ## Binary indexed tree
 
@@ -26,9 +26,11 @@
 
 ## DP
 
-[2945. Find Maximum Non-decreasing Array Length](https://github.com/RyanPioneer/Leetcode/tree/main/2501~3000/2945.%20Find%20Maximum%20Non-decreasing%20Array%20Length)
+[2945. Find Maximum Non-decreasing Array Length](https://github.com/RyanPioneer/Leetcode/tree/main/2501~3000/2945.%20Find%20Maximum%20Non-decreasing%20Array%20Length) (2943)
 
 [1531. String Compression II]() (2575)
+
+[1388. Pizza With 3n Slices]() (2409)
 
 * ``Longest common subsequence``
 
@@ -48,7 +50,7 @@
 
 ## Sliding window
 
-[2953. Count Complete Substrings](https://github.com/RyanPioneer/Leetcode/blob/main/2501~3000/2953.%20Count%20Complete%20Substrings/main.cpp)
+[2953. Count Complete Substrings](https://github.com/RyanPioneer/Leetcode/blob/main/2501~3000/2953.%20Count%20Complete%20Substrings/main.cpp) (2449)
 
 [2968. Apply Operations to Maximize Frequency Score]()
 
@@ -70,7 +72,7 @@
 
 ## Monotonic queue
 
-[2945. Find Maximum Non-decreasing Array Length](https://github.com/RyanPioneer/Leetcode/tree/main/2501~3000/2945.%20Find%20Maximum%20Non-decreasing%20Array%20Length)
+[2945. Find Maximum Non-decreasing Array Length](https://github.com/RyanPioneer/Leetcode/tree/main/2501~3000/2945.%20Find%20Maximum%20Non-decreasing%20Array%20Length) (2943)
 
 
 
@@ -98,9 +100,9 @@
 
 ## Math
 
-[2949. Count Beautiful Substrings II](https://github.com/RyanPioneer/Leetcode/blob/main/2501~3000/2949.%20Count%20Beautiful%20Substrings%20II/main2.cpp)
+[2949. Count Beautiful Substrings II](https://github.com/RyanPioneer/Leetcode/blob/main/2501~3000/2949.%20Count%20Beautiful%20Substrings%20II/main2.cpp) (2444)
 
-[2954. Count the Number of Infection Sequences](https://github.com/RyanPioneer/Leetcode/blob/main/2501~3000/2954.%20Count%20the%20Number%20of%20Infection%20Sequences/main.cpp)
+[2954. Count the Number of Infection Sequences](https://github.com/RyanPioneer/Leetcode/blob/main/2501~3000/2954.%20Count%20the%20Number%20of%20Infection%20Sequences/main.cpp) (2644)
 
 * ``base -2 arithmetic``
 

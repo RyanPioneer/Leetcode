@@ -1,10 +1,10 @@
 /**
- * Source: jpeg.ly/07S5G
+ * Source: jpeg.ly/sHL6H
  * Date: 2023/12/23
  * Skill:
  * Ref:
- * Runtime: 388 ms, faster than 78.00% of C++ online submissions
- * Memory Usage: 90.77 MB, less than 76.00% of C++ online submissions
+ * Runtime: 3 ms, faster than 87.83% of C++ online submissions
+ * Memory Usage: 7.02 MB, less than 54.18% of C++ online submissions
  * Time complexity:
  * Space complexity:
  * Constraints:
@@ -30,61 +30,23 @@
 using namespace std;
 #define ll long long
 #define SZ(X) ((int)(X).size())
-const int MX = 1e5+1;
+const int MX = 501;
 ll mod = 1e9+7;
 
 
-class Solution {
-    vector<int> pre, suf, mx;
-    string s;
-
-    void maintain(int o, int l, int r) {
-        if (l == r) return;
-        pre[o] = pre[o << 1];
-        suf[o] = suf[o << 1 | 1];
-        mx[o] = max(mx[o << 1], mx[o << 1 | 1]);
-        int mid = (l + r) / 2;
-        if (s[mid - 1] == s[mid]) {
-            if (pre[o] == mid - l + 1) pre[o] += pre[o << 1 | 1];
-            if (suf[o] == r - mid) suf[o] += suf[o << 1];
-            mx[o] = max(mx[o], suf[o << 1] + pre[o << 1 | 1]);
-        }
-    }
-
-    void buildTree(int o, int l, int r) {
-        if (l == r) {
-            pre[o] = suf[o] = mx[o] = 1;
-            return;
-        }
-        int mid = (l + r) / 2;
-        buildTree(o << 1, l, mid);
-        buildTree(o << 1 | 1, mid + 1, r);
-        maintain(o, l, r);
-    }
-
-    void update(int o, int l, int r, int idx) {
-        if (l == r) return;
-        int mid = (l + r) / 2;
-        if (mid >= idx) update(o << 1, l, mid, idx);
-        else update(o << 1 | 1, mid + 1, r, idx);
-        maintain(o, l, r);
-    }
+class Cashier {
 public:
-    vector<int> longestRepeating(string s, string queryCharacters, vector<int>& queryIndices) {
-        this->s = s;
-        int n = s.length(), k = queryCharacters.length();
-        pre.resize(n << 2);
-        suf.resize(n << 2);
-        mx.resize(n << 2);
-        buildTree(1, 1, n);
-        vector<int> res;
-        for (int i = 0; i < k; i++) {
-            int idx = queryIndices[i];
-            char c = queryCharacters[i];
-            this->s[idx] = c;
-            update(1, 1, n, idx + 1);
-            res.push_back(mx[1]);
-        }
-        return res;
+    Cashier(int n, int discount, vector<int>& products, vector<int>& prices) {
+
+    }
+
+    double getBill(vector<int> product, vector<int> amount) {
+
     }
 };
+
+/**
+ * Your Cashier object will be instantiated and called as such:
+ * Cashier* obj = new Cashier(n, discount, products, prices);
+ * double param_1 = obj->getBill(product,amount);
+ */
