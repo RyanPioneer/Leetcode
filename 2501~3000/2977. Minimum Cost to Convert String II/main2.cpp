@@ -31,7 +31,6 @@ using namespace std;
 #define ll long long
 #define SZ(X) ((int)(X).size())
 const int MX = 201;
-ll mod = 1e9+7;
 
 
 class TrieNode {
