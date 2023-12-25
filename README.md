@@ -90,6 +90,12 @@
 
 
 
+## Two pointers
+
+[2972. Count the Number of Incremovable Subarrays II]()
+
+
+
 ## Sweep line
 
 [995. Minimum Number of K Consecutive Bit Flips](https://github.com/RyanPioneer/Leetcode/blob/main/0501~1000/0995.%20Minimum%20Number%20of%20K%20Consecutive%20Bit%20Flips/main.cpp) (1835)
@@ -118,7 +124,7 @@
 
 ## Trie
 
-[2977. Minimum Cost to Convert String II]()
+[2977. Minimum Cost to Convert String II]([Leetcode/2501~3000/2977. Minimum Cost to Convert String II/main2.cpp at main · RyanPioneer/Leetcode (github.com)](https://github.com/RyanPioneer/Leetcode/blob/main/2501~3000/2977. Minimum Cost to Convert String II/main2.cpp))
 
 ## KMP
 
