@@ -124,7 +124,7 @@
 
 ## Trie
 
-[2977. Minimum Cost to Convert String II]([Leetcode/2501~3000/2977. Minimum Cost to Convert String II/main2.cpp at main · RyanPioneer/Leetcode (github.com)](https://github.com/RyanPioneer/Leetcode/blob/main/2501~3000/2977. Minimum Cost to Convert String II/main2.cpp))
+[2977. Minimum Cost to Convert String II](https://github.com/RyanPioneer/Leetcode/blob/main/2501~3000/2977. Minimum Cost to Convert String II/main2.cpp)
 
 ## KMP
 
