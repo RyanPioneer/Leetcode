@@ -152,6 +152,8 @@
 
 [432. All O`one Data Structure](https://github.com/RyanPioneer/Leetcode/blob/main/0001~0500/0432.%20All%20O%60one%20Data%20Structure/main.cpp)
 
+[2289. Steps to Make Array Non-decreasing]() (2481)
+
 
 
 ### Suffix array
