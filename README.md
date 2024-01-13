@@ -12,6 +12,8 @@
 
 [2213. Longest Substring of One Repeating Character](https://github.com/RyanPioneer/Leetcode/blob/main/2001~2500/2213.%20Longest%20Substring%20of%20One%20Repeating%20Character/main2.cpp) (vector type) (2628)
 
+[2289. Steps to Make Array Non-decreasing](https://leetcode.com/problems/steps-to-make-array-non-decreasing/description/) (2481)
+
 ## Binary indexed tree
 
 [2940. Find Building Where Alice and Bob Can Meet](https://github.com/RyanPioneer/Leetcode/blob/main/2501~3000/2940.%20Find%20Building%20Where%20Alice%20and%20Bob%20Can%20Meet/main6.cpp) (find postfix min value) (2327)
@@ -32,6 +34,8 @@
 
 [1388. Pizza With 3n Slices]() (2409)
 
+[3003. Maximize the Number of Partitions After Operations]()
+
 * ``Longest common subsequence``
 
 ​	[1035. Uncrossed Lines](https://github.com/RyanPioneer/Leetcode/tree/main/1001~1500/1035.%20Uncrossed%20Lines) (1805)
@@ -45,6 +49,12 @@
 ​	[312. Burst Balloons](https://github.com/RyanPioneer/Leetcode/blob/main/0001~0500/0312.%20Burst%20Balloons/main.cpp) 
 
 ​	[1000. Minimum Cost to Merge Stones](https://github.com/RyanPioneer/Leetcode/blob/main/0501~1000/1000.%20Minimum%20Cost%20to%20Merge%20Stones/main.cpp) (2422)
+
+
+
+* ``數位DP``
+
+  [2999. Count the Number of Powerful Integers]()
 
 
 
