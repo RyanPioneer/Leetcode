@@ -14,6 +14,8 @@
 
 [2289. Steps to Make Array Non-decreasing](https://leetcode.com/problems/steps-to-make-array-non-decreasing/description/) (2481)
 
+
+
 ## Binary indexed tree
 
 [2940. Find Building Where Alice and Bob Can Meet](https://github.com/RyanPioneer/Leetcode/blob/main/2501~3000/2940.%20Find%20Building%20Where%20Alice%20and%20Bob%20Can%20Meet/main6.cpp) (find postfix min value) (2327)
@@ -86,11 +88,19 @@
 
 
 
+## Monotonic stack
+
+[2289. Steps to Make Array Non-decreasing]() (2481)
+
+
+
 ## Binary search
 
 [1901. Find a Peak Element II]()
 
 [2968. Apply Operations to Maximize Frequency Score]()
+
+
 
 ## Stack
 
@@ -114,6 +124,8 @@
 
 ​	[850. Rectangle Area II](https://github.com/RyanPioneer/Leetcode/blob/main/0501~1000/0850.%20Rectangle%20Area%20II/main3.cpp) (2235)
 
+
+
 ## Math
 
 [2949. Count Beautiful Substrings II](https://github.com/RyanPioneer/Leetcode/blob/main/2501~3000/2949.%20Count%20Beautiful%20Substrings%20II/main2.cpp) (2444)
@@ -136,9 +148,13 @@
 
 [2977. Minimum Cost to Convert String II](https://github.com/RyanPioneer/Leetcode/blob/main/2501~3000/2977.%20Minimum%20Cost%20to%20Convert%20String%20II/main2.cpp)
 
+
+
 ## KMP
 
 [1397. Find All Good Strings]() (2666)
+
+
 
 ## Interval
 

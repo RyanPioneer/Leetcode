@@ -3,8 +3,8 @@
  * Date: 2024/1/14
  * Skill:
  * Ref:
- * Runtime: 681 ms, faster than 31.78% of C++ online submissions
- * Memory Usage: 160.68 MB, less than 12.66% of C++ online submissions
+ * Runtime: 370 ms, faster than 64.57% of C++ online submissions
+ * Memory Usage: 151.10 MB, less than 46.29% of C++ online submissions
  * Time complexity:
  * Space complexity:
  * Constraints:
