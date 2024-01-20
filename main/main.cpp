@@ -1,10 +1,10 @@
 /**
- * Source: jpeg.ly/dLX3_
- * Date: 2024/1/14
+ * Source: jpeg.ly/nzzwN
+ * Date: 2024/1/20
  * Skill:
  * Ref:
- * Runtime: 681 ms, faster than 31.78% of C++ online submissions
- * Memory Usage: 160.68 MB, less than 12.66% of C++ online submissions
+ * Runtime: 34 ms, faster than 80.23% of C++ online submissions
+ * Memory Usage: 22.85 MB, less than 34.78% of C++ online submissions
  * Time complexity:
  * Space complexity:
  * Constraints:
@@ -29,29 +29,16 @@
 
 using namespace std;
 #define ll long long
+#define ULL unsigned long long
 #define SZ(X) ((int)(X).size())
-const int MX = 1e5+1;
+typedef pair<int, int> PII;
+const int MX = 100;
 
 
 class Solution {
+    int m, n;
 public:
-    vector<bool> canMakePaliQueries(string s, vector<vector<int>>& queries) {
-        vector<bool> res;
-        vector<vector<int>> presum;
-        vector<int> cnt(26, 0);
-        presum.push_back(cnt);
-        for (auto c: s) {
-            cnt[c - 'a']++;
-            presum.push_back(cnt);
-        }
-        for (auto &q: queries) {
-            int lo = q[0], hi = q[1], k = q[2], odd = 0;
-            if ((hi - lo) % 2 == 0) odd--;
-            for (int i = 0; i < 26; i++) {
-                if ((presum[hi + 1][i] - presum[lo][i]) % 2 == 1) odd++;
-            }
-            res.push_back(k >= odd / 2);
-        }
-        return res;
+    int shortestBridge(vector<vector<int>>& grid) {
+
     }
 };

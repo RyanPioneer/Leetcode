@@ -57,6 +57,8 @@
 * ``數位DP``
 
   [2999. Count the Number of Powerful Integers]()
+  
+  [3007. Maximum Number That Sum of the Prices Is Less Than or Equal to K](https://leetcode.com/problems/maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k/description/)
 
 
 
@@ -132,6 +134,8 @@
 
 [2954. Count the Number of Infection Sequences](https://github.com/RyanPioneer/Leetcode/blob/main/2501~3000/2954.%20Count%20the%20Number%20of%20Infection%20Sequences/main.cpp) (2644)
 
+[3007. Maximum Number That Sum of the Prices Is Less Than or Equal to K](https://leetcode.com/problems/maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k/description/)
+
 * ``base -2 arithmetic``
 
 ​	[1073. Adding Two Negabinary Numbers](https://github.com/RyanPioneer/Leetcode/blob/main/1001~1500/1073.%20Adding%20Two%20Negabinary%20Numbers/main.cpp) (1806)
@@ -153,6 +157,14 @@
 ## KMP
 
 [1397. Find All Good Strings]() (2666)
+
+[3008. Find Beautiful Indices in the Given Array II]()
+
+
+
+## Rolling hash
+
+[3008. Find Beautiful Indices in the Given Array II]()
 
 
 
