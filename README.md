@@ -36,7 +36,7 @@
 
 [1388. Pizza With 3n Slices]() (2409)
 
-[3003. Maximize the Number of Partitions After Operations]()
+[3003. Maximize the Number of Partitions After Operations]() (3039)
 
 * ``Longest common subsequence``
 
@@ -56,9 +56,9 @@
 
 * ``數位DP``
 
-  [2999. Count the Number of Powerful Integers]()
+  [2999. Count the Number of Powerful Integers]() (2351)
   
-  [3007. Maximum Number That Sum of the Prices Is Less Than or Equal to K](https://leetcode.com/problems/maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k/description/)
+  [3007. Maximum Number That Sum of the Prices Is Less Than or Equal to K](https://leetcode.com/problems/maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k/description/) (2258)
 
 
 
@@ -66,7 +66,7 @@
 
 [2953. Count Complete Substrings](https://github.com/RyanPioneer/Leetcode/blob/main/2501~3000/2953.%20Count%20Complete%20Substrings/main.cpp) (2449)
 
-[2968. Apply Operations to Maximize Frequency Score]()
+[2968. Apply Operations to Maximize Frequency Score]() (2444)
 
 [3013. Divide an Array Into Subarrays With Minimum Cost II]()
 
@@ -102,7 +102,7 @@
 
 [1901. Find a Peak Element II]()
 
-[2968. Apply Operations to Maximize Frequency Score]()
+[2968. Apply Operations to Maximize Frequency Score]() (2444)
 
 
 
@@ -130,7 +130,7 @@
 
 ## Two pointers
 
-[2972. Count the Number of Incremovable Subarrays II]()
+[2972. Count the Number of Incremovable Subarrays II]() (2152)
 
 
 
@@ -150,7 +150,7 @@
 
 [2954. Count the Number of Infection Sequences](https://github.com/RyanPioneer/Leetcode/blob/main/2501~3000/2954.%20Count%20the%20Number%20of%20Infection%20Sequences/main.cpp) (2644)
 
-[3007. Maximum Number That Sum of the Prices Is Less Than or Equal to K](https://leetcode.com/problems/maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k/description/)
+[3007. Maximum Number That Sum of the Prices Is Less Than or Equal to K](https://leetcode.com/problems/maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k/description/) (2258)
 
 [3012. Minimize Length of Array Using Operations]()
 
@@ -170,7 +170,7 @@
 
 ## Trie
 
-[2977. Minimum Cost to Convert String II](https://github.com/RyanPioneer/Leetcode/blob/main/2501~3000/2977.%20Minimum%20Cost%20to%20Convert%20String%20II/main2.cpp)
+[2977. Minimum Cost to Convert String II](https://github.com/RyanPioneer/Leetcode/blob/main/2501~3000/2977.%20Minimum%20Cost%20to%20Convert%20String%20II/main2.cpp) (2695)
 
 
 
@@ -178,13 +178,13 @@
 
 [1397. Find All Good Strings]() (2666)
 
-[3008. Find Beautiful Indices in the Given Array II]()
+[3008. Find Beautiful Indices in the Given Array II]() (2016)
 
 
 
 ## Rolling hash
 
-[3008. Find Beautiful Indices in the Given Array II]()
+[3008. Find Beautiful Indices in the Given Array II]() (2016)
 
 
 
