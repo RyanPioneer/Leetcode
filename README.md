@@ -68,6 +68,8 @@
 
 [2968. Apply Operations to Maximize Frequency Score]()
 
+[3013. Divide an Array Into Subarrays With Minimum Cost II]()
+
 
 
 ## Next greater element
@@ -104,6 +106,20 @@
 
 
 
+## Sorted container
+
+* ``Two multiset``
+
+​	[3013. Divide an Array Into Subarrays With Minimum Cost II]()
+
+
+
+## Bit manipulation
+
+[3022. Minimize OR of Remaining Elements Using Operations]()
+
+
+
 ## Stack
 
 [1096. Brace Expansion II](https://github.com/RyanPioneer/Leetcode/blob/main/1001~1500/1096.%20Brace%20Expansion%20II/main.cpp) (2348)
@@ -136,6 +152,8 @@
 
 [3007. Maximum Number That Sum of the Prices Is Less Than or Equal to K](https://leetcode.com/problems/maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k/description/)
 
+[3012. Minimize Length of Array Using Operations]()
+
 * ``base -2 arithmetic``
 
 ​	[1073. Adding Two Negabinary Numbers](https://github.com/RyanPioneer/Leetcode/blob/main/1001~1500/1073.%20Adding%20Two%20Negabinary%20Numbers/main.cpp) (1806)
@@ -145,6 +163,8 @@
 ## Constructive algorithms
 
 [2499. Minimum Total Cost to Make Arrays Unequal]() (2633)
+
+[3012. Minimize Length of Array Using Operations]()
 
 
 
