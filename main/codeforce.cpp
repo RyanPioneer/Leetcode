@@ -1,7 +1,7 @@
 /**
- * Source: jpeg.ly/0loGE
- * Date: 2023/11/20
- * Skill: 啟發式合併
+ * Source: jpeg.ly/6P072
+ * Date: 2024/1/28
+ * Skill:
  * Constraints:
  *
  */
@@ -26,21 +26,30 @@ using namespace std;
 const int MX = 2 * 1e5;
 
 
-int main() {
-    int n, q, a, b;
-    cin >> n >> q;
-    unordered_set<int> boxes[n];
-    for (int i = 0; i < n; i++) {
-        cin >> b;
-        boxes[i].insert(b);
-    }
-    while (q--) {
-        cin >> a >> b;
-        if (SZ(boxes[a - 1]) > SZ(boxes[b - 1])) {
-            boxes[a - 1].swap(boxes[b - 1]);
+void solve() {
+    ll x;
+    cin >> x;
+    x--;
+    vector<int> res;
+    int cur = 200;
+    while (x) {
+        if (x % 2) {
+            res.push_back(cur--);
+            x /= 2;
+        } else {
+            res.push_back(0);
+            x--;
         }
-        boxes[b - 1].insert(begin(boxes[a - 1]), end(boxes[a - 1]));
-        boxes[a - 1].clear();
-        cout << SZ(boxes[b - 1]) << endl;
+    }
+    reverse(begin(res), end(res));
+    cout << SZ(res) << endl;
+    for (auto &i: res) cout << i << " ";
+    cout << endl;
+}
+
+int main() {
+    int t;
+    for (cin >> t; t--;) {
+        solve();
     }
 }
