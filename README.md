@@ -68,7 +68,7 @@
 
 [2968. Apply Operations to Maximize Frequency Score]() (2444)
 
-[3013. Divide an Array Into Subarrays With Minimum Cost II]()
+[3013. Divide an Array Into Subarrays With Minimum Cost II]() (2540)
 
 
 
@@ -110,7 +110,7 @@
 
 * ``Two multiset``
 
-  [3013. Divide an Array Into Subarrays With Minimum Cost II]()
+  [3013. Divide an Array Into Subarrays With Minimum Cost II]() (2540)
 
 
 
@@ -152,7 +152,7 @@
 
 [3007. Maximum Number That Sum of the Prices Is Less Than or Equal to K](https://leetcode.com/problems/maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k/description/) (2258)
 
-[3012. Minimize Length of Array Using Operations]()
+[3012. Minimize Length of Array Using Operations]() (1832)
 
 * ``base -2 arithmetic``
 
@@ -164,7 +164,7 @@
 
 [2499. Minimum Total Cost to Make Arrays Unequal]() (2633)
 
-[3012. Minimize Length of Array Using Operations]()
+[3012. Minimize Length of Array Using Operations]() (1832)
 
 
 
@@ -180,11 +180,15 @@
 
 [3008. Find Beautiful Indices in the Given Array II]() (2016)
 
+[3031. Minimum Time to Revert Word to Initial State II]()
+
 
 
 ## Rolling hash
 
 [3008. Find Beautiful Indices in the Given Array II]() (2016)
+
+[3031. Minimum Time to Revert Word to Initial State II]()
 
 
 
@@ -197,6 +201,12 @@
 ### Discrete coordinates
 
 [850. Rectangle Area II](https://github.com/RyanPioneer/Leetcode/blob/main/0501~1000/0850.%20Rectangle%20Area%20II/main.cpp) (2235)
+
+
+
+## 2D Prefix sum
+
+[3027. Find the Number of Ways to Place People II]()
 
 
 
