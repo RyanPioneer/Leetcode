@@ -28,9 +28,6 @@
 
 
 using namespace std;
-#define SZ(X) ((int)(X).size())
-#define ll long long
-typedef unsigned long long ULL;
 
 const int MX = 26;
 

@@ -116,7 +116,7 @@
 
 ## Bit manipulation
 
-[3022. Minimize OR of Remaining Elements Using Operations]()
+[3022. Minimize OR of Remaining Elements Using Operations]() (2917)
 
 
 
@@ -180,7 +180,7 @@
 
 [3008. Find Beautiful Indices in the Given Array II]() (2016)
 
-[3031. Minimum Time to Revert Word to Initial State II]()
+[3031. Minimum Time to Revert Word to Initial State II]() (2277)
 
 
 
@@ -188,7 +188,7 @@
 
 [3008. Find Beautiful Indices in the Given Array II]() (2016)
 
-[3031. Minimum Time to Revert Word to Initial State II]()
+[3031. Minimum Time to Revert Word to Initial State II]() (2277)
 
 
 
@@ -206,7 +206,7 @@
 
 ## 2D Prefix sum
 
-[3027. Find the Number of Ways to Place People II]()
+[3027. Find the Number of Ways to Place People II]() (2020)
 
 
 
