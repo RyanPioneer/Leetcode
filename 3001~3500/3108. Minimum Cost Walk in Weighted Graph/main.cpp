@@ -3,8 +3,8 @@
  * Date: 2024/4/7
  * Skill:
  * Ref:
- * Runtime: 43 ms, faster than 74.95% of C++ online submissions
- * Memory Usage: 17.20 MB, less than 97.99% of C++ online submissions
+ * Runtime: 725 ms, faster than 44.44% of C++ online submissions
+ * Memory Usage: 193.64 MB, less than 55.56% of C++ online submissions
  * Time complexity:
  * Space complexity:
  * Constraints:
@@ -63,7 +63,7 @@ public:
         for (int i = 1; i < idx; i++) nums[i] = (1 << 20) - 1;
 
         for (auto &e: edges) {
-            nums[group[e[0]]] &= e[1];
+            nums[group[e[0]]] &= e[2];
         }
 
         vector<int> res;

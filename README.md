@@ -38,6 +38,10 @@
 
 [3003. Maximize the Number of Partitions After Operations]() (3039)
 
+[3068. Find the Maximum Sum of Node Values]() (2267)
+
+[3098. Find the Sum of Subsequence Powers](https://leetcode.com/problems/find-the-sum-of-subsequence-powers/) ()
+
 * ``Longest common subsequence``
 
   [1035. Uncrossed Lines](https://github.com/RyanPioneer/Leetcode/tree/main/1001~1500/1035.%20Uncrossed%20Lines) (1805)
@@ -104,7 +108,7 @@
 
 [2968. Apply Operations to Maximize Frequency Score]() (2444)
 
-[3049. Earliest Second to Mark Indices II]()
+[3049. Earliest Second to Mark Indices II]() (3111)
 
 
 
@@ -119,6 +123,8 @@
 ## Bit manipulation
 
 [3022. Minimize OR of Remaining Elements Using Operations]() (2917)
+
+[3068. Find the Maximum Sum of Node Values]() (2267)
 
 
 
