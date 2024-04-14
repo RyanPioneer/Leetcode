@@ -1,10 +1,10 @@
 /**
- * Source: is.gd/zDNHWC
+ * Source: is.gd/JisIpa
  * Date: 2024/4/14
  * Skill:
  * Ref:
- * Runtime: 192 ms, faster than 100.00% of C++ online submissions
- * Memory Usage: 130.28 MB, less than 100.00% of C++ online submissions
+ * Runtime: 12 ms, faster than 65.94% of C++ online submissions
+ * Memory Usage: 11.24 MB, less than 37.30% of C++ online submissions
  * Time complexity:
  * Space complexity:
  * Constraints:
@@ -33,18 +33,15 @@ using namespace std;
 
 class Solution {
 public:
-    long long numberOfSubarrays(vector<int>& nums) {
+    long long countSubstrings(string s, char c) {
+        int cnt = 0;
         ll res = 0;
-        unordered_map<int, int> mp;
-        stack<int> st;
-        for (auto &i: nums) {
-            res += mp[i] + 1;
-            while (!st.empty() && i > st.top()) {
-                mp[st.top()]--;
-                st.pop();
+
+        for (auto &i: s) {
+            if (i == c) {
+                cnt++;
+                res += cnt;
             }
-            st.push(i);
-            mp[i]++;
         }
         return res;
     }

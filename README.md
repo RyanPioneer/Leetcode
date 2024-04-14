@@ -40,7 +40,7 @@
 
 [3068. Find the Maximum Sum of Node Values]() (2267)
 
-[3098. Find the Sum of Subsequence Powers](https://leetcode.com/problems/find-the-sum-of-subsequence-powers/) ()
+[3098. Find the Sum of Subsequence Powers](https://leetcode.com/problems/find-the-sum-of-subsequence-powers/) (2552)
 
 * ``Longest common subsequence``
 
@@ -165,6 +165,8 @@
 * ``base -2 arithmetic``
 
   [1073. Adding Two Negabinary Numbers](https://github.com/RyanPioneer/Leetcode/blob/main/1001~1500/1073.%20Adding%20Two%20Negabinary%20Numbers/main.cpp) (1806)
+
+[3116. Kth Smallest Amount With Single Denomination Combination](https://leetcode.com/problems/kth-smallest-amount-with-single-denomination-combination/) ()
 
 
 

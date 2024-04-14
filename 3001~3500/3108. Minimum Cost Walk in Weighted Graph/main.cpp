@@ -1,10 +1,10 @@
 /**
  * Source: is.gd/qOYE6r
- * Date: 2024/4/7
+ * Date: 2024/4/14
  * Skill:
  * Ref:
- * Runtime: 725 ms, faster than 44.44% of C++ online submissions
- * Memory Usage: 193.64 MB, less than 55.56% of C++ online submissions
+ * Runtime: 693 ms, faster than 18.29% of C++ online submissions
+ * Memory Usage: 177.87 MB, less than 36.95% of C++ online submissions
  * Time complexity:
  * Space complexity:
  * Constraints:
@@ -28,6 +28,7 @@
 
 
 using namespace std;
+typedef pair<int, int> PII;
 
 const int MX = 1e5+10;
 
@@ -35,38 +36,36 @@ const int MX = 1e5+10;
 class Solution {
 public:
     vector<int> minimumCost(int n, vector<vector<int>>& edges, vector<vector<int>>& query) {
-        vector<vector<int>> adjList(n);
+        vector<vector<PII>> adjList(n);
         for (auto &e: edges) {
-            adjList[e[0]].push_back(e[1]);
-            adjList[e[1]].push_back(e[0]);
+            adjList[e[0]].emplace_back(e[1], e[2]);
+            adjList[e[1]].emplace_back(e[0], e[2]);
         }
 
         int idx = 1;
         int group[MX] = {0}, nums[MX];
 
-        function<void(int)> dfs = [&](int cur) {
+        function<int(int)> dfs = [&](int cur) {
             group[cur] = idx;
+            int num = -1;
             for (auto &i: adjList[cur]) {
-                if (group[i] == 0) {
-                    dfs(i);
+                num &= i.second;
+                if (group[i.first] == 0) {
+                    num &= dfs(i.first);
                 }
             }
+            return num;
         };
 
         for (int i = 0; i < n; i++) {
             if (group[i] == 0) {
-                dfs(i);
+                nums[idx] = dfs(i);
                 idx++;
             }
         }
 
-        for (int i = 1; i < idx; i++) nums[i] = (1 << 20) - 1;
-
-        for (auto &e: edges) {
-            nums[group[e[0]]] &= e[2];
-        }
-
         vector<int> res;
+
         for (auto &q: query) {
             if (q[0] == q[1]) {
                 res.push_back(0);
