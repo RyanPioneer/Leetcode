@@ -42,6 +42,10 @@
 
 [3098. Find the Sum of Subsequence Powers](https://leetcode.com/problems/find-the-sum-of-subsequence-powers/) (2552)
 
+[3117. Minimum Sum of Values by Dividing Array](https://leetcode.com/problems/minimum-sum-of-values-by-dividing-array/) ()
+
+
+
 * ``Longest common subsequence``
 
   [1035. Uncrossed Lines](https://github.com/RyanPioneer/Leetcode/tree/main/1001~1500/1035.%20Uncrossed%20Lines) (1805)

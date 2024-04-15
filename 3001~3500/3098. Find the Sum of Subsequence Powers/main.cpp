@@ -1,6 +1,6 @@
 /**
  * Source: is.gd/geE5Xz
- * Date: 2024/4/7
+ * Date: 2024/4/15
  * Skill:
  * Ref:
  * Runtime: 212 ms, faster than 42.86% of C++ online submissions
@@ -39,5 +39,11 @@ public:
         ll res = 0;
         int n = nums.size();
 
+        sort(begin(nums), end(nums));
+
+        function<void(int, int)> helper = [&](int left, int right) {
+            int d = nums[right] - nums[left];
+
+        };
     }
 };
