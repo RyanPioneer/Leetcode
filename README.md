@@ -40,6 +40,8 @@
 
 [3068. Find the Maximum Sum of Node Values]() (2267)
 
+[3077. Maximum Strength of K Disjoint Subarrays](https://leetcode.com/problems/maximum-strength-of-k-disjoint-subarrays/) (2556)
+
 [3098. Find the Sum of Subsequence Powers](https://leetcode.com/problems/find-the-sum-of-subsequence-powers/) (2552)
 
 [3117. Minimum Sum of Values by Dividing Array](https://leetcode.com/problems/minimum-sum-of-values-by-dividing-array/) ()
@@ -109,6 +111,8 @@
 ## Binary search
 
 [1901. Find a Peak Element II]()
+
+[2040. Kth Smallest Product of Two Sorted Arrays](https://leetcode.com/problems/kth-smallest-product-of-two-sorted-arrays/) (2517)
 
 [2968. Apply Operations to Maximize Frequency Score]() (2444)
 
