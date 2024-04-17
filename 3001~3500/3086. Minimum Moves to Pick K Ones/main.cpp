@@ -36,6 +36,15 @@ const int MX = 1e5+10;
 class Solution {
 public:
     long long minimumMoves(vector<int>& nums, int k, int maxChanges) {
+        int n = nums.size();
+        ll res = LLONG_MAX, right = 0, rightNum = 0;
+        queue<int> q;
+        for (int i = 1; i < n; i++) {
+            if (nums[i]) {
+                rightNum++;
+                right += i;
+            }
+        }
 
     }
 };
