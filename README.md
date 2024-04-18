@@ -69,6 +69,14 @@
   [2999. Count the Number of Powerful Integers]() (2351)
   
   [3007. Maximum Number That Sum of the Prices Is Less Than or Equal to K](https://leetcode.com/problems/maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k/description/) (2258)
+  
+  
+
+
+
+## DFS
+
+[2014. Longest Subsequence Repeated k Times](https://leetcode.com/problems/longest-subsequence-repeated-k-times/) (2558)
 
 
 
@@ -79,6 +87,8 @@
 [2968. Apply Operations to Maximize Frequency Score]() (2444)
 
 [3013. Divide an Array Into Subarrays With Minimum Cost II]() (2540)
+
+[3086. Minimum Moves to Pick K Ones](https://leetcode.com/problems/minimum-moves-to-pick-k-ones/) (2672)
 
 
 
@@ -175,6 +185,16 @@
   [1073. Adding Two Negabinary Numbers](https://github.com/RyanPioneer/Leetcode/blob/main/1001~1500/1073.%20Adding%20Two%20Negabinary%20Numbers/main.cpp) (1806)
 
 [3116. Kth Smallest Amount With Single Denomination Combination](https://leetcode.com/problems/kth-smallest-amount-with-single-denomination-combination/) ()
+
+
+
+## Greedy
+
+* ``中位數貪心``
+
+  [3086. Minimum Moves to Pick K Ones](https://leetcode.com/problems/minimum-moves-to-pick-k-ones/) (2672)
+
+
 
 
 
