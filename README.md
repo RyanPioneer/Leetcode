@@ -110,6 +110,10 @@
 
 [2945. Find Maximum Non-decreasing Array Length](https://github.com/RyanPioneer/Leetcode/tree/main/2501~3000/2945.%20Find%20Maximum%20Non-decreasing%20Array%20Length) (2943)
 
+[2969. Minimum Number of Coins for Fruits II](https://leetcode.com/problems/minimum-number-of-coins-for-fruits-ii/)
+
+
+
 
 
 ## Monotonic stack
@@ -143,6 +147,18 @@
 [3022. Minimize OR of Remaining Elements Using Operations]() (2917)
 
 [3068. Find the Maximum Sum of Node Values]() (2267)
+
+
+
+* ``Iterate subset from large to small subset``
+
+  [2403. Minimum Time to Kill All Monsters](https://leetcode.com/problems/minimum-time-to-kill-all-monsters/)
+
+
+
+
+
+## Bit manipulation
 
 
 
