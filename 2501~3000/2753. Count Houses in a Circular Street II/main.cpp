@@ -1,5 +1,5 @@
 /**
- * Source: is.gd/1Nz6sH
+ * Source: is.gd/3MQ7mH
  * Date: 2024/4/21
  * Skill:
  * Ref:
@@ -31,9 +31,17 @@ using namespace std;
 #define ll long long
 
 
+class Street {
+public:
+    Street(vector<int> doors);
+    void closeDoor();
+    bool isDoorOpen();
+    void moveRight();
+};
+
 class Solution {
 public:
-    long long distributeCandies(int n, int limit) {
+    int houseCount(Street* street, int k) {
 
     }
 };

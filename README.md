@@ -80,6 +80,16 @@
 
 
 
+## BFS
+
+* ``Dijkstra (BFS+PQ)``
+
+  [2714. Find Shortest Path with K Hops](https://leetcode.com/problems/find-shortest-path-with-k-hops/)
+
+  
+
+
+
 ## Sliding window
 
 [2953. Count Complete Substrings](https://github.com/RyanPioneer/Leetcode/blob/main/2501~3000/2953.%20Count%20Complete%20Substrings/main.cpp) (2449)
@@ -153,12 +163,6 @@
 * ``Iterate subset from large to small subset``
 
   [2403. Minimum Time to Kill All Monsters](https://leetcode.com/problems/minimum-time-to-kill-all-monsters/)
-
-
-
-
-
-## Bit manipulation
 
 
 
@@ -258,9 +262,21 @@
 
 
 
-## 2D Prefix sum
+## Prefix sum
 
 [3027. Find the Number of Ways to Place People II]() (2020)
+
+[3104. Find Longest Self-Contained Substring](https://leetcode.com/problems/find-longest-self-contained-substring/)
+
+
+
+* ``2D Prefix sum``
+
+  [3012. Minimize Length of Array Using Operations]() (1832)
+
+
+
+
 
 
 

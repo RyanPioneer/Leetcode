@@ -1,10 +1,10 @@
 /**
- * Source: is.gd/1Nz6sH
+ * Source: is.gd/A1L4tP
  * Date: 2024/4/21
  * Skill:
  * Ref:
- * Runtime: 159 ms, faster than 100.00% of C++ online submissions
- * Memory Usage: 282.92 MB, less than 16.67% of C++ online submissions
+ * Runtime: 221 ms, faster than 26.67% of C++ online submissions
+ * Memory Usage: 19.60 MB, less than 54.67% of C++ online submissions
  * Time complexity:
  * Space complexity:
  * Constraints:
@@ -28,12 +28,26 @@
 
 
 using namespace std;
-#define ll long long
+
+
+
+class Interval {
+public:
+    int start;
+    int end;
+
+    Interval() {}
+
+    Interval(int _start, int _end) {
+        start = _start;
+        end = _end;
+    }
+};
 
 
 class Solution {
 public:
-    long long distributeCandies(int n, int limit) {
+    vector<Interval> employeeFreeTime(vector<vector<Interval>> schedule) {
 
     }
 };
