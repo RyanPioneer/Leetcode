@@ -1,6 +1,6 @@
 /**
- * Source: t.ly/IEFed
- * Date: 2024/4/25
+ * Source: tinyurl.com/25hpz9n7
+ * Date: 2024/4/27
  * Skill:
  * Ref:
  * Runtime: 361 ms, faster than 25.76% of C++ online submissions
@@ -30,9 +30,24 @@
 using namespace std;
 
 
-class Solution {
+class Encrypter {
 public:
-    int minimumSeconds(vector<vector<string>>& land) {
+    Encrypter(vector<char>& keys, vector<string>& values, vector<string>& dictionary) {
+
+    }
+
+    string encrypt(string word1) {
+
+    }
+
+    int decrypt(string word2) {
 
     }
 };
+
+/**
+ * Your Encrypter object will be instantiated and called as such:
+ * Encrypter* obj = new Encrypter(keys, values, dictionary);
+ * string param_1 = obj->encrypt(word1);
+ * int param_2 = obj->decrypt(word2);
+ */

@@ -1,10 +1,10 @@
 /**
- * Source: t.ly/IEFed
- * Date: 2024/4/25
+ * Source: t.ly/w82El
+ * Date: 2024/4/26
  * Skill:
  * Ref:
- * Runtime: 361 ms, faster than 25.76% of C++ online submissions
- * Memory Usage: 202.67 MB, less than 45.45% of C++ online submissions
+ * Runtime: 0 ms, faster than 100.00% of C++ online submissions
+ * Memory Usage: 9.90 MB, less than 100.00% of C++ online submissions
  * Time complexity:
  * Space complexity:
  * Constraints:
@@ -32,7 +32,12 @@ using namespace std;
 
 class Solution {
 public:
-    int minimumSeconds(vector<vector<string>>& land) {
-
+    long long maxNumber(long long n) {
+        int num = -1;
+        while (n) {
+            n >>= 1;
+            num++;
+        }
+        return (1ll << num) - 1;
     }
 };

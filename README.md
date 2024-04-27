@@ -44,9 +44,11 @@
 
 [3098. Find the Sum of Subsequence Powers](https://leetcode.com/problems/find-the-sum-of-subsequence-powers/) (2552)
 
-[3117. Minimum Sum of Values by Dividing Array](https://leetcode.com/problems/minimum-sum-of-values-by-dividing-array/) ()
+[3117. Minimum Sum of Values by Dividing Array](https://leetcode.com/problems/minimum-sum-of-values-by-dividing-array/) (2735)
 
 [956. Tallest Billboard](https://leetcode.com/problems/tallest-billboard/) (2381)
+
+[2355. Maximum Number of Books You Can Take](https://leetcode.com/problems/maximum-number-of-books-you-can-take/)
 
 
 
@@ -74,7 +76,11 @@
   
   
 
+* ``狀態壓縮DP``
 
+  [465. Optimal Account Balancing](https://leetcode.com/problems/optimal-account-balancing/)
+
+  
 
 ## DFS
 
@@ -84,11 +90,23 @@
 
 ## BFS
 
+[317. Shortest Distance from All Buildings](https://leetcode.com/problems/shortest-distance-from-all-buildings/)
+
+
+
 * ``Dijkstra (BFS+PQ)``
 
   [2714. Find Shortest Path with K Hops](https://leetcode.com/problems/find-shortest-path-with-k-hops/)
 
   
+
+* ``Topological Sort``
+
+  [269. Alien Dictionary](https://leetcode.com/problems/alien-dictionary/)
+
+  
+
+
 
 
 
@@ -132,6 +150,10 @@
 
 [2289. Steps to Make Array Non-decreasing]() (2481)
 
+[2355. Maximum Number of Books You Can Take](https://leetcode.com/problems/maximum-number-of-books-you-can-take/)
+
+
+
 
 
 ## Binary search
@@ -165,6 +187,10 @@
 * ``Iterate subset from large to small subset``
 
   [2403. Minimum Time to Kill All Monsters](https://leetcode.com/problems/minimum-time-to-kill-all-monsters/)
+  
+  [465. Optimal Account Balancing](https://leetcode.com/problems/optimal-account-balancing/)
+  
+  
 
 
 
@@ -202,11 +228,17 @@
 
 [3012. Minimize Length of Array Using Operations]() (1832)
 
+[296. Best Meeting Point](https://leetcode.com/problems/best-meeting-point/)
+
+
+
 * ``base -2 arithmetic``
 
   [1073. Adding Two Negabinary Numbers](https://github.com/RyanPioneer/Leetcode/blob/main/1001~1500/1073.%20Adding%20Two%20Negabinary%20Numbers/main.cpp) (1806)
+  
+  
 
-[3116. Kth Smallest Amount With Single Denomination Combination](https://leetcode.com/problems/kth-smallest-amount-with-single-denomination-combination/) ()
+[3116. Kth Smallest Amount With Single Denomination Combination](https://leetcode.com/problems/kth-smallest-amount-with-single-denomination-combination/) (2387)
 
 
 
@@ -231,6 +263,8 @@
 ## Trie
 
 [2977. Minimum Cost to Convert String II](https://github.com/RyanPioneer/Leetcode/blob/main/2501~3000/2977.%20Minimum%20Cost%20to%20Convert%20String%20II/main2.cpp) (2695)
+
+[269. Alien Dictionary](https://leetcode.com/problems/alien-dictionary/)
 
 
 
@@ -269,6 +303,10 @@
 [3027. Find the Number of Ways to Place People II]() (2020)
 
 [3104. Find Longest Self-Contained Substring](https://leetcode.com/problems/find-longest-self-contained-substring/)
+
+[548. Split Array with Equal Sum](https://leetcode.com/problems/split-array-with-equal-sum/)
+
+
 
 
 

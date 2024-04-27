@@ -1,6 +1,6 @@
 /**
- * Source: t.ly/IEFed
- * Date: 2024/4/25
+ * Source: t.ly/qb96J
+ * Date: 2024/4/27
  * Skill:
  * Ref:
  * Runtime: 361 ms, faster than 25.76% of C++ online submissions
@@ -32,7 +32,7 @@ using namespace std;
 
 class Solution {
 public:
-    int minimumSeconds(vector<vector<string>>& land) {
+    int shortestDistance(vector<vector<int>>& grid) {
 
     }
 };
