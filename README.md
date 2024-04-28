@@ -120,6 +120,10 @@
 
 [3086. Minimum Moves to Pick K Ones](https://leetcode.com/problems/minimum-moves-to-pick-k-ones/) (2672)
 
+[3134. Find the Median of the Uniqueness Array](https://leetcode.com/problems/find-the-median-of-the-uniqueness-array/)
+
+
+
 
 
 ## Next greater element
@@ -165,6 +169,8 @@
 [2968. Apply Operations to Maximize Frequency Score]() (2444)
 
 [3049. Earliest Second to Mark Indices II]() (3111)
+
+[3134. Find the Median of the Uniqueness Array](https://leetcode.com/problems/find-the-median-of-the-uniqueness-array/)
 
 
 

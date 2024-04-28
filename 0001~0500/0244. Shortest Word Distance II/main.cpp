@@ -1,5 +1,5 @@
 /**
- * Source: t.ly/Qm4Qk
+ * Source: tinyurl.com/2a37an4f
  * Date: 2024/4/28
  * Skill:
  * Ref:
@@ -30,9 +30,19 @@
 using namespace std;
 
 
-class Solution {
+class WordDistance {
 public:
-    vector<vector<string>> wordSquares(vector<string>& words) {
+    WordDistance(vector<string>& wordsDict) {
+
+    }
+
+    int shortest(string word1, string word2) {
 
     }
 };
+
+/**
+ * Your WordDistance object will be instantiated and called as such:
+ * WordDistance* obj = new WordDistance(wordsDict);
+ * int param_1 = obj->shortest(word1,word2);
+ */
