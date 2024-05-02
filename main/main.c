@@ -12,22 +12,7 @@
  */
 
 
-#include <iostream>
-#include <vector>
-#include <algorithm>
-#include <map>
-#include <set>
-#include <unordered_set>
-#include <queue>
-#include <numeric>
-#include <tuple>
-#include <stack>
-#include <bitset>
-#include <functional>
-#include <list>
-
-
-using namespace std;
+#include <stdio.h>
 
 const int MX = 1e5+10;
 
@@ -46,11 +31,7 @@ void reverseString(char* s, int sSize){
     }
 }
 
-#include <stdio.h>
 
-#include <stdio.h>
-
-#include <stdio.h>
 
 int main() {
     int array[10] = {10, 20, 30, 40, 50, 60, 70, 80, 90, 100};

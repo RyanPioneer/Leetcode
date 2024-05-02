@@ -50,6 +50,12 @@
 
 [2355. Maximum Number of Books You Can Take](https://leetcode.com/problems/maximum-number-of-books-you-can-take/)
 
+[568. Maximum Vacation Days](https://leetcode.com/problems/maximum-vacation-days/)
+
+[727. Minimum Window Subsequence](https://leetcode.com/problems/minimum-window-subsequence/)
+
+
+
 
 
 * ``Longest common subsequence``
@@ -86,6 +92,8 @@
 
 [2014. Longest Subsequence Repeated k Times](https://leetcode.com/problems/longest-subsequence-repeated-k-times/) (2558)
 
+[489. Robot Room Cleaner](https://leetcode.com/problems/robot-room-cleaner/)
+
 
 
 ## BFS
@@ -108,6 +116,12 @@
 
 
 
+## Backtracking
+
+[425. Word Squares](https://leetcode.com/problems/word-squares/)
+
+
+
 
 
 ## Sliding window
@@ -122,7 +136,7 @@
 
 [3134. Find the Median of the Uniqueness Array](https://leetcode.com/problems/find-the-median-of-the-uniqueness-array/)
 
-
+[683. K Empty Slots](https://leetcode.com/problems/k-empty-slots/)
 
 
 
@@ -171,6 +185,10 @@
 [3049. Earliest Second to Mark Indices II]() (3111)
 
 [3134. Find the Median of the Uniqueness Array](https://leetcode.com/problems/find-the-median-of-the-uniqueness-array/)
+
+[644. Maximum Average Subarray II](https://leetcode.com/problems/maximum-average-subarray-ii/)
+
+
 
 
 
@@ -250,6 +268,12 @@
 
 ## Greedy
 
+[1183. Maximum Number of Ones](https://leetcode.com/problems/maximum-number-of-ones/)
+
+[2263. Make Array Non-decreasing or Non-increasing](https://leetcode.com/problems/make-array-non-decreasing-or-non-increasing/)
+
+
+
 * ``中位數貪心``
 
   [3086. Minimum Moves to Pick K Ones](https://leetcode.com/problems/minimum-moves-to-pick-k-ones/) (2672)
@@ -271,6 +295,8 @@
 [2977. Minimum Cost to Convert String II](https://github.com/RyanPioneer/Leetcode/blob/main/2501~3000/2977.%20Minimum%20Cost%20to%20Convert%20String%20II/main2.cpp) (2695)
 
 [269. Alien Dictionary](https://leetcode.com/problems/alien-dictionary/)
+
+[425. Word Squares](https://leetcode.com/problems/word-squares/)
 
 
 
@@ -343,4 +369,10 @@
 ### Suffix array
 
 [1163. Last Substring in Lexicographical Order](https://github.com/RyanPioneer/Leetcode/blob/main/1001~1500/1163.%20Last%20Substring%20in%20Lexicographical%20Order/main.cpp) 
+
+
+
+## Others
+
+
 

@@ -1,10 +1,10 @@
 /**
- * Source: t.ly/Qm4Qk
- * Date: 2024/5/2
+ * Source: t.ly/SLxeP
+ * Date: 2024/5/1
  * Skill:
  * Ref:
- * Runtime: 361 ms, faster than 25.76% of C++ online submissions
- * Memory Usage: 202.67 MB, less than 45.45% of C++ online submissions
+ * Runtime: 2 ms, faster than 45.45% of C++ online submissions
+ * Memory Usage: 7.20 MB, less than 27.27% of C++ online submissions
  * Time complexity:
  * Space complexity:
  * Constraints:
@@ -28,11 +28,17 @@
 
 
 using namespace std;
-
+#define ll long long
 
 class Solution {
 public:
-    vector<vector<string>> wordSquares(vector<string>& words) {
-
+    int newInteger(int n) {
+        ll res = 0, base = 1;
+        while (n) {
+            res += base * (n % 9);
+            base *= 10;
+            n /= 9;
+        }
+        return res;
     }
 };

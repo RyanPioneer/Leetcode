@@ -1,5 +1,5 @@
 /**
- * Source: t.ly/Qm4Qk
+ * Source: t.ly/-pIXi
  * Date: 2024/5/2
  * Skill:
  * Ref:
@@ -32,7 +32,7 @@ using namespace std;
 
 class Solution {
 public:
-    vector<vector<string>> wordSquares(vector<string>& words) {
+    int minStickers(vector<string>& stickers, string target) {
 
     }
 };
