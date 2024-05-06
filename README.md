@@ -54,6 +54,10 @@
 
 [727. Minimum Window Subsequence](https://leetcode.com/problems/minimum-window-subsequence/)
 
+[2263. Make Array Non-decreasing or Non-increasing](https://leetcode.com/problems/make-array-non-decreasing-or-non-increasing/)
+
+[1692. Count Ways to Distribute Candies](https://leetcode.com/problems/count-ways-to-distribute-candies/)
+
 
 
 
@@ -112,6 +116,10 @@
 
   [269. Alien Dictionary](https://leetcode.com/problems/alien-dictionary/)
 
+  [2204. Distance to a Cycle in Undirected Graph](https://leetcode.com/problems/distance-to-a-cycle-in-undirected-graph/)
+  
+  
+  
   
 
 
@@ -297,6 +305,8 @@
 [269. Alien Dictionary](https://leetcode.com/problems/alien-dictionary/)
 
 [425. Word Squares](https://leetcode.com/problems/word-squares/)
+
+[2479. Maximum XOR of Two Non-Overlapping Subtrees](https://leetcode.com/problems/maximum-xor-of-two-non-overlapping-subtrees/)
 
 
 
