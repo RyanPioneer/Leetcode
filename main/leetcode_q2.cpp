@@ -35,14 +35,81 @@ ll quick_pow(ll x, ll n, ll m) {
 
 class Solution {
 public:
-    vector<int> getGoodIndices(vector<vector<int>>& variables, int target) {
-        vector<int> res;
-        for (int i = 0; i < variables.size(); i++) {
-            vector<int> v = variables[i];
-            ll a = v[0], b = v[1], c = v[2], mod = v[3];
-            ll d = quick_pow(a, b, 10);
-            ll e = quick_pow(d, c, mod);
-            if (e == target) res.push_back(i);
+    int maxPointsInsideSquare(vector<vector<int>>& points, string s) {
+        ll left = -1, right = 1e9;
+        int cnt[26], len = points.size(), res = 0;
+        while (left < right) {
+            ll mid = (left + right + 1) / 2;
+            bool check = true;
+            for (int i = 0; i < 26; i++) {
+                cnt[i] = 0;
+            }
+            for (int i = 0; i < len; i++) {
+                int x = points[i][0], y = points[i][1];
+                if (x >= 0 && y >= 0) {
+                    if (x <= mid && y <= mid) {
+                        cnt[s[i] - 'a']++;
+                        if (cnt[s[i] - 'a'] > 1) {
+                            check = false;
+                            break;
+                        }
+                    }
+                }
+                if (x >= 0 && y < 0) {
+                    if (x <= mid && -y <= mid) {
+                        cnt[s[i] - 'a']++;
+                        if (cnt[s[i] - 'a'] > 1) {
+                            check = false;
+                            break;
+                        }
+                    }
+                }
+                if (x < 0 && y < 0) {
+                    if (-x <= mid && -y <= mid) {
+                        cnt[s[i] - 'a']++;
+                        if (cnt[s[i] - 'a'] > 1) {
+                            check = false;
+                            break;
+                        }
+                    }
+                }
+                if (x < 0 && y >= 0) {
+                    if (-x <= mid && y <= mid) {
+                        cnt[s[i] - 'a']++;
+                        if (cnt[s[i] - 'a'] > 1) {
+                            check = false;
+                            break;
+                        }
+                    }
+                }
+            }
+            if (check) left = mid;
+            else right = mid - 1;
+        }
+
+        int mid = left;
+        for (int i = 0; i < len; i++) {
+            int x = points[i][0], y = points[i][1];
+            if (x >= 0 && y >= 0) {
+                if (x <= left && y <= left) {
+                    res++;
+                }
+            }
+            if (x >= 0 && y < 0) {
+                if (x <= mid && -y <= mid) {
+                    res++;
+                }
+            }
+            if (x < 0 && y < 0) {
+                if (-x <= mid && -y <= mid) {
+                    res++;
+                }
+            }
+            if (x < 0 && y >= 0) {
+                if (-x <= mid && y <= mid) {
+                    res++;
+                }
+            }
         }
         return res;
     }

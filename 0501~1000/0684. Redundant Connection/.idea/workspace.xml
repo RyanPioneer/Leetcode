@@ -5,8 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f49a8140-8ddd-4335-99dd-8a7f3029dcdf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1206. Design Skiplist/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2501~3000/2519. Count the Number of K-Big Indices/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2501~3000/2524. Maximum Frequency Score of a Subarray/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2501~3000/2792. Count Nodes That Are Great Enough/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../3001~3500/3141. Maximum Hamming Distances/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0642. Design Search Autocomplete System/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../0642. Design Search Autocomplete System/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2001~2500/2479. Maximum XOR of Two Non-Overlapping Subtrees/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../2001~2500/2479. Maximum XOR of Two Non-Overlapping Subtrees/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,9 +23,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2UVA4vzbhIpHfpX3UDcDcV8t8hp" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -27,21 +37,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/ryanpionee2/Github/Leetcode/0501~1000/0684. Redundant Connection",
-    "node.js.detected.package.eslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/ryanpionee2/Github/Leetcode/0501~1000/0684. Redundant Connection&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="0684. Redundant Connection" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -72,6 +84,8 @@
       <option name="presentableId" value="Default" />
       <updated>1693014187294</updated>
       <workItem from="1693014189379" duration="1015000" />
+      <workItem from="1715289233310" duration="397000" />
+      <workItem from="1715289830042" duration="686000" />
     </task>
     <servers />
   </component>

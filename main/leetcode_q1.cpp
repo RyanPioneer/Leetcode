@@ -25,16 +25,18 @@ const int MX = 30;
 
 class Solution {
 public:
-    int countTestedDevices(vector<int>& batteryPercentages) {
-        int res = 0, dec = 0, len = SZ(batteryPercentages);
-        for (int i = 0; i < len; i++) {
-            if (batteryPercentages[i] == 0) continue;
-            for (int j = i + 1; j < len; j++) {
-                if (batteryPercentages[j] == 0) continue;
-                batteryPercentages[j]--;
+    bool satisfiesConditions(vector<vector<int>>& grid) {
+        int m = grid.size(), n = grid[0].size();
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < n; j++) {
+                if (i + 1 < m && grid[i][j] != grid[i + 1][j]) {
+                    return false;
+                }
+                if (j + 1 < n && grid[i][j] == grid[i][j + 1]) {
+                    return false;
+                }
             }
-            res++;
         }
-        return res;
+        return true;
     }
 };

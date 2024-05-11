@@ -1,6 +1,6 @@
 /**
  * Source: t.ly/qa79x
- * Date: 2024/5/6
+ * Date: 2024/5/7
  * Skill:
  * Ref:
  * Runtime: 361 ms, faster than 25.76% of C++ online submissions
@@ -30,7 +30,7 @@
 using namespace std;
 
 #define ll long long
-const int MX = 1e9+7;
+const int MX = 1e5+7;
 
 
 class AutocompleteSystem {
