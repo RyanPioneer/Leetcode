@@ -1,3 +1,17 @@
+/**
+ * Source: ibit.ly/Ol3bC
+ * Date: 2024/5/12
+ * Skill:
+ * Ref:
+ * Runtime: 3 ms, faster than 100.00% of C++ online submissions
+ * Memory Usage: 8.88 MB, less than 80.00% of C++ online submissions
+ * Time complexity:
+ * Space complexity:
+ * Constraints:
+ *
+ */
+
+
 #include <iostream>
 #include <vector>
 #include <algorithm>
@@ -14,13 +28,6 @@
 
 
 using namespace std;
-#define SZ(X) ((int)(X).size())
-#define ll long long
-#define MK(X, Y) make_pair(X, Y)
-typedef pair<int, int> PII;
-typedef pair<char, char> PCC;
-ll mod = 1e9+7;
-const int MX = 30;
 
 
 class Solution {

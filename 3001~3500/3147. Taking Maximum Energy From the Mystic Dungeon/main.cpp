@@ -1,3 +1,17 @@
+/**
+ * Source: ibit.ly/LHmVa
+ * Date: 2024/5/12
+ * Skill:
+ * Ref:
+ * Runtime: 130 ms, faster than 100.00% of C++ online submissions
+ * Memory Usage: 143.56 MB, less than 100.00% of C++ online submissions
+ * Time complexity:
+ * Space complexity:
+ * Constraints:
+ *
+ */
+
+
 #include <iostream>
 #include <vector>
 #include <algorithm>
@@ -14,23 +28,6 @@
 
 
 using namespace std;
-#define SZ(X) ((int)(X).size())
-#define ll long long
-#define MK(X, Y) make_pair(X, Y)
-typedef pair<int, int> PII;
-typedef pair<char, char> PCC;
-ll mod = 1e9+7;
-const int MX = 1e5+10;
-
-
-ll quick_pow(ll x, ll n, ll m) {
-    ll res = 1;
-    for (; n > 0; n /= 2) {
-        if (n % 2) res = res * x % m;
-        x = x * x % m;
-    }
-    return res;
-}
 
 
 class Solution {
