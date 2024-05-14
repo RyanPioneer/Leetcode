@@ -5,76 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="01216c57-d53e-4cf1-b2ad-b4db180f4d74" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1577. Number of Ways Where Square of Number Is Equal to Product of Two Numbers/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1577. Number of Ways Where Square of Number Is Equal to Product of Two Numbers/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1577. Number of Ways Where Square of Number Is Equal to Product of Two Numbers/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1577. Number of Ways Where Square of Number Is Equal to Product of Two Numbers/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1577. Number of Ways Where Square of Number Is Equal to Product of Two Numbers/.idea/sonarlint/issuestore/c/c/cc7b753f568727eee1a611f410e85ecaa3a34e66" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1577. Number of Ways Where Square of Number Is Equal to Product of Two Numbers/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1577. Number of Ways Where Square of Number Is Equal to Product of Two Numbers/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1577. Number of Ways Where Square of Number Is Equal to Product of Two Numbers/.idea/sonarlint/securityhotspotstore/c/c/cc7b753f568727eee1a611f410e85ecaa3a34e66" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1577. Number of Ways Where Square of Number Is Equal to Product of Two Numbers/.idea/sonarlint/securityhotspotstore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1577. Number of Ways Where Square of Number Is Equal to Product of Two Numbers/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1577. Number of Ways Where Square of Number Is Equal to Product of Two Numbers/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1577. Number of Ways Where Square of Number Is Equal to Product of Two Numbers/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1577. Number of Ways Where Square of Number Is Equal to Product of Two Numbers/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1577. Number of Ways Where Square of Number Is Equal to Product of Two Numbers/main2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1851. Minimum Interval to Include Each Query/.idea/1851. Minimum Interval to Include Each Query.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1851. Minimum Interval to Include Each Query/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1851. Minimum Interval to Include Each Query/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1851. Minimum Interval to Include Each Query/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1851. Minimum Interval to Include Each Query/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1851. Minimum Interval to Include Each Query/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1851. Minimum Interval to Include Each Query/.idea/sonarlint/securityhotspotstore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1501~2000/1851. Minimum Interval to Include Each Query/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2251. Number of Flowers in Full Bloom/.idea/2251. Number of Flowers in Full Bloom.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2251. Number of Flowers in Full Bloom/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2251. Number of Flowers in Full Bloom/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2251. Number of Flowers in Full Bloom/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2251. Number of Flowers in Full Bloom/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2251. Number of Flowers in Full Bloom/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2251. Number of Flowers in Full Bloom/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2251. Number of Flowers in Full Bloom/.idea/sonarlint/securityhotspotstore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2251. Number of Flowers in Full Bloom/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2251. Number of Flowers in Full Bloom/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2251. Number of Flowers in Full Bloom/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2001~2500/2251. Number of Flowers in Full Bloom/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2501~3000/2589. Minimum Time to Complete All Tasks/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2501~3000/2589. Minimum Time to Complete All Tasks/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2501~3000/2589. Minimum Time to Complete All Tasks/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2501~3000/2589. Minimum Time to Complete All Tasks/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2501~3000/2833. Furthest Point From Origin/.idea/2833. Furthest Point From Origin.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2501~3000/2833. Furthest Point From Origin/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2501~3000/2833. Furthest Point From Origin/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2501~3000/2833. Furthest Point From Origin/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2501~3000/2833. Furthest Point From Origin/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2501~3000/2833. Furthest Point From Origin/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2501~3000/2833. Furthest Point From Origin/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2501~3000/2833. Furthest Point From Origin/.idea/sonarlint/securityhotspotstore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2501~3000/2833. Furthest Point From Origin/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2501~3000/2833. Furthest Point From Origin/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2501~3000/2833. Furthest Point From Origin/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2501~3000/2833. Furthest Point From Origin/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2501~3000/2834. Find the Minimum Possible Sum of a Beautiful Array/.idea/2834. Find the Minimum Possible Sum of a Beautiful Array.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2501~3000/2834. Find the Minimum Possible Sum of a Beautiful Array/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2501~3000/2834. Find the Minimum Possible Sum of a Beautiful Array/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2501~3000/2834. Find the Minimum Possible Sum of a Beautiful Array/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2501~3000/2834. Find the Minimum Possible Sum of a Beautiful Array/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2501~3000/2834. Find the Minimum Possible Sum of a Beautiful Array/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2501~3000/2834. Find the Minimum Possible Sum of a Beautiful Array/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2501~3000/2834. Find the Minimum Possible Sum of a Beautiful Array/.idea/sonarlint/securityhotspotstore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2501~3000/2834. Find the Minimum Possible Sum of a Beautiful Array/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2501~3000/2834. Find the Minimum Possible Sum of a Beautiful Array/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2501~3000/2834. Find the Minimum Possible Sum of a Beautiful Array/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2501~3000/2834. Find the Minimum Possible Sum of a Beautiful Array/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2501~3000/2835. Minimum Operations to Form Subsequence With Target Sum/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2501~3000/2835. Minimum Operations to Form Subsequence With Target Sum/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2501~3000/2835. Minimum Operations to Form Subsequence With Target Sum/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2501~3000/2835. Minimum Operations to Form Subsequence With Target Sum/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../1501~2000/1851. Minimum Interval to Include Each Query/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../1501~2000/1851. Minimum Interval to Include Each Query/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../1501~2000/1851. Minimum Interval to Include Each Query/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../1501~2000/1851. Minimum Interval to Include Each Query/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../1501~2000/1851. Minimum Interval to Include Each Query/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../1501~2000/1851. Minimum Interval to Include Each Query/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../1501~2000/1851. Minimum Interval to Include Each Query/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../1501~2000/1851. Minimum Interval to Include Each Query/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0001~0500/0426. Convert Binary Search Tree to Sorted Doubly Linked List/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0921. Minimum Add to Make Parentheses Valid/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1041. Robot Bounded In Circle/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1239. Maximum Length of a Concatenated String with Unique Characters/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1366. Rank Teams by Votes/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1501~2000/1963. Minimum Number of Swaps to Make the String Balanced/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0684. Redundant Connection/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" beforeDir="false" afterPath="$PROJECT_DIR$/../0684. Redundant Connection/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0684. Redundant Connection/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../0684. Redundant Connection/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1001~1500/1223. Dice Roll Simulation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../1001~1500/1223. Dice Roll Simulation/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2501~3000/2833. Furthest Point From Origin/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../2501~3000/2833. Furthest Point From Origin/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2501~3000/2835. Minimum Operations to Form Subsequence With Target Sum/.idea/sonarlint/issuestore/9/a/9a2aa4db38d3115ed60da621e012c0efc0172aae" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2501~3000/2835. Minimum Operations to Form Subsequence With Target Sum/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../2501~3000/2835. Minimum Operations to Form Subsequence With Target Sum/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2501~3000/2835. Minimum Operations to Form Subsequence With Target Sum/.idea/sonarlint/securityhotspotstore/9/a/9a2aa4db38d3115ed60da621e012c0efc0172aae" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2501~3000/2835. Minimum Operations to Form Subsequence With Target Sum/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../2501~3000/2835. Minimum Operations to Form Subsequence With Target Sum/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2501~3000/2835. Minimum Operations to Form Subsequence With Target Sum/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../2501~3000/2835. Minimum Operations to Form Subsequence With Target Sum/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3001~3500/3139. Minimum Cost to Equalize Array/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../3001~3500/3139. Minimum Cost to Equalize Array/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,6 +31,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "RyanPioneer"
+  }
+}]]></component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+  </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/RyanPioneer/Leetcode.git",
+    "accountId": "07c1937f-da04-4f6e-8148-852b9651120e"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -95,24 +57,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/ryanpionee2/Github/Leetcode/0501~1000/0685. Redundant Connection II&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/ryanpionee2/Github/Leetcode/0501~1000/0685. Redundant Connection II",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="0685. Redundant Connection II" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -134,6 +98,13 @@
       <method v="2" />
     </configuration>
   </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-babbdf50b680-7c6932dee5e4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.15989.155" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -144,6 +115,7 @@
       <updated>1692953598844</updated>
       <workItem from="1692953600317" duration="11011000" />
       <workItem from="1693035054141" duration="765000" />
+      <workItem from="1715666901455" duration="1870000" />
     </task>
     <servers />
   </component>

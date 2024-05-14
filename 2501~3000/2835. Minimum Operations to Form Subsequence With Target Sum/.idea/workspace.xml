@@ -21,38 +21,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8146c7a3-fd56-4acb-921f-9837254667cd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/8/682a50d19e416195436708e48c7761923b8d6651" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/a/9a2aa4db38d3115ed60da621e012c0efc0172aae" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/6/8/682a50d19e416195436708e48c7761923b8d6651" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/9/a/9a2aa4db38d3115ed60da621e012c0efc0172aae" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Template/.idea/sonarlint/issuestore/9/a/9a2aa4db38d3115ed60da621e012c0efc0172aae" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Template/.idea/sonarlint/securityhotspotstore/9/a/9a2aa4db38d3115ed60da621e012c0efc0172aae" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Template/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Template/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Template/segment_tree_max.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../2001~2500/2070. Most Beautiful Item for Each Query/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../2001~2500/2070. Most Beautiful Item for Each Query/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../2001~2500/2070. Most Beautiful Item for Each Query/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../2001~2500/2070. Most Beautiful Item for Each Query/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../2001~2500/2070. Most Beautiful Item for Each Query/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../2001~2500/2070. Most Beautiful Item for Each Query/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2736. Maximum Sum Queries/.idea/2736. Maximum Sum Queries.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../2736. Maximum Sum Queries/.idea/2736. Maximum Sum Queries.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2736. Maximum Sum Queries/.idea/sonarlint/issuestore/6/8/682a50d19e416195436708e48c7761923b8d6651" beforeDir="false" afterPath="$PROJECT_DIR$/../2736. Maximum Sum Queries/.idea/sonarlint/issuestore/6/8/682a50d19e416195436708e48c7761923b8d6651" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2736. Maximum Sum Queries/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../2736. Maximum Sum Queries/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2736. Maximum Sum Queries/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../2736. Maximum Sum Queries/main.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/2835. Minimum Operations to Form Subsequence With Target Sum.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/2835. Minimum Operations to Form Subsequence With Target Sum.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0001~0500/0426. Convert Binary Search Tree to Sorted Doubly Linked List/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0501~1000/0921. Minimum Add to Make Parentheses Valid/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1041. Robot Bounded In Circle/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1239. Maximum Length of a Concatenated String with Unique Characters/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1366. Rank Teams by Votes/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1501~2000/1963. Minimum Number of Swaps to Make the String Balanced/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0501~1000/0684. Redundant Connection/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" beforeDir="false" afterPath="$PROJECT_DIR$/../../0501~1000/0684. Redundant Connection/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1001~1500/1223. Dice Roll Simulation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../1001~1500/1223. Dice Roll Simulation/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/a/9a2aa4db38d3115ed60da621e012c0efc0172aae" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/9/a/9a2aa4db38d3115ed60da621e012c0efc0172aae" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Template/.idea/Template.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Template/.idea/Template.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Template/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Template/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Template/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Template/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Template/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Template/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Template/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Template/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Template/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Template/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3001~3500/3139. Minimum Cost to Equalize Array/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../3001~3500/3139. Minimum Cost to Equalize Array/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,6 +48,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "RyanPioneer"
+  }
+}]]></component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+  </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/RyanPioneer/Leetcode.git",
+    "accountId": "07c1937f-da04-4f6e-8148-852b9651120e"
+  }
+}]]></component>
   <component name="ProjectApplicationVersion">
     <option name="ide" value="CLion" />
     <option name="majorVersion" value="2023" />
@@ -82,27 +79,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
-    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/ryanpionee2/Github/Leetcode/2501~3000/2835. Minimum Operations to Form Subsequence With Target Sum&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/ryanpionee2/Github/Leetcode/2501~3000/2835. Minimum Operations to Form Subsequence With Target Sum",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="CMake Application.2835__Minimum_Operations_to_Form_Subsequence_With_Target_Sum">
+}]]></component>
+  <component name="RunManager" selected="Python.main">
     <configuration name="2835__Minimum_Operations_to_Form_Subsequence_With_Target_Sum" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="2835__Minimum_Operations_to_Form_Subsequence_With_Target_Sum" TARGET_NAME="2835__Minimum_Operations_to_Form_Subsequence_With_Target_Sum" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="2835__Minimum_Operations_to_Form_Subsequence_With_Target_Sum" RUN_TARGET_NAME="2835__Minimum_Operations_to_Form_Subsequence_With_Target_Sum">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -110,6 +108,7 @@
     </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="2835. Minimum Operations to Form Subsequence With Target Sum" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -131,9 +130,15 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="CMake Application.2835__Minimum_Operations_to_Form_Subsequence_With_Target_Sum" />
       <item itemvalue="Python.main" />
     </list>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-babbdf50b680-7c6932dee5e4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.15989.155" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -147,6 +152,7 @@
       <workItem from="1693176270588" duration="43000" />
       <workItem from="1693176339367" duration="2431000" />
       <workItem from="1693199747606" duration="14000" />
+      <workItem from="1715666752595" duration="602000" />
     </task>
     <servers />
   </component>

@@ -308,6 +308,8 @@
 
 [2263. Make Array Non-decreasing or Non-increasing](https://leetcode.com/problems/make-array-non-decreasing-or-non-increasing/)
 
+[3139. Minimum Cost to Equalize Array](https://leetcode.com/problems/minimum-cost-to-equalize-array/)
+
 
 
 * ``中位數貪心``

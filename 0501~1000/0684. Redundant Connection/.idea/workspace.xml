@@ -5,14 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f49a8140-8ddd-4335-99dd-8a7f3029dcdf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../1001~1500/1206. Design Skiplist/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2501~3000/2519. Count the Number of K-Big Indices/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2501~3000/2524. Maximum Frequency Score of a Subarray/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../2501~3000/2792. Count Nodes That Are Great Enough/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../3001~3500/3141. Maximum Hamming Distances/main.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../0642. Design Search Autocomplete System/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../0642. Design Search Autocomplete System/main.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../2001~2500/2479. Maximum XOR of Two Non-Overlapping Subtrees/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../2001~2500/2479. Maximum XOR of Two Non-Overlapping Subtrees/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0001~0500/0426. Convert Binary Search Tree to Sorted Doubly Linked List/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0921. Minimum Add to Make Parentheses Valid/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1041. Robot Bounded In Circle/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1239. Maximum Length of a Concatenated String with Unique Characters/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1001~1500/1366. Rank Teams by Votes/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1501~2000/1963. Minimum Number of Swaps to Make the String Balanced/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1001~1500/1223. Dice Roll Simulation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../1001~1500/1223. Dice Roll Simulation/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2501~3000/2835. Minimum Operations to Form Subsequence With Target Sum/.idea/sonarlint/issuestore/9/a/9a2aa4db38d3115ed60da621e012c0efc0172aae" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2501~3000/2835. Minimum Operations to Form Subsequence With Target Sum/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../2501~3000/2835. Minimum Operations to Form Subsequence With Target Sum/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2501~3000/2835. Minimum Operations to Form Subsequence With Target Sum/.idea/sonarlint/securityhotspotstore/9/a/9a2aa4db38d3115ed60da621e012c0efc0172aae" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2501~3000/2835. Minimum Operations to Form Subsequence With Target Sum/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../2501~3000/2835. Minimum Operations to Form Subsequence With Target Sum/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3001~3500/3139. Minimum Cost to Equalize Array/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../3001~3500/3139. Minimum Cost to Equalize Array/main.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,9 +28,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "RyanPioneer"
+  }
+}]]></component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="5" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/RyanPioneer/Leetcode.git",
+    "accountId": "07c1937f-da04-4f6e-8148-852b9651120e"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -37,19 +54,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/ryanpionee2/Github/Leetcode/0501~1000/0684. Redundant Connection&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/ryanpionee2/Github/Leetcode/0501~1000/0684. Redundant Connection",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Color Scheme Font"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="0684. Redundant Connection" />
@@ -75,6 +92,13 @@
       <method v="2" />
     </configuration>
   </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-babbdf50b680-7c6932dee5e4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.15989.155" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -86,6 +110,7 @@
       <workItem from="1693014189379" duration="1015000" />
       <workItem from="1715289233310" duration="397000" />
       <workItem from="1715289830042" duration="686000" />
+      <workItem from="1715646675961" duration="5290000" />
     </task>
     <servers />
   </component>
