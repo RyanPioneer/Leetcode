@@ -28,6 +28,8 @@
 
 
 using namespace std;
+#define SZ(X) ((int)(X).size())
+#define For(i, a, b) for (int i = (a); i <= (b); i++)
 
 const int MX = 1e5+10;
 

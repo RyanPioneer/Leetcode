@@ -3,8 +3,8 @@
  * Date: 2024/5/15
  * Skill:
  * Ref:
- * Runtime: 171 ms, faster than 60.55% of C++ online submissions
- * Memory Usage: 14.29 MB, less than 55.05% of C++ online submissions
+ * Runtime: 12 ms, faster than 88.89% of C++ online submissions
+ * Memory Usage: 17.57 MB, less than 76.77% of C++ online submissions
  * Time complexity:
  * Space complexity:
  * Constraints:
@@ -29,12 +29,29 @@
 
 using namespace std;
 
-const int MX = 1e3+10;
-
 
 class Solution {
 public:
     int maximizeSweetness(vector<int>& sweetness, int k) {
+        int left = *min_element(begin(sweetness), end(sweetness));
+        int right = accumulate(begin(sweetness), end(sweetness), 0);
 
+        while (left < right) {
+            int mid = (left + right + 1) / 2;
+            int piece = 0;
+            for (int i = 0, total = 0; i < sweetness.size(); i++) {
+                total += sweetness[i];
+                if (total >= mid) {
+                    total = 0;
+                    piece++;
+                }
+            }
+            if (piece > k) {
+                left = mid;
+            } else {
+                right = mid - 1;
+            }
+        }
+        return left;
     }
 };

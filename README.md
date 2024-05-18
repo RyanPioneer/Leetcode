@@ -58,6 +58,8 @@
 
 [1692. Count Ways to Distribute Candies](https://leetcode.com/problems/count-ways-to-distribute-candies/)
 
+[2638. Count the Number of K-Free Subsets](https://leetcode.com/problems/count-the-number-of-k-free-subsets/)
+
 
 
 
@@ -297,6 +299,14 @@
   [1073. Adding Two Negabinary Numbers](https://github.com/RyanPioneer/Leetcode/blob/main/1001~1500/1073.%20Adding%20Two%20Negabinary%20Numbers/main.cpp) (1806)
   
   
+
+
+
+* ``Combinatorics``
+
+  [2539. Count the Number of Good Subsequences](https://leetcode.com/problems/count-the-number-of-good-subsequences/)
+
+
 
 [3116. Kth Smallest Amount With Single Denomination Combination](https://leetcode.com/problems/kth-smallest-amount-with-single-denomination-combination/) (2387)
 
