@@ -164,7 +164,7 @@
 
 [3086. Minimum Moves to Pick K Ones](https://leetcode.com/problems/minimum-moves-to-pick-k-ones/) (2672)
 
-[3134. Find the Median of the Uniqueness Array](https://leetcode.com/problems/find-the-median-of-the-uniqueness-array/)
+[3134. Find the Median of the Uniqueness Array](https://leetcode.com/problems/find-the-median-of-the-uniqueness-array/) (2451)
 
 [683. K Empty Slots](https://leetcode.com/problems/k-empty-slots/)
 
@@ -214,7 +214,7 @@
 
 [3049. Earliest Second to Mark Indices II]() (3111)
 
-[3134. Find the Median of the Uniqueness Array](https://leetcode.com/problems/find-the-median-of-the-uniqueness-array/)
+[3134. Find the Median of the Uniqueness Array](https://leetcode.com/problems/find-the-median-of-the-uniqueness-array/) (2451)
 
 [644. Maximum Average Subarray II](https://leetcode.com/problems/maximum-average-subarray-ii/)
 
@@ -222,7 +222,7 @@
 
 [3145. Find Products of Elements of Big Array](https://leetcode.com/problems/find-products-of-elements-of-big-array/)
 
-
+[2604. Minimum Time to Eat All Grains](https://leetcode.com/problems/minimum-time-to-eat-all-grains/)
 
 
 
@@ -305,6 +305,8 @@
 * ``Combinatorics``
 
   [2539. Count the Number of Good Subsequences](https://leetcode.com/problems/count-the-number-of-good-subsequences/)
+  
+  [3154. Find Number of Ways to Reach the K-th Stair](https://leetcode.com/problems/find-number-of-ways-to-reach-the-k-th-stair/)
 
 
 
@@ -318,7 +320,7 @@
 
 [2263. Make Array Non-decreasing or Non-increasing](https://leetcode.com/problems/make-array-non-decreasing-or-non-increasing/)
 
-[3139. Minimum Cost to Equalize Array](https://leetcode.com/problems/minimum-cost-to-equalize-array/)
+[3139. Minimum Cost to Equalize Array](https://leetcode.com/problems/minimum-cost-to-equalize-array/) (2666)
 
 
 
