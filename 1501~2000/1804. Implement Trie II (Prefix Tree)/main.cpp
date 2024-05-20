@@ -1,5 +1,5 @@
 /**
- * Source: t.ly/qa79x
+ * Source: t.ly/qvb9w
  * Date: 2024/5/21
  * Skill:
  * Ref:
@@ -33,19 +33,34 @@ using namespace std;
 const int MX = 1e5+7;
 
 
-class AutocompleteSystem {
+class Trie {
 public:
-    AutocompleteSystem(vector<string>& sentences, vector<int>& times) {
+    Trie() {
 
     }
 
-    vector<string> input(char c) {
+    void insert(string word) {
+
+    }
+
+    int countWordsEqualTo(string word) {
+
+    }
+
+    int countWordsStartingWith(string prefix) {
+
+    }
+
+    void erase(string word) {
 
     }
 };
 
 /**
- * Your AutocompleteSystem object will be instantiated and called as such:
- * AutocompleteSystem* obj = new AutocompleteSystem(sentences, times);
- * vector<string> param_1 = obj->input(c);
+ * Your Trie object will be instantiated and called as such:
+ * Trie* obj = new Trie();
+ * obj->insert(word);
+ * int param_2 = obj->countWordsEqualTo(word);
+ * int param_3 = obj->countWordsStartingWith(prefix);
+ * obj->erase(word);
  */

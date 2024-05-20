@@ -307,6 +307,8 @@
   [2539. Count the Number of Good Subsequences](https://leetcode.com/problems/count-the-number-of-good-subsequences/)
   
   [3154. Find Number of Ways to Reach the K-th Stair](https://leetcode.com/problems/find-number-of-ways-to-reach-the-k-th-stair/)
+  
+  [2927. Distribute Candies Among Children III](https://leetcode.com/problems/distribute-candies-among-children-iii/)
 
 
 
