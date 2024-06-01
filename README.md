@@ -60,6 +60,8 @@
 
 [2638. Count the Number of K-Free Subsets](https://leetcode.com/problems/count-the-number-of-k-free-subsets/)
 
+[368. Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/)
+
 
 
 
@@ -92,7 +94,7 @@
 
   [465. Optimal Account Balancing](https://leetcode.com/problems/optimal-account-balancing/)
 
-  [3149. Find the Minimum Cost Array Permutation](https://leetcode.com/problems/find-the-minimum-cost-array-permutation/)
+  [3149. Find the Minimum Cost Array Permutation](https://leetcode.com/problems/find-the-minimum-cost-array-permutation/) (2641)
   
   
 
@@ -220,7 +222,7 @@
 
 [2819. Minimum Relative Loss After Buying Chocolates](https://leetcode.com/problems/minimum-relative-loss-after-buying-chocolates/)
 
-[3145. Find Products of Elements of Big Array](https://leetcode.com/problems/find-products-of-elements-of-big-array/)
+[3145. Find Products of Elements of Big Array](https://leetcode.com/problems/find-products-of-elements-of-big-array/) (2859)
 
 [2604. Minimum Time to Eat All Grains](https://leetcode.com/problems/minimum-time-to-eat-all-grains/)
 
@@ -240,7 +242,7 @@
 
 [3068. Find the Maximum Sum of Node Values]() (2267)
 
-[3145. Find Products of Elements of Big Array](https://leetcode.com/problems/find-products-of-elements-of-big-array/)
+[3145. Find Products of Elements of Big Array](https://leetcode.com/problems/find-products-of-elements-of-big-array/) (2859)
 
 
 
@@ -306,7 +308,7 @@
 
   [2539. Count the Number of Good Subsequences](https://leetcode.com/problems/count-the-number-of-good-subsequences/)
   
-  [3154. Find Number of Ways to Reach the K-th Stair](https://leetcode.com/problems/find-number-of-ways-to-reach-the-k-th-stair/)
+  [3154. Find Number of Ways to Reach the K-th Stair](https://leetcode.com/problems/find-number-of-ways-to-reach-the-k-th-stair/) (2071)
   
   [2927. Distribute Candies Among Children III](https://leetcode.com/problems/distribute-candies-among-children-iii/)
 
@@ -339,6 +341,8 @@
 [2499. Minimum Total Cost to Make Arrays Unequal]() (2633)
 
 [3012. Minimize Length of Array Using Operations]() (1832)
+
+[932. Beautiful Array](https://leetcode.com/problems/beautiful-array/) (2294)
 
 
 

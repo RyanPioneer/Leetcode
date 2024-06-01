@@ -27,6 +27,9 @@
 using namespace std;
 
 #define ll long long
+#define SZ(X) ((int)(X).size())
+#define For(i, a, b) for (int i = (a); i <= (b); i++)
+#define Rep(i, a, b) for (int i = (a); i >= (b); i--)
 typedef pair<int, int> PII;
 typedef unsigned long long ULL;
 using PULL = pair<ULL, ULL>;

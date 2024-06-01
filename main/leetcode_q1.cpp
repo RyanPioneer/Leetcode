@@ -23,17 +23,3 @@ ll mod = 1e9+7;
 const int MX = 30;
 
 
-class Solution {
-public:
-    int findPermutationDifference(string s, string t) {
-        int pos1[26] = {0}, pos2[26] = {0}, n = s.length(), res = 0;
-        for (int i = 0; i < n; i++) {
-            pos1[s[i] - 'a'] = i;
-            pos2[t[i] - 'a'] = i;
-        }
-        for (int i = 0; i < 26; i++) {
-            res += abs(pos1[i] - pos2[i]);
-        }
-        return res;
-    }
-};

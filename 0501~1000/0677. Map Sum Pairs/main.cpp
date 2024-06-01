@@ -1,10 +1,10 @@
 /**
  * Source: t.ly/mEYEy
- * Date: 2024/5/19
+ * Date: 2024/5/21
  * Skill:
  * Ref:
- * Runtime: 96 ms, faster than 100.00% of C++ online submissions
- * Memory Usage: 9.35 MB, less than 88.89% of C++ online submissions
+ * Runtime: 0 ms, faster than 100.00% of C++ online submissions
+ * Memory Usage: 10.37 MB, less than 83.66% of C++ online submissions
  * Time complexity:
  * Space complexity:
  * Constraints:
@@ -28,23 +28,65 @@
 
 
 using namespace std;
+
+
 #define ll long long
+#define SZ(X) ((int)(X).size())
+#define For(i, a, b) for (int i = (a); i <= (b); i++)
+#define Rep(i, a, b) for (int i = (a); i >= (b); i--)
+typedef pair<int, int> PII;
+typedef unsigned long long ULL;
+using PULL = pair<ULL, ULL>;
+
 
 const int MX = 1e3 + 10;
 
+class TrieNode {
+public:
+    TrieNode *next[26];
+    int pre;
+
+    TrieNode() {
+        For(i,0,25) next[i]=nullptr;
+        pre=0;
+    }
+};
 
 class MapSum {
+    TrieNode *root;
+    unordered_map<string, int>mp;
+
 public:
     MapSum() {
-
+        root = new TrieNode();
     }
 
     void insert(string key, int val) {
-
+        TrieNode *node = root;
+        for (auto &c: key) {
+            int idx = c - 'a';
+            if (node->next[idx] == nullptr) {
+                node->next[idx] = new TrieNode();
+            }
+            node = node->next[idx];
+            if (mp.find(key) != mp.end()) {
+                node->pre -= mp[key];
+            }
+            node->pre += val;
+        }
+        mp[key] = val;
     }
 
     int sum(string prefix) {
-
+        TrieNode *node = root;
+        for (auto &c: prefix) {
+            int idx = c - 'a';
+            if (node->next[idx] == nullptr) {
+                return 0;
+            }
+            node = node->next[idx];
+        }
+        return node->pre;
     }
 };
 

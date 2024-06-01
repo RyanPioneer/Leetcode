@@ -33,14 +33,3 @@ ll quick_pow(ll x, ll n, ll m) {
 }
 
 
-class Solution {
-public:
-    int maximumEnergy(vector<int>& energy, int k) {
-        int res = INT32_MIN, n = energy.size();
-        for (int i = 0; i < n; i++) {
-            if (i - k >= 0) energy[i] += max(0, energy[i - k]);
-            if (i + k >= n) res = max(res, energy[i]);
-        }
-        return res;
-    }
-};

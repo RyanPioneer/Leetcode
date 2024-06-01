@@ -1,22 +1,38 @@
 /**
- * Source: https://rb.gy/q6yef
- * Date: 2023/8/28
+ * Source: t.ly/sV82l
+ * Date: 2024/5/26
  * Skill:
- * Runtime: 594 ms, faster than 40.81% of C++ online submissions
- * Memory Usage: 236.38 MB, less than 12.47% of C++ online submissions
- * Time complexity: O(n)
- * Space complexity: O(n)
+ * Ref:
+ * Runtime: 953 ms, faster than 100.00% of C++ online submissions
+ * Memory Usage: 300.97 MB, less than 100.00% of C++ online submissions
+ * Time complexity:
+ * Space complexity:
  * Constraints:
  *
  */
 
-#include <vector>
+
 #include <iostream>
+#include <vector>
 #include <algorithm>
+#include <map>
 #include <set>
+#include <unordered_set>
 #include <queue>
+#include <numeric>
+#include <tuple>
+#include <stack>
+#include <bitset>
+#include <functional>
+#include <list>
+
 
 using namespace std;
+
+
+#define ll long long
+ll mod = 1e9+7;
+const int MX = 1e5+1;
 
 
 class SegmentTreeNode {
@@ -52,7 +68,7 @@ class SegmentTree {
 public:
     SegmentTreeNode *root;
     SegmentTree() {
-        root = new SegmentTreeNode(0, pow(10, 9) + 1, 0);
+        root = new SegmentTreeNode(0, MX, 0);
     }
     void update_delta(SegmentTreeNode * node, int pos, int delta) {
         if (node == nullptr)
@@ -60,7 +76,7 @@ public:
         if (pos < node->begin || pos > node->end)
             return;
         if (pos == node->begin && pos == node->end) {
-            node->val = max(node->val, delta);
+            node->val = delta;
             return;
         }
         if (pos <= node->mid) {
@@ -76,7 +92,7 @@ public:
             }
             update_delta(node->right, pos, delta);
         }
-        node->val = INT32_MIN;
+        node->val = 0;
         if (node->left != nullptr)
             node->val = max(node->val, node->left->val);
         if (node->right != nullptr)
@@ -102,65 +118,38 @@ public:
 
 class Solution {
 public:
-    vector<int> maximumSumQueries(vector<int>& nums1, vector<int>& nums2, vector<vector<int>>& queries) {
-        vector<int> res(queries.size(), -1);
+    vector<bool> getResults(vector<vector<int>>& queries) {
         SegmentTree *tree = new SegmentTree();
-        for (int i = 0; i < queries.size(); i++) {
-            queries[i].push_back(i);
-        }
-        sort(queries.begin(), queries.end(), [](vector<int>& a, vector<int>& b) {
-            if (a[0] == b[0])
-                return a[1] > b[1];
-            else
-                return a[0] > b[0];
-        });
-
-        vector<vector<int>> nums;
-        for (int i = 0; i < nums1.size(); i++) {
-            vector<int> n;
-            n.push_back(nums1[i]);
-            n.push_back(nums2[i]);
-            nums.push_back(n);
-        }
-        sort(nums.begin(), nums.end(), [](vector<int>& a, vector<int>& b) {
-            if (a[0] == b[0])
-                return a[1] > b[1];
-            else
-                return a[0] > b[0];
-        });
-        int pos = 0;
-        for (int i = 0; i < queries.size(); i++) {
-            while (pos < nums.size() && nums[pos][0] >= queries[i][0]) {
-                tree->update_delta(tree->root, nums[pos][1], nums[pos][0] + nums[pos][1]);
-                pos++;
+        tree->update_delta(tree->root, MX-1, MX-1);
+        set<int> nums;
+        nums.insert(MX-1);
+        vector<bool> res;
+        for (auto &q: queries) {
+            if (q[0] == 1) {
+                nums.insert(q[1]);
+                auto it = nums.lower_bound(q[1]);
+                int nx = *next(it);
+                tree->update_delta(tree->root, nx, nx - q[1]);
+                if (it == begin(nums)) {
+                    tree->update_delta(tree->root, q[1], q[1]);
+                } else {
+                    int pv = *prev(it);
+                    tree->update_delta(tree->root, q[1], q[1]-pv);
+                }
+            } else {
+                if (nums.empty() || *begin(nums) > q[1]) {
+                    res.push_back(q[2] <= q[1]);
+                    continue;
+                }
+                auto it = nums.lower_bound(q[1]);
+                if (min(*it, q[1]) - *prev(it) >= q[2]) {
+                    res.push_back(true);
+                    continue;
+                }
+                int i = tree->query_range_max(tree->root, 0, q[1]);
+                res.push_back(i >= q[2]);
             }
-            int num = tree->query_range_max(tree->root, queries[i][1], pow(10, 9));
-            if (num > 0)
-                res[queries[i][2]] = num;
         }
         return res;
     }
 };
-
-int main() {
-    Solution s;
-    vector<int> nums1{72,88,53,63,95,46};
-    vector<int> nums2{78,56,35,72,56,63};
-    vector<vector<int>> queries;
-    vector<int> n1{86, 86}, n2{24, 8};
-    queries.push_back(n1);
-    queries.push_back(n2);
-//    queries.push_back(n3);
-    vector<int> res = s.maximumSumQueries(nums1, nums2, queries);
-    for (auto i: res) {
-        cout << i << endl;
-    }
-}
-
-//static const auto io_sync_off = []() {
-//    // turn off sync
-//    std::ios::sync_with_stdio(false);
-//    // untie in/out streams
-//    std::cin.tie(nullptr);
-//    return nullptr;
-//}();

@@ -1,3 +1,17 @@
+/**
+ * Source: t.ly/VNgdb
+ * Date: 2024/5/22
+ * Skill:
+ * Ref:
+ * Runtime: 361 ms, faster than 25.76% of C++ online submissions
+ * Memory Usage: 202.67 MB, less than 45.45% of C++ online submissions
+ * Time complexity:
+ * Space complexity:
+ * Constraints:
+ *
+ */
+
+
 #include <iostream>
 #include <vector>
 #include <algorithm>
@@ -14,20 +28,14 @@
 
 
 using namespace std;
-#define SZ(X) ((int)(X).size())
+
 #define ll long long
-#define MK(X, Y) make_pair(X, Y)
-typedef array<int, 3> AI3;
-typedef pair<int, int> PII;
-typedef pair<char, char> PCC;
-ll mod = 1e9+7;
-const int MX = 1e3 + 10;
+const int MX = 1e5+7;
 
 
 class Solution {
 public:
-    long long numberOfPairs(vector<int>& nums1, vector<int>& nums2, int k) {
-        int n = nums1.size(), m = nums2.size();
+    string encode(string s) {
 
     }
 };

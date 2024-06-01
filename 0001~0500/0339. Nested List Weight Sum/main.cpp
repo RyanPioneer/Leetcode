@@ -1,10 +1,10 @@
 /**
  * Source: ibit.ly/wGdg7
- * Date: 2024/5/13
+ * Date: 2024/5/30
  * Skill:
  * Ref:
- * Runtime: 129 ms, faster than 93.11% of C++ online submissions
- * Memory Usage: 168.77 MB, less than 76.41% of C++ online submissions
+ * Runtime: 0 ms, faster than 100.00% of C++ online submissions
+ * Memory Usage: 10.39 MB, less than 90.10% of C++ online submissions
  * Time complexity:
  * Space complexity:
  * Constraints:
@@ -56,6 +56,22 @@ class NestedInteger {
 class Solution {
 public:
     int depthSum(vector<NestedInteger>& nestedList) {
+        int res = 0;
 
+        function<int(vector<NestedInteger>&)> helper = [&](vector<NestedInteger>& a) {
+            int num = 0;
+            for (auto &i: a) {
+                if (i.isInteger()) {
+                    num += i.getInteger();
+                } else {
+                    num += helper(i.getList());
+                }
+            }
+            res += num;
+            return num;
+        };
+
+        helper(nestedList);
+        return res;
     }
 };

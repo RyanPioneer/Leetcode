@@ -3,8 +3,8 @@
  * Date: 2024/5/21
  * Skill:
  * Ref:
- * Runtime: 361 ms, faster than 25.76% of C++ online submissions
- * Memory Usage: 202.67 MB, less than 45.45% of C++ online submissions
+ * Runtime: 125 ms, faster than 94.55% of C++ online submissions
+ * Memory Usage: 69.99 MB, less than 59.09% of C++ online submissions
  * Time complexity:
  * Space complexity:
  * Constraints:
@@ -29,30 +29,85 @@
 
 using namespace std;
 
+
 #define ll long long
-const int MX = 1e5+7;
+#define SZ(X) ((int)(X).size())
+#define For(i, a, b) for (int i = (a); i <= (b); i++)
+#define Rep(i, a, b) for (int i = (a); i >= (b); i--)
+typedef pair<int, int> PII;
+typedef unsigned long long ULL;
+using PULL = pair<ULL, ULL>;
+
+
+class Trienode {
+public:
+    Trienode *next[26];
+    int cnt, pre;
+
+    Trienode() {
+        For(i,0,25) next[i]=nullptr;
+        cnt=0;
+        pre=0;
+    }
+};
 
 
 class Trie {
+    Trienode *root;
 public:
     Trie() {
-
+        root = new Trienode();
     }
 
     void insert(string word) {
-
+        Trienode *node = root;
+        for (auto &c: word) {
+            int idx = c - 'a';
+            if (!node->next[idx]) {
+                node->next[idx] = new Trienode();
+            }
+            node = node->next[idx];
+            node->pre++;
+        }
+        node->cnt++;
     }
 
     int countWordsEqualTo(string word) {
-
+        Trienode *node = root;
+        for (auto &c: word) {
+            int idx = c - 'a';
+            if (!node->next[idx]) {
+                return 0;
+            }
+            node = node->next[idx];
+        }
+        return node->cnt;
     }
 
     int countWordsStartingWith(string prefix) {
-
+        Trienode *node = root;
+        for (auto &c: prefix) {
+            int idx = c - 'a';
+            if (!node->next[idx]) {
+                return 0;
+            }
+            node = node->next[idx];
+        }
+        return node->pre;
     }
 
     void erase(string word) {
-
+        Trienode *node = root;
+        for (auto &c: word) {
+            int idx = c - 'a';
+            if (!node->next[idx]) {
+                return;
+            }
+            node->pre--;
+            node = node->next[idx];
+        }
+        node->pre--;
+        node->cnt--;
     }
 };
 
