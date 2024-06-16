@@ -14,11 +14,13 @@
 
 
 using namespace std;
-#define SZ(X) ((int)(X).size())
 #define ll long long
-#define MK(X, Y) make_pair(X, Y)
+#define SZ(X) ((int)(X).size())
+#define For(i, a, b) for (int i = (a); i <= (b); i++)
+#define Rep(i, a, b) for (int i = (a); i >= (b); i--)
 typedef pair<int, int> PII;
-typedef pair<char, char> PCC;
+typedef unsigned long long ULL;
+using PULL = pair<ULL, ULL>;
 ll mod = 1e9+7;
 const int MX = 1e5+10;
 

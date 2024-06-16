@@ -1,8 +1,23 @@
 /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/aarch64/ninja -G Ninja -S /Users/ryanpionee2/Github/Leetcode/main -B /Users/ryanpionee2/Github/Leetcode/main/cmake-build-debug
--- Configuring done (0.1s)
+-- Configuring done (0.0s)
 CMake Error at CMakeLists.txt:6 (add_executable):
   C_STANDARD is set to invalid value '20'
 
 
 -- Generating done (0.0s)
+CMake Error:
+  Running
+
+   '/Applications/CLion.app/Contents/bin/ninja/mac/aarch64/ninja' '-C' '/Users/ryanpionee2/Github/Leetcode/main/cmake-build-debug' '-t' 'recompact'
+
+  failed with:
+
+   ninja: error: build.ninja:35: loading 'CMakeFiles/rules.ninja': No such file or directory
+
+  include CMakeFiles/rules.ninja
+
+                                ^ near here
+
+
+
 CMake Generate step failed.  Build files cannot be regenerated correctly.

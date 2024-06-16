@@ -14,6 +14,8 @@
 
 [2289. Steps to Make Array Non-decreasing](https://leetcode.com/problems/steps-to-make-array-non-decreasing/description/) (2481)
 
+[3165. Maximum Sum of Subsequence With Non-adjacent Elements](https://leetcode.com/problems/maximum-sum-of-subsequence-with-non-adjacent-elements/)
+
 
 
 ## Binary indexed tree
@@ -62,6 +64,8 @@
 
 [368. Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/)
 
+[3177. Find the Maximum Length of a Good Subsequence II](https://leetcode.com/problems/find-the-maximum-length-of-a-good-subsequence-ii/)
+
 
 
 
@@ -95,8 +99,12 @@
   [465. Optimal Account Balancing](https://leetcode.com/problems/optimal-account-balancing/)
 
   [3149. Find the Minimum Cost Array Permutation](https://leetcode.com/problems/find-the-minimum-cost-array-permutation/) (2641)
-  
-  
+
+
+
+* ``Bitset``
+
+  [3181. Maximum Total Reward Using Operations II](https://leetcode.com/problems/maximum-total-reward-using-operations-ii/)
 
 
 
@@ -202,7 +210,7 @@
 
 [2355. Maximum Number of Books You Can Take](https://leetcode.com/problems/maximum-number-of-books-you-can-take/)
 
-
+[2297. Jump Game VIII](https://leetcode.com/problems/jump-game-viii/)
 
 
 
@@ -225,6 +233,14 @@
 [3145. Find Products of Elements of Big Array](https://leetcode.com/problems/find-products-of-elements-of-big-array/) (2859)
 
 [2604. Minimum Time to Eat All Grains](https://leetcode.com/problems/minimum-time-to-eat-all-grains/)
+
+
+
+## Union and find
+
+[1724. Checking Existence of Edge Length Limited Paths II](https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths-ii/)
+
+
 
 
 

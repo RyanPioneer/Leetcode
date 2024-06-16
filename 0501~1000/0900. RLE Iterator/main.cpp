@@ -3,8 +3,8 @@
  * Date: 2024/6/1
  * Skill:
  * Ref:
- * Runtime: 221 ms, faster than 26.67% of C++ online submissions
- * Memory Usage: 19.60 MB, less than 54.67% of C++ online submissions
+ * Runtime: 3 ms, faster than 73.74% of C++ online submissions
+ * Memory Usage: 11.86 MB, less than 71.22% of C++ online submissions
  * Time complexity:
  * Space complexity:
  * Constraints:
@@ -30,15 +30,26 @@
 using namespace std;
 
 
-
 class RLEIterator {
+    int pos, sz;
+    vector<int> e;
 public:
     RLEIterator(vector<int>& encoding) {
-
+        e = encoding;
+        pos = 0;
+        sz = encoding.size();
     }
 
     int next(int n) {
-
+        while (pos < sz && e[pos] < n) {
+            n -= e[pos];
+            pos += 2;
+        }
+        if (pos == sz) return -1;
+        int res = e[pos+1];
+        e[pos] -= n;
+        if (e[pos] == 0) pos += 2;
+        return res;
     }
 };
 

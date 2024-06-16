@@ -1,6 +1,6 @@
 /**
  * Source: t.ly/M5wVN
- * Date: 2024/6/1
+ * Date: 2024/6/2
  * Skill:
  * Ref:
  * Runtime: 246 ms, faster than 76.92% of C++ online submissions
@@ -32,7 +32,6 @@ using namespace std;
 typedef pair<int, int> PII;
 #define MK make_pair
 const int MX = 1e2+2;
-
 
 
 class DistanceLimitedPathsExist {
