@@ -1,10 +1,10 @@
 /**
- * Source: t.ly/S2ZBX
- * Date: 2024/6/22
+ * Source: ibit.ly/Ama-s
+ * Date: 2024/6/27
  * Skill:
  * Ref:
- * Runtime: 115 ms, faster than 100.00% of C++ online submissions
- * Memory Usage: 94.62 MB, less than 50.00% of C++ online submissions
+ * Runtime: 0 ms, faster than 100.00% of C++ online submissions
+ * Memory Usage: 28.83 MB, less than 93.37% of C++ online submissions
  * Time complexity:
  * Space complexity:
  * Constraints:
@@ -32,7 +32,7 @@ using namespace std;
 
 class Solution {
 public:
-    int maximumSumSubsequence(vector<int>& nums, vector<vector<int>>& queries) {
+    int numDistinctIslands(vector<vector<int>>& grid) {
 
     }
 };

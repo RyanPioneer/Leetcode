@@ -1,6 +1,6 @@
 /**
- * Source: t.ly/S2ZBX
- * Date: 2024/6/22
+ * Source: ibit.ly/OQJXP
+ * Date: 2024/6/24
  * Skill:
  * Ref:
  * Runtime: 115 ms, faster than 100.00% of C++ online submissions
@@ -28,11 +28,14 @@
 
 
 using namespace std;
+#define ll long long
+const int MX = 310;
+ll MOD = 1e9+7;
 
 
 class Solution {
 public:
-    int maximumSumSubsequence(vector<int>& nums, vector<vector<int>>& queries) {
+    int minimumSum(vector<vector<int>>& grid) {
 
     }
 };

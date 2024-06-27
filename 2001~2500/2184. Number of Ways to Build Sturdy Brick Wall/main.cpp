@@ -1,10 +1,10 @@
 /**
- * Source: t.ly/S2ZBX
- * Date: 2024/6/22
+ * Source: ibit.ly/qUc3W
+ * Date: 2024/6/26
  * Skill:
  * Ref:
- * Runtime: 115 ms, faster than 100.00% of C++ online submissions
- * Memory Usage: 94.62 MB, less than 50.00% of C++ online submissions
+ * Runtime: 32 ms, faster than 63.41% of C++ online submissions
+ * Memory Usage: 26.80 MB, less than 21.10% of C++ online submissions
  * Time complexity:
  * Space complexity:
  * Constraints:
@@ -28,11 +28,12 @@
 
 
 using namespace std;
+#define ll long long
 
 
 class Solution {
 public:
-    int maximumSumSubsequence(vector<int>& nums, vector<vector<int>>& queries) {
+    int buildWall(int height, int width, vector<int>& bricks) {
 
     }
 };

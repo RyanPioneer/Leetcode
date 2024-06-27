@@ -14,7 +14,7 @@
 
 [2289. Steps to Make Array Non-decreasing](https://leetcode.com/problems/steps-to-make-array-non-decreasing/description/) (2481)
 
-[3165. Maximum Sum of Subsequence With Non-adjacent Elements](https://leetcode.com/problems/maximum-sum-of-subsequence-with-non-adjacent-elements/)
+[3165. Maximum Sum of Subsequence With Non-adjacent Elements](https://leetcode.com/problems/maximum-sum-of-subsequence-with-non-adjacent-elements/) (2697)
 
 
 
@@ -64,7 +64,9 @@
 
 [368. Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/)
 
-[3177. Find the Maximum Length of a Good Subsequence II](https://leetcode.com/problems/find-the-maximum-length-of-a-good-subsequence-ii/)
+[3177. Find the Maximum Length of a Good Subsequence II](https://leetcode.com/problems/find-the-maximum-length-of-a-good-subsequence-ii/) (2364)
+
+[3193. Count the Number of Inversions](https://leetcode.com/problems/count-the-number-of-inversions/)
 
 
 
@@ -99,12 +101,14 @@
   [465. Optimal Account Balancing](https://leetcode.com/problems/optimal-account-balancing/)
 
   [3149. Find the Minimum Cost Array Permutation](https://leetcode.com/problems/find-the-minimum-cost-array-permutation/) (2641)
+  
+  [2184. Number of Ways to Build Sturdy Brick Wall](https://leetcode.com/problems/number-of-ways-to-build-sturdy-brick-wall/)
 
 
 
 * ``Bitset``
 
-  [3181. Maximum Total Reward Using Operations II](https://leetcode.com/problems/maximum-total-reward-using-operations-ii/)
+  [3181. Maximum Total Reward Using Operations II](https://leetcode.com/problems/maximum-total-reward-using-operations-ii/) (2688)
 
 
 
@@ -310,6 +314,10 @@
 
 [296. Best Meeting Point](https://leetcode.com/problems/best-meeting-point/)
 
+[1015. Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k/) (1874)
+
+[3164. Find the Number of Good Pairs II](https://leetcode.com/problems/find-the-number-of-good-pairs-ii/) (1777)
+
 
 
 * ``base -2 arithmetic``
@@ -342,11 +350,23 @@
 
 [3139. Minimum Cost to Equalize Array](https://leetcode.com/problems/minimum-cost-to-equalize-array/) (2666)
 
+[3189. Minimum Moves to Get a Peaceful Board](https://leetcode.com/problems/minimum-moves-to-get-a-peaceful-board/)
+
 
 
 * ``中位數貪心``
 
   [3086. Minimum Moves to Pick K Ones](https://leetcode.com/problems/minimum-moves-to-pick-k-ones/) (2672)
+
+
+
+ 
+
+## Hash function
+
+[694. Number of Distinct Islands](https://leetcode.com/problems/number-of-distinct-islands/)
+
+
 
 
 
