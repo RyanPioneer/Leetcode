@@ -1,10 +1,10 @@
 /**
- * Source: ibit.ly/Ama-s
+ * Source: ibit.ly/BYAG4
  * Date: 2024/6/28
  * Skill:
  * Ref:
  * Runtime: 0 ms, faster than 100.00% of C++ online submissions
- * Memory Usage: 28.83 MB, less than 93.37% of C++ online submissions
+ * Memory Usage: 11.70 MB, less than 59.01% of C++ online submissions
  * Time complexity:
  * Space complexity:
  * Constraints:
@@ -32,7 +32,15 @@ using namespace std;
 
 class Solution {
 public:
-    int numDistinctIslands(vector<vector<int>>& grid) {
-
+    int numRabbits(vector<int>& answers) {
+        unordered_map<int, int> mp;
+        for (auto &i: answers) {
+            mp[i]++;
+        }
+        int res = 0;
+        for (auto &i: mp) {
+            res += ((i.second - 1) / (i.first + 1) + 1) * (i.first + 1);
+        }
+        return res;
     }
 };
