@@ -1,0 +1,23 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+      {
+        "label": "Build C++",
+        "type": "shell",
+        "command": "clang++",
+        "args": [
+          "-std=gnu++20", // 使用 C++20 標準
+          "-g",
+          "${file}",
+          "-o",
+          "${fileDirname}/${fileBasenameNoExtension}"
+        ],
+        "group": {
+          "kind": "build",
+          "isDefault": true
+        },
+        "problemMatcher": ["$gcc"],
+        "detail": "Generated task by VSCode"
+      }
+    ]
+  }

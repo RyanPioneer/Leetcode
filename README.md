@@ -68,7 +68,9 @@
 
 [3193. Count the Number of Inversions](https://leetcode.com/problems/count-the-number-of-inversions/)
 
+[3299. Sum of Consecutive Subsequences](https://leetcode.com/problems/sum-of-consecutive-subsequences/)
 
+[3399. Smallest Substring With Identical Characters II](https://leetcode.com/problems/smallest-substring-with-identical-characters-ii/)
 
 
 
@@ -132,6 +134,8 @@
 
 [2479. Maximum XOR of Two Non-Overlapping Subtrees](https://leetcode.com/problems/maximum-xor-of-two-non-overlapping-subtrees/)
 
+[3313. Find the Last Marked Nodes in Tree](https://leetcode.com/problems/find-the-last-marked-nodes-in-tree/)
+
 
 
 ## BFS
@@ -181,6 +185,8 @@
 [3134. Find the Median of the Uniqueness Array](https://leetcode.com/problems/find-the-median-of-the-uniqueness-array/) (2451)
 
 [683. K Empty Slots](https://leetcode.com/problems/k-empty-slots/)
+
+[3413. Maximum Coins From K Consecutive Bags](https://leetcode.com/problems/maximum-coins-from-k-consecutive-bags/)
 
 
 
@@ -238,6 +244,8 @@
 
 [2604. Minimum Time to Eat All Grains](https://leetcode.com/problems/minimum-time-to-eat-all-grains/)
 
+[3399. Smallest Substring With Identical Characters II](https://leetcode.com/problems/smallest-substring-with-identical-characters-ii/)
+
 
 
 ## Union and find
@@ -263,6 +271,8 @@
 [3068. Find the Maximum Sum of Node Values]() (2267)
 
 [3145. Find Products of Elements of Big Array](https://leetcode.com/problems/find-products-of-elements-of-big-array/) (2859)
+
+[3215. Count Triplets with Even XOR Set Bits II](https://leetcode.com/problems/count-triplets-with-even-xor-set-bits-ii/)
 
 
 
@@ -462,6 +472,12 @@
 
 
 
+### Heap
+
+[3369. Design an Array Statistics Tracker ](https://leetcode.com/problems/design-an-array-statistics-tracker/)
+
+
+
 ### Suffix array
 
 [1163. Last Substring in Lexicographical Order](https://github.com/RyanPioneer/Leetcode/blob/main/1001~1500/1163.%20Last%20Substring%20in%20Lexicographical%20Order/main.cpp) 
@@ -471,4 +487,6 @@
 ## Others
 
 [775. Global and Local Inversions](https://leetcode.com/problems/global-and-local-inversions/)
+
+[3404. Count Special Subsequences](https://leetcode.com/problems/count-special-subsequences/)
 
