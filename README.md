@@ -362,6 +362,8 @@
 
 [3189. Minimum Moves to Get a Peaceful Board](https://leetcode.com/problems/minimum-moves-to-get-a-peaceful-board/)
 
+[3273. Minimum Amount of Damage Dealt to Bob](https://leetcode.com/problems/minimum-amount-of-damage-dealt-to-bob/) (2012)
+
 
 
 * ``中位數貪心``

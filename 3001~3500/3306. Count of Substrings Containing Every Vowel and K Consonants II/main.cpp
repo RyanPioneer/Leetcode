@@ -3,8 +3,8 @@
  * Date: 2025/1/13
  * Skill:
  * Ref:
- * Runtime: 129 ms, faster than 51.09% of C++ online submissions
- * Memory Usage: 157.79 MB, less than 99.12% of C++ online submissions
+ * Runtime: 291 ms, faster than 46.62% of C++ online submissions
+ * Memory Usage: 57.12 MB, less than 38.79% of C++ online submissions
  * Time complexity:
  * Space complexity:
  * Constraints:
@@ -35,6 +35,48 @@ using namespace std;
 class Solution {
 public:
     long long countOfSubstrings(string word, int k) {
+        long long res = 0, n = word.size(), right = 0, consonantNum = 0, cnt[26] = {0};
+
+        vector<int> consonants;
+        for (int i = 0; i < n; i++) {
+            if (isConsonant(word[i])) {
+                consonants.push_back(i);
+            }
+        }
+        consonants.push_back(n);
+
+        for (int left = 0; left < n; left++) {
+            while (right < n && ((cnt[0] == 0 || cnt[4] == 0 || cnt[8] == 0 || cnt[14] == 0 || cnt[20] == 0) || consonantNum < k)) {
+                if (isConsonant(word[right])) {
+                    consonantNum++;
+                }
+                cnt[word[right++] - 'a']++;
+            }
+            if ((cnt[0] == 0 || cnt[4] == 0 || cnt[8] == 0 || cnt[14] == 0 || cnt[20] == 0) || consonantNum < k) {
+                break;
+            }
+            if (isConsonant(word[left])) {
+                consonantNum--;
+            }
+            cnt[word[left] - 'a']--;
+            if (consonantNum + (isConsonant(word[left]) ? 1 : 0) > k) continue;
+            auto it = lower_bound(consonants.begin(), consonants.end(), right);
+            res += *it - right + 1;
+        }
         
+        return res;
+    }
+
+    bool isConsonant(char c) {
+        // 確保字元是字母
+        if (!std::isalpha(c)) {
+            return false;
+        }
+
+        // 將字元轉為小寫
+        char lower = std::tolower(c);
+
+        // 如果不是元音，則為子音
+        return !(lower == 'a' || lower == 'e' || lower == 'i' || lower == 'o' || lower == 'u');
     }
 };

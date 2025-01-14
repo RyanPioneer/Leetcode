@@ -53,10 +53,9 @@ void reverseString(char* s, int sSize){
 int main() {
     int array[10] = {10, 20, 30, 40, 50, 60, 70, 80, 90, 100};
 
-    int *ptr = (int *) (&array + 1);
-    int *ptr2 = array;
-    int ptr3 = array + 1;
-    printf("%d\n", &array);
-    printf("%d", ptr);
+    auto f = [&](char c) {
+            if (c == '0') return "01";
+            return "10";
+        };
 }
 
