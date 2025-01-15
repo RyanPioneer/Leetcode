@@ -1,10 +1,10 @@
 /**
  * Source: ibit.ly/6hvLW
- * Date: 2025/1/14
+ * Date: 2025/1/15
  * Skill:
  * Ref:
- * Runtime: 56 ms, faster than 78.49% of C++ online submissions
- * Memory Usage: 119.82 MB, less than 54.69% of C++ online submissions
+ * Runtime: 39 ms, faster than 12.50% of C++ online submissions
+ * Memory Usage: 122.36 MB, less than 56.25% of C++ online submissions
  * Time complexity:
  * Space complexity:
  * Constraints:
@@ -35,6 +35,18 @@ using namespace std;
 class Solution {
 public:
     long long maxScore(vector<int>& nums) {
-        
+        ll res = 0;
+        stack<int> st;
+        st.push(0);
+        for (int i = 1; i < nums.size(); i++) {
+            while (st.top() != 0 && nums[st.top()] <= nums[i]) {
+                ll prev = st.top();
+                st.pop();
+                res -= (ll)nums[prev] * (prev - st.top());
+            }
+            res += (ll)nums[i] * (i - st.top());
+            st.push(i);
+        }
+        return res;
     }
 };
