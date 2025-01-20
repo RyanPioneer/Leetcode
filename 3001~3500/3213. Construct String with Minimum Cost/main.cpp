@@ -1,10 +1,10 @@
 /**
  * Source: ibit.ly/80tnQ
- * Date: 2025/1/14
+ * Date: 2025/1/19
  * Skill:
  * Ref:
- * Runtime: 371 ms, faster than 75.90% of C++ online submissions
- * Memory Usage: 234.08 MB, less than 59.94% of C++ online submissions
+ * Runtime: TLE
+ * Memory Usage: 
  * Time complexity:
  * Space complexity:
  * Constraints:
@@ -31,6 +31,7 @@ using namespace std;
 
 #define ll long long
 const int charNum = 26;
+
 
 class TrieNode {
 public:

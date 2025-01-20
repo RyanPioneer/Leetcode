@@ -72,6 +72,8 @@
 
 [3399. Smallest Substring With Identical Characters II](https://leetcode.com/problems/smallest-substring-with-identical-characters-ii/)
 
+[3409. Longest Subsequence With Decreasing Adjacent Difference](https://leetcode.com/problems/longest-subsequence-with-decreasing-adjacent-difference/)
+
 
 
 * ``Longest common subsequence``
@@ -143,6 +145,8 @@
 [317. Shortest Distance from All Buildings](https://leetcode.com/problems/shortest-distance-from-all-buildings/)
 
 [3141. Maximum Hamming Distances](https://leetcode.com/problems/maximum-hamming-distances/)
+
+[3243. Shortest Distance After Road Addition Queries I](https://leetcode.com/problems/shortest-distance-after-road-addition-queries-i/) (1567)
 
 
 
@@ -446,6 +450,8 @@
 
 [2819. Minimum Relative Loss After Buying Chocolates](https://leetcode.com/problems/minimum-relative-loss-after-buying-chocolates/)
 
+[1674. Minimum Moves to Make Array Complementary](https://leetcode.com/problems/minimum-moves-to-make-array-complementary/) (2333)
+
 
 
 * ``2D Prefix sum``
@@ -477,6 +483,8 @@
 ### Heap
 
 [3369. Design an Array Statistics Tracker ](https://leetcode.com/problems/design-an-array-statistics-tracker/)
+
+[3422. Minimum Operations to Make Subarray Elements Equal](https://leetcode.com/problems/minimum-operations-to-make-subarray-elements-equal/)
 
 
 
