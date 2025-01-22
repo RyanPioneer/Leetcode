@@ -250,6 +250,8 @@
 
 [3399. Smallest Substring With Identical Characters II](https://leetcode.com/problems/smallest-substring-with-identical-characters-ii/)
 
+[3419. Minimize the Maximum Edge Weight of Graph](https://leetcode.com/problems/minimize-the-maximum-edge-weight-of-graph/)
+
 
 
 ## Union and find
@@ -277,6 +279,8 @@
 [3145. Find Products of Elements of Big Array](https://leetcode.com/problems/find-products-of-elements-of-big-array/) (2859)
 
 [3215. Count Triplets with Even XOR Set Bits II](https://leetcode.com/problems/count-triplets-with-even-xor-set-bits-ii/)
+
+[3315. Construct the Minimum Bitwise Array II](https://leetcode.com/problems/construct-the-minimum-bitwise-array-ii/) (1714)
 
 
 
