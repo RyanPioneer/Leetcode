@@ -1,15 +1,15 @@
 /**
- * Source: jpeg.ly/et3SD
- * Date: 2025/2/1
+ * Source: t.ly/giYIZ
+ * Date: 2025/1/29
  * Skill:
  * Ref:
- * Runtime: 41 ms, faster than 100.00% of C++ online submissions
- * Memory Usage: 184.01 MB, less than 100.00% of C++ online submissions
+ * Runtime: 67 ms, faster than 98.15% of C++ online submissions
+ * Memory Usage: 82.02 MB, less than 99.18% of C++ online submissions
  * Time complexity:
  * Space complexity:
  * Constraints:
- *      1 <= nums.length <= 10 ** 5
- *      1 <= k <= min(100, nums.length)
+ *      1 <= n == nums.length <= 10 ** 5
+ *      1 <= nums[i] <= 50
  */
 
 
@@ -29,13 +29,11 @@
 
 
 using namespace std;
-#define ll long long
-const int MOD = 1e9+7;
 
 
 class Solution {
 public:
-    int minMaxSums(vector<int>& nums, int k) {
+    int maxFrequency(vector<int>& nums, int k) {
         
     }
 };

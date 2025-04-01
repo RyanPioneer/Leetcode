@@ -74,6 +74,8 @@
 
 [3409. Longest Subsequence With Decreasing Adjacent Difference](https://leetcode.com/problems/longest-subsequence-with-decreasing-adjacent-difference/)
 
+[3434. Maximum Frequency After Subarray Operation](https://leetcode.com/problems/maximum-frequency-after-subarray-operation/)
+
 
 
 * ``Longest common subsequence``
@@ -115,6 +117,12 @@
   [3181. Maximum Total Reward Using Operations II](https://leetcode.com/problems/maximum-total-reward-using-operations-ii/) (2688)
 
 
+
+* ``狀態機DP``
+
+  [3434. Maximum Frequency After Subarray Operation](https://leetcode.com/problems/maximum-frequency-after-subarray-operation/)
+
+  
 
 ## Graph
 
@@ -504,3 +512,4 @@
 
 [3404. Count Special Subsequences](https://leetcode.com/problems/count-special-subsequences/)
 
+[3240. Minimum Number of Flips to Make Binary Grid Palindromic II](https://leetcode.com/problems/minimum-number-of-flips-to-make-binary-grid-palindromic-ii/) (2080)
