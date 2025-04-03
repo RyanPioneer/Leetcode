@@ -1,6 +1,6 @@
 /**
  * Source: ibit.ly/RIycS
- * Date: 2024/5/14
+ * Date: 2025/4/3
  * Skill:
  * Ref:
  * Runtime: 13 ms, faster than 75.61% of C++ online submissions
@@ -11,26 +11,23 @@
  *
  */
 
-
-#include <iostream>
-#include <vector>
 #include <algorithm>
-#include <map>
-#include <set>
-#include <unordered_set>
-#include <queue>
-#include <numeric>
-#include <tuple>
-#include <stack>
 #include <bitset>
 #include <functional>
+#include <iostream>
 #include <list>
-
+#include <map>
+#include <numeric>
+#include <queue>
+#include <set>
+#include <stack>
+#include <tuple>
+#include <unordered_set>
+#include <vector>
 
 using namespace std;
 
 const int MX = 16;
-
 
 // Definition for a Node.
 class Node {
@@ -39,30 +36,32 @@ public:
     Node* left;
     Node* right;
 
-    Node() {}
+    Node() { }
 
-    Node(int _val) {
+    Node(int _val)
+    {
         val = _val;
         left = NULL;
         right = NULL;
     }
 
-    Node(int _val, Node* _left, Node* _right) {
+    Node(int _val, Node* _left, Node* _right)
+    {
         val = _val;
         left = _left;
         right = _right;
     }
 };
 
-
 class Solution {
 public:
-    Node* treeToDoublyList(Node* root) {
-        Node* mi = root, *mx = root;
+    Node* treeToDoublyList(Node* root)
+    {
+        Node *mi = root, *mx = root;
 
-        function<void(Node *)> dfs = [&](Node* cur) {
-            if (!cur) return;
-
+        function<void(Node*)> dfs = [&](Node* cur) {
+            if (!cur)
+                return;
         };
     }
 };
