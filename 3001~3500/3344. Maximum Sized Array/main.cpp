@@ -1,6 +1,6 @@
 /**
  * Source: ibit.ly/9K0jT
- * Date: 2024/12/31
+ * Date: 2025/4/1
  * Skill:
  * Ref:
  * Runtime: 15 ms, faster than 81.25% of C++ online submissions
@@ -35,16 +35,13 @@ using namespace std;
 class Solution {
 public:
     int maxSizedArray(long long s) {
-        int lo = 1, hi = 100;
-        if (s > 1e6) hi = 1e3;
+        int lo = 1, hi = 1200;
 
         auto calculate_sum = [&](int dim) {
-            ll total = 0;
+            ll total = 0, pre = dim * (dim - 1) / 2;
             for (int i = 0; i < dim; i++) {
                 for (int j = 0; j < dim; j++) {
-                    for (int k = 0; k < dim; k++) {
-                        total += (long long)i * (j | k);
-                    }
+                    total += pre * (i | j);
                 }
             }
             return total <= s;

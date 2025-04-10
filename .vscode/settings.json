@@ -118,5 +118,6 @@
   },
   "clang.cxxflags": [
     "-std=c++17"
-  ]
+  ],
+  "cmake.ignoreCMakeListsMissing": true
 }

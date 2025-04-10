@@ -27,16 +27,29 @@
 
 using namespace std;
 #define ll long long
+const int MX = 1e5 + 5;
 
 class Solution {
 public:
     int longestCommonPrefix(string s, string t)
     {
-        int zero = s[0] == t[0] ? 1 : 0, one = 0;
-        for (int i = 1; i < s.size(); i++) {
-            if (one >= 0 && s[i - 1] == t[i]) {
+        int dp[MX][2] = {0}, res = 0;
+        int n = s.size(), m = t.size();
+        dp[0][0] = s[0] == t[0] ? 1 : INT32_MIN / 2;
+        dp[0][1] = 0;
+        res = (dp[0][0] == 1) ? 1 : 0;
+        for (int i = 1; i < min(n, m+1); i++) {
+            if (i < m && dp[i - 1][0] >= 0) {
+                dp[i][0] = dp[i - 1][0] + (s[i] == t[i] ? 1 : INT32_MIN / 4);
+                res = max(res, dp[i][0]);
+            } else {
+                dp[i][0] = INT32_MIN / 2;
             }
-            zero = s[i] == t[i] ? zero + 1 : INT32_MIN / 2;
+            dp[i][1] = max(dp[i - 1][0], dp[i - 1][1] + (s[i] == t[i-1] ? 1 : INT32_MIN / 2));
+            res = max(res, dp[i][1]);
         }
+        return res;
     }
 };
+eey
+aaye
