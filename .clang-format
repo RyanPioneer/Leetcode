@@ -1,0 +1,2 @@
+BasedOnStyle: Google
+IndentWidth: 4   # Google 風格預設是 2，可依個人習慣調整

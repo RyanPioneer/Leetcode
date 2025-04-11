@@ -119,5 +119,13 @@
   "clang.cxxflags": [
     "-std=c++17"
   ],
-  "cmake.ignoreCMakeListsMissing": true
+  "cmake.ignoreCMakeListsMissing": true,
+  "C_Cpp.clang_format_style": "file", // 指定使用 .clang-format 設定
+  "editor.formatOnSave": true,
+  "[cpp]": {
+    "editor.defaultFormatter": "ms-vscode.cpptools"
+  },
+  "[c]": {
+    "editor.defaultFormatter": "ms-vscode.cpptools"
+  }
 }

@@ -76,6 +76,7 @@
 
 [3434. Maximum Frequency After Subarray Operation](https://leetcode.com/problems/maximum-frequency-after-subarray-operation/)
 
+[276. Paint Fence](https://leetcode.com/problems/paint-fence/description/)
 
 
 * ``Longest common subsequence``
