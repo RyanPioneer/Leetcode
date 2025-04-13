@@ -1,7 +1,7 @@
 [
 {
   "directory": "/Users/ryanpionee2/Github/Leetcode/build",
-  "command": "/usr/bin/clang++ -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -o CMakeFiles/main.dir/main.cpp.o -c /Users/ryanpionee2/Github/Leetcode/main/main.cpp",
+  "command": "/usr/bin/clang++ -g -std=gnu++17 -arch arm64 -o CMakeFiles/main.dir/main.cpp.o -c /Users/ryanpionee2/Github/Leetcode/main/main.cpp",
   "file": "/Users/ryanpionee2/Github/Leetcode/main/main.cpp",
   "output": "CMakeFiles/main.dir/main.cpp.o"
 }
