@@ -1,10 +1,10 @@
 /**
  * Source: ibit.ly/Ama-s
- * Date: 2025/4/3
+ * Date: 2025/4/14
  * Skill:
  * Ref:
- * Runtime: 0 ms, faster than 100.00% of C++ online submissions
- * Memory Usage: 28.83 MB, less than 93.37% of C++ online submissions
+ * Runtime: 12 ms, faster than 70.40% of C++ online submissions
+ * Memory Usage: 32.40 MB, less than 92.22% of C++ online submissions
  * Time complexity:
  * Space complexity:
  * Constraints:
@@ -27,10 +27,32 @@
 
 using namespace std;
 
+const int dirs[6] = {0, 0, 1, 0, -1, 0};
+
 class Solution {
-public:
-    int numDistinctIslands(vector<vector<int>>& grid)
-    {
+   public:
+    int numDistinctIslands(vector<vector<int>>& grid) {
         int m = grid.size(), n = grid[0].size();
+        int power = max(m, n) + 1;
+        unordered_set<string> islands;
+        string island;
+
+        function<void(int, int, int)> dfs = [&](int x, int y, int d) {
+            if (x < 0 || x >= m || y < 0 || y >= n || grid[x][y] == 0) return;
+            grid[x][y] = 0;
+            island += to_string(d);
+            for (int dir = 1; dir <= 4; ++dir)
+                dfs(x + dirs[dir], y + dirs[dir + 1], dir);
+            island += to_string(d);
+        };
+
+        for (int i = 0; i < m; ++i)
+            for (int j = 0; j < n; ++j)
+                if (grid[i][j] == 1) {
+                    dfs(i, j, 0);
+                    islands.insert(island);
+                    island.clear();
+                }
+        return islands.size();
     }
 };
