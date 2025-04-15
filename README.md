@@ -261,6 +261,8 @@
 
 [3419. Minimize the Maximum Edge Weight of Graph](https://leetcode.com/problems/minimize-the-maximum-edge-weight-of-graph/)
 
+[1062. Longest Repeating Substring](https://leetcode.com/problems/longest-repeating-substring/description/)
+
 
 
 ## Union and find
