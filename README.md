@@ -293,6 +293,8 @@
 
 [3315. Construct the Minimum Bitwise Array II](https://leetcode.com/problems/construct-the-minimum-bitwise-array-ii/) (1714)
 
+[3595. Once Twice](https://leetcode.com/problems/once-twice/)
+
 
 
 * ``Iterate subset from large to small subset``
@@ -516,3 +518,5 @@
 [3404. Count Special Subsequences](https://leetcode.com/problems/count-special-subsequences/)
 
 [3240. Minimum Number of Flips to Make Binary Grid Palindromic II](https://leetcode.com/problems/minimum-number-of-flips-to-make-binary-grid-palindromic-ii/) (2080)
+
+[271. Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/)

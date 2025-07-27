@@ -1,10 +1,10 @@
 /**
- * Source: tinyurl.com/25yru5ed
- * Date: 2025/4/20
+ * Source: tinyurl.com/248cej4a
+ * Date: 2025/7/26
  * Skill:
  * Ref:
- * Runtime: 3 ms, faster than 86.18% of C++ online submissions
- * Memory Usage: 9.67 MB, less than 80.40% of C++ online submissions
+ * Runtime: 60 ms, faster than 84.94% of C++ online submissions
+ * Memory Usage: 181.55 MB, less than 84.22% of C++ online submissions
  * Time complexity:
  * Space complexity:
  * Constraints:
@@ -26,11 +26,10 @@
 #include <vector>
 
 using namespace std;
-
-/* The knows API is defined for you.
-      bool knows(int a, int b); */
+#define ll long long
+const int MOD = 1e9 + 7;
 
 class Solution {
    public:
-    int findCelebrity(int n) {}
+    int minStable(vector<int>& nums, int maxC) {}
 };

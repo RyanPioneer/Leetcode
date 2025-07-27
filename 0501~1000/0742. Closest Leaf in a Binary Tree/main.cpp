@@ -1,6 +1,6 @@
 /**
- * Source: tinyurl.com/2d2s8g9j
- * Date: 2025/4/21
+ * Source: tinyurl.com/236glwls
+ * Date: 2025/4/16
  * Skill:
  * Ref:
  * Runtime: 499 ms, faster than 86.00% of C++ online submissions
@@ -28,15 +28,18 @@
 using namespace std;
 #define ull unsigned long long
 
-class MRUQueue {
-   public:
-    MRUQueue(int n) {}
-
-    int fetch(int k) {}
+// Definition for a binary tree node.
+struct TreeNode {
+    int val;
+    TreeNode *left;
+    TreeNode *right;
+    TreeNode() : val(0), left(nullptr), right(nullptr) {}
+    TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
+    TreeNode(int x, TreeNode *left, TreeNode *right)
+        : val(x), left(left), right(right) {}
 };
 
-/**
- * Your MRUQueue object will be instantiated and called as such:
- * MRUQueue* obj = new MRUQueue(n);
- * int param_1 = obj->fetch(k);
- */
+class Solution {
+   public:
+    int findClosestLeaf(TreeNode *root, int k) {}
+};

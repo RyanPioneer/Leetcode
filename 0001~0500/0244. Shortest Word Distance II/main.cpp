@@ -1,43 +1,55 @@
 /**
  * Source: tinyurl.com/2a37an4f
- * Date: 2024/4/28
+ * Date: 2025/4/20
  * Skill:
  * Ref:
- * Runtime: 361 ms, faster than 25.76% of C++ online submissions
- * Memory Usage: 202.67 MB, less than 45.45% of C++ online submissions
+ * Runtime: 10 ms, faster than 71.57% of C++ online submissions
+ * Memory Usage: 26.30 MB, less than 59.14% of C++ online submissions
  * Time complexity:
  * Space complexity:
  * Constraints:
  *
  */
 
-
-#include <iostream>
-#include <vector>
 #include <algorithm>
-#include <map>
-#include <set>
-#include <unordered_set>
-#include <queue>
-#include <numeric>
-#include <tuple>
-#include <stack>
 #include <bitset>
 #include <functional>
+#include <iostream>
 #include <list>
-
+#include <map>
+#include <numeric>
+#include <queue>
+#include <set>
+#include <stack>
+#include <tuple>
+#include <unordered_set>
+#include <vector>
 
 using namespace std;
 
-
 class WordDistance {
-public:
-    WordDistance(vector<string>& wordsDict) {
+    unordered_map<string, vector<int>> wordIndexMap;
 
+   public:
+    WordDistance(vector<string>& wordsDict) {
+        for (int i = 0; i < wordsDict.size(); ++i) {
+            wordIndexMap[wordsDict[i]].push_back(i);
+        }
     }
 
     int shortest(string word1, string word2) {
-
+        int res = INT_MAX, idx1 = 0, idx2 = 0;
+        int sz1 = wordIndexMap[word1].size(), sz2 = wordIndexMap[word2].size();
+        while (idx1 < sz1 && idx2 < sz2) {
+            res = min(res, abs(wordIndexMap[word1][idx1] -
+                               wordIndexMap[word2][idx2]));
+            if (wordIndexMap[word1][idx1] < wordIndexMap[word2][idx2]) {
+                ++idx1;
+            } else {
+                ++idx2;
+            }
+        }
+        return res;
     }
 };
 

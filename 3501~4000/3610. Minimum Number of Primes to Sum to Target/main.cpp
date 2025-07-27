@@ -1,10 +1,10 @@
 /**
- * Source: tinyurl.com/25yru5ed
- * Date: 2025/4/20
+ * Source: tinyurl.com/255543vz
+ * Date: 2025/7/27
  * Skill:
  * Ref:
- * Runtime: 3 ms, faster than 86.18% of C++ online submissions
- * Memory Usage: 9.67 MB, less than 80.40% of C++ online submissions
+ * Runtime: 60 ms, faster than 42.41% of C++ online submissions
+ * Memory Usage: 204.66 MB, less than 87.99% of C++ online submissions
  * Time complexity:
  * Space complexity:
  * Constraints:
@@ -26,11 +26,10 @@
 #include <vector>
 
 using namespace std;
-
-/* The knows API is defined for you.
-      bool knows(int a, int b); */
+#define ll long long
+const int MOD = 1e9 + 7;
 
 class Solution {
    public:
-    int findCelebrity(int n) {}
+    int minNumberOfPrimes(int n, int m) {}
 };
