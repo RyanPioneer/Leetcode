@@ -29,7 +29,10 @@ using namespace std;
 #define ll long long
 const int MOD = 1e9 + 7;
 
-class Solution {
+class Solution {  // LCT
    public:
-    long long numOfSubsequences(string s) { ll n = s.size(); }
+    long long numOfSubsequences(string s) {
+        ll n = s.size();
+        vector<vector<ll>> dp(n + 1, vector<ll>(3, 0));  // L, LC
+    }
 };
