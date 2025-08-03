@@ -11,21 +11,35 @@ class Solution {
    public:
     int countPartitions(vector<int>& nums, int k) {
         int n = nums.size();
-        vector<ll> dp(n, 1), inc, dec;
-        inc.push_back(nums[0]);
-        dec.push_back(nums[0]);
-        unordered_map<int, int> mp;
-        for (int i = 1; i < n; i++) {
-            dp[i] = 2 * dp[i - 1] % MOD;
-            auto mx =
-                lower_bound(dec.begin(), dec.end(), nums[i] + k, greater<>());
-            auto mi = lower_bound(dec.begin(), dec.end(), nums[i] - k);
+        nums.insert(nums.begin(), 0);
+        vector<int> dp(n + 1, 1), presum(n + 1, 1);
+        deque<int> inc, dec;
 
-            if (mp.find(nums[i - 1]) == mp.end()) {
-                mp[nums[i - 1]] = i;
+        for (int i = 1, left = 1; i <= n; i++) {
+            while (!inc.empty() && nums[inc.back()] > nums[i]) {
+                inc.pop_back();
             }
+            inc.push_back(i);
+            while (!dec.empty() && nums[dec.back()] < nums[i]) {
+                dec.pop_back();
+            }
+            dec.push_back(i);
+
+            while (nums[dec.front()] - nums[inc.front()] > k) {
+                if (left == inc.front()) {
+                    inc.pop_front();
+                }
+                if (left == dec.front()) {
+                    dec.pop_front();
+                }
+                left++;
+            }
+
+            dp[i] = (presum[i - 1] - (left >= 2 ? presum[left - 2] : 0) + MOD) %
+                    MOD;
+            presum[i] = (presum[i - 1] + dp[i]) % MOD;
         }
-        return dp[n - 1] - dp[n - 2];
+        return dp[n] % MOD;
     }
 };
 // @lc code=end

@@ -28,6 +28,8 @@
 
 [2940. Find Building Where Alice and Bob Can Meet](https://github.com/RyanPioneer/Leetcode/blob/main/2501~3000/2940.%20Find%20Building%20Where%20Alice%20and%20Bob%20Can%20Meet/main7.cpp) (2327)
 
+[3559. Number of Ways to Assign Edge Weights II](https://leetcode.com/problems/number-of-ways-to-assign-edge-weights-ii/)
+
 
 
 ## DP
@@ -200,6 +202,8 @@
 [683. K Empty Slots](https://leetcode.com/problems/k-empty-slots/)
 
 [3413. Maximum Coins From K Consecutive Bags](https://leetcode.com/problems/maximum-coins-from-k-consecutive-bags/)
+
+[3578. Count Partitions With Max-Min Difference at Most K](https://leetcode.com/problems/count-partitions-with-max-min-difference-at-most-k/)
 
 
 
