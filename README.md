@@ -158,7 +158,7 @@
 [3141. Maximum Hamming Distances](https://leetcode.com/problems/maximum-hamming-distances/)
 
 [3243. Shortest Distance After Road Addition Queries I](https://leetcode.com/problems/shortest-distance-after-road-addition-queries-i/) (1567)
-
+[3568. Minimum Moves to Clean the Classroom](https://leetcode.com/problems/minimum-moves-to-clean-the-classroom/description/)
 
 
 * ``Dijkstra (BFS+PQ)``
