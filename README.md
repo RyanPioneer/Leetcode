@@ -134,8 +134,10 @@
   [1740. Find Distance in a Binary Tree](https://leetcode.com/problems/find-distance-in-a-binary-tree/)
   
   [1650. Lowest Common Ancestor of a Binary Tree III](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii/)
+  
+  
 
-
+[3656. Determine if a Simple Graph Exists](https://leetcode.com/problems/determine-if-a-simple-graph-exists/)
 
 
 
@@ -299,6 +301,8 @@
 
 [3595. Once Twice](https://leetcode.com/problems/once-twice/)
 
+[3632. Subarrays with XOR at Least K](https://leetcode.com/problems/subarrays-with-xor-at-least-k/)
+
 
 
 * ``Iterate subset from large to small subset``
@@ -428,6 +432,8 @@
 [425. Word Squares](https://leetcode.com/problems/word-squares/)
 
 [2479. Maximum XOR of Two Non-Overlapping Subtrees](https://leetcode.com/problems/maximum-xor-of-two-non-overlapping-subtrees/)
+
+[3632. Subarrays with XOR at Least K](https://leetcode.com/problems/subarrays-with-xor-at-least-k/)
 
 
 
