@@ -24,6 +24,12 @@
 
 
 
+## Binary Tree
+
+[662. Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/)
+
+
+
 ## Binary lifting
 
 [2940. Find Building Where Alice and Bob Can Meet](https://github.com/RyanPioneer/Leetcode/blob/main/2501~3000/2940.%20Find%20Building%20Where%20Alice%20and%20Bob%20Can%20Meet/main7.cpp) (2327)
@@ -162,6 +168,10 @@
 [3243. Shortest Distance After Road Addition Queries I](https://leetcode.com/problems/shortest-distance-after-road-addition-queries-i/) (1567)
 [3568. Minimum Moves to Clean the Classroom](https://leetcode.com/problems/minimum-moves-to-clean-the-classroom/description/)
 
+[3787. Find Diameter Endpoints of a Tree](https://leetcode.com/problems/find-diameter-endpoints-of-a-tree/)
+
+
+
 
 * ``Dijkstra (BFS+PQ)``
 
@@ -207,6 +217,8 @@
 
 [3578. Count Partitions With Max-Min Difference at Most K](https://leetcode.com/problems/count-partitions-with-max-min-difference-at-most-k/)
 
+[3851. Maximum Requests Without Violating the Limit](https://leetcode.com/problems/maximum-requests-without-violating-the-limit/)
+
 
 
 ## Next greater element
@@ -229,7 +241,7 @@
 
 [2969. Minimum Number of Coins for Fruits II](https://leetcode.com/problems/minimum-number-of-coins-for-fruits-ii/)
 
-
+[3835. Count Subarrays With Cost Less Than or Equal to K](https://leetcode.com/problems/count-subarrays-with-cost-less-than-or-equal-to-k/)
 
 
 
@@ -393,6 +405,10 @@
 
 [3273. Minimum Amount of Damage Dealt to Bob](https://leetcode.com/problems/minimum-amount-of-damage-dealt-to-bob/) (2012)
 
+[280. Wiggle Sort](https://leetcode.com/problems/wiggle-sort/)
+
+[3796. Find Maximum Value in a Constrained Sequence](https://leetcode.com/problems/find-maximum-value-in-a-constrained-sequence/) (1833)
+
 
 
 * ``中位數貪心``
@@ -484,6 +500,8 @@
 * ``2D Prefix sum``
 
   [3012. Minimize Length of Array Using Operations]() (1832)
+  
+  [3888. Minimum Operations to Make All Grid Elements Equal](https://leetcode.com/problems/minimum-operations-to-make-all-grid-elements-equal/)
 
 
 
@@ -521,6 +539,12 @@
 
 
 
+### Bitset
+
+[3882. Minimum XOR Path in a Grid](https://leetcode.com/problems/minimum-xor-path-in-a-grid/)
+
+
+
 ## Others
 
 [775. Global and Local Inversions](https://leetcode.com/problems/global-and-local-inversions/)
@@ -530,3 +554,6 @@
 [3240. Minimum Number of Flips to Make Binary Grid Palindromic II](https://leetcode.com/problems/minimum-number-of-flips-to-make-binary-grid-palindromic-ii/) (2080)
 
 [271. Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/)
+
+[442. Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)
+
